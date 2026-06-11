@@ -36,10 +36,11 @@ listed fallback.
      matches. This is our only source of **assists**.
    - `data/raw/game/players.json` — updated `status` (injuries/suspensions
      show up here), `percentSelected` per round, and any price moves.
-2. **Append results to the model data.** New module needed (small):
-   convert played fixtures from `groupstage.json` into common-schema match
-   rows + goal/assist rows. 🔜 *Phase 5 formalizes this; until then it is a
-   ~50-line addition to `build_phase0.py` — write it before MD2.*
+2. **Append results to the model data.** ✅ built (`src/ingest_results.py`,
+   runs inside `build_phase0.py`): played fixtures become common-schema
+   match rows at full fit weight; goal/assist events are saved raw to
+   `wc2026_events_raw.json` — **inspect their shape after MD1** and write
+   the proper parser for the Phase 3 assist model.
 3. **Rebuild + refit:** `python3 src/build_phase0.py` then
    `.venv/bin/python src/phase1_squad.py` (or the Phase 2/3 successors once
    they exist). WC-2026 matches must enter the team-strength fit with full
@@ -109,7 +110,7 @@ must be ready before its decision window opens; if it isn't, fall back
 
 | Phase | Build window | Must be live before | Serves which decision | Go-live criteria |
 |---|---|---|---|---|
-| 2. Full simulator | Jun 12–17 | **MD2 deadline (Jun 18)** | MD2 transfers need P(advance) and knockout-depth value, not just MD-by-MD points | backtest: simulator calibrated on 2018/2022 (predicted vs realized advancement within noise); Euro 2024 out-of-sample check passes; MD1 results ingested |
+| 2. Full simulator | ✅ live (built Jun 11) | **MD2 deadline (Jun 18)** | MD2 transfers need P(advance) and knockout-depth value, not just MD-by-MD points | Euro 2024 out-of-sample: PASS (beats both baselines); goal means + CS rates calibrated on 2018/2022/2024; WC 2018/2022 outcome tests fail on data starvation (no qualifier archives for those cycles — see `backtest_team_model.md`), so the live scorecard (§1.4) is the operative check. Rerun `python3 src/phase2_simulate.py` after every matchday once results are ingested. **Bracket is approximate** — transcribe the official R32 slot mapping into `data/bracket_2026.json` before R32. |
 | 3. Player GBMs + minutes model | Jun 17–23 | **MD3 deadline (Jun 24)** | MD3 transfers + the wildcard call; first round where per-player accuracy dominates | beats Phase-1 heuristic on 2018/2022 backtest (Spearman) *and* on the observed MD1–MD2 scorecards (§1.4); minutes model trained on actual 2026 lineups |
 | 4. Transfer/booster ILP | Jun 23–28 | **R32 window opens (~Jun 29)** | the biggest decision of the game: full-squad re-optimization with $105m, unlimited transfers, 4-per-country, knockout-only horizon | reproduces sensible plans on 2022 backtest; handles carryover/–3/country-cap schedule; booster EV table produced |
 | 5. Live loop | during Phase 4 | R32 onwards | same-evening turnaround every knockout round | one command: results → refit → re-simulate → transfer ILP → recommendation, end-to-end in minutes |

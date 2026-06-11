@@ -1,0 +1,35 @@
+{
+  "_note": [
+    "APPROXIMATE Round-of-32 bracket for the 48-team/12-group 2026 format.",
+    "The official FIFA bracket (fixed slots per group + the third-place",
+    "allocation table) is not in our data sources - replace this file with",
+    "the official mapping when transcribed; the simulator reads it as data.",
+    "Slot syntax: 'W_A' = winner of group A, 'R_B' = runner-up of group B,",
+    "'T?' = one of the 8 best third-placed teams (the simulator assigns",
+    "thirds to T-slots per simulation, avoiding rematches with the group",
+    "winner they face). r16/qf/sf/final pair the winners of the previous",
+    "round's matches by index (0-based)."
+  ],
+  "r32": [
+    {"id": "R32-01", "home": "W_A", "away": "T?"},
+    {"id": "R32-02", "home": "R_E", "away": "R_H"},
+    {"id": "R32-03", "home": "W_C", "away": "T?"},
+    {"id": "R32-04", "home": "W_I", "away": "R_A"},
+    {"id": "R32-05", "home": "W_E", "away": "T?"},
+    {"id": "R32-06", "home": "R_F", "away": "R_G"},
+    {"id": "R32-07", "home": "W_G", "away": "T?"},
+    {"id": "R32-08", "home": "W_K", "away": "R_C"},
+    {"id": "R32-09", "home": "W_B", "away": "T?"},
+    {"id": "R32-10", "home": "R_I", "away": "R_L"},
+    {"id": "R32-11", "home": "W_D", "away": "T?"},
+    {"id": "R32-12", "home": "W_J", "away": "R_B"},
+    {"id": "R32-13", "home": "W_F", "away": "T?"},
+    {"id": "R32-14", "home": "R_J", "away": "R_K"},
+    {"id": "R32-15", "home": "W_H", "away": "T?"},
+    {"id": "R32-16", "home": "W_L", "away": "R_D"}
+  ],
+  "r16": [[0, 1], [2, 3], [4, 5], [6, 7], [8, 9], [10, 11], [12, 13], [14, 15]],
+  "qf": [[0, 1], [2, 3], [4, 5], [6, 7]],
+  "sf": [[0, 1], [2, 3]],
+  "final": [[0, 1]]
+}

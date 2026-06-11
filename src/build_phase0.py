@@ -11,6 +11,7 @@ import curate_euro2024
 import curate_league_stats
 import curate_qualifiers
 import curate_wc_history
+import ingest_results
 from common import PROCESSED, MATCH_COLUMNS, GOAL_COLUMNS, load_json, read_csv, write_csv
 
 
@@ -47,20 +48,22 @@ def euro_to_common(teams):
 
 def main():
     PROCESSED.mkdir(parents=True, exist_ok=True)
-    print("[1/5] Euro 2024 text -> json")
+    print("[1/6] Euro 2024 text -> json")
     curate_euro2024.main()
-    print("[2/5] FIFA qualifier dumps")
+    print("[2/6] FIFA qualifier dumps")
     qual_rows = curate_qualifiers.curate()
-    print("[3/5] club league stats")
+    print("[3/6] club league stats")
     club_rows = curate_league_stats.curate()
-    print("[4/5] WC history")
+    print("[4/6] WC history")
     wc_matches, wc_goals = curate_wc_history.curate()
-    print("[5/5] crosswalks")
+    print("[5/6] crosswalks")
     teams, players = build_crosswalks.build()
+    print("[6/6] 2026 played matches (game-file refresh)")
+    wc26_rows = ingest_results.curate()
 
     euro_matches, euro_goals = euro_to_common(teams)
     all_matches = [dict(r, **{"extra_time": str(r["extra_time"]).upper() == "TRUE" or r["extra_time"] is True,
-                              }) for r in (wc_matches + qual_rows + euro_matches)]
+                              }) for r in (wc_matches + qual_rows + euro_matches + wc26_rows)]
     all_matches.sort(key=lambda r: str(r["date"]))
     write_csv(PROCESSED / "matches_international.csv", all_matches, MATCH_COLUMNS)
     all_goals = wc_goals + euro_goals

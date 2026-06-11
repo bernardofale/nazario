@@ -17,143 +17,25 @@ from datetime import date
 
 import pulp
 
-from common import CURATED, PROCESSED, read_csv, write_csv
-from loaders import (load_matches, load_fixtures, load_players,
-                     load_team_crosswalk, load_player_crosswalk,
-                     load_club_stats)
+import team_model
+from common import PROCESSED, write_csv
+from loaders import (load_fixtures, load_players, load_team_crosswalk,
+                     load_player_crosswalk, load_club_stats)
 
 TODAY = date(2026, 6, 11)
-HALF_LIFE_DAYS = 18 * 30.4
-ANCHOR_HALF_LIFE_DAYS = 8 * 365.25  # confederation gaps move slowly
-HOSTS = {"MEX", "USA", "CAN"}
-HOME_ADV = 1.25          # qualifier home advantage; hosts get it in 2026
-PRIOR_WEIGHT = 3.0       # pseudo-observations shrinking ratings to average
-ANCHOR_PRIOR = 2.0
-N_ITER = 60
-
-# ---------------------------------------------------------------- A. ratings
-
-def team_key_factory(matches):
-    """Key teams by FIFA code; Euro-only teams (no code) borrow the code of
-    the same normalized name elsewhere, else use the name itself."""
-    from common import norm_name
-    name_to_code = {}
-    for m in matches:
-        for side in ("home", "away"):
-            if m[f"{side}_code"]:
-                name_to_code[norm_name(m[f"{side}_team"])] = m[f"{side}_code"]
-
-    def key(team, code):
-        return code or name_to_code.get(norm_name(team)) or norm_name(team)
-    return key
-
-
-def fit_ratings():
-    matches = load_matches()
-    key = team_key_factory(matches)
-    obs = []  # (team, opponent, goals, weight, at_home)
-    for m in matches:
-        if m["penalty_shootout"] or m["extra_time"]:
-            pass  # scores are 90'/120' — fine for rate purposes
-        age = (TODAY - date.fromisoformat(m["date"])).days
-        w = 0.5 ** (age / HALF_LIFE_DAYS)
-        if w < 0.001:
-            continue
-        h = key(m["home_team"], m["home_code"])
-        a = key(m["away_team"], m["away_code"])
-        is_qual = m["source"].endswith("_qualifiers")
-        obs.append((h, a, m["home_score"], w, is_qual))
-        obs.append((a, h, m["away_score"], w, False))
-
-    teams = {t for o in obs for t in (o[0], o[1])}
-    total_w = sum(o[3] for o in obs)
-    base = sum(o[2] * o[3] for o in obs) / total_w  # weighted avg goals/team
-    att = {t: 1.0 for t in teams}
-    dfc = {t: 1.0 for t in teams}
-    for _ in range(N_ITER):
-        num, den = defaultdict(float), defaultdict(float)
-        for t, opp, g, w, home in obs:
-            lam = dfc[opp] * base * (HOME_ADV if home else 1.0)
-            num[t] += w * g
-            den[t] += w * lam
-        att = {t: (num[t] + PRIOR_WEIGHT * base) / (den[t] + PRIOR_WEIGHT * base)
-               for t in teams}
-        num, den = defaultdict(float), defaultdict(float)
-        for t, opp, g, w, home in obs:
-            lam = att[t] * base * (HOME_ADV if home else 1.0)
-            num[opp] += w * g
-            den[opp] += w * lam
-        dfc = {t: (num[t] + PRIOR_WEIGHT * base) / (den[t] + PRIOR_WEIGHT * base)
-               for t in teams}
-
-    att, dfc = anchor_confederations(matches, key, att, dfc, base)
-    return att, dfc, base, key
-
-
-def load_confederations():
-    confs = {}
-    for q in read_csv(PROCESSED / "qualifiers_2026.csv"):
-        confs[q["home_code"]] = q["confederation"]
-        confs[q["away_code"]] = q["confederation"]
-    for t in read_csv(CURATED / "teams_curated.csv"):
-        confs.setdefault(t["team_code"], t["confederation_code"])
-    return confs
-
-
-def anchor_confederations(matches, key, att, dfc, base):
-    """Qualifiers never cross confederations, so each confederation's rating
-    scale floats freely. Re-anchor with a per-confederation strength scalar
-    moment-matched on inter-confederation matches (World Cups), slow decay."""
-    confs = load_confederations()
-    inter = []  # directional: (team, opp, goals, weight)
-    for m in matches:
-        h = key(m["home_team"], m["home_code"])
-        a = key(m["away_team"], m["away_code"])
-        ch, ca = confs.get(h), confs.get(a)
-        if not ch or not ca or ch == ca:
-            continue
-        age = (TODAY - date.fromisoformat(m["date"])).days
-        w = 0.5 ** (age / ANCHOR_HALF_LIFE_DAYS)
-        inter.append((h, a, m["home_score"], w))
-        inter.append((a, h, m["away_score"], w))
-
-    s = {c: 1.0 for c in set(confs.values())}
-    for _ in range(5):
-        num_a, den_a = defaultdict(float), defaultdict(float)
-        num_d, den_d = defaultdict(float), defaultdict(float)
-        for t, opp, g, w in inter:
-            ct, co = confs[t], confs[opp]
-            mu = att.get(t, 1) * dfc.get(opp, 1) * base * s[ct] / s[co]
-            num_a[ct] += w * g
-            den_a[ct] += w * mu
-            num_d[co] += w * g
-            den_d[co] += w * mu
-        for c in s:
-            r_att = (num_a[c] + ANCHOR_PRIOR) / (den_a[c] + ANCHOR_PRIOR)
-            r_def = (num_d[c] + ANCHOR_PRIOR) / (den_d[c] + ANCHOR_PRIOR)
-            s[c] *= math.sqrt(r_att / r_def)
-        ref = s.get("UEFA", 1.0)
-        s = {c: v / ref for c, v in s.items()}
-    print("  confederation anchors:",
-          {c: round(v, 3) for c, v in sorted(s.items())})
-
-    att = {t: v * s.get(confs.get(t, ""), 1.0) for t, v in att.items()}
-    dfc = {t: v / s.get(confs.get(t, ""), 1.0) for t, v in dfc.items()}
-    return att, dfc
 
 
 # ----------------------------------------------------- B. fixture expectations
 
-def fixture_expectations(att, dfc, base, key, team_xwalk):
+def fixture_expectations(ratings, team_xwalk):
     """Per squad_id, per matchday: (lambda_for, lambda_against)."""
     code_of = {sid: t["fifa_code"] for sid, t in team_xwalk.items()}
     exp = defaultdict(dict)
     for f in load_fixtures():
         hc, ac = code_of[f["homeSquadId"]], code_of[f["awaySquadId"]]
-        h_adv = HOME_ADV if hc in HOSTS else 1.0
-        a_adv = HOME_ADV if ac in HOSTS else 1.0  # co-hosts listed away keep it
-        lam_h = max(0.15, min(4.5, att.get(hc, 1) * dfc.get(ac, 1) * base * h_adv))
-        lam_a = max(0.15, min(4.5, att.get(ac, 1) * dfc.get(hc, 1) * base * a_adv))
+        lam_h, lam_a = ratings.lambdas(hc, ac,
+                                       home_has_adv=hc in team_model.HOSTS,
+                                       away_has_adv=ac in team_model.HOSTS)
         exp[f["homeSquadId"]][f["matchday"]] = (lam_h, lam_a)
         exp[f["awaySquadId"]][f["matchday"]] = (lam_a, lam_h)
     return exp
@@ -330,7 +212,8 @@ def optimize(projections):
 
 def main():
     print("fitting team ratings…")
-    att, dfc, base, key = fit_ratings()
+    ratings = team_model.fit(asof=TODAY)
+    att, dfc = ratings.att, ratings.dfc
     team_xwalk = load_team_crosswalk()
     write_csv(PROCESSED / "team_ratings.csv",
               sorted(({"team": t, "attack": round(att[t], 3),
@@ -338,7 +221,7 @@ def main():
                      key=lambda r: -r["attack"] / r["defence"]),
               ["team", "attack", "defence"])
 
-    exp = fixture_expectations(att, dfc, base, key, team_xwalk)
+    exp = fixture_expectations(ratings, team_xwalk)
     print("projecting players…")
     projections = project_players(exp, team_xwalk)
     write_csv(PROCESSED / "player_projections.csv",

@@ -33,7 +33,12 @@ src/
   curate_laliga_stats.py     FBref txt tables -> common club-stats rows
   fetch_footymetrics.py      pull league stats from the footymetrics API
   curate_footymetrics.py     merge its 3 tabs/league -> common club-stats rows
-  phase1_squad.py            Phase 1: ratings + projections + squad ILP
+  phase1_squad.py            Phase 1: projections + squad ILP
+  team_model.py              rating fit (decay, anchoring, tournament factor)
+  ingest_results.py          played 2026 fixtures -> common schema (run per MD)
+  simulator.py               48-team Monte Carlo (bracket: data/bracket_2026.json)
+  phase2_simulate.py         Phase 2 driver: fit + simulate -> simulation_teams.csv
+  backtest_team_model.py     calibration backtests (2018/2022/Euro 2024)
   curate_wc_history.py       curated csvs -> common schema (men's only)
   build_crosswalks.py        team + player ID matching
   loaders.py                 read API for downstream phases + rules constants
@@ -46,6 +51,8 @@ src/
 python3 src/build_phase0.py            # rebuild data/processed/ from data/raw/
 python3 src/loaders.py                 # smoke-test the load API
 .venv/bin/python src/phase1_squad.py   # Phase 1: ratings -> projections -> squad ILP
+python3 src/phase2_simulate.py         # Phase 2: 10k-run tournament Monte Carlo
+python3 src/backtest_team_model.py     # Phase 2 gate: calibration backtests
 ```
 
 Phase 0 is stdlib-only. Phase 1 needs PuLP — one-time setup:
