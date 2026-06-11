@@ -1,0 +1,637 @@
+ 	Playing Time 	Performance 	Per 90 Minutes	
+Rk 	Player 	Nation 	Pos 	Squad 	Age 	Born 	MP 	Starts 	Min 	90s 	Gls 	Ast 	G+A 	G-PK 	PK 	PKatt 	CrdY 	CrdR 	Gls 	Ast 	G+A 	G-PK 	G+A-PK 	Matches
+1	Jones El-Abdellaoui	ma MAR	MF,FW	Celta Vigo	19	2006	22	4	681	7.6	2	0	2	2	0	0	0	0	0.26	0.00	0.26	0.26	0.26	Matches
+2	Tay Abed	il ISR	MF	Levante	21	2004	7	0	93	1.0	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+3	Abdel Abqar	ma MAR	DF	Getafe	26	1999	23	17	1,437	16.0	0	2	2	0	0	0	10	1	0.00	0.13	0.13	0.00	0.13	Matches
+4	Akor Adams	ng NGA	FW	Sevilla	25	2000	32	21	2,064	22.9	10	3	13	7	3	3	3	0	0.44	0.13	0.57	0.31	0.44	Matches
+5	Adrián	es ESP	GK	Real Betis	38	1987	1	1	90	1.0	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+6	David Affengruber	at AUT	DF	Elche	24	2001	36	33	2,949	32.8	1	1	2	1	0	0	7	1	0.03	0.03	0.06	0.03	0.06	Matches
+7	Julen Agirrezabala	es ESP	GK	Valencia	24	2000	18	18	1,620	18.0	0	0	0	0	0	0	1	0	0.00	0.00	0.00	0.00	0.00	Matches
+8	Lucien Agoume	fr FRA	MF	Sevilla	23	2002	34	31	2,686	29.8	1	3	4	1	0	0	12	0	0.03	0.10	0.13	0.03	0.13	Matches
+9	Diego Aguado	es ESP	DF	Real Madrid	18	2007	1	0	30	0.3	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+10	Marc Aguado	es ESP	MF	Elche	25	2000	35	30	2,500	27.8	1	2	3	1	0	0	3	0	0.04	0.07	0.11	0.04	0.11	Matches
+11	Pablo Agudín	es ESP	MF	Oviedo	17	2007	7	0	90	1.0	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+12	Ibai Aguirre	es ESP	MF	Real Sociedad	18	2007	1	0	6	0.1	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+13	Lucas Ahijado	es ESP	DF	Oviedo	30	1995	20	11	1,098	12.2	0	1	1	0	0	0	3	0	0.00	0.08	0.08	0.00	0.08	Matches
+14	Joseph Aidoo	gh GHA	DF	Celta Vigo	29	1995	8	7	639	7.1	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+15	Ilias Akhomach	ma MAR	MF,FW	Rayo Vallecano	21	2004	11	7	709	7.9	0	1	1	0	0	0	2	0	0.00	0.13	0.13	0.00	0.13	Matches
+16	Ilias Akhomach	ma MAR	MF	Villarreal	21	2004	9	2	188	2.1	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+17	David Alaba	at AUT	DF	Real Madrid	33	1992	11	5	424	4.7	0	0	0	0	0	0	1	0	0.00	0.00	0.00	0.00	0.00	Matches
+18	Alexandre Alemão	br BRA	FW	Rayo Vallecano	27	1998	26	11	1,136	12.6	4	0	4	4	0	0	3	0	0.32	0.00	0.32	0.32	0.32	Matches
+19	Carles Aleñá	es ESP	MF	Alavés	27	1998	34	23	1,989	22.1	0	4	4	0	0	0	5	0	0.00	0.18	0.18	0.00	0.18	Matches
+20	Trent Alexander-Arnold	eng ENG	DF	Real Madrid	26	1998	21	14	1,163	12.9	0	4	4	0	0	0	4	0	0.00	0.31	0.31	0.00	0.31	Matches
+21	Alfon	es ESP	MF	Villarreal	26	1999	10	3	333	3.7	1	0	1	1	0	0	0	0	0.27	0.00	0.27	0.27	0.27	Matches
+22	Alfon	es ESP	MF	Sevilla	26	1999	10	4	312	3.5	1	0	1	1	0	0	0	0	0.29	0.00	0.29	0.29	0.29	Matches
+23	Thiago Almada	ar ARG	MF,FW	Atlético Madrid	24	2001	27	16	1,311	14.6	3	1	4	3	0	0	2	1	0.21	0.07	0.27	0.21	0.27	Matches
+24	Domingos André Ribeiro Almeida	pt POR	MF	Valencia	25	2000	22	11	1,017	11.3	0	2	2	0	0	0	0	0	0.00	0.18	0.18	0.00	0.18	Matches
+25	Marcos Alonso	es ESP	DF	Celta Vigo	34	1990	32	31	2,768	30.8	1	0	1	0	1	1	5	0	0.03	0.00	0.03	0.00	0.00	Matches
+Rk 	Player 	Nation 	Pos 	Squad 	Age 	Born 	MP 	Starts 	Min 	90s 	Gls 	Ast 	G+A 	G-PK 	PK 	PKatt 	CrdY 	CrdR 	Gls 	Ast 	G+A 	G-PK 	G+A-PK 	Matches
+26	Adrià Altimira	es ESP	DF,MF	Villarreal	24	2001	1	0	9	0.1	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+27	Sergi Altimira	es ESP	MF	Real Betis	23	2001	24	13	1,186	13.2	1	2	3	1	0	0	3	0	0.08	0.15	0.23	0.08	0.23	Matches
+28	Carlos Álvarez	es ESP	MF	Levante	21	2003	30	23	1,890	21.0	3	1	4	3	0	0	3	0	0.14	0.05	0.19	0.14	0.19	Matches
+29	Hugo Álvarez	es ESP	FW,MF	Celta Vigo	22	2003	28	15	1,340	14.9	4	2	6	4	0	0	2	0	0.27	0.13	0.40	0.27	0.40	Matches
+30	Julián Álvarez	ar ARG	FW	Atlético Madrid	25	2000	29	22	1,895	21.1	8	4	12	6	2	3	2	0	0.38	0.19	0.57	0.28	0.47	Matches
+31	Yeray Álvarez	es ESP	DF	Athletic Club	30	1995	7	6	513	5.7	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+32	Sofyan Amrabat	ma MAR	MF	Real Betis	28	1996	17	14	1,295	14.4	0	0	0	0	0	0	4	0	0.00	0.00	0.00	0.00	0.00	Matches
+33	Manuel Ángel	es ESP	MF	Real Madrid	21	2004	4	1	96	1.1	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+34	Miguel Ángel Rubio	es ESP	DF	Espanyol	27	1998	12	1	206	2.3	1	0	1	1	0	0	0	0	0.44	0.00	0.44	0.44	0.44	Matches
+35	Miguel Ángel Sierra	es ESP	FW	Sevilla	21	2004	4	0	62	0.7	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+36	Andrés Antañón	es ESP	FW	Celta Vigo	18	2007	2	1	63	0.7	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+37	Antoniu	es ESP	MF	Espanyol	22	2002	13	3	289	3.2	0	0	0	0	0	0	2	0	0.00	0.00	0.00	0.00	0.00	Matches
+38	Antony	br BRA	MF,FW	Real Betis	25	2000	32	30	2,447	27.2	8	6	14	8	0	0	6	1	0.29	0.22	0.51	0.29	0.51	Matches
+39	Mauro Arambarri	uy URU	MF	Getafe	29	1995	37	37	3,249	36.1	6	2	8	4	2	3	6	0	0.17	0.06	0.22	0.11	0.17	Matches
+40	Jon Aramburu	ve VEN	DF	Real Sociedad	23	2002	35	31	2,773	30.8	1	0	1	1	0	0	11	0	0.03	0.00	0.03	0.03	0.03	Matches
+41	Juan Arango	ve VEN	MF	Girona	19	2006	2	0	18	0.2	0	0	0	0	0	0	1	0	0.00	0.00	0.00	0.00	0.00	Matches
+42	Ronald Araújo	uy URU	DF	Barcelona	26	1999	24	11	1,071	11.9	3	0	3	3	0	0	2	0	0.25	0.00	0.25	0.25	0.25	Matches
+43	Jesús Areso	es ESP	DF	Athletic Club	26	1999	26	14	1,506	16.7	0	1	1	0	0	0	3	0	0.00	0.06	0.06	0.00	0.06	Matches
+44	Iñigo Arguibide	es ESP	DF	Osasuna	20	2005	6	2	187	2.1	0	0	0	0	0	0	0	1	0.00	0.00	0.00	0.00	0.00	Matches
+45	Kervin Arriaga	hn HON	MF	Levante	27	1998	27	16	1,532	17.0	3	3	6	3	0	0	8	1	0.18	0.18	0.35	0.18	0.35	Matches
+46	Takuma Asano	jp JPN	MF,FW	Mallorca	30	1994	20	8	664	7.4	1	0	1	1	0	0	2	0	0.14	0.00	0.14	0.14	0.14	Matches
+47	Raúl Asencio	es ESP	DF	Real Madrid	22	2003	23	18	1,708	19.0	2	0	2	2	0	0	4	0	0.11	0.00	0.11	0.11	0.11	Matches
+48	Iago Aspas	es ESP	FW,MF	Celta Vigo	37	1987	32	11	1,140	12.7	5	3	8	3	2	2	4	0	0.39	0.24	0.63	0.24	0.47	Matches
+49	Yaser Asprilla	co COL	FW,MF	Girona	21	2003	15	6	611	6.8	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+50	Lander Astiazaran	es ESP	MF	Real Sociedad	19	2006	1	0	1	0.0	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+Rk 	Player 	Nation 	Pos 	Squad 	Age 	Born 	MP 	Starts 	Min 	90s 	Gls 	Ast 	G+A 	G-PK 	PK 	PKatt 	CrdY 	CrdR 	Gls 	Ast 	G+A 	G-PK 	G+A-PK 	Matches
+51	Ezequiel Ávila	ar ARG	FW	Real Betis	31	1994	16	3	380	4.2	1	0	1	0	1	1	3	0	0.24	0.00	0.24	0.00	0.00	Matches
+52	César Azpilicueta	es ESP	DF	Sevilla	35	1989	17	17	1,213	13.5	0	1	1	0	0	0	4	0	0.00	0.07	0.07	0.00	0.07	Matches
+53	Álex Baena	es ESP	MF,FW	Atlético Madrid	24	2001	27	21	1,560	17.3	2	3	5	2	0	0	5	0	0.12	0.17	0.29	0.12	0.29	Matches
+54	Eric Bailly	ci CIV	DF	Oviedo	31	1994	15	15	1,234	13.7	1	0	1	1	0	0	3	0	0.07	0.00	0.07	0.07	0.07	Matches
+55	Cédric Bakambu	cd COD	FW	Real Betis	34	1991	18	5	569	6.3	3	1	4	3	0	0	1	0	0.47	0.16	0.63	0.47	0.63	Matches
+56	Alejandro Balde	es ESP	DF	Barcelona	21	2003	28	21	1,869	20.8	0	2	2	0	0	0	2	0	0.00	0.10	0.10	0.00	0.10	Matches
+57	Carlos Ballestero	es ESP	DF	Alavés	21	2004	1	0	1	0.0	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+58	Iván Balliu	al ALB	DF	Rayo Vallecano	33	1992	14	6	582	6.5	0	0	0	0	0	0	2	0	0.00	0.00	0.00	0.00	0.00	Matches
+59	Roony Bardghji	se SWE	MF,FW	Barcelona	19	2005	21	7	648	7.2	1	1	2	1	0	0	0	0	0.14	0.14	0.28	0.14	0.28	Matches
+60	Kike Barja	es ESP	MF	Osasuna	28	1997	27	2	446	5.0	2	2	4	2	0	0	3	0	0.40	0.40	0.81	0.40	0.81	Matches
+61	Ander Barrenetxea	es ESP	MF	Real Sociedad	23	2001	30	22	1,763	19.6	3	5	8	3	0	0	5	0	0.15	0.26	0.41	0.15	0.41	Matches
+62	Pablo Barrios	es ESP	MF	Atlético Madrid	22	2003	23	20	1,661	18.5	1	1	2	1	0	0	0	0	0.05	0.05	0.11	0.05	0.11	Matches
+63	Marc Bartra	es ESP	DF	Real Betis	34	1991	25	21	1,978	22.0	1	0	1	1	0	0	3	0	0.05	0.00	0.05	0.05	0.05	Matches
+64	Augusto Batalla	ar ARG	GK	Rayo Vallecano	29	1996	34	34	3,060	34.0	0	0	0	0	0	0	6	0	0.00	0.00	0.00	0.00	0.00	Matches
+65	Samu Becerra	es ESP	MF	Rayo Vallecano	19	2006	3	0	12	0.1	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+66	Sheraldo Becker	sr SUR	FW,MF	Osasuna	30	1995	9	0	158	1.8	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+67	Donny van de Beek	nl NED	MF	Girona	28	1997	2	1	41	0.5	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+68	Luken Beitia	es ESP	DF	Real Sociedad	21	2004	2	1	95	1.1	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+69	Ismael Bekhoucha	ma MAR	DF	Getafe	20	2004	4	1	122	1.4	0	1	1	0	0	0	2	0	0.00	0.74	0.74	0.00	0.74	Matches
+70	Rayane Belaid	es ESP	MF,FW	Atlético Madrid	20	2005	2	2	132	1.5	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+71	Héctor Bellerín	es ESP	DF	Real Betis	30	1995	27	20	1,822	20.2	2	3	5	2	0	0	2	0	0.10	0.15	0.25	0.10	0.25	Matches
+72	Jude Bellingham	eng ENG	MF	Real Madrid	22	2003	28	22	1,916	21.3	6	4	10	6	0	0	3	0	0.28	0.19	0.47	0.28	0.47	Matches
+73	Fran Beltrán	es ESP	MF	Celta Vigo	26	1999	10	7	528	5.9	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+74	Fran Beltrán	es ESP	MF	Girona	26	1999	17	11	1,012	11.2	1	0	1	1	0	0	3	0	0.09	0.00	0.09	0.09	0.09	Matches
+75	Lucas Beltrán	ar ARG	FW	Valencia	24	2001	27	16	1,365	15.2	1	2	3	1	0	0	1	0	0.07	0.13	0.20	0.07	0.20	Matches
+Rk 	Player 	Nation 	Pos 	Squad 	Age 	Born 	MP 	Starts 	Min 	90s 	Gls 	Ast 	G+A 	G-PK 	PK 	PKatt 	CrdY 	CrdR 	Gls 	Ast 	G+A 	G-PK 	G+A-PK 	Matches
+76	Carlos Benavídez	uy URU	DF	Alavés	27	1998	13	3	324	3.6	0	0	0	0	0	0	2	1	0.00	0.00	0.00	0.00	0.00	Matches
+77	Iker Benito	es ESP	MF	Osasuna	22	2002	6	1	159	1.8	1	0	1	1	0	0	1	0	0.57	0.00	0.57	0.57	0.57	Matches
+78	Yuri Berchiche	es ESP	DF	Athletic Club	35	1990	32	31	2,705	30.1	0	6	6	0	0	0	5	0	0.00	0.20	0.20	0.00	0.20	Matches
+79	Álex Berenguer	es ESP	MF	Athletic Club	30	1995	31	25	2,154	23.9	2	3	5	2	0	0	4	0	0.08	0.13	0.21	0.08	0.21	Matches
+80	Lucas Bergström	fi FIN	GK	Mallorca	22	2002	5	5	450	5.0	0	0	0	0	0	0	1	0	0.00	0.00	0.00	0.00	0.00	Matches
+81	Marc Bernal	es ESP	MF	Barcelona	18	2007	22	9	790	8.8	2	1	3	2	0	0	4	0	0.23	0.11	0.34	0.23	0.34	Matches
+82	Pedro Bigas	es ESP	DF	Elche	34	1990	28	25	2,063	22.9	1	3	4	1	0	0	5	1	0.04	0.13	0.17	0.04	0.17	Matches
+83	Veljko Birmančević	rs SRB	FW	Getafe	27	1998	6	1	142	1.6	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+84	Antonio Blanco	es ESP	MF	Alavés	25	2000	36	36	3,110	34.6	2	3	5	2	0	0	9	0	0.06	0.09	0.14	0.06	0.14	Matches
+85	Daley Blind	nl NED	DF	Girona	35	1990	31	30	2,606	29.0	0	0	0	0	0	0	1	0	0.00	0.00	0.00	0.00	0.00	Matches
+86	Adam Boayar	ma MAR	MF	Elche	19	2005	7	0	104	1.2	1	0	1	1	0	0	0	0	0.87	0.00	0.87	0.87	0.87	Matches
+87	Adama Boiro	es ESP	DF	Athletic Club	23	2002	14	8	815	9.1	0	0	0	0	0	0	1	0	0.00	0.00	0.00	0.00	0.00	Matches
+88	Javier Boñar	es ESP	DF	Atlético Madrid	20	2005	4	3	299	3.3	1	0	1	1	0	0	0	0	0.30	0.00	0.30	0.30	0.30	Matches
+89	Rahim Bonkano	ne NIG	DF	Oviedo	23	2002	27	18	1,713	19.0	0	0	0	0	0	0	2	0	0.00	0.00	0.00	0.00	0.00	Matches
+90	Thiago Borbas	uy URU	FW	Oviedo	23	2002	12	0	179	2.0	0	0	0	0	0	0	1	0	0.00	0.00	0.00	0.00	0.00	Matches
+91	Sebastián Boselli	uy URU	DF	Getafe	21	2003	11	4	380	4.2	0	0	0	0	0	0	4	0	0.00	0.00	0.00	0.00	0.00	Matches
+92	Lucas Boyé	ar ARG	FW	Alavés	29	1996	29	22	1,958	21.8	11	1	12	8	3	3	4	1	0.51	0.05	0.55	0.37	0.41	Matches
+93	Enzo Boyomo	cm CMR	DF	Osasuna	23	2001	30	29	2,542	28.2	1	2	3	1	0	0	7	0	0.04	0.07	0.11	0.04	0.11	Matches
+94	Josip Brekalo	hr CRO	MF,FW	Oviedo	27	1998	14	6	486	5.4	0	0	0	0	0	0	1	0	0.00	0.00	0.00	0.00	0.00	Matches
+95	Abel Bretones	es ESP	MF,DF	Osasuna	24	2000	28	17	1,624	18.0	1	2	3	1	0	0	5	1	0.06	0.11	0.17	0.06	0.17	Matches
+96	Brugui	es ESP	MF,FW	Levante	28	1996	19	10	1,005	11.2	1	1	2	1	0	0	1	1	0.09	0.09	0.18	0.09	0.18	Matches
+97	Tajon Buchanan	ca CAN	MF	Villarreal	26	1999	34	21	1,819	20.2	7	1	8	7	0	0	8	0	0.35	0.05	0.40	0.35	0.40	Matches
+98	Ante Budimir	hr CRO	FW	Osasuna	34	1991	37	35	2,938	32.6	17	0	17	11	6	8	3	0	0.52	0.00	0.52	0.34	0.34	Matches
+99	Manu Bueno	es ESP	MF	Sevilla	21	2004	8	2	272	3.0	0	0	0	0	0	0	2	0	0.00	0.00	0.00	0.00	0.00	Matches
+100	Pau Cabanes	es ESP	FW	Villarreal	20	2005	1	0	16	0.2	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+Rk 	Player 	Nation 	Pos 	Squad 	Age 	Born 	MP 	Starts 	Min 	90s 	Gls 	Ast 	G+A 	G-PK 	PK 	PKatt 	CrdY 	CrdR 	Gls 	Ast 	G+A 	G-PK 	G+A-PK 	Matches
+101	Jorge Cabello	es ESP	DF	Levante	21	2004	5	4	362	4.0	0	0	0	0	0	0	1	0	0.00	0.00	0.00	0.00	0.00	Matches
+102	Leandro Cabrera	uy URU	DF	Espanyol	34	1991	37	37	3,330	37.0	3	0	3	3	0	0	4	0	0.08	0.00	0.08	0.08	0.08	Matches
+103	Miguel Calatayud	es ESP	DF	Mallorca	19	2006	2	0	43	0.5	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+104	Calebe	br BRA	MF	Alavés	25	2000	19	13	752	8.4	0	0	0	0	0	0	2	0	0.00	0.00	0.00	0.00	0.00	Matches
+105	Fernando Calero	es ESP	DF	Espanyol	29	1995	28	24	2,148	23.9	0	0	0	0	0	0	5	0	0.00	0.00	0.00	0.00	0.00	Matches
+106	Duje Ćaleta-Car	hr CRO	DF	Real Sociedad	28	1996	27	24	2,150	23.9	1	0	1	1	0	0	6	1	0.04	0.00	0.04	0.04	0.04	Matches
+107	Dani Calvo	es ESP	DF	Oviedo	31	1994	20	17	1,611	17.9	0	0	0	0	0	0	3	0	0.00	0.00	0.00	0.00	0.00	Matches
+108	Dawda Camara	mr MTN	FW	Girona	22	2002	2	1	72	0.8	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+109	Eduardo Camavinga	fr FRA	MF	Real Madrid	22	2002	29	16	1,528	17.0	1	0	1	1	0	0	2	0	0.06	0.00	0.06	0.06	0.06	Matches
+110	Sergio Camello	es ESP	FW,MF	Rayo Vallecano	24	2001	22	8	823	9.1	5	1	6	5	0	0	3	1	0.55	0.11	0.66	0.55	0.66	Matches
+111	João Cancelo	pt POR	DF	Barcelona	31	1994	16	11	954	10.6	2	2	4	2	0	0	1	0	0.19	0.19	0.38	0.19	0.38	Matches
+112	Dani Cárdenas	es ESP	GK	Rayo Vallecano	28	1997	4	4	360	4.0	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+113	Sergi Cardona	es ESP	DF	Villarreal	26	1999	31	20	1,970	21.9	1	4	5	1	0	0	4	0	0.05	0.18	0.23	0.05	0.23	Matches
+114	Fábio Cardoso	pt POR	DF	Sevilla	31	1994	4	4	295	3.3	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+115	Johnny Cardoso	us USA	MF	Atlético Madrid	23	2001	15	12	887	9.9	0	0	0	0	0	0	5	0	0.00	0.00	0.00	0.00	0.00	Matches
+116	David Carmo	ao ANG	DF	Oviedo	26	1999	22	20	1,786	19.8	1	0	1	1	0	0	8	1	0.05	0.00	0.05	0.05	0.05	Matches
+117	Carmona	es ESP	DF,MF	Sevilla	23	2002	35	29	2,565	28.5	1	3	4	1	0	0	13	0	0.04	0.11	0.14	0.04	0.14	Matches
+118	Sergio Carreira	es ESP	MF	Celta Vigo	24	2000	34	29	2,694	29.9	2	1	3	2	0	0	2	0	0.07	0.03	0.10	0.07	0.10	Matches
+119	Gorka Carrera	es ESP	FW	Real Sociedad	20	2005	3	0	62	0.7	0	0	0	0	0	0	1	0	0.00	0.00	0.00	0.00	0.00	Matches
+120	Álvaro Carreras	es ESP	DF	Real Madrid	22	2003	28	26	2,332	25.9	2	3	5	2	0	0	5	1	0.08	0.12	0.19	0.08	0.19	Matches
+121	Dani Carvajal	es ESP	DF	Real Madrid	33	1992	17	10	977	10.9	0	1	1	0	0	0	0	0	0.00	0.09	0.09	0.00	0.09	Matches
+122	Marc Casado	es ESP	MF	Barcelona	21	2003	24	10	989	11.0	0	1	1	0	0	0	1	0	0.00	0.09	0.09	0.00	0.09	Matches
+123	Lluc Castell	es ESP	FW	Espanyol	18	2006	1	0	19	0.2	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+124	Castrin	es ESP	DF	Sevilla	22	2003	19	13	1,277	14.2	1	0	1	1	0	0	4	0	0.07	0.00	0.07	0.07	0.07	Matches
+125	Jonny Castro	es ESP	DF	Alavés	31	1994	34	34	2,994	33.3	0	0	0	0	0	0	7	0	0.00	0.00	0.00	0.00	0.00	Matches
+Rk 	Player 	Nation 	Pos 	Squad 	Age 	Born 	MP 	Starts 	Min 	90s 	Gls 	Ast 	G+A 	G-PK 	PK 	PKatt 	CrdY 	CrdR 	Gls 	Ast 	G+A 	G-PK 	G+A-PK 	Matches
+126	Catena	es ESP	DF	Osasuna	30	1994	35	35	3,071	34.1	3	2	5	3	0	0	11	1	0.09	0.06	0.15	0.09	0.15	Matches
+127	Santi Cazorla	es ESP	MF	Oviedo	40	1984	28	6	940	10.4	0	1	1	0	0	0	2	1	0.00	0.10	0.10	0.00	0.10	Matches
+128	Dani Ceballos	es ESP	MF	Real Madrid	28	1996	16	4	486	5.4	0	0	0	0	0	0	1	0	0.00	0.00	0.00	0.00	0.00	Matches
+129	Lucas Cepeda	cl CHI	MF	Elche	22	2002	10	4	402	4.5	1	0	1	1	0	0	1	0	0.22	0.00	0.22	0.22	0.22	Matches
+130	Jorge Cestero	es ESP	MF	Real Madrid	19	2006	2	0	13	0.1	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+131	Ilyas Chaira	ma MAR	MF,FW	Oviedo	24	2001	36	30	2,447	27.2	6	2	8	6	0	0	2	1	0.22	0.07	0.29	0.22	0.29	Matches
+132	Pep Chavarría	es ESP	DF	Rayo Vallecano	27	1998	33	29	2,682	29.8	1	2	3	1	0	0	6	1	0.03	0.07	0.10	0.03	0.10	Matches
+133	Andreas Christensen	dk DEN	DF	Barcelona	29	1996	13	3	409	4.5	0	0	0	0	0	0	2	0	0.00	0.00	0.00	0.00	0.00	Matches
+134	Víctor Chust	es ESP	DF	Elche	25	2000	31	22	2,166	24.1	1	0	1	1	0	0	9	1	0.04	0.00	0.04	0.04	0.04	Matches
+135	Pathé Ciss	sn SEN	MF,DF	Rayo Vallecano	31	1994	29	20	1,998	22.2	2	1	3	2	0	0	9	2	0.09	0.05	0.14	0.09	0.14	Matches
+136	Santiago Colombatto	ar ARG	MF	Oviedo	28	1997	32	23	2,064	22.9	0	1	1	0	0	0	6	0	0.00	0.04	0.04	0.00	0.04	Matches
+137	Eray Cömert	ch SUI	DF	Valencia	27	1998	17	15	1,337	14.9	2	1	3	2	0	0	3	1	0.13	0.07	0.20	0.13	0.20	Matches
+138	Santi Comesaña	es ESP	MF	Villarreal	28	1996	34	28	2,407	26.7	3	6	9	3	0	0	5	1	0.11	0.22	0.34	0.11	0.34	Matches
+139	Copete	es ESP	DF	Valencia	25	1999	21	19	1,759	19.5	0	0	0	0	0	0	5	0	0.00	0.00	0.00	0.00	0.00	Matches
+140	Iván Corralejo	es ESP	MF	Real Betis	18	2007	1	0	15	0.2	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+141	Thierry Correia	pt POR	DF,MF	Valencia	26	1999	24	17	1,392	15.5	0	2	2	0	0	0	5	0	0.00	0.13	0.13	0.00	0.13	Matches
+142	Alvaro Cortes	es ESP	DF	Barcelona	20	2005	1	1	90	1.0	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+143	Paco Cortés	es ESP	MF,FW	Levante	17	2007	12	4	472	5.2	0	0	0	0	0	0	2	0	0.00	0.00	0.00	0.00	0.00	Matches
+144	Coba da Costa	es ESP	MF	Getafe	23	2002	14	2	348	3.9	0	0	0	0	0	0	1	0	0.00	0.00	0.00	0.00	0.00	Matches
+145	Logan Costa	cv CPV	DF	Villarreal	24	2001	2	0	30	0.3	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+146	Samu Costa	pt POR	MF	Mallorca	24	2000	34	31	2,697	30.0	7	2	9	7	0	0	11	0	0.23	0.07	0.30	0.23	0.30	Matches
+147	David Costas	es ESP	DF	Oviedo	30	1995	25	22	2,066	23.0	1	0	1	1	0	0	3	0	0.04	0.00	0.04	0.04	0.04	Matches
+148	Thibaut Courtois	be BEL	GK	Real Madrid	33	1992	32	32	2,880	32.0	0	0	0	0	0	0	1	0	0.00	0.00	0.00	0.00	0.00	Matches
+149	Juan Cruz Armada	es ESP	DF	Osasuna	33	1992	15	7	649	7.2	0	0	0	0	0	0	2	0	0.00	0.00	0.00	0.00	0.00	Matches
+150	Pau Cubarsí	es ESP	DF	Barcelona	18	2007	31	31	2,703	30.0	1	0	1	1	0	0	3	0	0.03	0.00	0.03	0.03	0.03	Matches
+Rk 	Player 	Nation 	Pos 	Squad 	Age 	Born 	MP 	Starts 	Min 	90s 	Gls 	Ast 	G+A 	G-PK 	PK 	PKatt 	CrdY 	CrdR 	Gls 	Ast 	G+A 	G-PK 	G+A-PK 	Matches
+151	Miguel Cubo	es ESP	FW	Atlético Madrid	17	2008	2	0	50	0.6	1	0	1	1	0	0	0	0	1.80	0.00	1.80	1.80	1.80	Matches
+152	Cucho	co COL	FW	Real Betis	26	1999	32	30	2,580	28.7	11	3	14	10	1	1	5	0	0.38	0.10	0.49	0.35	0.45	Matches
+153	Pablo Cuñat	es ESP	GK	Levante	23	2002	2	2	180	2.0	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+154	Damián	es ESP	MF	Getafe	22	2003	3	2	151	1.7	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+155	Arnaut Danjuma	nl NED	MF,FW	Valencia	28	1997	30	18	1,628	18.1	3	2	5	3	0	1	0	0	0.17	0.11	0.28	0.17	0.28	Matches
+156	Sergi Darder	es ESP	MF	Mallorca	31	1993	38	30	2,680	29.8	1	5	6	1	0	0	3	0	0.03	0.17	0.20	0.03	0.20	Matches
+157	Davinchi	es ESP	DF	Getafe	17	2007	14	7	700	7.8	0	0	0	0	0	0	2	0	0.00	0.00	0.00	0.00	0.00	Matches
+158	Leander Dendoncker	be BEL	MF	Oviedo	30	1995	19	15	1,330	14.8	1	0	1	1	0	0	2	0	0.07	0.00	0.07	0.07	0.07	Matches
+159	Nelson Deossa	co COL	MF	Real Betis	25	2000	20	8	743	8.3	0	0	0	0	0	0	3	0	0.00	0.00	0.00	0.00	0.00	Matches
+160	Ibrahim Diabaté	ci CIV	FW	Alavés	25	1999	10	6	578	6.4	2	0	2	2	0	0	1	0	0.31	0.00	0.31	0.31	0.31	Matches
+161	Bambo Diaby	sn SEN	DF	Elche	27	1997	4	1	102	1.1	0	0	0	0	0	0	1	0	0.00	0.00	0.00	0.00	0.00	Matches
+162	Mouctar Diakhaby	gn GUI	DF	Valencia	28	1996	8	7	543	6.0	1	0	1	1	0	0	3	0	0.17	0.00	0.17	0.17	0.17	Matches
+163	Grady Diangana	cd COD	MF,FW	Elche	27	1998	20	13	926	10.3	1	0	1	1	0	0	3	0	0.10	0.00	0.10	0.10	0.10	Matches
+164	Moussa Diarra	ml MLI	DF	Alavés	24	2000	3	3	216	2.4	0	0	0	0	0	0	1	0	0.00	0.00	0.00	0.00	0.00	Matches
+165	Alassane Diatta	sn SEN	MF	Villarreal	20	2005	1	0	25	0.3	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+166	Brahim Díaz	ma MAR	MF,FW	Real Madrid	25	1999	30	13	1,257	14.0	1	6	7	1	0	0	2	0	0.07	0.43	0.50	0.07	0.50	Matches
+167	Daniel Díaz	es ESP	FW	Real Sociedad	19	2006	1	0	18	0.2	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+168	Julio Diaz	es ESP	DF	Atlético Madrid	20	2005	4	4	310	3.4	0	1	1	0	0	0	2	0	0.00	0.29	0.29	0.00	0.29	Matches
+169	Pedro Díaz	es ESP	MF	Rayo Vallecano	27	1998	34	21	1,870	20.8	0	1	1	0	0	0	2	0	0.00	0.05	0.05	0.00	0.05	Matches
+170	Stole Dimitrievski	mk MKD	GK	Valencia	31	1993	20	20	1,800	20.0	0	0	0	0	0	0	1	0	0.00	0.00	0.00	0.00	0.00	Matches
+171	Matías Dituro	ar ARG	GK	Elche	38	1987	22	22	1,980	22.0	0	0	0	0	0	0	1	0	0.00	0.00	0.00	0.00	0.00	Matches
+172	Djené	tg TOG	DF,MF	Getafe	33	1991	34	32	2,578	28.6	0	0	0	0	0	0	10	2	0.00	0.00	0.00	0.00	0.00	Matches
+173	Marko Dmitrović	rs SRB	GK	Espanyol	33	1992	37	37	3,330	37.0	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+174	Tyrhys Dolan	eng ENG	MF	Espanyol	23	2001	36	28	2,415	26.8	2	5	7	2	0	0	7	1	0.07	0.19	0.26	0.07	0.26	Matches
+175	Marc Domenech	es ESP	MF	Mallorca	19	2006	7	2	214	2.4	0	1	1	0	0	0	0	0	0.00	0.42	0.42	0.00	0.42	Matches
+Rk 	Player 	Nation 	Pos 	Squad 	Age 	Born 	MP 	Starts 	Min 	90s 	Gls 	Ast 	G+A 	G-PK 	PK 	PKatt 	CrdY 	CrdR 	Gls 	Ast 	G+A 	G-PK 	G+A-PK 	Matches
+176	Carlos Dominguez	es ESP	DF	Celta Vigo	24	2001	8	6	610	6.8	0	0	0	0	0	0	1	0	0.00	0.00	0.00	0.00	0.00	Matches
+177	John Donald	es ESP	DF,MF	Elche	24	2000	21	6	665	7.4	1	0	1	1	0	0	3	0	0.14	0.00	0.14	0.14	0.14	Matches
+178	Domingos Duarte	pt POR	DF	Getafe	30	1995	34	34	2,923	32.5	1	1	2	1	0	0	11	0	0.03	0.03	0.06	0.03	0.06	Matches
+179	Pablo Durán	es ESP	FW,MF	Celta Vigo	24	2001	30	17	1,425	15.8	2	2	4	2	0	0	1	0	0.13	0.13	0.25	0.13	0.25	Matches
+180	Hugo Duro	es ESP	FW	Valencia	25	1999	36	22	1,979	22.0	10	0	10	9	1	2	4	0	0.45	0.00	0.45	0.41	0.41	Matches
+181	Claudio Echeverri	ar ARG	FW,MF	Girona	19	2006	17	5	624	6.9	1	1	2	1	0	0	4	0	0.14	0.14	0.29	0.14	0.29	Matches
+182	Ovie Ejaria	eng ENG	MF	Oviedo	27	1997	8	2	200	2.2	0	0	0	0	0	0	1	0	0.00	0.00	0.00	0.00	0.00	Matches
+183	Chidera Ejuke	ng NGA	MF,FW	Sevilla	27	1998	27	6	932	10.4	1	1	2	1	0	0	0	0	0.10	0.10	0.19	0.10	0.19	Matches
+184	Unai Elgezabal	es ESP	DF,MF	Levante	32	1993	12	11	958	10.6	1	0	1	1	0	0	2	0	0.09	0.00	0.09	0.09	0.09	Matches
+185	Aritz Elustondo	es ESP	DF	Real Sociedad	31	1994	16	8	720	8.0	0	1	1	0	0	0	0	0	0.00	0.12	0.12	0.00	0.12	Matches
+186	Endrick	br BRA	FW	Real Madrid	19	2006	1	0	12	0.1	0	0	0	0	0	0	0	1	0.00	0.00	0.00	0.00	0.00	Matches
+187	Aarón Escandell	es ESP	GK	Oviedo	29	1995	36	36	3,240	36.0	0	1	1	0	0	0	3	0	0.00	0.03	0.03	0.00	0.03	Matches
+188	Xavi Espart	es ESP	DF	Barcelona	18	2007	4	1	165	1.8	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+189	Carlos Espí	es ESP	FW	Levante	20	2005	25	13	1,343	14.9	11	0	11	11	0	0	3	0	0.74	0.00	0.74	0.74	0.74	Matches
+190	Alfonso Espino	uy URU	DF,MF	Rayo Vallecano	33	1992	30	15	1,486	16.5	2	0	2	2	0	0	3	0	0.12	0.00	0.12	0.12	0.12	Matches
+191	Marco Esteban	es ESP	DF	Oviedo	19	2006	1	0	45	0.5	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+192	Karl Etta Eyong	cm CMR	FW	Villarreal	21	2003	3	3	256	2.8	1	2	3	1	0	0	0	0	0.35	0.70	1.05	0.35	1.05	Matches
+193	Karl Etta Eyong	cm CMR	FW	Levante	21	2003	30	15	1,416	15.7	6	2	8	6	0	1	3	0	0.38	0.13	0.51	0.38	0.51	Matches
+194	Edu Expósito	es ESP	MF	Espanyol	28	1996	36	32	2,523	28.0	1	6	7	1	0	0	9	0	0.04	0.21	0.25	0.04	0.25	Matches
+195	Abde Ezzalzouli	ma MAR	MF,FW	Real Betis	23	2001	29	26	2,247	25.0	10	8	18	10	0	0	3	0	0.40	0.32	0.72	0.40	0.72	Matches
+196	Omar Falah	es ESP	DF	Oviedo	21	2003	1	0	14	0.2	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+197	Aleix Febas	es ESP	MF	Elche	29	1996	36	36	3,160	35.1	2	2	4	2	0	0	10	0	0.06	0.06	0.11	0.06	0.11	Matches
+198	Luiz Felipe	it ITA	DF	Rayo Vallecano	28	1997	10	7	470	5.2	0	0	0	0	0	0	1	0	0.00	0.00	0.00	0.00	0.00	Matches
+199	Kiko Femenía	es ESP	DF,MF	Getafe	34	1991	28	25	2,008	22.3	1	1	2	1	0	0	6	0	0.04	0.04	0.09	0.04	0.09	Matches
+200	Aitor Fernández	es ESP	GK	Osasuna	34	1991	2	1	136	1.5	0	0	0	0	0	0	3	0	0.00	0.00	0.00	0.00	0.00	Matches
+Rk 	Player 	Nation 	Pos 	Squad 	Age 	Born 	MP 	Starts 	Min 	90s 	Gls 	Ast 	G+A 	G-PK 	PK 	PKatt 	CrdY 	CrdR 	Gls 	Ast 	G+A 	G-PK 	G+A-PK 	Matches
+201	Dro Fernández	es ESP	MF	Barcelona	17	2008	4	1	92	1.0	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+202	Manu Fernández	es ESP	DF	Celta Vigo	24	2001	14	9	758	8.4	0	0	0	0	0	0	2	0	0.00	0.00	0.00	0.00	0.00	Matches
+203	Pelayo Fernandez	es ESP	DF	Rayo Vallecano	22	2003	1	0	45	0.5	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+204	Roberto Férnandez	es ESP	FW	Espanyol	23	2002	38	25	2,382	26.5	7	3	10	6	1	1	3	0	0.26	0.11	0.38	0.23	0.34	Matches
+205	Thiago Fernández	ar ARG	MF,FW	Oviedo	21	2004	16	9	817	9.1	0	4	4	0	0	0	4	0	0.00	0.44	0.44	0.00	0.44	Matches
+206	Toni Fernández	es ESP	FW	Barcelona	17	2008	1	1	45	0.5	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+207	Álvaro Fidalgo	mx MEX	MF	Real Betis	28	1997	9	8	542	6.0	1	0	1	1	0	0	0	0	0.17	0.00	0.17	0.17	0.17	Matches
+208	Junior Firpo	do DOM	DF	Real Betis	28	1996	12	10	827	9.2	0	1	1	0	0	0	2	0	0.00	0.11	0.11	0.00	0.11	Matches
+209	Nicolas Fonseca	uy URU	MF	Oviedo	26	1998	19	12	1,018	11.3	0	0	0	0	0	0	6	0	0.00	0.00	0.00	0.00	0.00	Matches
+210	Álex Forés	es ESP	FW	Oviedo	24	2001	18	3	360	4.0	0	1	1	0	0	0	0	0	0.00	0.25	0.25	0.00	0.25	Matches
+211	Pablo Fornals	es ESP	MF	Real Betis	29	1996	37	34	2,848	31.6	9	6	15	9	0	0	2	0	0.28	0.19	0.47	0.28	0.47	Matches
+212	Héctor Fort	es ESP	DF,MF	Elche	18	2006	14	7	482	5.4	2	2	4	2	0	0	0	0	0.37	0.37	0.75	0.37	0.75	Matches
+213	Fortuño	es ESP	GK	Espanyol	23	2001	1	1	90	1.0	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+214	Dimitri Foulquier	fr FRA	DF	Valencia	32	1993	15	12	1,150	12.8	0	0	0	0	0	0	1	0	0.00	0.00	0.00	0.00	0.00	Matches
+215	Juan Foyth	ar ARG	DF	Villarreal	27	1998	13	12	934	10.4	0	0	0	0	0	0	2	0	0.00	0.00	0.00	0.00	0.00	Matches
+216	Alejandro Francés	es ESP	DF	Girona	22	2002	24	11	1,116	12.4	0	2	2	0	0	0	2	1	0.00	0.16	0.16	0.00	0.16	Matches
+217	Alex Freeman	us USA	DF	Villarreal	20	2004	9	3	346	3.8	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+218	Jorge de Frutos	es ESP	FW,MF	Rayo Vallecano	28	1997	36	31	2,463	27.4	10	1	11	9	1	1	3	0	0.37	0.04	0.40	0.33	0.37	Matches
+219	Javi Galán	es ESP	DF	Atlético Madrid	30	1994	5	1	134	1.5	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+220	Javi Galán	es ESP	DF	Osasuna	30	1994	20	19	1,672	18.6	0	1	1	0	0	0	3	0	0.00	0.05	0.05	0.00	0.05	Matches
+221	Iñigo Ruiz de Galarreta	es ESP	MF	Athletic Club	31	1993	34	30	2,206	24.5	1	2	3	1	0	0	10	0	0.04	0.08	0.12	0.04	0.12	Matches
+222	Conor Gallagher	eng ENG	MF	Atlético Madrid	25	2000	19	4	679	7.5	2	0	2	2	0	0	2	0	0.27	0.00	0.27	0.27	0.27	Matches
+223	Facundo Garcés	my MAS	DF	Alavés	25	1999	10	8	793	8.8	0	0	0	0	0	0	3	0	0.00	0.00	0.00	0.00	0.00	Matches
+224	Álvaro García	es ESP	MF,FW	Rayo Vallecano	32	1992	32	23	2,101	23.3	4	5	9	4	0	0	3	0	0.17	0.21	0.39	0.17	0.39	Matches
+225	Eder García	es ESP	FW	Athletic Club	21	2004	2	0	38	0.4	0	0	0	0	0	0	1	0	0.00	0.00	0.00	0.00	0.00	Matches
+Rk 	Player 	Nation 	Pos 	Squad 	Age 	Born 	MP 	Starts 	Min 	90s 	Gls 	Ast 	G+A 	G-PK 	PK 	PKatt 	CrdY 	CrdR 	Gls 	Ast 	G+A 	G-PK 	G+A-PK 	Matches
+226	Eric García	es ESP	DF,MF	Barcelona	24	2001	34	32	2,721	30.2	1	1	2	1	0	0	6	0	0.03	0.03	0.07	0.03	0.07	Matches
+227	Fran Garcia	es ESP	DF,MF	Real Madrid	25	1999	13	10	929	10.3	1	1	2	1	0	0	2	1	0.10	0.10	0.19	0.10	0.19	Matches
+228	Gonzalo García	es ESP	FW	Real Madrid	21	2004	30	9	964	10.7	6	1	7	6	0	0	2	0	0.56	0.09	0.65	0.56	0.65	Matches
+229	Hugo García	es ESP	MF	Celta Vigo	18	2006	1	0	8	0.1	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+230	Joan García	es ESP	GK	Barcelona	24	2001	30	30	2,700	30.0	0	0	0	0	0	0	1	0	0.00	0.00	0.00	0.00	0.00	Matches
+231	Pablo Garcia	es ESP	MF	Real Betis	19	2006	15	2	388	4.3	0	0	0	0	0	0	1	0	0.00	0.00	0.00	0.00	0.00	Matches
+232	Rubén García	es ESP	MF,FW	Osasuna	32	1993	35	28	2,229	24.8	2	5	7	2	0	0	6	0	0.08	0.20	0.28	0.08	0.28	Matches
+233	Víctor García	es ESP	MF,FW	Levante	27	1997	21	12	1,040	11.6	2	1	3	2	0	0	1	0	0.17	0.09	0.26	0.17	0.26	Matches
+234	Federico Gattoni	ar ARG	DF	Sevilla	26	1999	1	0	10	0.1	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+235	Gavi	es ESP	MF	Barcelona	20	2004	11	7	573	6.4	0	1	1	0	0	0	3	0	0.00	0.16	0.16	0.00	0.16	Matches
+236	Paulo Gazzaniga	ar ARG	GK	Girona	33	1992	35	35	3,102	34.5	0	0	0	0	0	0	4	1	0.00	0.00	0.00	0.00	0.00	Matches
+237	Mourad El Ghezouani	ma MAR	FW	Elche	27	1998	2	0	50	0.6	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+238	Bryan Gil	es ESP	MF,FW	Girona	24	2001	29	20	1,578	17.5	0	3	3	0	0	0	6	0	0.00	0.17	0.17	0.00	0.17	Matches
+239	Moi Gómez	es ESP	MF	Osasuna	31	1994	26	12	1,201	13.3	0	2	2	0	0	0	3	0	0.00	0.15	0.15	0.00	0.15	Matches
+240	Sergio Gómez	es ESP	DF	Real Sociedad	24	2000	35	30	2,701	30.0	0	6	6	0	0	0	5	1	0.00	0.20	0.20	0.00	0.20	Matches
+241	Unai Gómez	es ESP	MF	Athletic Club	22	2003	26	12	936	10.4	1	1	2	1	0	0	1	0	0.10	0.10	0.19	0.10	0.19	Matches
+242	Valentín Gómez	ar ARG	DF	Real Betis	22	2003	28	19	1,882	20.9	1	0	1	1	0	0	5	0	0.05	0.00	0.05	0.05	0.05	Matches
+243	Hugo González	es ESP	FW	Celta Vigo	22	2003	1	0	8	0.1	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+244	Nicolás González	ar ARG	MF,DF	Atlético Madrid	27	1998	24	18	1,448	16.1	5	0	5	5	0	0	4	1	0.31	0.00	0.31	0.31	0.31	Matches
+245	Urko González	es ESP	MF	Espanyol	24	2001	35	28	2,623	29.1	0	1	1	0	0	0	7	0	0.00	0.03	0.03	0.00	0.03	Matches
+246	Urko González	es ESP	DF,MF	Real Sociedad	24	2001	1	0	11	0.1	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+247	Andoni Gorosabel	es ESP	DF	Athletic Club	28	1996	24	15	1,360	15.1	0	1	1	0	0	0	3	0	0.00	0.07	0.07	0.00	0.07	Matches
+248	Jon Gorrotxategi	es ESP	MF	Real Sociedad	23	2002	30	26	2,210	24.6	1	3	4	1	0	0	7	0	0.04	0.12	0.16	0.04	0.16	Matches
+249	Mikel Goti	es ESP	MF	Real Sociedad	23	2002	4	1	76	0.8	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+250	Antoine Griezmann	fr FRA	FW	Atlético Madrid	34	1991	34	13	1,481	16.5	7	4	11	7	0	0	1	0	0.43	0.24	0.67	0.43	0.67	Matches
+Rk 	Player 	Nation 	Pos 	Squad 	Age 	Born 	MP 	Starts 	Min 	90s 	Gls 	Ast 	G+A 	G-PK 	PK 	PKatt 	CrdY 	CrdR 	Gls 	Ast 	G+A 	G-PK 	G+A-PK 	Matches
+251	Nemanja Gudelj	rs SRB	DF,MF	Sevilla	33	1991	34	26	2,348	26.1	2	0	2	2	0	0	9	0	0.08	0.00	0.08	0.08	0.08	Matches
+252	Gonçalo Guedes	pt POR	MF	Real Sociedad	28	1996	32	22	1,823	20.3	8	4	12	8	0	0	3	0	0.39	0.20	0.59	0.39	0.59	Matches
+253	Javier Guerra	es ESP	MF,FW	Valencia	22	2003	36	25	2,061	22.9	4	6	10	4	0	0	3	0	0.17	0.26	0.44	0.17	0.44	Matches
+254	Daniel Guerrero	es ESP	MF	Real Betis	20	2005	1	0	1	0.0	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+255	Ander Guevara	es ESP	MF	Alavés	28	1997	25	2	654	7.3	1	1	2	1	0	0	4	1	0.14	0.14	0.28	0.14	0.28	Matches
+256	Pape Gueye	sn SEN	MF	Villarreal	26	1999	30	26	2,131	23.7	5	2	7	4	1	1	8	0	0.21	0.08	0.30	0.17	0.25	Matches
+257	Arda Güler	tr TUR	MF	Real Madrid	20	2005	33	25	2,014	22.4	4	9	13	4	0	0	1	0	0.18	0.40	0.58	0.18	0.58	Matches
+258	Gerard Gumbau	es ESP	MF	Rayo Vallecano	30	1994	28	14	1,175	13.1	0	3	3	0	0	0	4	0	0.00	0.23	0.23	0.00	0.23	Matches
+259	Jon Guridi	es ESP	MF,FW	Alavés	30	1995	28	15	1,238	13.8	0	0	0	0	0	0	1	0	0.00	0.00	0.00	0.00	0.00	Matches
+260	Gorka Guruzeta	es ESP	FW	Athletic Club	28	1996	35	28	2,363	26.3	10	3	13	9	1	1	6	1	0.38	0.11	0.50	0.34	0.46	Matches
+261	Dávid Hancko	sk SVK	DF	Atlético Madrid	27	1997	30	27	2,432	27.0	0	2	2	0	0	0	2	0	0.00	0.07	0.07	0.00	0.07	Matches
+262	Haissem Hassan	eg EGY	MF,FW	Oviedo	23	2002	37	20	1,942	21.6	0	3	3	0	0	0	1	0	0.00	0.14	0.14	0.00	0.14	Matches
+263	Jorge Herrando	es ESP	DF	Osasuna	24	2001	28	17	1,600	17.8	0	1	1	0	0	0	3	0	0.00	0.06	0.06	0.00	0.06	Matches
+264	Sergio Herrera	es ESP	GK	Osasuna	32	1993	37	37	3,284	36.5	0	0	0	0	0	0	3	1	0.00	0.00	0.00	0.00	0.00	Matches
+265	Yangel Herrera	ve VEN	MF	Real Sociedad	27	1998	12	6	526	5.8	0	0	0	0	0	0	2	0	0.00	0.00	0.00	0.00	0.00	Matches
+266	Yangel Herrera	ve VEN	MF	Girona	27	1998	2	2	110	1.2	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+267	Asier Hierro	es ESP	FW	Athletic Club	20	2005	1	0	34	0.4	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+268	Omar El Hilali	ma MAR	DF	Espanyol	21	2003	36	32	2,826	31.4	0	2	2	0	0	0	9	0	0.00	0.06	0.06	0.00	0.06	Matches
+269	Ali Houary	ma MAR	MF	Elche	19	2005	2	2	123	1.4	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+270	Dean Huijsen	es ESP	DF	Real Madrid	20	2005	28	24	2,034	22.6	2	2	4	2	0	0	7	1	0.09	0.09	0.18	0.09	0.18	Matches
+271	Pablo Ibáñez	es ESP	MF	Alavés	26	1998	37	28	2,236	24.8	1	1	2	1	0	0	7	0	0.04	0.04	0.08	0.04	0.08	Matches
+272	Stanis Idumbo	be BEL	MF	Sevilla	20	2005	1	1	45	0.5	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+273	Iglesias	es ESP	DF	Getafe	27	1998	37	36	3,185	35.4	1	2	3	1	0	0	4	0	0.03	0.06	0.08	0.03	0.08	Matches
+274	Borja Iglesias	es ESP	FW	Celta Vigo	32	1993	35	21	1,900	21.1	14	2	16	10	4	4	7	0	0.66	0.09	0.76	0.47	0.57	Matches
+275	Luka Ilić	rs SRB	MF,FW	Oviedo	26	1999	19	8	742	8.2	1	0	1	1	0	0	4	1	0.12	0.00	0.12	0.12	0.12	Matches
+Rk 	Player 	Nation 	Pos 	Squad 	Age 	Born 	MP 	Starts 	Min 	90s 	Gls 	Ast 	G+A 	G-PK 	PK 	PKatt 	CrdY 	CrdR 	Gls 	Ast 	G+A 	G-PK 	G+A-PK 	Matches
+276	Isco	es ESP	MF	Real Betis	33	1992	8	1	233	2.6	1	1	2	0	1	1	0	0	0.39	0.39	0.77	0.00	0.39	Matches
+277	Urko Izeta	es ESP	FW	Athletic Club	25	1999	13	1	193	2.1	1	0	1	1	0	0	2	0	0.47	0.00	0.47	0.47	0.47	Matches
+278	Jairo Izquierdo	es ESP	DF,FW	Elche	31	1993	1	0	24	0.3	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+279	Adnan Januzaj	be BEL	MF,FW	Sevilla	30	1995	12	2	321	3.6	0	0	0	0	0	0	1	0	0.00	0.00	0.00	0.00	0.00	Matches
+280	Mikel Jauregizar	es ESP	MF	Athletic Club	21	2003	36	34	2,831	31.5	2	0	2	2	0	0	6	1	0.06	0.00	0.06	0.06	0.06	Matches
+281	David Jiménez	es ESP	DF	Real Madrid	21	2004	2	1	76	0.8	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+282	Jofre	es ESP	MF	Espanyol	24	2001	26	9	930	10.3	1	0	1	1	0	0	1	0	0.10	0.00	0.10	0.10	0.10	Matches
+283	Frenkie de Jong	nl NED	MF	Barcelona	28	1997	25	16	1,636	18.2	1	5	6	1	0	0	4	1	0.06	0.28	0.33	0.06	0.33	Matches
+284	Joan Jordán	es ESP	MF	Sevilla	31	1994	3	0	25	0.3	0	0	0	0	0	0	1	1	0.00	0.00	0.00	0.00	0.00	Matches
+285	Josan	es ESP	MF,DF	Elche	35	1989	19	4	565	6.3	0	3	3	0	0	0	2	0	0.00	0.48	0.48	0.00	0.48	Matches
+286	Mateo Joseph	es ESP	MF,FW	Mallorca	21	2003	29	19	1,699	18.9	2	3	5	2	0	0	2	0	0.11	0.16	0.26	0.11	0.26	Matches
+287	Juanmi	es ESP	FW,MF	Getafe	32	1993	8	0	179	2.0	1	0	1	1	0	0	0	0	0.50	0.00	0.50	0.50	0.50	Matches
+288	Luiz Lúcio Reis Júnior	br BRA	GK	Villarreal	24	2001	28	28	2,520	28.0	0	0	0	0	0	0	3	0	0.00	0.00	0.00	0.00	0.00	Matches
+289	Vinicius Júnior	br BRA	FW,MF	Real Madrid	25	2000	36	32	2,815	31.3	16	5	21	12	4	5	8	0	0.51	0.16	0.67	0.38	0.54	Matches
+290	Ferran Jutglà	es ESP	FW	Celta Vigo	26	1999	30	21	1,652	18.4	9	3	12	9	0	0	4	0	0.49	0.16	0.65	0.49	0.65	Matches
+291	Justin-Noël Kalumba	fr FRA	FW	Mallorca	20	2004	3	1	81	0.9	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+292	Abu Kamara	eng ENG	MF	Getafe	22	2003	12	1	256	2.8	0	0	0	0	0	0	1	0	0.00	0.00	0.00	0.00	0.00	Matches
+293	Willy Kambwala	fr FRA	DF	Villarreal	20	2004	2	1	86	1.0	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+294	Jon Karrikaburu	es ESP	FW	Real Sociedad	22	2002	7	0	135	1.5	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+295	Kiké	es ESP	FW	Espanyol	35	1989	37	17	1,734	19.3	8	1	9	7	1	2	3	0	0.42	0.05	0.47	0.36	0.42	Matches
+296	Koke	es ESP	MF	Atlético Madrid	33	1992	34	24	2,219	24.7	2	2	4	2	0	0	6	0	0.08	0.08	0.16	0.08	0.16	Matches
+297	Luca Koleosho	it ITA	MF	Espanyol	20	2004	3	0	63	0.7	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+298	Ville Koski	fi FIN	DF	Alavés	23	2002	5	3	282	3.1	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+299	Jules Koundé	fr FRA	DF	Barcelona	26	1998	30	24	2,261	25.1	1	3	4	1	0	0	6	0	0.04	0.12	0.16	0.04	0.16	Matches
+300	Lancinet Kourouma	gn GUI	FW	Girona	21	2004	5	0	43	0.5	0	0	0	0	0	0	0	1	0.00	0.00	0.00	0.00	0.00	Matches
+Rk 	Player 	Nation 	Pos 	Squad 	Age 	Born 	MP 	Starts 	Min 	90s 	Gls 	Ast 	G+A 	G-PK 	PK 	PKatt 	CrdY 	CrdR 	Gls 	Ast 	G+A 	G-PK 	G+A-PK 	Matches
+301	Goduine Koyalipou	cf CTA	FW	Levante	25	2000	11	2	247	2.7	1	0	1	1	0	0	1	0	0.36	0.00	0.36	0.36	0.36	Matches
+302	Vladyslav Krapyvtsov	ua UKR	GK	Girona	20	2005	2	1	136	1.5	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+303	Ladislav Krejčí	cz CZE	DF	Girona	26	1999	2	2	180	2.0	0	0	0	0	0	0	1	0	0.00	0.00	0.00	0.00	0.00	Matches
+304	Takefusa Kubo	jp JPN	MF	Real Sociedad	24	2001	24	17	1,503	16.7	2	4	6	2	0	0	2	0	0.12	0.24	0.36	0.12	0.36	Matches
+305	Marash Kumbulla	al ALB	DF	Mallorca	25	2000	8	5	439	4.9	0	0	0	0	0	0	1	0	0.00	0.00	0.00	0.00	0.00	Matches
+306	Adrián de la Fuente	es ESP	DF	Levante	26	1999	33	30	2,711	30.1	3	1	4	2	1	3	5	0	0.10	0.03	0.13	0.07	0.10	Matches
+307	Yoel Lago	es ESP	DF	Celta Vigo	21	2004	12	11	938	10.4	0	0	0	0	0	0	4	0	0.00	0.00	0.00	0.00	0.00	Matches
+308	Aymeric Laporte	es ESP	DF	Athletic Club	31	1994	25	24	2,058	22.9	0	1	1	0	0	0	4	0	0.00	0.04	0.04	0.00	0.04	Matches
+309	Toni Lato	es ESP	DF,MF	Mallorca	27	1997	12	7	583	6.5	0	1	1	0	0	0	3	0	0.00	0.15	0.15	0.00	0.15	Matches
+310	Robin Le Normand	es ESP	DF	Atlético Madrid	28	1996	28	17	1,789	19.9	1	1	2	1	0	0	5	0	0.05	0.05	0.10	0.05	0.10	Matches
+311	Álvaro Leiva	es ESP	FW	Real Madrid	22	2002	1	0	4	0.0	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+312	Florian Lejeune	fr FRA	DF	Rayo Vallecano	34	1991	36	36	3,230	35.9	2	1	3	2	0	0	7	0	0.06	0.03	0.08	0.06	0.08	Matches
+313	Youssef Lekhedim	es ESP	DF,MF	Alavés	19	2005	25	13	1,335	14.8	0	1	1	0	0	0	7	0	0.00	0.07	0.07	0.00	0.07	Matches
+314	Iñigo Lekue	es ESP	DF	Athletic Club	32	1993	11	8	600	6.7	0	0	0	0	0	0	2	2	0.00	0.00	0.00	0.00	0.00	Matches
+315	Thomas Lemar	fr FRA	MF	Girona	29	1995	27	14	1,258	14.0	3	1	4	3	0	0	4	0	0.21	0.07	0.29	0.21	0.29	Matches
+316	Ruben Lendinez	es ESP	DF	Valencia	22	2003	1	0	4	0.0	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+317	Clément Lenglet	fr FRA	DF	Atlético Madrid	30	1995	19	17	1,391	15.5	0	1	1	0	0	0	6	1	0.00	0.06	0.06	0.00	0.06	Matches
+318	Robert Lewandowski	pl POL	FW	Barcelona	36	1988	31	17	1,664	18.5	14	2	16	13	1	3	2	0	0.76	0.11	0.87	0.70	0.81	Matches
+319	Adrián Liso	es ESP	FW,MF	Getafe	20	2005	28	21	1,702	18.9	3	0	3	3	0	0	5	1	0.16	0.00	0.16	0.16	0.16	Matches
+320	Javier Llabrés	es ESP	MF	Mallorca	22	2002	16	1	187	2.1	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+321	Diego Llorente	es ESP	DF	Real Betis	31	1993	18	14	1,229	13.7	1	0	1	1	0	0	5	0	0.07	0.00	0.07	0.07	0.07	Matches
+322	Marcos Llorente	es ESP	DF,MF	Atlético Madrid	30	1995	29	25	2,181	24.2	0	4	4	0	0	0	7	1	0.00	0.17	0.17	0.00	0.17	Matches
+323	Giovani Lo Celso	ar ARG	MF	Real Betis	29	1996	24	15	1,393	15.5	2	3	5	2	0	0	4	0	0.13	0.19	0.32	0.13	0.32	Matches
+324	Ademola Lookman	ng NGA	FW,MF	Atlético Madrid	27	1997	12	9	617	6.9	4	0	4	3	1	1	1	0	0.58	0.00	0.58	0.44	0.44	Matches
+325	David López	es ESP	DF	Girona	35	1989	6	3	293	3.3	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+Rk 	Player 	Nation 	Pos 	Squad 	Age 	Born 	MP 	Starts 	Min 	90s 	Gls 	Ast 	G+A 	G-PK 	PK 	PKatt 	CrdY 	CrdR 	Gls 	Ast 	G+A 	G-PK 	G+A-PK 	Matches
+326	David López	es ESP	DF	Mallorca	22	2003	14	9	837	9.3	0	0	0	0	0	0	2	0	0.00	0.00	0.00	0.00	0.00	Matches
+327	Diego López	es ESP	MF,FW	Valencia	23	2002	34	20	1,762	19.6	4	1	5	4	0	0	2	0	0.20	0.05	0.26	0.20	0.26	Matches
+328	Fer López	es ESP	MF,FW	Celta Vigo	21	2004	17	13	1,170	13.0	1	1	2	1	0	0	3	0	0.08	0.08	0.15	0.08	0.15	Matches
+329	Fermin López	es ESP	MF	Barcelona	22	2003	30	19	1,797	20.0	6	9	15	6	0	0	3	0	0.30	0.45	0.75	0.30	0.75	Matches
+330	Hugo López	es ESP	MF	Villarreal	18	2007	2	1	56	0.6	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+331	Javi López	es ESP	DF	Oviedo	23	2002	25	20	1,711	19.0	0	1	1	0	0	0	3	1	0.00	0.05	0.05	0.00	0.05	Matches
+332	Pau López	es ESP	GK	Real Betis	30	1994	9	9	810	9.0	0	0	0	0	0	0	1	0	0.00	0.00	0.00	0.00	0.00	Matches
+333	Unai López	es ESP	MF	Rayo Vallecano	29	1995	28	19	1,612	17.9	0	4	4	0	0	0	8	1	0.00	0.22	0.22	0.00	0.22	Matches
+334	Iker Losada	es ESP	MF	Levante	23	2001	23	10	902	10.0	3	1	4	3	0	0	1	0	0.30	0.10	0.40	0.30	0.40	Matches
+335	Pol Lozano	es ESP	MF	Espanyol	25	1999	33	28	2,157	24.0	2	1	3	2	0	0	12	1	0.08	0.04	0.13	0.08	0.13	Matches
+336	Sergio Lozano	es ESP	MF	Levante	26	1999	1	0	12	0.1	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+337	Oier Luengo	es ESP	DF	Oviedo	27	1997	3	3	225	2.5	0	1	1	0	0	0	1	0	0.00	0.40	0.40	0.00	0.40	Matches
+338	José Luis Gayà	es ESP	DF	Valencia	30	1995	32	31	2,448	27.2	1	2	3	1	0	0	6	1	0.04	0.07	0.11	0.04	0.11	Matches
+339	José Luis Morales	es ESP	MF	Levante	38	1987	20	1	363	4.0	1	1	2	0	1	1	1	0	0.25	0.25	0.50	0.00	0.25	Matches
+340	Dodi Lukebakio	be BEL	MF	Sevilla	27	1997	2	2	180	2.0	1	0	1	1	0	0	0	0	0.50	0.00	0.50	0.50	0.50	Matches
+341	Andriy Lunin	ua UKR	GK	Real Madrid	26	1999	6	6	540	6.0	0	0	0	0	0	0	0	1	0.00	0.00	0.00	0.00	0.00	Matches
+342	Iker Luque	es ESP	DF	Atlético Madrid	20	2005	1	0	28	0.3	1	0	1	1	0	0	0	0	3.21	0.00	3.21	3.21	3.21	Matches
+343	Zito Luvumbo	ao ANG	FW,MF	Mallorca	23	2002	10	6	508	5.6	0	2	2	0	0	0	2	0	0.00	0.35	0.35	0.00	0.35	Matches
+344	Carlos Macià	es ESP	MF	Villarreal	16	2008	5	0	83	0.9	0	0	0	0	0	0	1	0	0.00	0.00	0.00	0.00	0.00	Matches
+345	Pablo Maffeo	es ESP	DF	Mallorca	28	1997	31	30	2,662	29.6	1	2	3	1	0	0	11	0	0.03	0.07	0.10	0.03	0.10	Matches
+346	Aitor Mañas	es ESP	FW	Alavés	22	2003	9	0	122	1.4	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+347	Marcão	br BRA	DF	Sevilla	29	1996	13	11	938	10.4	1	0	1	1	0	0	5	1	0.10	0.00	0.10	0.10	0.10	Matches
+348	José María Giménez	uy URU	DF	Atlético Madrid	30	1995	16	13	1,178	13.1	0	1	1	0	0	0	3	0	0.00	0.08	0.08	0.00	0.08	Matches
+349	Mariano	do DOM	FW	Alavés	31	1993	10	3	288	3.2	0	0	0	0	0	0	1	0	0.00	0.00	0.00	0.00	0.00	Matches
+350	Arkaitz Mariezkurrena	es ESP	FW	Real Sociedad	20	2005	1	0	1	0.0	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+Rk 	Player 	Nation 	Pos 	Squad 	Age 	Born 	MP 	Starts 	Min 	90s 	Gls 	Ast 	G+A 	G-PK 	PK 	PKatt 	CrdY 	CrdR 	Gls 	Ast 	G+A 	G-PK 	G+A-PK 	Matches
+351	Pablo Marín	es ESP	MF	Real Sociedad	22	2003	34	15	1,502	16.7	0	1	1	0	0	0	2	0	0.00	0.06	0.06	0.00	0.06	Matches
+352	Rafa Marín	es ESP	DF	Villarreal	23	2002	23	21	1,979	22.0	1	0	1	1	0	0	1	0	0.05	0.00	0.05	0.05	0.05	Matches
+353	Tomas Marques	es ESP	MF	Barcelona	18	2006	2	0	11	0.1	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+354	Unai Marrero	es ESP	GK	Real Sociedad	23	2001	1	1	90	1.0	0	0	0	0	0	0	1	0	0.00	0.00	0.00	0.00	0.00	Matches
+355	Carlos Martín	es ESP	MF,FW	Rayo Vallecano	23	2002	11	7	450	5.0	0	0	0	0	0	0	1	0	0.00	0.00	0.00	0.00	0.00	Matches
+356	Gerard Martín	es ESP	DF	Barcelona	23	2002	32	26	2,119	23.5	0	0	0	0	0	0	6	0	0.00	0.00	0.00	0.00	0.00	Matches
+357	Iván Martín	es ESP	MF	Girona	26	1999	35	29	2,532	28.1	0	1	1	0	0	0	5	1	0.00	0.04	0.04	0.00	0.04	Matches
+358	Jon Martin	es ESP	DF	Real Sociedad	19	2006	25	25	2,250	25.0	2	0	2	2	0	0	6	0	0.08	0.00	0.08	0.08	0.08	Matches
+359	Mario Martín	es ESP	MF,FW	Getafe	21	2004	35	26	2,125	23.6	2	1	3	2	0	0	11	0	0.08	0.04	0.13	0.08	0.13	Matches
+360	Arnau Martinez	es ESP	DF,MF	Girona	22	2003	35	33	2,666	29.6	2	3	5	2	0	0	6	0	0.07	0.10	0.17	0.07	0.17	Matches
+361	Daniel Martinez	es ESP	DF	Atlético Madrid	21	2004	1	1	90	1.0	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+362	Joaquín Martínez Gauna	es ESP	MF,DF	Sevilla	22	2003	21	14	1,408	15.6	2	3	5	2	0	0	1	0	0.13	0.19	0.32	0.13	0.32	Matches
+363	Pablo Martínez	es ESP	MF	Levante	27	1998	27	21	1,857	20.6	1	5	6	1	0	0	3	0	0.05	0.24	0.29	0.05	0.29	Matches
+364	Ramón Martínez	es ESP	DF	Sevilla	22	2002	2	0	102	1.1	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+365	Toni Martínez	es ESP	FW	Alavés	28	1997	37	32	2,714	30.2	14	3	17	13	1	1	2	0	0.46	0.10	0.56	0.43	0.53	Matches
+366	Omar Mascarell	gq EQG	MF,DF	Mallorca	32	1993	30	26	2,239	24.9	2	2	4	2	0	0	5	0	0.08	0.08	0.16	0.08	0.16	Matches
+367	Franco Mastantuono	ar ARG	MF,FW	Real Madrid	17	2007	23	11	1,037	11.5	1	0	1	1	0	0	5	1	0.09	0.00	0.09	0.09	0.09	Matches
+368	Alan Matturro	uy URU	DF	Levante	20	2004	19	10	947	10.5	1	1	2	1	0	0	0	1	0.10	0.10	0.19	0.10	0.19	Matches
+369	Neal Maupay	fr FRA	FW	Sevilla	28	1996	12	10	865	9.6	2	1	3	2	0	0	2	0	0.21	0.10	0.31	0.21	0.31	Matches
+370	Borja Mayoral	es ESP	FW	Getafe	28	1997	16	12	1,058	11.8	4	1	5	4	0	1	0	0	0.34	0.09	0.43	0.34	0.43	Matches
+371	Kylian Mbappé	fr FRA	FW	Real Madrid	26	1998	31	29	2,599	28.9	25	5	30	17	8	9	4	0	0.87	0.17	1.04	0.59	0.76	Matches
+372	Brais Méndez	es ESP	MF,FW	Real Sociedad	28	1997	29	21	1,660	18.4	6	2	8	5	1	2	4	1	0.33	0.11	0.43	0.27	0.38	Matches
+373	Rodrigo Mendoza	es ESP	MF	Atlético Madrid	20	2005	8	8	434	4.8	0	1	1	0	0	0	2	0	0.00	0.21	0.21	0.00	0.21	Matches
+374	Rodrigo Mendoza	es ESP	MF,FW	Elche	20	2005	16	6	794	8.8	1	0	1	1	0	0	4	0	0.11	0.00	0.11	0.11	0.11	Matches
+375	Batista Mendy	fr FRA	MF	Sevilla	25	2000	27	19	1,617	18.0	1	0	1	1	0	0	6	0	0.06	0.00	0.06	0.06	0.06	Matches
+Rk 	Player 	Nation 	Pos 	Squad 	Age 	Born 	MP 	Starts 	Min 	90s 	Gls 	Ast 	G+A 	G-PK 	PK 	PKatt 	CrdY 	CrdR 	Gls 	Ast 	G+A 	G-PK 	G+A-PK 	Matches
+376	Ferland Mendy	fr FRA	DF	Real Madrid	30	1995	5	3	207	2.3	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+377	Nobel Mendy	sn SEN	DF	Rayo Vallecano	20	2004	24	22	1,797	20.0	2	0	2	2	0	0	9	2	0.10	0.00	0.10	0.10	0.10	Matches
+378	Alejandro Mestanza	es ESP	MF	Getafe	20	2004	3	1	71	0.8	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+379	Georges Mikautadze	ge GEO	FW	Villarreal	24	2000	32	23	2,109	23.4	13	6	19	13	0	0	1	0	0.55	0.26	0.81	0.55	0.81	Matches
+380	Éder Militão	br BRA	DF	Real Madrid	27	1998	16	14	1,139	12.7	2	1	3	2	0	0	2	0	0.16	0.08	0.24	0.16	0.24	Matches
+381	Luis Milla	es ESP	MF	Getafe	30	1994	37	37	3,271	36.3	1	10	11	1	0	0	5	1	0.03	0.28	0.30	0.03	0.30	Matches
+382	Pere Milla	es ESP	MF,FW	Espanyol	32	1992	33	24	1,973	21.9	7	1	8	7	0	0	6	1	0.32	0.05	0.36	0.32	0.36	Matches
+383	Óscar Mingueza	es ESP	MF	Celta Vigo	26	1999	34	21	1,968	21.9	1	4	5	1	0	0	4	0	0.05	0.18	0.23	0.05	0.23	Matches
+384	Bojan Miovski	mk MKD	FW	Girona	26	1999	1	1	44	0.5	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+385	Rafa Mir	es ESP	FW,MF	Elche	28	1997	27	21	1,803	20.0	8	0	8	7	1	2	4	0	0.40	0.00	0.40	0.35	0.35	Matches
+386	Johan Mojica	co COL	DF	Mallorca	32	1992	35	30	2,724	30.3	0	4	4	0	0	0	6	1	0.00	0.13	0.13	0.00	0.13	Matches
+387	Horaţiu Moldovan	ro ROU	GK	Oviedo	27	1998	2	2	180	2.0	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+388	Alberto Moleiro	es ESP	MF	Villarreal	21	2003	37	30	2,478	27.5	10	5	15	10	0	0	4	0	0.36	0.18	0.54	0.36	0.54	Matches
+389	Nahuel Molina	ar ARG	DF,MF	Atlético Madrid	27	1998	26	13	1,331	14.8	2	2	4	2	0	0	4	0	0.14	0.14	0.27	0.14	0.27	Matches
+390	Jon Moncayola	es ESP	MF	Osasuna	27	1998	36	35	3,016	33.5	0	4	4	0	0	0	9	0	0.00	0.12	0.12	0.00	0.12	Matches
+391	Jano Monserrate	es ESP	MF	Atlético Madrid	19	2006	2	0	23	0.3	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+392	Jorge Montes	es ESP	DF	Getafe	21	2004	1	0	27	0.3	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+393	Diego Morcillo	es ESP	FW	Alavés	22	2003	1	0	10	0.1	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+394	Javi Morcillo	es ESP	MF	Atlético Madrid	19	2006	5	1	172	1.9	0	0	0	0	0	0	2	0	0.00	0.00	0.00	0.00	0.00	Matches
+395	Álex Moreno	es ESP	DF	Girona	32	1993	31	28	2,559	28.4	0	3	3	0	0	0	5	0	0.00	0.11	0.11	0.00	0.11	Matches
+396	Gerard Moreno	es ESP	FW	Villarreal	33	1992	22	16	1,343	14.9	10	0	10	7	3	3	0	0	0.67	0.00	0.67	0.47	0.47	Matches
+397	Matias Moreno	ar ARG	DF	Levante	21	2003	28	27	2,252	25.0	0	0	0	0	0	0	8	0	0.00	0.00	0.00	0.00	0.00	Matches
+398	Tete Morente	es ESP	MF	Elche	28	1996	13	11	929	10.3	1	1	2	1	0	0	1	0	0.10	0.10	0.19	0.10	0.19	Matches
+399	Mateu Morey	es ESP	DF,MF	Mallorca	25	2000	18	9	704	7.8	1	0	1	1	0	0	2	0	0.13	0.00	0.13	0.13	0.13	Matches
+400	Ilaix Moriba	gn GUI	MF	Celta Vigo	22	2003	36	26	2,495	27.7	2	3	5	2	0	0	8	0	0.07	0.11	0.18	0.07	0.18	Matches
+Rk 	Player 	Nation 	Pos 	Squad 	Age 	Born 	MP 	Starts 	Min 	90s 	Gls 	Ast 	G+A 	G-PK 	PK 	PKatt 	CrdY 	CrdR 	Gls 	Ast 	G+A 	G-PK 	G+A-PK 	Matches
+401	Manu Morlanes	es ESP	MF	Mallorca	26	1999	32	22	1,765	19.6	3	0	3	3	0	0	5	1	0.15	0.00	0.15	0.15	0.15	Matches
+402	Raúl Moro	es ESP	MF	Osasuna	22	2002	14	7	625	6.9	0	2	2	0	0	0	0	0	0.00	0.29	0.29	0.00	0.29	Matches
+403	Santiago Mouriño	uy URU	DF	Villarreal	23	2002	28	27	2,377	26.4	1	2	3	1	0	0	11	1	0.04	0.08	0.11	0.04	0.11	Matches
+404	Abdul Mumin	gh GHA	DF	Rayo Vallecano	27	1998	3	1	79	0.9	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+405	Aihen Muñoz	es ESP	DF	Real Sociedad	27	1997	21	9	848	9.4	1	0	1	1	0	0	1	0	0.11	0.00	0.11	0.11	0.11	Matches
+406	Iker Muñoz	es ESP	MF	Osasuna	22	2002	19	8	952	10.6	0	0	0	0	0	0	5	0	0.00	0.00	0.00	0.00	0.00	Matches
+407	Javier Muñoz	es ESP	MF,FW	Getafe	30	1995	17	4	551	6.1	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+408	Víctor Muñoz	es ESP	MF,FW	Osasuna	22	2003	34	31	2,656	29.5	6	2	8	6	0	0	3	0	0.20	0.07	0.27	0.20	0.27	Matches
+409	Vedat Muriqi	xk KVX	FW	Mallorca	31	1994	37	36	3,128	34.8	23	1	24	18	5	7	4	1	0.66	0.03	0.69	0.52	0.55	Matches
+410	Juan Musso	ar ARG	GK	Atlético Madrid	31	1994	8	8	720	8.0	0	0	0	0	0	0	2	0	0.00	0.00	0.00	0.00	0.00	Matches
+411	Natan	br BRA	DF	Real Betis	24	2001	33	32	2,807	31.2	0	0	0	0	0	0	8	0	0.00	0.00	0.00	0.00	0.00	Matches
+412	Pau Navarro	es ESP	DF	Villarreal	20	2005	23	23	1,921	21.3	0	0	0	0	0	0	4	0	0.00	0.00	0.00	0.00	0.00	Matches
+413	Roberto Navarro	es ESP	MF	Athletic Club	23	2002	32	10	1,307	14.5	6	1	7	6	0	0	1	0	0.41	0.07	0.48	0.41	0.48	Matches
+414	Martim Neto	pt POR	MF	Elche	22	2003	25	15	1,347	15.0	2	5	7	2	0	0	3	0	0.13	0.33	0.47	0.13	0.47	Matches
+415	Yvan Neyou	cm CMR	MF	Getafe	28	1997	5	0	67	0.7	0	0	0	0	0	0	2	0	0.00	0.00	0.00	0.00	0.00	Matches
+416	Cyril Ngonge	be BEL	MF	Espanyol	25	2000	9	6	424	4.7	0	2	2	0	0	0	4	0	0.00	0.42	0.42	0.00	0.42	Matches
+417	Tanguy Nianzou	fr FRA	DF	Sevilla	23	2002	12	8	655	7.3	0	0	0	0	0	0	5	1	0.00	0.00	0.00	0.00	0.00	Matches
+418	Randy Nteka	ao ANG	FW	Rayo Vallecano	27	1997	13	3	374	4.2	3	0	3	3	0	1	3	0	0.72	0.00	0.72	0.72	0.72	Matches
+419	Álvaro Núñez	es ESP	DF,MF	Elche	25	2000	19	19	1,647	18.3	0	2	2	0	0	0	2	0	0.00	0.11	0.11	0.00	0.11	Matches
+420	Álvaro Núñez	es ESP	DF,MF	Celta Vigo	25	2000	6	5	328	3.6	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+421	Unai Núñez	es ESP	DF	Valencia	28	1997	13	10	911	10.1	0	0	0	0	0	0	3	0	0.00	0.00	0.00	0.00	0.00	Matches
+422	Ørjan Nyland	no NOR	GK	Sevilla	34	1990	5	5	450	5.0	0	0	0	0	0	0	1	0	0.00	0.00	0.00	0.00	0.00	Matches
+423	Allan Nyom	cm CMR	DF	Getafe	37	1988	15	7	523	5.8	0	1	1	0	0	0	6	1	0.00	0.17	0.17	0.00	0.17	Matches
+424	Jan Oblak	si SVN	GK	Atlético Madrid	32	1993	30	30	2,700	30.0	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+425	Job Ochieng'	ke KEN	MF	Real Sociedad	22	2003	2	1	93	1.0	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+Rk 	Player 	Nation 	Pos 	Squad 	Age 	Born 	MP 	Starts 	Min 	90s 	Gls 	Ast 	G+A 	G-PK 	PK 	PKatt 	CrdY 	CrdR 	Gls 	Ast 	G+A 	G-PK 	G+A-PK 	Matches
+426	Álvaro Odriozola	es ESP	DF	Real Sociedad	29	1995	5	2	201	2.2	1	0	1	1	0	0	0	0	0.45	0.00	0.45	0.45	0.45	Matches
+427	Javier Olaizola	es ESP	DF	Mallorca	18	2007	2	0	51	0.6	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+428	Olasagasti	es ESP	MF	Levante	24	2000	33	18	1,734	19.3	1	5	6	1	0	0	2	1	0.05	0.26	0.31	0.05	0.31	Matches
+429	Dani Olmo	es ESP	MF	Barcelona	27	1998	33	24	2,067	23.0	7	8	15	7	0	0	1	0	0.30	0.35	0.65	0.30	0.65	Matches
+430	Tani Oluwaseyi	ca CAN	FW	Villarreal	25	2000	27	9	901	10.0	2	2	4	2	0	0	1	0	0.20	0.20	0.40	0.20	0.40	Matches
+431	Luis Orejuela		DF	Mallorca			1	1	90	1.0	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+432	Aimar Oroz	es ESP	MF,FW	Osasuna	23	2001	31	26	2,139	23.8	0	2	2	0	0	0	6	0	0.00	0.08	0.08	0.00	0.08	Matches
+433	Ángel Ortíz	es ESP	DF	Real Betis	21	2004	13	7	584	6.5	0	0	0	0	0	0	1	0	0.00	0.00	0.00	0.00	0.00	Matches
+434	Asier Osambela	es ESP	DF	Osasuna	21	2004	17	2	343	3.8	1	0	1	1	0	0	1	1	0.26	0.00	0.26	0.26	0.26	Matches
+435	Azzedine Ounahi	ma MAR	MF	Girona	25	2000	24	20	1,760	19.6	5	2	7	4	1	1	6	0	0.26	0.10	0.36	0.20	0.31	Matches
+436	Mikel Oyarzabal	es ESP	FW	Real Sociedad	28	1997	34	30	2,710	30.1	15	4	19	8	7	7	3	0	0.50	0.13	0.63	0.27	0.40	Matches
+437	Jon Pacheco	es ESP	DF	Alavés	24	2001	22	20	1,735	19.3	0	0	0	0	0	0	5	1	0.00	0.00	0.00	0.00	0.00	Matches
+438	Alex Padilla	es ESP	GK	Athletic Club	21	2003	1	1	90	1.0	0	0	0	0	0	0	0	1	0.00	0.00	0.00	0.00	0.00	Matches
+439	César Palacios	es ESP	MF	Real Madrid	20	2004	5	0	86	1.0	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+440	Isaac Palazón Camacho	es ESP	MF,FW	Rayo Vallecano	30	1994	31	27	2,248	25.0	3	3	6	1	2	3	10	1	0.12	0.12	0.24	0.04	0.16	Matches
+441	Diego Pampín	es ESP	DF	Levante	25	2000	8	6	534	5.9	0	0	0	0	0	0	3	0	0.00	0.00	0.00	0.00	0.00	Matches
+442	Victor Parada	es ESP	DF	Alavés	23	2002	30	25	2,146	23.8	0	3	3	0	0	0	9	1	0.00	0.13	0.13	0.00	0.13	Matches
+443	Aitor Paredes	es ESP	DF	Athletic Club	25	2000	19	18	1,630	18.1	2	0	2	2	0	0	4	0	0.11	0.00	0.11	0.11	0.11	Matches
+444	Daniel Parejo	es ESP	MF	Villarreal	36	1989	32	16	1,392	15.5	1	0	1	0	1	1	3	0	0.06	0.00	0.06	0.00	0.00	Matches
+445	Thomas Partey	gh GHA	MF	Villarreal	32	1993	25	8	934	10.4	0	0	0	0	0	0	1	0	0.00	0.00	0.00	0.00	0.00	Matches
+446	Alfonso Pedraza	es ESP	DF	Villarreal	29	1996	27	19	1,689	18.8	1	3	4	1	0	0	8	0	0.05	0.16	0.21	0.05	0.21	Matches
+447	Pedri	es ESP	MF	Barcelona	22	2002	29	23	2,104	23.4	2	9	11	2	0	0	2	1	0.09	0.38	0.47	0.09	0.47	Matches
+448	Adrià Pedrosa	es ESP	DF,MF	Sevilla	27	1998	1	0	6	0.1	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+449	Adrià Pedrosa	es ESP	DF,MF	Elche	27	1998	26	8	1,090	12.1	1	1	2	1	0	0	4	0	0.08	0.08	0.17	0.08	0.17	Matches
+450	Iñaki Peña	es ESP	GK	Elche	26	1999	16	16	1,440	16.0	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+Rk 	Player 	Nation 	Pos 	Squad 	Age 	Born 	MP 	Starts 	Min 	90s 	Gls 	Ast 	G+A 	G-PK 	PK 	PKatt 	CrdY 	CrdR 	Gls 	Ast 	G+A 	G-PK 	G+A-PK 	Matches
+451	Nicolas Pépé	ci CIV	MF,FW	Villarreal	30	1995	36	26	2,393	26.6	8	8	16	7	1	1	4	0	0.30	0.30	0.60	0.26	0.56	Matches
+452	Peque	es ESP	MF,FW	Sevilla	22	2002	26	12	982	10.9	2	1	3	2	0	0	7	0	0.18	0.09	0.27	0.18	0.27	Matches
+453	Ángel Pérez	es ESP	MF,DF	Alavés	22	2002	16	14	1,288	14.3	1	3	4	1	0	0	4	0	0.07	0.21	0.28	0.07	0.28	Matches
+454	Ayoze Pérez	es ESP	FW	Villarreal	32	1993	25	12	1,124	12.5	5	4	9	4	1	1	4	0	0.40	0.32	0.72	0.32	0.64	Matches
+455	Francisco Perez	es ESP	MF,FW	Rayo Vallecano	22	2002	29	12	1,237	13.7	2	1	3	2	0	0	4	0	0.15	0.07	0.22	0.15	0.22	Matches
+456	Joselu Pérez	es ESP	DF	Getafe	21	2004	2	0	22	0.2	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+457	Nacho Pérez	es ESP	DF	Levante	16	2008	3	1	148	1.6	0	0	0	0	0	0	1	0	0.00	0.00	0.00	0.00	0.00	Matches
+458	Léo Pétrot	fr FRA	DF	Elche	28	1997	32	18	1,572	17.5	0	0	0	0	0	0	2	1	0.00	0.00	0.00	0.00	0.00	Matches
+459	Charles Pickel	cd COD	MF	Espanyol	28	1997	24	4	707	7.9	1	0	1	1	0	0	4	2	0.13	0.00	0.13	0.13	0.13	Matches
+460	Thiago Pinar	es ESP	MF	Real Madrid	17	2007	10	8	592	6.6	0	2	2	0	0	0	2	0	0.00	0.30	0.30	0.00	0.30	Matches
+461	Lander Pinillos	es ESP	MF	Alavés	21	2003	1	0	2	0.0	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+462	Yeremi Pino	es ESP	MF	Villarreal	22	2002	2	2	159	1.8	0	1	1	0	0	0	0	0	0.00	0.57	0.57	0.00	0.57	Matches
+463	Portu	es ESP	FW,MF	Girona	33	1992	10	4	474	5.3	0	0	0	0	0	0	2	0	0.00	0.00	0.00	0.00	0.00	Matches
+464	Beñat Prados	es ESP	MF	Athletic Club	24	2001	2	1	85	0.9	0	0	0	0	0	0	1	0	0.00	0.00	0.00	0.00	0.00	Matches
+465	Abdón Prats	es ESP	FW	Mallorca	32	1992	15	0	143	1.6	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+466	Javi Puado	es ESP	MF,FW	Espanyol	27	1998	10	8	674	7.5	2	0	2	1	1	2	2	0	0.27	0.00	0.27	0.13	0.13	Matches
+467	Marc Pubill	es ESP	DF	Atlético Madrid	22	2003	19	15	1,381	15.3	1	1	2	1	0	0	2	0	0.07	0.07	0.13	0.07	0.13	Matches
+468	Aleksa Puric	rs SRB	DF	Atlético Madrid	22	2003	2	0	46	0.5	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+469	Dani Raba	es ESP	FW	Valencia	29	1995	13	3	270	3.0	0	1	1	0	0	0	0	0	0.00	0.33	0.33	0.00	0.33	Matches
+470	Ionuț Radu	ro ROU	GK	Celta Vigo	28	1997	38	38	3,420	38.0	0	0	0	0	0	0	2	0	0.00	0.00	0.00	0.00	0.00	Matches
+471	Ugo Raghouber	fr FRA	MF	Levante	22	2003	16	8	706	7.8	0	0	0	0	0	0	1	0	0.00	0.00	0.00	0.00	0.00	Matches
+472	Antonio Raillo	es ESP	DF	Mallorca	33	1991	24	23	2,070	23.0	0	1	1	0	0	0	4	0	0.00	0.04	0.04	0.00	0.04	Matches
+473	Largie Ramazani	be BEL	MF,FW	Valencia	24	2001	27	11	1,234	13.7	6	1	7	3	3	3	4	0	0.44	0.07	0.51	0.22	0.29	Matches
+474	Raphinha	br BRA	MF,FW	Barcelona	28	1996	22	18	1,380	15.3	13	3	16	10	3	3	5	0	0.85	0.20	1.04	0.65	0.85	Matches
+475	Marcus Rashford	eng ENG	MF,FW	Barcelona	27	1997	32	18	1,763	19.6	8	7	15	8	0	0	3	0	0.41	0.36	0.77	0.41	0.77	Matches
+Rk 	Player 	Nation 	Pos 	Squad 	Age 	Born 	MP 	Starts 	Min 	90s 	Gls 	Ast 	G+A 	G-PK 	PK 	PKatt 	CrdY 	CrdR 	Gls 	Ast 	G+A 	G-PK 	G+A-PK 	Matches
+476	Giacomo Raspadori	it ITA	FW	Atlético Madrid	25	2000	12	1	236	2.6	0	1	1	0	0	0	1	0	0.00	0.38	0.38	0.00	0.38	Matches
+477	Andrei Ratiu	ro ROU	DF	Rayo Vallecano	27	1998	35	31	2,807	31.2	0	4	4	0	0	0	9	0	0.00	0.13	0.13	0.00	0.13	Matches
+478	Raúl	es ESP	FW	Osasuna	24	2000	36	6	1,041	11.6	7	1	8	7	0	0	2	1	0.61	0.09	0.69	0.61	0.69	Matches
+479	Abde Rebbach	dz ALG	MF,DF	Alavés	26	1998	30	15	1,496	16.6	1	4	5	1	0	0	8	0	0.06	0.24	0.30	0.06	0.30	Matches
+480	Federico Redondo	ar ARG	MF	Elche	22	2003	11	1	179	2.0	0	0	0	0	0	0	0	1	0.00	0.00	0.00	0.00	0.00	Matches
+481	Alejandro Rego	es ESP	MF	Athletic Club	22	2003	29	11	1,279	14.2	1	1	2	1	0	0	6	0	0.07	0.07	0.14	0.07	0.14	Matches
+482	Alberto Reina	es ESP	MF	Oviedo	27	1997	37	31	2,462	27.4	4	1	5	4	0	0	6	1	0.15	0.04	0.18	0.15	0.18	Matches
+483	Vitor Reis	br BRA	DF	Girona	19	2006	36	35	3,138	34.9	1	1	2	1	0	0	9	1	0.03	0.03	0.06	0.03	0.06	Matches
+484	Álex Remiro	es ESP	GK	Real Sociedad	30	1995	37	37	3,330	37.0	0	0	0	0	0	0	1	0	0.00	0.00	0.00	0.00	0.00	Matches
+485	Oriol Rey	es ESP	MF	Levante	27	1998	20	14	1,319	14.7	0	1	1	0	0	0	4	0	0.00	0.07	0.07	0.00	0.07	Matches
+486	Diego Rico	es ESP	DF	Getafe	32	1993	28	18	1,758	19.5	0	0	0	0	0	0	4	0	0.00	0.00	0.00	0.00	0.00	Matches
+487	Clemens Riedel	de GER	DF	Espanyol	22	2003	20	16	1,396	15.5	0	1	1	0	0	0	5	0	0.00	0.06	0.06	0.00	0.06	Matches
+488	Hugo Rincón	es ESP	DF	Girona	22	2003	33	16	1,750	19.4	1	1	2	1	0	0	4	0	0.05	0.05	0.10	0.05	0.10	Matches
+489	Luis Rioja	es ESP	MF	Valencia	31	1993	37	31	2,624	29.2	3	6	9	3	0	0	1	0	0.10	0.21	0.31	0.10	0.31	Matches
+490	Rodrigo Riquelme	es ESP	MF	Real Betis	25	2000	25	7	821	9.1	1	1	2	1	0	0	2	0	0.11	0.11	0.22	0.11	0.22	Matches
+491	Mihailo Ristić	rs SRB	MF,DF	Celta Vigo	29	1995	5	4	253	2.8	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+492	Joel Roca	es ESP	MF,FW	Girona	20	2005	32	16	1,473	16.4	3	1	4	3	0	0	4	1	0.18	0.06	0.24	0.18	0.24	Matches
+493	Marc Roca	es ESP	MF	Real Betis	28	1996	29	23	2,026	22.5	1	1	2	1	0	0	1	0	0.04	0.04	0.09	0.04	0.09	Matches
+494	Álvaro Rodríguez	uy URU	FW	Elche	21	2004	34	24	2,201	24.5	7	5	12	7	0	0	2	0	0.29	0.20	0.49	0.29	0.49	Matches
+495	Damián Rodríguez	es ESP	MF	Celta Vigo	22	2003	2	2	150	1.7	0	0	0	0	0	0	1	0	0.00	0.00	0.00	0.00	0.00	Matches
+496	Dani Rodríguez	es ESP	FW,MF	Mallorca	37	1988	2	0	68	0.8	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+497	Guido Rodríguez	ar ARG	MF	Valencia	31	1994	16	14	1,309	14.5	4	0	4	4	0	0	4	0	0.28	0.00	0.28	0.28	0.28	Matches
+498	Javi Rodríguez	es ESP	DF	Celta Vigo	22	2003	33	28	2,558	28.4	0	1	1	0	0	0	5	0	0.00	0.04	0.04	0.00	0.04	Matches
+499	Ricardo Rodríguez	ch SUI	DF	Real Betis	32	1992	23	18	1,547	17.2	0	1	1	0	0	0	0	0	0.00	0.06	0.06	0.00	0.06	Matches
+500	Rodrygo	br BRA	MF,FW	Real Madrid	24	2001	19	6	684	7.6	1	3	4	1	0	0	3	0	0.13	0.39	0.53	0.13	0.53	Matches
+Rk 	Player 	Nation 	Pos 	Squad 	Age 	Born 	MP 	Starts 	Min 	90s 	Gls 	Ast 	G+A 	G-PK 	PK 	PKatt 	CrdY 	CrdR 	Gls 	Ast 	G+A 	G-PK 	G+A-PK 	Matches
+501	Leo Román	es ESP	GK	Mallorca	25	2000	33	33	2,970	33.0	0	0	0	0	0	0	4	0	0.00	0.00	0.00	0.00	0.00	Matches
+502	Miguel Román	es ESP	MF	Celta Vigo	22	2002	19	14	1,311	14.6	1	0	1	1	0	0	3	0	0.07	0.00	0.07	0.07	0.07	Matches
+503	Carlos Romero	es ESP	DF	Espanyol	23	2001	36	36	3,191	35.5	6	3	9	6	0	0	4	0	0.17	0.08	0.25	0.17	0.25	Matches
+504	Isaac Romero	es ESP	FW,MF	Sevilla	25	2000	29	18	1,484	16.5	4	0	4	4	0	1	6	1	0.24	0.00	0.24	0.24	0.24	Matches
+505	Iván Romero	es ESP	FW,MF	Levante	24	2001	32	28	2,259	25.1	7	1	8	7	0	1	5	0	0.28	0.04	0.32	0.28	0.32	Matches
+506	Zaid Romero	ar ARG	DF	Getafe	25	1999	15	15	1,349	15.0	1	0	1	1	0	0	5	1	0.07	0.00	0.07	0.07	0.07	Matches
+507	Salomón Rondón	ve VEN	FW	Oviedo	35	1989	16	13	1,032	11.5	2	0	2	2	0	1	2	0	0.17	0.00	0.17	0.17	0.17	Matches
+508	Valentin Rosier	fr FRA	DF,MF	Osasuna	28	1996	31	30	2,547	28.3	1	1	2	1	0	0	6	1	0.04	0.04	0.07	0.04	0.07	Matches
+509	Rubén	es ESP	DF,MF	Espanyol	24	2001	21	8	812	9.0	0	1	1	0	0	0	2	0	0.00	0.11	0.11	0.00	0.11	Matches
+510	Antonio Rüdiger	de GER	DF	Real Madrid	32	1993	18	16	1,490	16.6	1	0	1	1	0	0	0	0	0.06	0.00	0.06	0.06	0.06	Matches
+511	Javi Rueda	es ESP	MF	Celta Vigo	23	2002	26	16	1,404	15.6	2	6	8	2	0	0	6	0	0.13	0.38	0.51	0.13	0.51	Matches
+512	Matteo Ruggeri	it ITA	DF	Atlético Madrid	23	2002	26	20	1,774	19.7	0	3	3	0	0	0	4	0	0.00	0.15	0.15	0.00	0.15	Matches
+513	Aitor Ruibal	es ESP	DF,MF	Real Betis	29	1996	27	20	1,808	20.1	4	2	6	4	0	0	6	1	0.20	0.10	0.30	0.20	0.30	Matches
+514	Abel Ruiz	es ESP	FW	Girona	25	2000	9	0	187	2.1	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+515	Iñaki Rupérez	es ESP	DF	Real Sociedad	22	2003	1	0	1	0.0	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+516	Mathew Ryan	au AUS	GK	Levante	33	1992	36	36	3,240	36.0	0	0	0	0	0	0	4	0	0.00	0.00	0.00	0.00	0.00	Matches
+517	Umar Sadiq	ng NGA	FW	Valencia	28	1997	20	8	911	10.1	4	2	6	4	0	0	3	0	0.40	0.20	0.59	0.40	0.59	Matches
+518	Umar Sadiq	ng NGA	FW	Real Sociedad	28	1997	5	2	153	1.7	0	0	0	0	0	0	1	0	0.00	0.00	0.00	0.00	0.00	Matches
+519	Jan Salas	es ESP	MF	Mallorca	19	2005	2	0	17	0.2	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+520	Kike Salas	es ESP	DF	Sevilla	23	2002	26	24	2,203	24.5	2	0	2	2	0	0	1	0	0.08	0.00	0.08	0.08	0.08	Matches
+521	José Salinas	es ESP	DF	Espanyol	24	2000	11	2	257	2.9	0	0	0	0	0	0	2	0	0.00	0.00	0.00	0.00	0.00	Matches
+522	Oihan Sancet	es ESP	MF	Athletic Club	25	2000	28	22	1,788	19.9	4	0	4	2	2	2	4	1	0.20	0.00	0.20	0.10	0.10	Matches
+523	Álex Sánchez	es ESP	FW	Elche	19	2006	1	0	6	0.1	0	1	1	0	0	0	0	0	0.00	15.00	15.00	0.00	15.00	Matches
+524	Alexis Sánchez	cl CHI	FW,MF	Sevilla	36	1988	28	11	1,308	14.5	4	2	6	3	1	1	3	0	0.28	0.14	0.41	0.21	0.34	Matches
+525	Antonio Sánchez	es ESP	MF,DF	Mallorca	28	1997	30	9	1,073	11.9	0	0	0	0	0	0	5	1	0.00	0.00	0.00	0.00	0.00	Matches
+Rk 	Player 	Nation 	Pos 	Squad 	Age 	Born 	MP 	Starts 	Min 	90s 	Gls 	Ast 	G+A 	G-PK 	PK 	PKatt 	CrdY 	CrdR 	Gls 	Ast 	G+A 	G-PK 	G+A-PK 	Matches
+526	Juanlu Sánchez	es ESP	MF,DF	Sevilla	21	2003	32	23	1,990	22.1	0	3	3	0	0	0	6	1	0.00	0.14	0.14	0.00	0.14	Matches
+527	Borja Sánchez Laborde	es ESP	MF	Oviedo	29	1996	1	0	14	0.2	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+528	Manu Sánchez	es ESP	DF	Levante	24	2000	33	31	2,814	31.3	1	2	3	1	0	0	8	0	0.03	0.06	0.10	0.03	0.10	Matches
+529	Selton Sánchez	es ESP	MF	Athletic Club	18	2007	7	2	196	2.2	0	1	1	0	0	0	0	0	0.00	0.46	0.46	0.00	0.46	Matches
+530	Álex Sancris	es ESP	MF,FW	Getafe	28	1997	18	5	708	7.9	0	1	1	0	0	0	4	1	0.00	0.13	0.13	0.00	0.13	Matches
+531	Buba Sangaré	es ESP	DF,MF	Elche	17	2007	12	8	538	6.0	0	0	0	0	0	0	3	0	0.00	0.00	0.00	0.00	0.00	Matches
+532	Maroan Sannadi	ma MAR	FW	Athletic Club	24	2001	10	2	288	3.2	1	0	1	1	0	0	2	0	0.31	0.00	0.31	0.31	0.31	Matches
+533	Baptiste Santamaria	fr FRA	MF	Valencia	30	1995	19	7	754	8.4	1	1	2	1	0	0	2	0	0.12	0.12	0.24	0.12	0.24	Matches
+534	Yago Santiago	es ESP	MF	Elche	22	2003	9	3	281	3.1	0	0	0	0	0	0	1	0	0.00	0.00	0.00	0.00	0.00	Matches
+535	Renzo Saravia	ar ARG	DF	Valencia	32	1993	5	4	351	3.9	0	0	0	0	0	0	2	0	0.00	0.00	0.00	0.00	0.00	Matches
+536	Martin Satriano	uy URU	FW,MF	Getafe	24	2001	18	18	1,603	17.8	6	1	7	6	0	0	5	0	0.34	0.06	0.39	0.34	0.39	Matches
+537	Taufik Seidu	es ESP	MF	Atlético Madrid	17	2008	1	0	23	0.3	0	0	0	0	0	0	1	0	0.00	0.00	0.00	0.00	0.00	Matches
+538	Manuel Serrano	es ESP	DF	Real Madrid	21	2004	1	0	7	0.1	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+539	Nicolás Serrano	es ESP	MF	Athletic Club	22	2003	16	4	366	4.1	1	0	1	1	0	0	0	0	0.25	0.00	0.25	0.25	0.25	Matches
+540	Kwasi Sibo	gh GHA	MF	Oviedo	27	1998	26	21	1,681	18.7	0	0	0	0	0	0	3	1	0.00	0.00	0.00	0.00	0.00	Matches
+541	André Silva	pt POR	FW	Elche	29	1995	31	22	1,849	20.5	10	0	10	7	3	3	3	0	0.49	0.00	0.49	0.34	0.34	Matches
+542	Giuliano Simeone	ar ARG	MF	Atlético Madrid	22	2002	31	25	2,099	23.3	4	6	10	4	0	0	2	0	0.17	0.26	0.43	0.17	0.43	Matches
+543	Unai Simón	es ESP	GK	Athletic Club	28	1997	37	37	3,330	37.0	0	0	0	0	0	0	1	0	0.00	0.00	0.00	0.00	0.00	Matches
+544	Antonio Sivera	es ESP	GK	Alavés	28	1996	38	38	3,420	38.0	0	0	0	0	0	0	3	0	0.00	0.00	0.00	0.00	0.00	Matches
+545	Alex Sola	es ESP	DF,FW	Getafe	26	1999	1	0	13	0.1	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+546	Carlos Soler	es ESP	MF	Real Sociedad	28	1997	33	26	2,317	25.7	4	3	7	4	0	0	3	1	0.16	0.12	0.27	0.16	0.27	Matches
+547	Jhon Solis	co COL	MF	Girona	20	2004	12	3	380	4.2	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+548	Manor Solomon	il ISR	MF	Villarreal	26	1999	6	1	150	1.7	1	1	2	1	0	0	0	0	0.60	0.60	1.20	0.60	1.20	Matches
+549	Hugo Solozabal	es ESP	MF	Getafe	22	2003	1	0	11	0.1	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+550	David Soria	es ESP	GK	Getafe	32	1993	38	38	3,420	38.0	0	0	0	0	0	0	2	0	0.00	0.00	0.00	0.00	0.00	Matches
+Rk 	Player 	Nation 	Pos 	Squad 	Age 	Born 	MP 	Starts 	Min 	90s 	Gls 	Ast 	G+A 	G-PK 	PK 	PKatt 	CrdY 	CrdR 	Gls 	Ast 	G+A 	G-PK 	G+A-PK 	Matches
+551	Hugo Sotelo	es ESP	MF	Celta Vigo	21	2003	20	16	1,338	14.9	0	2	2	0	0	0	3	0	0.00	0.13	0.13	0.00	0.13	Matches
+552	Djibril Sow	ch SUI	MF	Sevilla	28	1997	33	27	2,187	24.3	5	4	9	5	0	0	6	0	0.21	0.16	0.37	0.21	0.37	Matches
+553	Carl Starfelt	se SWE	DF	Celta Vigo	30	1995	19	17	1,491	16.6	0	0	0	0	0	0	3	1	0.00	0.00	0.00	0.00	0.00	Matches
+554	Orri Steinn Óskarsson	is ISL	FW	Real Sociedad	20	2004	20	8	835	9.3	9	0	9	9	0	0	5	0	0.97	0.00	0.97	0.97	0.97	Matches
+555	Cristhian Stuani	uy URU	FW	Girona	38	1986	21	1	412	4.6	5	0	5	2	3	4	4	0	1.09	0.00	1.09	0.44	0.44	Matches
+556	Denis Suárez	es ESP	MF	Alavés	31	1994	30	15	1,406	15.6	1	2	3	1	0	0	6	0	0.06	0.13	0.19	0.06	0.19	Matches
+557	Gabriel Suazo	cl CHI	DF,MF	Sevilla	27	1997	29	25	2,096	23.3	0	2	2	0	0	0	7	0	0.00	0.09	0.09	0.00	0.09	Matches
+558	Luka Sučić	hr CRO	MF,FW	Real Sociedad	22	2002	22	10	1,022	11.4	3	1	4	3	0	0	1	0	0.26	0.09	0.35	0.26	0.35	Matches
+559	Williot Swedberg	se SWE	FW,MF	Celta Vigo	21	2004	29	13	1,270	14.1	5	5	10	5	0	0	2	0	0.35	0.35	0.71	0.35	0.71	Matches
+560	Wojciech Szczęsny	pl POL	GK	Barcelona	35	1990	8	8	720	8.0	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+561	Alexander Sørloth	no NOR	FW	Atlético Madrid	29	1995	35	20	1,980	22.0	13	0	13	13	0	0	4	1	0.59	0.00	0.59	0.59	0.59	Matches
+562	César Tárrega	es ESP	DF	Valencia	23	2002	32	29	2,598	28.9	0	0	0	0	0	0	7	0	0.00	0.00	0.00	0.00	0.00	Matches
+563	Aurélien Tchouaméni	fr FRA	MF	Real Madrid	25	2000	33	31	2,615	29.1	1	0	1	1	0	0	8	0	0.03	0.00	0.03	0.03	0.03	Matches
+564	Nahuel Tenaglia	ar ARG	DF	Alavés	29	1996	36	36	3,239	36.0	2	0	2	2	0	0	3	0	0.06	0.00	0.06	0.06	0.06	Matches
+565	Arnau Tenas	es ESP	GK	Villarreal	24	2001	10	10	900	10.0	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+566	Marc-André ter Stegen	de GER	GK	Girona	33	1992	2	2	180	2.0	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+567	Ramón Terrats	es ESP	MF	Espanyol	24	2000	29	12	1,030	11.4	1	2	3	1	0	0	0	0	0.09	0.17	0.26	0.09	0.26	Matches
+568	Jeremy Toljan	de GER	DF	Levante	30	1994	37	37	3,164	35.2	1	4	5	1	0	0	8	0	0.03	0.11	0.14	0.03	0.14	Matches
+569	Pablo Torre	es ESP	MF,FW	Mallorca	22	2003	35	19	1,599	17.8	4	4	8	4	0	0	4	0	0.23	0.23	0.45	0.23	0.45	Matches
+570	Jofre Torrents	es ESP	DF	Barcelona	18	2007	3	0	50	0.6	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+571	Ferrán Torres	es ESP	FW	Barcelona	25	2000	33	23	1,965	21.8	16	2	18	16	0	0	2	0	0.73	0.09	0.82	0.73	0.82	Matches
+572	Lucas Torró	es ESP	MF	Osasuna	31	1994	34	31	2,293	25.5	0	1	1	0	0	0	6	0	0.00	0.04	0.04	0.00	0.04	Matches
+573	Óscar Trejo	ar ARG	MF	Rayo Vallecano	37	1988	7	1	144	1.6	0	1	1	0	0	0	2	0	0.00	0.62	0.62	0.00	0.62	Matches
+574	Viktor Tsyhankov	ua UKR	MF,FW	Girona	27	1997	32	31	2,630	29.2	6	5	11	6	0	0	3	0	0.21	0.17	0.38	0.21	0.38	Matches
+575	Kareem Tunde	es ESP	MF	Levante	19	2005	21	17	1,133	12.6	0	1	1	0	0	0	3	0	0.00	0.08	0.08	0.00	0.08	Matches
+Rk 	Player 	Nation 	Pos 	Squad 	Age 	Born 	MP 	Starts 	Min 	90s 	Gls 	Ast 	G+A 	G-PK 	PK 	PKatt 	CrdY 	CrdR 	Gls 	Ast 	G+A 	G-PK 	G+A-PK 	Matches
+576	Beñat Turrientes	es ESP	MF	Real Sociedad	23	2002	27	16	1,348	15.0	0	3	3	0	0	0	7	0	0.00	0.20	0.20	0.00	0.20	Matches
+577	Christantus Uche	ng NGA	FW	Getafe	22	2003	3	3	270	3.0	1	1	2	1	0	0	1	0	0.33	0.33	0.67	0.33	0.67	Matches
+578	Filip Ugrinic	ch SUI	MF	Valencia	26	1999	27	17	1,504	16.7	0	3	3	0	0	0	3	0	0.00	0.18	0.18	0.00	0.18	Matches
+579	Victor Valdepeñas	es ESP	DF	Real Madrid	18	2006	1	1	77	0.9	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+580	Óscar Valentín	es ESP	MF	Rayo Vallecano	30	1994	33	26	2,109	23.4	1	0	1	1	0	0	3	1	0.04	0.00	0.04	0.04	0.04	Matches
+581	Germán Valera	es ESP	MF,DF	Elche	23	2002	36	33	2,857	31.7	4	5	9	4	0	0	4	1	0.13	0.16	0.28	0.13	0.28	Matches
+582	Martin Valjent	sk SVK	DF	Mallorca	29	1995	37	37	3,308	36.8	0	0	0	0	0	0	6	0	0.00	0.00	0.00	0.00	0.00	Matches
+583	Álvaro Vallés	es ESP	GK	Real Betis	28	1997	28	28	2,520	28.0	0	0	0	0	0	0	1	0	0.00	0.00	0.00	0.00	0.00	Matches
+584	Federico Valverde	uy URU	MF,DF	Real Madrid	27	1998	33	31	2,740	30.4	5	8	13	5	0	0	3	1	0.16	0.26	0.43	0.16	0.43	Matches
+585	Vladyslav Vanat	ua UKR	FW	Girona	23	2002	27	27	1,942	21.6	9	1	10	6	3	3	4	0	0.42	0.05	0.46	0.28	0.32	Matches
+586	Obed Vargas	mx MEX	MF	Atlético Madrid	19	2005	12	8	740	8.2	0	1	1	0	0	0	2	0	0.00	0.12	0.12	0.00	0.12	Matches
+587	Ruben Vargas	ch SUI	MF,FW	Sevilla	26	1998	24	20	1,594	17.7	3	6	9	2	1	1	2	0	0.17	0.34	0.51	0.11	0.45	Matches
+588	José Luis García Vayá	es ESP	MF,DF	Valencia	26	1998	31	26	2,225	24.7	2	0	2	1	1	3	4	0	0.08	0.00	0.08	0.04	0.04	Matches
+589	Jesus Vazquez	es ESP	DF,MF	Valencia	22	2003	24	7	974	10.8	0	0	0	0	0	0	2	0	0.00	0.00	0.00	0.00	0.00	Matches
+590	Luis Vázquez	ar ARG	FW	Getafe	24	2001	17	14	1,194	13.3	3	1	4	3	0	0	2	0	0.23	0.08	0.30	0.23	0.30	Matches
+591	Matías Vecino	uy URU	MF	Celta Vigo	33	1991	6	2	135	1.5	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+592	Renato Veiga	pt POR	DF	Villarreal	22	2003	32	27	2,481	27.6	0	0	0	0	0	0	5	1	0.00	0.00	0.00	0.00	0.00	Matches
+593	Unai Vencedor Paris	es ESP	MF	Levante	24	2000	16	11	812	9.0	0	0	0	0	0	0	3	1	0.00	0.00	0.00	0.00	0.00	Matches
+594	Jozhua Vertrouwd	nl NED	DF	Rayo Vallecano	20	2004	9	3	446	5.0	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+595	Mikel Vesga	es ESP	MF	Athletic Club	32	1993	23	1	465	5.2	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+596	Carlos Vicente	es ESP	MF	Alavés	26	1999	21	11	1,258	14.0	5	0	5	2	3	3	1	0	0.36	0.00	0.36	0.14	0.14	Matches
+597	Nacho Vidal	es ESP	DF	Oviedo	30	1995	29	27	2,263	25.1	0	0	0	0	0	0	4	0	0.00	0.00	0.00	0.00	0.00	Matches
+598	Gonzalo Villar	es ESP	MF	Elche	27	1998	12	8	718	8.0	1	0	1	1	0	0	3	0	0.13	0.00	0.13	0.13	0.13	Matches
+599	Federico Viñas	uy URU	FW,MF	Oviedo	27	1998	33	28	2,439	27.1	9	1	10	7	2	2	7	3	0.33	0.04	0.37	0.26	0.30	Matches
+600	Jan Virgili	es ESP	MF,FW	Mallorca	19	2006	31	19	1,792	19.9	2	4	6	2	0	0	0	1	0.10	0.20	0.30	0.10	0.30	Matches
+Rk 	Player 	Nation 	Pos 	Squad 	Age 	Born 	MP 	Starts 	Min 	90s 	Gls 	Ast 	G+A 	G-PK 	PK 	PKatt 	CrdY 	CrdR 	Gls 	Ast 	G+A 	G-PK 	G+A-PK 	Matches
+601	Daniel Vivian	es ESP	DF	Athletic Club	26	1999	31	28	2,564	28.5	1	0	1	1	0	0	8	1	0.04	0.00	0.04	0.04	0.04	Matches
+602	Odysseas Vlachodimos	gr GRE	GK	Sevilla	31	1994	33	33	2,970	33.0	0	0	0	0	0	0	1	0	0.00	0.00	0.00	0.00	0.00	Matches
+603	Wesley	br BRA	MF	Real Sociedad	20	2005	5	1	88	1.0	0	0	0	0	0	0	0	0	0.00	0.00	0.00	0.00	0.00	Matches
+604	Iñaki Williams	gh GHA	MF,FW	Athletic Club	31	1994	30	25	2,157	24.0	3	6	9	2	1	1	2	0	0.13	0.25	0.38	0.08	0.33	Matches
+605	Nico Williams	es ESP	MF	Athletic Club	23	2002	25	20	1,674	18.6	6	3	9	5	1	2	2	0	0.32	0.16	0.48	0.27	0.43	Matches
+606	Axel Witsel	be BEL	MF	Girona	36	1989	32	30	2,526	28.1	1	2	3	1	0	0	2	1	0.04	0.07	0.11	0.04	0.11	Matches
+607	Lamine Yamal	es ESP	MF,FW	Barcelona	18	2007	28	26	2,262	25.1	16	11	27	13	3	4	1	0	0.64	0.44	1.07	0.52	0.95	Matches
+608	Daniel Yáñez	es ESP	MF	Real Madrid	18	2007	2	0	47	0.5	0	1	1	0	0	0	0	0	0.00	1.91	1.91	0.00	1.91	Matches
+609	Arsen Zakharyan	ru RUS	MF	Real Sociedad	22	2003	17	3	458	5.1	0	0	0	0	0	0	2	0	0.00	0.00	0.00	0.00	0.00	Matches
+610	Bryan Zaragoza	es ESP	FW,MF	Celta Vigo	23	2001	19	13	1,131	12.6	1	1	2	0	1	1	1	0	0.08	0.08	0.16	0.00	0.08	Matches
+611	Igor Zubeldia	es ESP	DF	Real Sociedad	28	1997	25	23	2,082	23.1	0	1	1	0	0	0	9	0	0.00	0.04	0.04	0.00	0.04	Matches
