@@ -1,0 +1,4395 @@
+{
+  "ContinuationToken": null,
+  "ContinuationHash": null,
+  "Results": [
+    {
+      "IdCompetition": "520",
+      "IdSeason": "288319",
+      "IdStage": "288323",
+      "IdGroup": "288324",
+      "Weather": null,
+      "Attendance": "300",
+      "IdMatch": "400018587",
+      "MatchDay": null,
+      "StageName": [
+        {
+          "Locale": "en-GB",
+          "Description": "First Round"
+        }
+      ],
+      "GroupName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Group Matches"
+        }
+      ],
+      "CompetitionName": [
+        {
+          "Locale": "en-GB",
+          "Description": "FIFA World Cup™ Qualifiers"
+        }
+      ],
+      "SeasonName": [
+        {
+          "Locale": "en-GB",
+          "Description": "FIFA World Cup 2026™ OFC Qualifiers"
+        }
+      ],
+      "SeasonShortName": [],
+      "Date": "2024-09-05T22:00:00Z",
+      "LocalDate": "2024-09-06T11:00:00Z",
+      "Home": {
+        "Score": 1,
+        "Side": null,
+        "IdTeam": "44007",
+        "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/COK",
+        "IdCountry": "COK",
+        "Tactics": "4-3-3",
+        "TeamType": 1,
+        "AgeType": 7,
+        "TeamName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Cook Islands"
+          }
+        ],
+        "Abbreviation": "COK",
+        "ShortClubName": "Cook Islands",
+        "FootballType": 0,
+        "Gender": 1,
+        "IdAssociation": "COK"
+      },
+      "Away": {
+        "Score": 3,
+        "Side": null,
+        "IdTeam": "44039",
+        "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/TGA",
+        "IdCountry": "TGA",
+        "Tactics": "4-1-3-2",
+        "TeamType": 1,
+        "AgeType": 7,
+        "TeamName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Tonga"
+          }
+        ],
+        "Abbreviation": "TGA",
+        "ShortClubName": "Tonga",
+        "FootballType": 0,
+        "Gender": 1,
+        "IdAssociation": "TGA"
+      },
+      "HomeTeamScore": 1,
+      "AwayTeamScore": 3,
+      "AggregateHomeTeamScore": null,
+      "AggregateAwayTeamScore": null,
+      "HomeTeamPenaltyScore": null,
+      "AwayTeamPenaltyScore": null,
+      "LastPeriodUpdate": null,
+      "Leg": null,
+      "IsHomeMatch": null,
+      "Stadium": {
+        "IdStadium": "400018588",
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "FFS Football Stadium Field 1"
+          }
+        ],
+        "Capacity": null,
+        "WebAddress": null,
+        "Built": null,
+        "Roof": false,
+        "Turf": null,
+        "IdCity": "400249188",
+        "CityName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Apia"
+          }
+        ],
+        "IdCountry": "SAM",
+        "PostalCode": null,
+        "Street": null,
+        "Email": null,
+        "Fax": null,
+        "Phone": null,
+        "AffiliationCountry": null,
+        "AffiliationRegion": null,
+        "Latitude": null,
+        "Longitude": null,
+        "Length": null,
+        "Width": null,
+        "Properties": {
+          "IdIFES": "5048344"
+        },
+        "IsUpdateable": null
+      },
+      "IsTicketSalesAllowed": null,
+      "MatchTime": "0'",
+      "SecondHalfTime": null,
+      "FirstHalfTime": null,
+      "FirstHalfExtraTime": 8,
+      "SecondHalfExtraTime": 12,
+      "Winner": "44039",
+      "MatchReportUrl": null,
+      "PlaceHolderA": "8th",
+      "PlaceHolderB": "11th",
+      "BallPossession": null,
+      "Officials": [
+        {
+          "IdCountry": "NZL",
+          "OfficialId": "5peb7dryrr6s2kafdds1rtffu",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "C. Berg"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-gb",
+              "Description": "Calvin Berg"
+            }
+          ],
+          "OfficialType": 1,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Referee"
+            }
+          ]
+        },
+        {
+          "IdCountry": "NZL",
+          "OfficialId": "b8woe9416xhgazrcp2b5ixyvp",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "G. Sheehan"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-gb",
+              "Description": "Gareth Sheehan"
+            }
+          ],
+          "OfficialType": 2,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Assistant Referee 1"
+            }
+          ]
+        },
+        {
+          "IdCountry": "VAN",
+          "OfficialId": "374715",
+          "NameShort": [
+            {
+              "Locale": "en-GB",
+              "Description": "Jeremy GARAE"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-GB",
+              "Description": "Jeremy GARAE"
+            }
+          ],
+          "OfficialType": 3,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Assistant Referee 2"
+            }
+          ]
+        },
+        {
+          "IdCountry": "FIJ",
+          "OfficialId": "f5i67mdq4dvy6wg2f67bodc2y",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "K. Behari"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-gb",
+              "Description": "Kavitesh Behari"
+            }
+          ],
+          "OfficialType": 4,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Fourth official"
+            }
+          ]
+        }
+      ],
+      "MatchStatus": 0,
+      "ResultType": 1,
+      "MatchNumber": null,
+      "TimeDefined": true,
+      "OfficialityStatus": 2,
+      "MatchLegInfo": null,
+      "Properties": {
+        "IdIFES": "143984",
+        "StatsPerformIfesId": "143984",
+        "IdStatsPerform": "1wyzlwy56u9hg97y1ooyeyoes",
+        "PostMatchDataIsLoadedFromFdhIfes": "true"
+      },
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "520",
+      "IdSeason": "288319",
+      "IdStage": "288323",
+      "IdGroup": "288324",
+      "Weather": null,
+      "Attendance": "600",
+      "IdMatch": "400018586",
+      "MatchDay": null,
+      "StageName": [
+        {
+          "Locale": "en-GB",
+          "Description": "First Round"
+        }
+      ],
+      "GroupName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Group Matches"
+        }
+      ],
+      "CompetitionName": [
+        {
+          "Locale": "en-GB",
+          "Description": "FIFA World Cup™ Qualifiers"
+        }
+      ],
+      "SeasonName": [
+        {
+          "Locale": "en-GB",
+          "Description": "FIFA World Cup 2026™ OFC Qualifiers"
+        }
+      ],
+      "SeasonShortName": [],
+      "Date": "2024-09-06T02:00:00Z",
+      "LocalDate": "2024-09-06T15:00:00Z",
+      "Home": {
+        "Score": 0,
+        "Side": null,
+        "IdTeam": "20012",
+        "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/ASA",
+        "IdCountry": "ASA",
+        "Tactics": "4-4-2",
+        "TeamType": 1,
+        "AgeType": 7,
+        "TeamName": [
+          {
+            "Locale": "en-GB",
+            "Description": "American Samoa"
+          }
+        ],
+        "Abbreviation": "ASA",
+        "ShortClubName": "American Samoa",
+        "FootballType": 0,
+        "Gender": 1,
+        "IdAssociation": "ASA"
+      },
+      "Away": {
+        "Score": 2,
+        "Side": null,
+        "IdTeam": "1882637",
+        "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/SAM",
+        "IdCountry": "SAM",
+        "Tactics": "4-3-3",
+        "TeamType": 1,
+        "AgeType": 7,
+        "TeamName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Samoa"
+          }
+        ],
+        "Abbreviation": "SAM",
+        "ShortClubName": "Samoa",
+        "FootballType": 0,
+        "Gender": 1,
+        "IdAssociation": "SAM"
+      },
+      "HomeTeamScore": 0,
+      "AwayTeamScore": 2,
+      "AggregateHomeTeamScore": null,
+      "AggregateAwayTeamScore": null,
+      "HomeTeamPenaltyScore": null,
+      "AwayTeamPenaltyScore": null,
+      "LastPeriodUpdate": null,
+      "Leg": null,
+      "IsHomeMatch": null,
+      "Stadium": {
+        "IdStadium": "400018588",
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "FFS Football Stadium Field 1"
+          }
+        ],
+        "Capacity": null,
+        "WebAddress": null,
+        "Built": null,
+        "Roof": false,
+        "Turf": null,
+        "IdCity": "400249188",
+        "CityName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Apia"
+          }
+        ],
+        "IdCountry": "SAM",
+        "PostalCode": null,
+        "Street": null,
+        "Email": null,
+        "Fax": null,
+        "Phone": null,
+        "AffiliationCountry": null,
+        "AffiliationRegion": null,
+        "Latitude": null,
+        "Longitude": null,
+        "Length": null,
+        "Width": null,
+        "Properties": {
+          "IdIFES": "5048344"
+        },
+        "IsUpdateable": null
+      },
+      "IsTicketSalesAllowed": null,
+      "MatchTime": "0'",
+      "SecondHalfTime": null,
+      "FirstHalfTime": null,
+      "FirstHalfExtraTime": 7,
+      "SecondHalfExtraTime": 10,
+      "Winner": "1882637",
+      "MatchReportUrl": null,
+      "PlaceHolderA": "9th",
+      "PlaceHolderB": "10th",
+      "BallPossession": null,
+      "Officials": [
+        {
+          "IdCountry": "TAH",
+          "OfficialId": "280935",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "N. Hauata"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-GB",
+              "Description": "Norbert HAUATA"
+            }
+          ],
+          "OfficialType": 1,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Referee"
+            }
+          ]
+        },
+        {
+          "IdCountry": "SOL",
+          "OfficialId": "383747",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "B. Mutukera"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-GB",
+              "Description": "Bernard MUTUKERA"
+            }
+          ],
+          "OfficialType": 2,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Assistant Referee 1"
+            }
+          ]
+        },
+        {
+          "IdCountry": "SOL",
+          "OfficialId": "2psfe5cau4kaptkz98jltm7l5",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "J. Solodia"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-gb",
+              "Description": "Jeffrey Solodia"
+            }
+          ],
+          "OfficialType": 3,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Assistant Referee 2"
+            }
+          ]
+        },
+        {
+          "IdCountry": "NCL",
+          "OfficialId": "392223",
+          "NameShort": [
+            {
+              "Locale": "en-GB",
+              "Description": "Mederic LACOUR"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-GB",
+              "Description": "Médéric Lacour"
+            }
+          ],
+          "OfficialType": 4,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Fourth official"
+            }
+          ]
+        }
+      ],
+      "MatchStatus": 0,
+      "ResultType": 1,
+      "MatchNumber": null,
+      "TimeDefined": true,
+      "OfficialityStatus": 2,
+      "MatchLegInfo": null,
+      "Properties": {
+        "IdIFES": "143985",
+        "StatsPerformIfesId": "143985",
+        "IdStatsPerform": "1xn1wyzdf5kw9jil4zhg98hzo",
+        "PostMatchDataIsLoadedFromFdhIfes": "true"
+      },
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "520",
+      "IdSeason": "288319",
+      "IdStage": "288323",
+      "IdGroup": "288324",
+      "Weather": null,
+      "Attendance": "500",
+      "IdMatch": "400018585",
+      "MatchDay": null,
+      "StageName": [
+        {
+          "Locale": "en-GB",
+          "Description": "First Round"
+        }
+      ],
+      "GroupName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Group Matches"
+        }
+      ],
+      "CompetitionName": [
+        {
+          "Locale": "en-GB",
+          "Description": "FIFA World Cup™ Qualifiers"
+        }
+      ],
+      "SeasonName": [
+        {
+          "Locale": "en-GB",
+          "Description": "FIFA World Cup 2026™ OFC Qualifiers"
+        }
+      ],
+      "SeasonShortName": [],
+      "Date": "2024-09-09T02:00:00Z",
+      "LocalDate": "2024-09-09T15:00:00Z",
+      "Home": {
+        "Score": 1,
+        "Side": null,
+        "IdTeam": "44039",
+        "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/TGA",
+        "IdCountry": "TGA",
+        "Tactics": "4-3-3",
+        "TeamType": 1,
+        "AgeType": 7,
+        "TeamName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Tonga"
+          }
+        ],
+        "Abbreviation": "TGA",
+        "ShortClubName": "Tonga",
+        "FootballType": 0,
+        "Gender": 1,
+        "IdAssociation": "TGA"
+      },
+      "Away": {
+        "Score": 2,
+        "Side": null,
+        "IdTeam": "1882637",
+        "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/SAM",
+        "IdCountry": "SAM",
+        "Tactics": "4-3-3",
+        "TeamType": 1,
+        "AgeType": 7,
+        "TeamName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Samoa"
+          }
+        ],
+        "Abbreviation": "SAM",
+        "ShortClubName": "Samoa",
+        "FootballType": 0,
+        "Gender": 1,
+        "IdAssociation": "SAM"
+      },
+      "HomeTeamScore": 1,
+      "AwayTeamScore": 2,
+      "AggregateHomeTeamScore": null,
+      "AggregateAwayTeamScore": null,
+      "HomeTeamPenaltyScore": null,
+      "AwayTeamPenaltyScore": null,
+      "LastPeriodUpdate": null,
+      "Leg": null,
+      "IsHomeMatch": null,
+      "Stadium": {
+        "IdStadium": "400018588",
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "FFS Football Stadium Field 1"
+          }
+        ],
+        "Capacity": null,
+        "WebAddress": null,
+        "Built": null,
+        "Roof": false,
+        "Turf": null,
+        "IdCity": "400249188",
+        "CityName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Apia"
+          }
+        ],
+        "IdCountry": "SAM",
+        "PostalCode": null,
+        "Street": null,
+        "Email": null,
+        "Fax": null,
+        "Phone": null,
+        "AffiliationCountry": null,
+        "AffiliationRegion": null,
+        "Latitude": null,
+        "Longitude": null,
+        "Length": null,
+        "Width": null,
+        "Properties": {
+          "IdIFES": "5048344"
+        },
+        "IsUpdateable": null
+      },
+      "IsTicketSalesAllowed": null,
+      "MatchTime": "0'",
+      "SecondHalfTime": null,
+      "FirstHalfTime": null,
+      "FirstHalfExtraTime": 8,
+      "SecondHalfExtraTime": 12,
+      "Winner": "1882637",
+      "MatchReportUrl": null,
+      "PlaceHolderA": "W1",
+      "PlaceHolderB": "W2",
+      "BallPossession": {
+        "Intervals": [],
+        "LastX": [],
+        "OverallHome": 50.0,
+        "OverallAway": 50.0
+      },
+      "Officials": [
+        {
+          "IdCountry": "NCL",
+          "OfficialId": "392223",
+          "NameShort": [
+            {
+              "Locale": "en-GB",
+              "Description": "Mederic LACOUR"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-GB",
+              "Description": "Médéric Lacour"
+            }
+          ],
+          "OfficialType": 1,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Referee"
+            }
+          ]
+        },
+        {
+          "IdCountry": "NZL",
+          "OfficialId": "279473",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "M. Rule"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-GB",
+              "Description": "Mark RULE"
+            }
+          ],
+          "OfficialType": 2,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Assistant Referee 1"
+            }
+          ]
+        },
+        {
+          "IdCountry": "NZL",
+          "OfficialId": "b8woe9416xhgazrcp2b5ixyvp",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "G. Sheehan"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-gb",
+              "Description": "Gareth Sheehan"
+            }
+          ],
+          "OfficialType": 3,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Assistant Referee 2"
+            }
+          ]
+        },
+        {
+          "IdCountry": "NZL",
+          "OfficialId": "5peb7dryrr6s2kafdds1rtffu",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "C. Berg"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-gb",
+              "Description": "Calvin Berg"
+            }
+          ],
+          "OfficialType": 4,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Fourth official"
+            }
+          ]
+        }
+      ],
+      "MatchStatus": 0,
+      "ResultType": 3,
+      "MatchNumber": null,
+      "TimeDefined": true,
+      "OfficialityStatus": 2,
+      "MatchLegInfo": null,
+      "Properties": {
+        "IdIFES": "143987",
+        "StatsPerformIfesId": "143987",
+        "IdStatsPerform": "ef50lthifwei55sbk4tgazpjo",
+        "PostMatchDataIsLoadedFromFdhIfes": "true"
+      },
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "520",
+      "IdSeason": "288319",
+      "IdStage": "288320",
+      "IdGroup": "288321",
+      "Weather": null,
+      "Attendance": "1000",
+      "IdMatch": "400018596",
+      "MatchDay": "1",
+      "StageName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Second Round"
+        }
+      ],
+      "GroupName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Group A"
+        }
+      ],
+      "CompetitionName": [
+        {
+          "Locale": "en-GB",
+          "Description": "FIFA World Cup™ Qualifiers"
+        }
+      ],
+      "SeasonName": [
+        {
+          "Locale": "en-GB",
+          "Description": "FIFA World Cup 2026™ OFC Qualifiers"
+        }
+      ],
+      "SeasonShortName": [],
+      "Date": "2024-10-10T04:00:00Z",
+      "LocalDate": "2024-10-10T16:00:00Z",
+      "Home": {
+        "Score": 3,
+        "Side": null,
+        "IdTeam": "20010",
+        "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/NCL",
+        "IdCountry": "NCL",
+        "Tactics": "4-3-3",
+        "TeamType": 1,
+        "AgeType": 7,
+        "TeamName": [
+          {
+            "Locale": "en-GB",
+            "Description": "New Caledonia"
+          }
+        ],
+        "Abbreviation": "NCL",
+        "ShortClubName": "New Caledonia",
+        "FootballType": 0,
+        "Gender": 1,
+        "IdAssociation": "NCL"
+      },
+      "Away": {
+        "Score": 1,
+        "Side": null,
+        "IdTeam": "43979",
+        "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/PNG",
+        "IdCountry": "PNG",
+        "Tactics": "4-2-3-1",
+        "TeamType": 1,
+        "AgeType": 7,
+        "TeamName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Papua New Guinea"
+          }
+        ],
+        "Abbreviation": "PNG",
+        "ShortClubName": "Papua New Guinea",
+        "FootballType": 0,
+        "Gender": 1,
+        "IdAssociation": "PNG"
+      },
+      "HomeTeamScore": 3,
+      "AwayTeamScore": 1,
+      "AggregateHomeTeamScore": null,
+      "AggregateAwayTeamScore": null,
+      "HomeTeamPenaltyScore": null,
+      "AwayTeamPenaltyScore": null,
+      "LastPeriodUpdate": null,
+      "Leg": null,
+      "IsHomeMatch": null,
+      "Stadium": {
+        "IdStadium": "400242492",
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "ANZ National Stadium"
+          }
+        ],
+        "Capacity": null,
+        "WebAddress": null,
+        "Built": null,
+        "Roof": false,
+        "Turf": null,
+        "IdCity": "400242493",
+        "CityName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Suva"
+          }
+        ],
+        "IdCountry": "FIJ",
+        "PostalCode": null,
+        "Street": null,
+        "Email": null,
+        "Fax": null,
+        "Phone": null,
+        "AffiliationCountry": null,
+        "AffiliationRegion": null,
+        "Latitude": null,
+        "Longitude": null,
+        "Length": null,
+        "Width": null,
+        "Properties": {
+          "IdIFES": "5000272"
+        },
+        "IsUpdateable": null
+      },
+      "IsTicketSalesAllowed": null,
+      "MatchTime": "0'",
+      "SecondHalfTime": null,
+      "FirstHalfTime": null,
+      "FirstHalfExtraTime": 6,
+      "SecondHalfExtraTime": 9,
+      "Winner": "20010",
+      "MatchReportUrl": null,
+      "PlaceHolderA": "A3",
+      "PlaceHolderB": "A4",
+      "BallPossession": {
+        "Intervals": [],
+        "LastX": [],
+        "OverallHome": 50.0,
+        "OverallAway": 50.0
+      },
+      "Officials": [
+        {
+          "IdCountry": "NZL",
+          "OfficialId": "408438",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "C. Kawana-Waugh"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-GB",
+              "Description": "Campbell-Kirk Waugh"
+            }
+          ],
+          "OfficialType": 1,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Referee"
+            }
+          ]
+        },
+        {
+          "IdCountry": "NZL",
+          "OfficialId": "400287",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "I. Trevis"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-GB",
+              "Description": "Isaac Trevis"
+            }
+          ],
+          "OfficialType": 2,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Assistant Referee 1"
+            }
+          ]
+        },
+        {
+          "IdCountry": "NZL",
+          "OfficialId": "9u5z9esrzatmq2qov3sowc1gq",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "E. Cook"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-gb",
+              "Description": "Edward Cook"
+            }
+          ],
+          "OfficialType": 3,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Assistant Referee 2"
+            }
+          ]
+        },
+        {
+          "IdCountry": "NZL",
+          "OfficialId": "5peb7dryrr6s2kafdds1rtffu",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "C. Berg"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-gb",
+              "Description": "Calvin Berg"
+            }
+          ],
+          "OfficialType": 4,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Fourth official"
+            }
+          ]
+        }
+      ],
+      "MatchStatus": 0,
+      "ResultType": 1,
+      "MatchNumber": null,
+      "TimeDefined": true,
+      "OfficialityStatus": 2,
+      "MatchLegInfo": null,
+      "Properties": {
+        "IdIFES": "144124",
+        "StatsPerformIfesId": "144124",
+        "IdStatsPerform": "3wor2rh8sirm2ydap5wuaxqfo",
+        "PostMatchDataIsLoadedFromFdhIfes": "true"
+      },
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "520",
+      "IdSeason": "288319",
+      "IdStage": "288320",
+      "IdGroup": "288321",
+      "Weather": null,
+      "Attendance": "2000",
+      "IdMatch": "400018597",
+      "MatchDay": "1",
+      "StageName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Second Round"
+        }
+      ],
+      "GroupName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Group A"
+        }
+      ],
+      "CompetitionName": [
+        {
+          "Locale": "en-GB",
+          "Description": "FIFA World Cup™ Qualifiers"
+        }
+      ],
+      "SeasonName": [
+        {
+          "Locale": "en-GB",
+          "Description": "FIFA World Cup 2026™ OFC Qualifiers"
+        }
+      ],
+      "SeasonShortName": [],
+      "Date": "2024-10-10T07:00:00Z",
+      "LocalDate": "2024-10-10T19:00:00Z",
+      "Home": {
+        "Score": 0,
+        "Side": null,
+        "IdTeam": "43980",
+        "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/SOL",
+        "IdCountry": "SOL",
+        "Tactics": "4-4-2",
+        "TeamType": 1,
+        "AgeType": 7,
+        "TeamName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Solomon Islands"
+          }
+        ],
+        "Abbreviation": "SOL",
+        "ShortClubName": "Solomon Islands",
+        "FootballType": 0,
+        "Gender": 1,
+        "IdAssociation": "SOL"
+      },
+      "Away": {
+        "Score": 1,
+        "Side": null,
+        "IdTeam": "43977",
+        "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/FIJ",
+        "IdCountry": "FIJ",
+        "Tactics": "4-4-2",
+        "TeamType": 1,
+        "AgeType": 7,
+        "TeamName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Fiji"
+          }
+        ],
+        "Abbreviation": "FIJ",
+        "ShortClubName": "Fiji",
+        "FootballType": 0,
+        "Gender": 1,
+        "IdAssociation": "FIJ"
+      },
+      "HomeTeamScore": 0,
+      "AwayTeamScore": 1,
+      "AggregateHomeTeamScore": null,
+      "AggregateAwayTeamScore": null,
+      "HomeTeamPenaltyScore": null,
+      "AwayTeamPenaltyScore": null,
+      "LastPeriodUpdate": null,
+      "Leg": null,
+      "IsHomeMatch": null,
+      "Stadium": {
+        "IdStadium": "400242492",
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "ANZ National Stadium"
+          }
+        ],
+        "Capacity": null,
+        "WebAddress": null,
+        "Built": null,
+        "Roof": false,
+        "Turf": null,
+        "IdCity": "400242493",
+        "CityName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Suva"
+          }
+        ],
+        "IdCountry": "FIJ",
+        "PostalCode": null,
+        "Street": null,
+        "Email": null,
+        "Fax": null,
+        "Phone": null,
+        "AffiliationCountry": null,
+        "AffiliationRegion": null,
+        "Latitude": null,
+        "Longitude": null,
+        "Length": null,
+        "Width": null,
+        "Properties": {
+          "IdIFES": "5000272"
+        },
+        "IsUpdateable": null
+      },
+      "IsTicketSalesAllowed": null,
+      "MatchTime": "0'",
+      "SecondHalfTime": null,
+      "FirstHalfTime": null,
+      "FirstHalfExtraTime": 6,
+      "SecondHalfExtraTime": 11,
+      "Winner": "43977",
+      "MatchReportUrl": null,
+      "PlaceHolderA": "A1",
+      "PlaceHolderB": "A2",
+      "BallPossession": null,
+      "Officials": [
+        {
+          "IdCountry": "TAH",
+          "OfficialId": "280935",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "N. Hauata"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-GB",
+              "Description": "Norbert HAUATA"
+            }
+          ],
+          "OfficialType": 1,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Referee"
+            }
+          ]
+        },
+        {
+          "IdCountry": "NZL",
+          "OfficialId": "279473",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "M. Rule"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-GB",
+              "Description": "Mark RULE"
+            }
+          ],
+          "OfficialType": 2,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Assistant Referee 1"
+            }
+          ]
+        },
+        {
+          "IdCountry": "SAM",
+          "OfficialId": "3wy4ifx07gmrlqkfv3yt2jmy1",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "M. Salanoa"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-gb",
+              "Description": "Maleatala Salanoa"
+            }
+          ],
+          "OfficialType": 3,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Assistant Referee 2"
+            }
+          ]
+        },
+        {
+          "IdCountry": "NZL",
+          "OfficialId": "5peb7dryrr6s2kafdds1rtffu",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "C. Berg"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-gb",
+              "Description": "Calvin Berg"
+            }
+          ],
+          "OfficialType": 4,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Fourth official"
+            }
+          ]
+        }
+      ],
+      "MatchStatus": 0,
+      "ResultType": 1,
+      "MatchNumber": null,
+      "TimeDefined": true,
+      "OfficialityStatus": 2,
+      "MatchLegInfo": null,
+      "Properties": {
+        "IdIFES": "144125",
+        "StatsPerformIfesId": "144125",
+        "IdStatsPerform": "3xceg3d3ng8xz22s9krgyrbpw",
+        "PostMatchDataIsLoadedFromFdhIfes": "true"
+      },
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "520",
+      "IdSeason": "288319",
+      "IdStage": "288320",
+      "IdGroup": "288322",
+      "Weather": null,
+      "Attendance": "1000",
+      "IdMatch": "400018602",
+      "MatchDay": "1",
+      "StageName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Second Round"
+        }
+      ],
+      "GroupName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Group B"
+        }
+      ],
+      "CompetitionName": [
+        {
+          "Locale": "en-GB",
+          "Description": "FIFA World Cup™ Qualifiers"
+        }
+      ],
+      "SeasonName": [
+        {
+          "Locale": "en-GB",
+          "Description": "FIFA World Cup 2026™ OFC Qualifiers"
+        }
+      ],
+      "SeasonShortName": [],
+      "Date": "2024-10-11T02:00:00Z",
+      "LocalDate": "2024-10-11T13:00:00Z",
+      "Home": {
+        "Score": 3,
+        "Side": null,
+        "IdTeam": "43978",
+        "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/NZL",
+        "IdCountry": "NZL",
+        "Tactics": "4-2-3-1",
+        "TeamType": 1,
+        "AgeType": 7,
+        "TeamName": [
+          {
+            "Locale": "en-GB",
+            "Description": "New Zealand"
+          }
+        ],
+        "Abbreviation": "NZL",
+        "ShortClubName": "New Zealand",
+        "FootballType": 0,
+        "Gender": 1,
+        "IdAssociation": "NZL"
+      },
+      "Away": {
+        "Score": 0,
+        "Side": null,
+        "IdTeam": "43981",
+        "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/TAH",
+        "IdCountry": "TAH",
+        "Tactics": "5-3-2",
+        "TeamType": 1,
+        "AgeType": 7,
+        "TeamName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Tahiti"
+          }
+        ],
+        "Abbreviation": "TAH",
+        "ShortClubName": "Tahiti",
+        "FootballType": 0,
+        "Gender": 1,
+        "IdAssociation": "TAH"
+      },
+      "HomeTeamScore": 3,
+      "AwayTeamScore": 0,
+      "AggregateHomeTeamScore": null,
+      "AggregateAwayTeamScore": null,
+      "HomeTeamPenaltyScore": null,
+      "AwayTeamPenaltyScore": null,
+      "LastPeriodUpdate": null,
+      "Leg": null,
+      "IsHomeMatch": null,
+      "Stadium": {
+        "IdStadium": "400018608",
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Freshwater Stadium"
+          }
+        ],
+        "Capacity": null,
+        "WebAddress": null,
+        "Built": null,
+        "Roof": false,
+        "Turf": null,
+        "IdCity": "400249564",
+        "CityName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Port Vila"
+          }
+        ],
+        "IdCountry": "VAN",
+        "PostalCode": null,
+        "Street": null,
+        "Email": null,
+        "Fax": null,
+        "Phone": null,
+        "AffiliationCountry": null,
+        "AffiliationRegion": null,
+        "Latitude": null,
+        "Longitude": null,
+        "Length": null,
+        "Width": null,
+        "Properties": {
+          "IdIFES": "5048238"
+        },
+        "IsUpdateable": null
+      },
+      "IsTicketSalesAllowed": null,
+      "MatchTime": "0'",
+      "SecondHalfTime": null,
+      "FirstHalfTime": null,
+      "FirstHalfExtraTime": 7,
+      "SecondHalfExtraTime": 11,
+      "Winner": "43978",
+      "MatchReportUrl": null,
+      "PlaceHolderA": "B1",
+      "PlaceHolderB": "B2",
+      "BallPossession": null,
+      "Officials": [
+        {
+          "IdCountry": "NCL",
+          "OfficialId": "392223",
+          "NameShort": [
+            {
+              "Locale": "en-GB",
+              "Description": "Mederic LACOUR"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-GB",
+              "Description": "Médéric Lacour"
+            }
+          ],
+          "OfficialType": 1,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Referee"
+            }
+          ]
+        },
+        {
+          "IdCountry": "NCL",
+          "OfficialId": "373289",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "B. Brial"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-GB",
+              "Description": "Bertrand BRIAL"
+            }
+          ],
+          "OfficialType": 2,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Assistant Referee 1"
+            }
+          ]
+        },
+        {
+          "IdCountry": "TGA",
+          "OfficialId": "302229",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "F. Moeaki"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-GB",
+              "Description": "Folio MOEAKI"
+            }
+          ],
+          "OfficialType": 3,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Assistant Referee 2"
+            }
+          ]
+        },
+        {
+          "IdCountry": "PNG",
+          "OfficialId": "362551",
+          "NameShort": [
+            {
+              "Locale": "en-GB",
+              "Description": "David YAREBOINEN"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-GB",
+              "Description": "David YAREBOINEN"
+            }
+          ],
+          "OfficialType": 4,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Fourth official"
+            }
+          ]
+        }
+      ],
+      "MatchStatus": 0,
+      "ResultType": 1,
+      "MatchNumber": null,
+      "TimeDefined": true,
+      "OfficialityStatus": 2,
+      "MatchLegInfo": null,
+      "Properties": {
+        "IdIFES": "144126",
+        "StatsPerformIfesId": "144126",
+        "IdStatsPerform": "8e5n5ler9xklonw4w1bm70h78",
+        "PostMatchDataIsLoadedFromFdhIfes": "true"
+      },
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "520",
+      "IdSeason": "288319",
+      "IdStage": "288320",
+      "IdGroup": "288322",
+      "Weather": null,
+      "Attendance": "3000",
+      "IdMatch": "400018603",
+      "MatchDay": "1",
+      "StageName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Second Round"
+        }
+      ],
+      "GroupName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Group B"
+        }
+      ],
+      "CompetitionName": [
+        {
+          "Locale": "en-GB",
+          "Description": "FIFA World Cup™ Qualifiers"
+        }
+      ],
+      "SeasonName": [
+        {
+          "Locale": "en-GB",
+          "Description": "FIFA World Cup 2026™ OFC Qualifiers"
+        }
+      ],
+      "SeasonShortName": [],
+      "Date": "2024-10-12T03:00:00Z",
+      "LocalDate": "2024-10-12T14:00:00Z",
+      "Home": {
+        "Score": 4,
+        "Side": null,
+        "IdTeam": "43982",
+        "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/VAN",
+        "IdCountry": "VAN",
+        "Tactics": "3-4-3",
+        "TeamType": 1,
+        "AgeType": 7,
+        "TeamName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Vanuatu"
+          }
+        ],
+        "Abbreviation": "VAN",
+        "ShortClubName": "Vanuatu",
+        "FootballType": 0,
+        "Gender": 1,
+        "IdAssociation": "VAN"
+      },
+      "Away": {
+        "Score": 1,
+        "Side": null,
+        "IdTeam": "1882637",
+        "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/SAM",
+        "IdCountry": "SAM",
+        "Tactics": "4-5-1",
+        "TeamType": 1,
+        "AgeType": 7,
+        "TeamName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Samoa"
+          }
+        ],
+        "Abbreviation": "SAM",
+        "ShortClubName": "Samoa",
+        "FootballType": 0,
+        "Gender": 1,
+        "IdAssociation": "SAM"
+      },
+      "HomeTeamScore": 4,
+      "AwayTeamScore": 1,
+      "AggregateHomeTeamScore": null,
+      "AggregateAwayTeamScore": null,
+      "HomeTeamPenaltyScore": null,
+      "AwayTeamPenaltyScore": null,
+      "LastPeriodUpdate": null,
+      "Leg": null,
+      "IsHomeMatch": null,
+      "Stadium": {
+        "IdStadium": "400018608",
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Freshwater Stadium"
+          }
+        ],
+        "Capacity": null,
+        "WebAddress": null,
+        "Built": null,
+        "Roof": false,
+        "Turf": null,
+        "IdCity": "400249564",
+        "CityName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Port Vila"
+          }
+        ],
+        "IdCountry": "VAN",
+        "PostalCode": null,
+        "Street": null,
+        "Email": null,
+        "Fax": null,
+        "Phone": null,
+        "AffiliationCountry": null,
+        "AffiliationRegion": null,
+        "Latitude": null,
+        "Longitude": null,
+        "Length": null,
+        "Width": null,
+        "Properties": {
+          "IdIFES": "5048238"
+        },
+        "IsUpdateable": null
+      },
+      "IsTicketSalesAllowed": null,
+      "MatchTime": "0'",
+      "SecondHalfTime": null,
+      "FirstHalfTime": null,
+      "FirstHalfExtraTime": 6,
+      "SecondHalfExtraTime": 9,
+      "Winner": "43982",
+      "MatchReportUrl": null,
+      "PlaceHolderA": "B3",
+      "PlaceHolderB": "WR1",
+      "BallPossession": {
+        "Intervals": [],
+        "LastX": [],
+        "OverallHome": 66.7,
+        "OverallAway": 33.3
+      },
+      "Officials": [
+        {
+          "IdCountry": "SOL",
+          "OfficialId": "435143",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "B. Aukwai"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-gb",
+              "Description": "Ben Aukwai"
+            }
+          ],
+          "OfficialType": 1,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Referee"
+            }
+          ]
+        },
+        {
+          "IdCountry": "SOL",
+          "OfficialId": "383747",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "B. Mutukera"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-GB",
+              "Description": "Bernard MUTUKERA"
+            }
+          ],
+          "OfficialType": 2,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Assistant Referee 1"
+            }
+          ]
+        },
+        {
+          "IdCountry": "SOL",
+          "OfficialId": "2psfe5cau4kaptkz98jltm7l5",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "J. Solodia"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-gb",
+              "Description": "Jeffrey Solodia"
+            }
+          ],
+          "OfficialType": 3,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Assistant Referee 2"
+            }
+          ]
+        },
+        {
+          "IdCountry": "FIJ",
+          "OfficialId": "416484",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "V. Singh"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-gb",
+              "Description": "Veer Singh"
+            }
+          ],
+          "OfficialType": 4,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Fourth official"
+            }
+          ]
+        }
+      ],
+      "MatchStatus": 0,
+      "ResultType": 1,
+      "MatchNumber": null,
+      "TimeDefined": true,
+      "OfficialityStatus": 2,
+      "MatchLegInfo": null,
+      "Properties": {
+        "IdIFES": "144127",
+        "StatsPerformIfesId": "144127",
+        "IdStatsPerform": "c9pyhttv38kgkzrxf4nhh3v9w",
+        "PostMatchDataIsLoadedFromFdhIfes": "true"
+      },
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "520",
+      "IdSeason": "288319",
+      "IdStage": "288320",
+      "IdGroup": "288321",
+      "Weather": null,
+      "Attendance": "1000",
+      "IdMatch": "400018601",
+      "MatchDay": "2",
+      "StageName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Second Round"
+        }
+      ],
+      "GroupName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Group A"
+        }
+      ],
+      "CompetitionName": [
+        {
+          "Locale": "en-GB",
+          "Description": "FIFA World Cup™ Qualifiers"
+        }
+      ],
+      "SeasonName": [
+        {
+          "Locale": "en-GB",
+          "Description": "FIFA World Cup 2026™ OFC Qualifiers"
+        }
+      ],
+      "SeasonShortName": [],
+      "Date": "2024-11-14T03:00:00Z",
+      "LocalDate": "2024-11-14T13:00:00Z",
+      "Home": {
+        "Score": 2,
+        "Side": null,
+        "IdTeam": "43980",
+        "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/SOL",
+        "IdCountry": "SOL",
+        "Tactics": "4-4-2",
+        "TeamType": 1,
+        "AgeType": 7,
+        "TeamName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Solomon Islands"
+          }
+        ],
+        "Abbreviation": "SOL",
+        "ShortClubName": "Solomon Islands",
+        "FootballType": 0,
+        "Gender": 1,
+        "IdAssociation": "SOL"
+      },
+      "Away": {
+        "Score": 3,
+        "Side": null,
+        "IdTeam": "20010",
+        "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/NCL",
+        "IdCountry": "NCL",
+        "Tactics": "4-3-3",
+        "TeamType": 1,
+        "AgeType": 7,
+        "TeamName": [
+          {
+            "Locale": "en-GB",
+            "Description": "New Caledonia"
+          }
+        ],
+        "Abbreviation": "NCL",
+        "ShortClubName": "New Caledonia",
+        "FootballType": 0,
+        "Gender": 1,
+        "IdAssociation": "NCL"
+      },
+      "HomeTeamScore": 2,
+      "AwayTeamScore": 3,
+      "AggregateHomeTeamScore": null,
+      "AggregateAwayTeamScore": null,
+      "HomeTeamPenaltyScore": null,
+      "AwayTeamPenaltyScore": null,
+      "LastPeriodUpdate": null,
+      "Leg": null,
+      "IsHomeMatch": null,
+      "Stadium": {
+        "IdStadium": "400248550",
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "PNG Football Stadium"
+          }
+        ],
+        "Capacity": null,
+        "WebAddress": null,
+        "Built": null,
+        "Roof": false,
+        "Turf": null,
+        "IdCity": "400248551",
+        "CityName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Port Moresby"
+          }
+        ],
+        "IdCountry": "PNG",
+        "PostalCode": null,
+        "Street": null,
+        "Email": null,
+        "Fax": null,
+        "Phone": null,
+        "AffiliationCountry": null,
+        "AffiliationRegion": null,
+        "Latitude": null,
+        "Longitude": null,
+        "Length": null,
+        "Width": null,
+        "Properties": {
+          "IdIFES": "5043351"
+        },
+        "IsUpdateable": null
+      },
+      "IsTicketSalesAllowed": null,
+      "MatchTime": "0'",
+      "SecondHalfTime": null,
+      "FirstHalfTime": null,
+      "FirstHalfExtraTime": 7,
+      "SecondHalfExtraTime": 13,
+      "Winner": "20010",
+      "MatchReportUrl": null,
+      "PlaceHolderA": "A1",
+      "PlaceHolderB": "A3",
+      "BallPossession": {
+        "Intervals": [],
+        "LastX": [],
+        "OverallHome": 50.0,
+        "OverallAway": 50.0
+      },
+      "Officials": [
+        {
+          "IdCountry": "NZL",
+          "OfficialId": "5peb7dryrr6s2kafdds1rtffu",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "C. Berg"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-gb",
+              "Description": "Calvin Berg"
+            }
+          ],
+          "OfficialType": 1,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Referee"
+            }
+          ]
+        },
+        {
+          "IdCountry": "SAM",
+          "OfficialId": "3wy4ifx07gmrlqkfv3yt2jmy1",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "M. Salanoa"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-gb",
+              "Description": "Maleatala Salanoa"
+            }
+          ],
+          "OfficialType": 2,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Assistant Referee 1"
+            }
+          ]
+        },
+        {
+          "IdCountry": "VAN",
+          "OfficialId": "374715",
+          "NameShort": [
+            {
+              "Locale": "en-GB",
+              "Description": "Jeremy GARAE"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-GB",
+              "Description": "Jeremy GARAE"
+            }
+          ],
+          "OfficialType": 3,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Assistant Referee 2"
+            }
+          ]
+        },
+        {
+          "IdCountry": "NZL",
+          "OfficialId": "408438",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "C. Kawana-Waugh"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-GB",
+              "Description": "Campbell-Kirk Waugh"
+            }
+          ],
+          "OfficialType": 4,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Fourth official"
+            }
+          ]
+        }
+      ],
+      "MatchStatus": 0,
+      "ResultType": 1,
+      "MatchNumber": null,
+      "TimeDefined": true,
+      "OfficialityStatus": 2,
+      "MatchLegInfo": null,
+      "Properties": {
+        "IdIFES": "144128",
+        "StatsPerformIfesId": "144128",
+        "IdStatsPerform": "3xwcajcvr59evsq51sedn4d1w",
+        "PostMatchDataIsLoadedFromFdhIfes": "true"
+      },
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "520",
+      "IdSeason": "288319",
+      "IdStage": "288320",
+      "IdGroup": "288321",
+      "Weather": null,
+      "Attendance": "1428",
+      "IdMatch": "400018599",
+      "MatchDay": "2",
+      "StageName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Second Round"
+        }
+      ],
+      "GroupName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Group A"
+        }
+      ],
+      "CompetitionName": [
+        {
+          "Locale": "en-GB",
+          "Description": "FIFA World Cup™ Qualifiers"
+        }
+      ],
+      "SeasonName": [
+        {
+          "Locale": "en-GB",
+          "Description": "FIFA World Cup 2026™ OFC Qualifiers"
+        }
+      ],
+      "SeasonShortName": [],
+      "Date": "2024-11-14T06:00:00Z",
+      "LocalDate": "2024-11-14T16:00:00Z",
+      "Home": {
+        "Score": 3,
+        "Side": null,
+        "IdTeam": "43979",
+        "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/PNG",
+        "IdCountry": "PNG",
+        "Tactics": "4-1-4-1",
+        "TeamType": 1,
+        "AgeType": 7,
+        "TeamName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Papua New Guinea"
+          }
+        ],
+        "Abbreviation": "PNG",
+        "ShortClubName": "Papua New Guinea",
+        "FootballType": 0,
+        "Gender": 1,
+        "IdAssociation": "PNG"
+      },
+      "Away": {
+        "Score": 3,
+        "Side": null,
+        "IdTeam": "43977",
+        "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/FIJ",
+        "IdCountry": "FIJ",
+        "Tactics": "4-1-4-1",
+        "TeamType": 1,
+        "AgeType": 7,
+        "TeamName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Fiji"
+          }
+        ],
+        "Abbreviation": "FIJ",
+        "ShortClubName": "Fiji",
+        "FootballType": 0,
+        "Gender": 1,
+        "IdAssociation": "FIJ"
+      },
+      "HomeTeamScore": 3,
+      "AwayTeamScore": 3,
+      "AggregateHomeTeamScore": null,
+      "AggregateAwayTeamScore": null,
+      "HomeTeamPenaltyScore": null,
+      "AwayTeamPenaltyScore": null,
+      "LastPeriodUpdate": null,
+      "Leg": null,
+      "IsHomeMatch": null,
+      "Stadium": {
+        "IdStadium": "400248550",
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "PNG Football Stadium"
+          }
+        ],
+        "Capacity": null,
+        "WebAddress": null,
+        "Built": null,
+        "Roof": false,
+        "Turf": null,
+        "IdCity": "400248551",
+        "CityName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Port Moresby"
+          }
+        ],
+        "IdCountry": "PNG",
+        "PostalCode": null,
+        "Street": null,
+        "Email": null,
+        "Fax": null,
+        "Phone": null,
+        "AffiliationCountry": null,
+        "AffiliationRegion": null,
+        "Latitude": null,
+        "Longitude": null,
+        "Length": null,
+        "Width": null,
+        "Properties": {
+          "IdIFES": "5043351"
+        },
+        "IsUpdateable": null
+      },
+      "IsTicketSalesAllowed": null,
+      "MatchTime": "0'",
+      "SecondHalfTime": null,
+      "FirstHalfTime": null,
+      "FirstHalfExtraTime": 6,
+      "SecondHalfExtraTime": 7,
+      "Winner": null,
+      "MatchReportUrl": null,
+      "PlaceHolderA": "A4",
+      "PlaceHolderB": "A2",
+      "BallPossession": {
+        "Intervals": [],
+        "LastX": [],
+        "OverallHome": 50.0,
+        "OverallAway": 50.0
+      },
+      "Officials": [
+        {
+          "IdCountry": "NZL",
+          "OfficialId": "359632",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "M. Conger"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-GB",
+              "Description": "Matthew CONGER"
+            }
+          ],
+          "OfficialType": 1,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Referee"
+            }
+          ]
+        },
+        {
+          "IdCountry": "NZL",
+          "OfficialId": "279473",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "M. Rule"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-GB",
+              "Description": "Mark RULE"
+            }
+          ],
+          "OfficialType": 2,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Assistant Referee 1"
+            }
+          ]
+        },
+        {
+          "IdCountry": "NZL",
+          "OfficialId": "b8woe9416xhgazrcp2b5ixyvp",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "G. Sheehan"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-gb",
+              "Description": "Gareth Sheehan"
+            }
+          ],
+          "OfficialType": 3,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Assistant Referee 2"
+            }
+          ]
+        },
+        {
+          "IdCountry": "TAH",
+          "OfficialId": "280935",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "N. Hauata"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-GB",
+              "Description": "Norbert HAUATA"
+            }
+          ],
+          "OfficialType": 4,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Fourth official"
+            }
+          ]
+        }
+      ],
+      "MatchStatus": 0,
+      "ResultType": 1,
+      "MatchNumber": null,
+      "TimeDefined": true,
+      "OfficialityStatus": 2,
+      "MatchLegInfo": null,
+      "Properties": {
+        "IdIFES": "144129",
+        "StatsPerformIfesId": "144129",
+        "IdStatsPerform": "3yagj871xleosa8bkpx559zpw",
+        "PostMatchDataIsLoadedFromFdhIfes": "true"
+      },
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "520",
+      "IdSeason": "288319",
+      "IdStage": "288320",
+      "IdGroup": "288322",
+      "Weather": null,
+      "Attendance": "638",
+      "IdMatch": "400018604",
+      "MatchDay": "2",
+      "StageName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Second Round"
+        }
+      ],
+      "GroupName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Group B"
+        }
+      ],
+      "CompetitionName": [
+        {
+          "Locale": "en-GB",
+          "Description": "FIFA World Cup™ Qualifiers"
+        }
+      ],
+      "SeasonName": [
+        {
+          "Locale": "en-GB",
+          "Description": "FIFA World Cup 2026™ OFC Qualifiers"
+        }
+      ],
+      "SeasonShortName": [],
+      "Date": "2024-11-15T03:00:00Z",
+      "LocalDate": "2024-11-15T16:00:00Z",
+      "Home": {
+        "Score": 0,
+        "Side": null,
+        "IdTeam": "1882637",
+        "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/SAM",
+        "IdCountry": "SAM",
+        "Tactics": "4-3-3",
+        "TeamType": 1,
+        "AgeType": 7,
+        "TeamName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Samoa"
+          }
+        ],
+        "Abbreviation": "SAM",
+        "ShortClubName": "Samoa",
+        "FootballType": 0,
+        "Gender": 1,
+        "IdAssociation": "SAM"
+      },
+      "Away": {
+        "Score": 3,
+        "Side": null,
+        "IdTeam": "43981",
+        "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/TAH",
+        "IdCountry": "TAH",
+        "Tactics": "4-3-3",
+        "TeamType": 1,
+        "AgeType": 7,
+        "TeamName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Tahiti"
+          }
+        ],
+        "Abbreviation": "TAH",
+        "ShortClubName": "Tahiti",
+        "FootballType": 0,
+        "Gender": 1,
+        "IdAssociation": "TAH"
+      },
+      "HomeTeamScore": 0,
+      "AwayTeamScore": 3,
+      "AggregateHomeTeamScore": null,
+      "AggregateAwayTeamScore": null,
+      "HomeTeamPenaltyScore": null,
+      "AwayTeamPenaltyScore": null,
+      "LastPeriodUpdate": null,
+      "Leg": null,
+      "IsHomeMatch": null,
+      "Stadium": {
+        "IdStadium": "400248254",
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Waikato Stadium"
+          }
+        ],
+        "Capacity": null,
+        "WebAddress": null,
+        "Built": null,
+        "Roof": false,
+        "Turf": null,
+        "IdCity": "400248893",
+        "CityName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Hamilton"
+          }
+        ],
+        "IdCountry": "NZL",
+        "PostalCode": null,
+        "Street": null,
+        "Email": null,
+        "Fax": null,
+        "Phone": null,
+        "AffiliationCountry": null,
+        "AffiliationRegion": null,
+        "Latitude": null,
+        "Longitude": null,
+        "Length": null,
+        "Width": null,
+        "Properties": {
+          "IdIFES": "5018646"
+        },
+        "IsUpdateable": null
+      },
+      "IsTicketSalesAllowed": null,
+      "MatchTime": "0'",
+      "SecondHalfTime": null,
+      "FirstHalfTime": null,
+      "FirstHalfExtraTime": 5,
+      "SecondHalfExtraTime": 6,
+      "Winner": "43981",
+      "MatchReportUrl": null,
+      "PlaceHolderA": "WR1",
+      "PlaceHolderB": "B2",
+      "BallPossession": null,
+      "Officials": [
+        {
+          "IdCountry": "FIJ",
+          "OfficialId": "f5i67mdq4dvy6wg2f67bodc2y",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "K. Behari"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-gb",
+              "Description": "Kavitesh Behari"
+            }
+          ],
+          "OfficialType": 1,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Referee"
+            }
+          ]
+        },
+        {
+          "IdCountry": "TGA",
+          "OfficialId": "302229",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "F. Moeaki"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-GB",
+              "Description": "Folio MOEAKI"
+            }
+          ],
+          "OfficialType": 2,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Assistant Referee 1"
+            }
+          ]
+        },
+        {
+          "IdCountry": "FIJ",
+          "OfficialId": "349180",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "A. Narayan"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-GB",
+              "Description": "Avinesh NARAYAN"
+            }
+          ],
+          "OfficialType": 3,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Assistant Referee 2"
+            }
+          ]
+        },
+        {
+          "IdCountry": "FIJ",
+          "OfficialId": "416484",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "V. Singh"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-gb",
+              "Description": "Veer Singh"
+            }
+          ],
+          "OfficialType": 4,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Fourth official"
+            }
+          ]
+        }
+      ],
+      "MatchStatus": 0,
+      "ResultType": 1,
+      "MatchNumber": null,
+      "TimeDefined": true,
+      "OfficialityStatus": 2,
+      "MatchLegInfo": null,
+      "Properties": {
+        "IdIFES": "144130",
+        "StatsPerformIfesId": "144130",
+        "IdStatsPerform": "3rxwtlwx9akffi3o5istbb9xw",
+        "PostMatchDataIsLoadedFromFdhIfes": "true"
+      },
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "520",
+      "IdSeason": "288319",
+      "IdStage": "288320",
+      "IdGroup": "288322",
+      "Weather": null,
+      "Attendance": "10113",
+      "IdMatch": "400018605",
+      "MatchDay": "2",
+      "StageName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Second Round"
+        }
+      ],
+      "GroupName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Group B"
+        }
+      ],
+      "CompetitionName": [
+        {
+          "Locale": "en-GB",
+          "Description": "FIFA World Cup™ Qualifiers"
+        }
+      ],
+      "SeasonName": [
+        {
+          "Locale": "en-GB",
+          "Description": "FIFA World Cup 2026™ OFC Qualifiers"
+        }
+      ],
+      "SeasonShortName": [],
+      "Date": "2024-11-15T06:30:00Z",
+      "LocalDate": "2024-11-15T19:30:00Z",
+      "Home": {
+        "Score": 8,
+        "Side": null,
+        "IdTeam": "43978",
+        "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/NZL",
+        "IdCountry": "NZL",
+        "Tactics": "4-2-3-1",
+        "TeamType": 1,
+        "AgeType": 7,
+        "TeamName": [
+          {
+            "Locale": "en-GB",
+            "Description": "New Zealand"
+          }
+        ],
+        "Abbreviation": "NZL",
+        "ShortClubName": "New Zealand",
+        "FootballType": 0,
+        "Gender": 1,
+        "IdAssociation": "NZL"
+      },
+      "Away": {
+        "Score": 1,
+        "Side": null,
+        "IdTeam": "43982",
+        "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/VAN",
+        "IdCountry": "VAN",
+        "Tactics": "4-3-3",
+        "TeamType": 1,
+        "AgeType": 7,
+        "TeamName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Vanuatu"
+          }
+        ],
+        "Abbreviation": "VAN",
+        "ShortClubName": "Vanuatu",
+        "FootballType": 0,
+        "Gender": 1,
+        "IdAssociation": "VAN"
+      },
+      "HomeTeamScore": 8,
+      "AwayTeamScore": 1,
+      "AggregateHomeTeamScore": null,
+      "AggregateAwayTeamScore": null,
+      "HomeTeamPenaltyScore": null,
+      "AwayTeamPenaltyScore": null,
+      "LastPeriodUpdate": null,
+      "Leg": null,
+      "IsHomeMatch": null,
+      "Stadium": {
+        "IdStadium": "400248254",
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Waikato Stadium"
+          }
+        ],
+        "Capacity": null,
+        "WebAddress": null,
+        "Built": null,
+        "Roof": false,
+        "Turf": null,
+        "IdCity": "400248893",
+        "CityName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Hamilton"
+          }
+        ],
+        "IdCountry": "NZL",
+        "PostalCode": null,
+        "Street": null,
+        "Email": null,
+        "Fax": null,
+        "Phone": null,
+        "AffiliationCountry": null,
+        "AffiliationRegion": null,
+        "Latitude": null,
+        "Longitude": null,
+        "Length": null,
+        "Width": null,
+        "Properties": {
+          "IdIFES": "5018646"
+        },
+        "IsUpdateable": null
+      },
+      "IsTicketSalesAllowed": null,
+      "MatchTime": "0'",
+      "SecondHalfTime": null,
+      "FirstHalfTime": null,
+      "FirstHalfExtraTime": 7,
+      "SecondHalfExtraTime": 5,
+      "Winner": "43978",
+      "MatchReportUrl": null,
+      "PlaceHolderA": "B1",
+      "PlaceHolderB": "B3",
+      "BallPossession": null,
+      "Officials": [
+        {
+          "IdCountry": "SOL",
+          "OfficialId": "435143",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "B. Aukwai"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-gb",
+              "Description": "Ben Aukwai"
+            }
+          ],
+          "OfficialType": 1,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Referee"
+            }
+          ]
+        },
+        {
+          "IdCountry": "SOL",
+          "OfficialId": "383747",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "B. Mutukera"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-GB",
+              "Description": "Bernard MUTUKERA"
+            }
+          ],
+          "OfficialType": 2,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Assistant Referee 1"
+            }
+          ]
+        },
+        {
+          "IdCountry": "SOL",
+          "OfficialId": "a259onsf4yil2i2d6btd4u0ic",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "N. Lumukana"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-gb",
+              "Description": "Natalia Lumukana"
+            }
+          ],
+          "OfficialType": 3,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Assistant Referee 2"
+            }
+          ]
+        },
+        {
+          "IdCountry": "NCL",
+          "OfficialId": "392223",
+          "NameShort": [
+            {
+              "Locale": "en-GB",
+              "Description": "Mederic LACOUR"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-GB",
+              "Description": "Médéric Lacour"
+            }
+          ],
+          "OfficialType": 4,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Fourth official"
+            }
+          ]
+        }
+      ],
+      "MatchStatus": 0,
+      "ResultType": 1,
+      "MatchNumber": null,
+      "TimeDefined": true,
+      "OfficialityStatus": 2,
+      "MatchLegInfo": null,
+      "Properties": {
+        "IdIFES": "144131",
+        "StatsPerformIfesId": "144131",
+        "IdStatsPerform": "8es6pag1c6wv67l3zobbyeyvo",
+        "PostMatchDataIsLoadedFromFdhIfes": "true"
+      },
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "520",
+      "IdSeason": "288319",
+      "IdStage": "288320",
+      "IdGroup": "288321",
+      "Weather": null,
+      "Attendance": "877",
+      "IdMatch": "400018598",
+      "MatchDay": "3",
+      "StageName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Second Round"
+        }
+      ],
+      "GroupName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Group A"
+        }
+      ],
+      "CompetitionName": [
+        {
+          "Locale": "en-GB",
+          "Description": "FIFA World Cup™ Qualifiers"
+        }
+      ],
+      "SeasonName": [
+        {
+          "Locale": "en-GB",
+          "Description": "FIFA World Cup 2026™ OFC Qualifiers"
+        }
+      ],
+      "SeasonShortName": [],
+      "Date": "2024-11-17T03:00:00Z",
+      "LocalDate": "2024-11-17T13:00:00Z",
+      "Home": {
+        "Score": 1,
+        "Side": null,
+        "IdTeam": "43977",
+        "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/FIJ",
+        "IdCountry": "FIJ",
+        "Tactics": "4-4-1-1",
+        "TeamType": 1,
+        "AgeType": 7,
+        "TeamName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Fiji"
+          }
+        ],
+        "Abbreviation": "FIJ",
+        "ShortClubName": "Fiji",
+        "FootballType": 0,
+        "Gender": 1,
+        "IdAssociation": "FIJ"
+      },
+      "Away": {
+        "Score": 1,
+        "Side": null,
+        "IdTeam": "20010",
+        "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/NCL",
+        "IdCountry": "NCL",
+        "Tactics": "4-2-3-1",
+        "TeamType": 1,
+        "AgeType": 7,
+        "TeamName": [
+          {
+            "Locale": "en-GB",
+            "Description": "New Caledonia"
+          }
+        ],
+        "Abbreviation": "NCL",
+        "ShortClubName": "New Caledonia",
+        "FootballType": 0,
+        "Gender": 1,
+        "IdAssociation": "NCL"
+      },
+      "HomeTeamScore": 1,
+      "AwayTeamScore": 1,
+      "AggregateHomeTeamScore": null,
+      "AggregateAwayTeamScore": null,
+      "HomeTeamPenaltyScore": null,
+      "AwayTeamPenaltyScore": null,
+      "LastPeriodUpdate": null,
+      "Leg": null,
+      "IsHomeMatch": null,
+      "Stadium": {
+        "IdStadium": "400248550",
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "PNG Football Stadium"
+          }
+        ],
+        "Capacity": null,
+        "WebAddress": null,
+        "Built": null,
+        "Roof": false,
+        "Turf": null,
+        "IdCity": "400248551",
+        "CityName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Port Moresby"
+          }
+        ],
+        "IdCountry": "PNG",
+        "PostalCode": null,
+        "Street": null,
+        "Email": null,
+        "Fax": null,
+        "Phone": null,
+        "AffiliationCountry": null,
+        "AffiliationRegion": null,
+        "Latitude": null,
+        "Longitude": null,
+        "Length": null,
+        "Width": null,
+        "Properties": {
+          "IdIFES": "5043351"
+        },
+        "IsUpdateable": null
+      },
+      "IsTicketSalesAllowed": null,
+      "MatchTime": "0'",
+      "SecondHalfTime": null,
+      "FirstHalfTime": null,
+      "FirstHalfExtraTime": 7,
+      "SecondHalfExtraTime": 9,
+      "Winner": null,
+      "MatchReportUrl": null,
+      "PlaceHolderA": "A2",
+      "PlaceHolderB": "A3",
+      "BallPossession": null,
+      "Officials": [
+        {
+          "IdCountry": "TAH",
+          "OfficialId": "280935",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "N. Hauata"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-GB",
+              "Description": "Norbert HAUATA"
+            }
+          ],
+          "OfficialType": 1,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Referee"
+            }
+          ]
+        },
+        {
+          "IdCountry": "SAM",
+          "OfficialId": "3wy4ifx07gmrlqkfv3yt2jmy1",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "M. Salanoa"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-gb",
+              "Description": "Maleatala Salanoa"
+            }
+          ],
+          "OfficialType": 2,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Assistant Referee 1"
+            }
+          ]
+        },
+        {
+          "IdCountry": "VAN",
+          "OfficialId": "374715",
+          "NameShort": [
+            {
+              "Locale": "en-GB",
+              "Description": "Jeremy GARAE"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-GB",
+              "Description": "Jeremy GARAE"
+            }
+          ],
+          "OfficialType": 3,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Assistant Referee 2"
+            }
+          ]
+        },
+        {
+          "IdCountry": "NZL",
+          "OfficialId": "359632",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "M. Conger"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-GB",
+              "Description": "Matthew CONGER"
+            }
+          ],
+          "OfficialType": 4,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Fourth official"
+            }
+          ]
+        }
+      ],
+      "MatchStatus": 0,
+      "ResultType": 1,
+      "MatchNumber": null,
+      "TimeDefined": true,
+      "OfficialityStatus": 2,
+      "MatchLegInfo": null,
+      "Properties": {
+        "IdIFES": "144132",
+        "StatsPerformIfesId": "144132",
+        "IdStatsPerform": "3yohv1go5p2gfm1dyuqajwpw4",
+        "PostMatchDataIsLoadedFromFdhIfes": "true"
+      },
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "520",
+      "IdSeason": "288319",
+      "IdStage": "288320",
+      "IdGroup": "288321",
+      "Weather": null,
+      "Attendance": "1284",
+      "IdMatch": "400018600",
+      "MatchDay": "3",
+      "StageName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Second Round"
+        }
+      ],
+      "GroupName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Group A"
+        }
+      ],
+      "CompetitionName": [
+        {
+          "Locale": "en-GB",
+          "Description": "FIFA World Cup™ Qualifiers"
+        }
+      ],
+      "SeasonName": [
+        {
+          "Locale": "en-GB",
+          "Description": "FIFA World Cup 2026™ OFC Qualifiers"
+        }
+      ],
+      "SeasonShortName": [],
+      "Date": "2024-11-17T06:00:00Z",
+      "LocalDate": "2024-11-17T16:00:00Z",
+      "Home": {
+        "Score": 1,
+        "Side": null,
+        "IdTeam": "43979",
+        "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/PNG",
+        "IdCountry": "PNG",
+        "Tactics": "4-4-2",
+        "TeamType": 1,
+        "AgeType": 7,
+        "TeamName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Papua New Guinea"
+          }
+        ],
+        "Abbreviation": "PNG",
+        "ShortClubName": "Papua New Guinea",
+        "FootballType": 0,
+        "Gender": 1,
+        "IdAssociation": "PNG"
+      },
+      "Away": {
+        "Score": 2,
+        "Side": null,
+        "IdTeam": "43980",
+        "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/SOL",
+        "IdCountry": "SOL",
+        "Tactics": "4-3-3",
+        "TeamType": 1,
+        "AgeType": 7,
+        "TeamName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Solomon Islands"
+          }
+        ],
+        "Abbreviation": "SOL",
+        "ShortClubName": "Solomon Islands",
+        "FootballType": 0,
+        "Gender": 1,
+        "IdAssociation": "SOL"
+      },
+      "HomeTeamScore": 1,
+      "AwayTeamScore": 2,
+      "AggregateHomeTeamScore": null,
+      "AggregateAwayTeamScore": null,
+      "HomeTeamPenaltyScore": null,
+      "AwayTeamPenaltyScore": null,
+      "LastPeriodUpdate": null,
+      "Leg": null,
+      "IsHomeMatch": null,
+      "Stadium": {
+        "IdStadium": "400248550",
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "PNG Football Stadium"
+          }
+        ],
+        "Capacity": null,
+        "WebAddress": null,
+        "Built": null,
+        "Roof": false,
+        "Turf": null,
+        "IdCity": "400248551",
+        "CityName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Port Moresby"
+          }
+        ],
+        "IdCountry": "PNG",
+        "PostalCode": null,
+        "Street": null,
+        "Email": null,
+        "Fax": null,
+        "Phone": null,
+        "AffiliationCountry": null,
+        "AffiliationRegion": null,
+        "Latitude": null,
+        "Longitude": null,
+        "Length": null,
+        "Width": null,
+        "Properties": {
+          "IdIFES": "5043351"
+        },
+        "IsUpdateable": null
+      },
+      "IsTicketSalesAllowed": null,
+      "MatchTime": "0'",
+      "SecondHalfTime": null,
+      "FirstHalfTime": null,
+      "FirstHalfExtraTime": 5,
+      "SecondHalfExtraTime": 7,
+      "Winner": "43980",
+      "MatchReportUrl": null,
+      "PlaceHolderA": "A4",
+      "PlaceHolderB": "A1",
+      "BallPossession": {
+        "Intervals": [],
+        "LastX": [],
+        "OverallHome": 50.0,
+        "OverallAway": 50.0
+      },
+      "Officials": [
+        {
+          "IdCountry": "NZL",
+          "OfficialId": "408438",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "C. Kawana-Waugh"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-GB",
+              "Description": "Campbell-Kirk Waugh"
+            }
+          ],
+          "OfficialType": 1,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Referee"
+            }
+          ]
+        },
+        {
+          "IdCountry": "NZL",
+          "OfficialId": "400287",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "I. Trevis"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-GB",
+              "Description": "Isaac Trevis"
+            }
+          ],
+          "OfficialType": 2,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Assistant Referee 1"
+            }
+          ]
+        },
+        {
+          "IdCountry": "NZL",
+          "OfficialId": "9u5z9esrzatmq2qov3sowc1gq",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "E. Cook"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-gb",
+              "Description": "Edward Cook"
+            }
+          ],
+          "OfficialType": 3,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Assistant Referee 2"
+            }
+          ]
+        },
+        {
+          "IdCountry": "NZL",
+          "OfficialId": "359632",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "M. Conger"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-GB",
+              "Description": "Matthew CONGER"
+            }
+          ],
+          "OfficialType": 4,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Fourth official"
+            }
+          ]
+        }
+      ],
+      "MatchStatus": 0,
+      "ResultType": 1,
+      "MatchNumber": null,
+      "TimeDefined": true,
+      "OfficialityStatus": 2,
+      "MatchLegInfo": null,
+      "Properties": {
+        "IdIFES": "144133",
+        "StatsPerformIfesId": "144133",
+        "IdStatsPerform": "3z2eiim31xof3xpgrcjrgsetw",
+        "PostMatchDataIsLoadedFromFdhIfes": "true"
+      },
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "520",
+      "IdSeason": "288319",
+      "IdStage": "288320",
+      "IdGroup": "288322",
+      "Weather": null,
+      "Attendance": "395",
+      "IdMatch": "400018607",
+      "MatchDay": "3",
+      "StageName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Second Round"
+        }
+      ],
+      "GroupName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Group B"
+        }
+      ],
+      "CompetitionName": [
+        {
+          "Locale": "en-GB",
+          "Description": "FIFA World Cup™ Qualifiers"
+        }
+      ],
+      "SeasonName": [
+        {
+          "Locale": "en-GB",
+          "Description": "FIFA World Cup 2026™ OFC Qualifiers"
+        }
+      ],
+      "SeasonShortName": [],
+      "Date": "2024-11-18T03:00:00Z",
+      "LocalDate": "2024-11-18T16:00:00Z",
+      "Home": {
+        "Score": 2,
+        "Side": null,
+        "IdTeam": "43981",
+        "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/TAH",
+        "IdCountry": "TAH",
+        "Tactics": "4-3-3",
+        "TeamType": 1,
+        "AgeType": 7,
+        "TeamName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Tahiti"
+          }
+        ],
+        "Abbreviation": "TAH",
+        "ShortClubName": "Tahiti",
+        "FootballType": 0,
+        "Gender": 1,
+        "IdAssociation": "TAH"
+      },
+      "Away": {
+        "Score": 0,
+        "Side": null,
+        "IdTeam": "43982",
+        "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/VAN",
+        "IdCountry": "VAN",
+        "Tactics": "4-1-4-1",
+        "TeamType": 1,
+        "AgeType": 7,
+        "TeamName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Vanuatu"
+          }
+        ],
+        "Abbreviation": "VAN",
+        "ShortClubName": "Vanuatu",
+        "FootballType": 0,
+        "Gender": 1,
+        "IdAssociation": "VAN"
+      },
+      "HomeTeamScore": 2,
+      "AwayTeamScore": 0,
+      "AggregateHomeTeamScore": null,
+      "AggregateAwayTeamScore": null,
+      "HomeTeamPenaltyScore": null,
+      "AwayTeamPenaltyScore": null,
+      "LastPeriodUpdate": null,
+      "Leg": null,
+      "IsHomeMatch": null,
+      "Stadium": {
+        "IdStadium": "400255507",
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Go Media Stadium"
+          }
+        ],
+        "Capacity": null,
+        "WebAddress": null,
+        "Built": null,
+        "Roof": false,
+        "Turf": null,
+        "IdCity": "400018609",
+        "CityName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Penrose"
+          }
+        ],
+        "IdCountry": "NZL",
+        "PostalCode": null,
+        "Street": null,
+        "Email": null,
+        "Fax": null,
+        "Phone": null,
+        "AffiliationCountry": null,
+        "AffiliationRegion": null,
+        "Latitude": null,
+        "Longitude": null,
+        "Length": null,
+        "Width": null,
+        "Properties": {
+          "IdIFES": "34814"
+        },
+        "IsUpdateable": null
+      },
+      "IsTicketSalesAllowed": null,
+      "MatchTime": "0'",
+      "SecondHalfTime": null,
+      "FirstHalfTime": null,
+      "FirstHalfExtraTime": 5,
+      "SecondHalfExtraTime": 12,
+      "Winner": "43981",
+      "MatchReportUrl": null,
+      "PlaceHolderA": "B2",
+      "PlaceHolderB": "B3",
+      "BallPossession": null,
+      "Officials": [
+        {
+          "IdCountry": "NCL",
+          "OfficialId": "392223",
+          "NameShort": [
+            {
+              "Locale": "en-GB",
+              "Description": "Mederic LACOUR"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-GB",
+              "Description": "Médéric Lacour"
+            }
+          ],
+          "OfficialType": 1,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Referee"
+            }
+          ]
+        },
+        {
+          "IdCountry": "NCL",
+          "OfficialId": "373289",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "B. Brial"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-GB",
+              "Description": "Bertrand BRIAL"
+            }
+          ],
+          "OfficialType": 2,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Assistant Referee 1"
+            }
+          ]
+        },
+        {
+          "IdCountry": "SOL",
+          "OfficialId": "a259onsf4yil2i2d6btd4u0ic",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "N. Lumukana"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-gb",
+              "Description": "Natalia Lumukana"
+            }
+          ],
+          "OfficialType": 3,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Assistant Referee 2"
+            }
+          ]
+        },
+        {
+          "IdCountry": "SOL",
+          "OfficialId": "435143",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "B. Aukwai"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-gb",
+              "Description": "Ben Aukwai"
+            }
+          ],
+          "OfficialType": 4,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Fourth official"
+            }
+          ]
+        }
+      ],
+      "MatchStatus": 0,
+      "ResultType": 1,
+      "MatchNumber": null,
+      "TimeDefined": true,
+      "OfficialityStatus": 2,
+      "MatchLegInfo": null,
+      "Properties": {
+        "IdIFES": "144134",
+        "StatsPerformIfesId": "144134",
+        "IdStatsPerform": "8f942ut0309tz8inpxkjrfmdw",
+        "PostMatchDataIsLoadedFromFdhIfes": "true"
+      },
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "520",
+      "IdSeason": "288319",
+      "IdStage": "288320",
+      "IdGroup": "288322",
+      "Weather": null,
+      "Attendance": "5327",
+      "IdMatch": "400018606",
+      "MatchDay": "3",
+      "StageName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Second Round"
+        }
+      ],
+      "GroupName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Group B"
+        }
+      ],
+      "CompetitionName": [
+        {
+          "Locale": "en-GB",
+          "Description": "FIFA World Cup™ Qualifiers"
+        }
+      ],
+      "SeasonName": [
+        {
+          "Locale": "en-GB",
+          "Description": "FIFA World Cup 2026™ OFC Qualifiers"
+        }
+      ],
+      "SeasonShortName": [],
+      "Date": "2024-11-18T06:30:00Z",
+      "LocalDate": "2024-11-18T19:30:00Z",
+      "Home": {
+        "Score": 0,
+        "Side": null,
+        "IdTeam": "1882637",
+        "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/SAM",
+        "IdCountry": "SAM",
+        "Tactics": "5-4-1",
+        "TeamType": 1,
+        "AgeType": 7,
+        "TeamName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Samoa"
+          }
+        ],
+        "Abbreviation": "SAM",
+        "ShortClubName": "Samoa",
+        "FootballType": 0,
+        "Gender": 1,
+        "IdAssociation": "SAM"
+      },
+      "Away": {
+        "Score": 8,
+        "Side": null,
+        "IdTeam": "43978",
+        "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/NZL",
+        "IdCountry": "NZL",
+        "Tactics": "4-2-3-1",
+        "TeamType": 1,
+        "AgeType": 7,
+        "TeamName": [
+          {
+            "Locale": "en-GB",
+            "Description": "New Zealand"
+          }
+        ],
+        "Abbreviation": "NZL",
+        "ShortClubName": "New Zealand",
+        "FootballType": 0,
+        "Gender": 1,
+        "IdAssociation": "NZL"
+      },
+      "HomeTeamScore": 0,
+      "AwayTeamScore": 8,
+      "AggregateHomeTeamScore": null,
+      "AggregateAwayTeamScore": null,
+      "HomeTeamPenaltyScore": null,
+      "AwayTeamPenaltyScore": null,
+      "LastPeriodUpdate": null,
+      "Leg": null,
+      "IsHomeMatch": null,
+      "Stadium": {
+        "IdStadium": "400255507",
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Go Media Stadium"
+          }
+        ],
+        "Capacity": null,
+        "WebAddress": null,
+        "Built": null,
+        "Roof": false,
+        "Turf": null,
+        "IdCity": "400018609",
+        "CityName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Penrose"
+          }
+        ],
+        "IdCountry": "NZL",
+        "PostalCode": null,
+        "Street": null,
+        "Email": null,
+        "Fax": null,
+        "Phone": null,
+        "AffiliationCountry": null,
+        "AffiliationRegion": null,
+        "Latitude": null,
+        "Longitude": null,
+        "Length": null,
+        "Width": null,
+        "Properties": {
+          "IdIFES": "34814"
+        },
+        "IsUpdateable": null
+      },
+      "IsTicketSalesAllowed": null,
+      "MatchTime": "0'",
+      "SecondHalfTime": null,
+      "FirstHalfTime": null,
+      "FirstHalfExtraTime": 4,
+      "SecondHalfExtraTime": 9,
+      "Winner": "43978",
+      "MatchReportUrl": null,
+      "PlaceHolderA": "WR1",
+      "PlaceHolderB": "B1",
+      "BallPossession": null,
+      "Officials": [
+        {
+          "IdCountry": "FIJ",
+          "OfficialId": "416484",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "V. Singh"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-gb",
+              "Description": "Veer Singh"
+            }
+          ],
+          "OfficialType": 1,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Referee"
+            }
+          ]
+        },
+        {
+          "IdCountry": "FIJ",
+          "OfficialId": "349180",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "A. Narayan"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-GB",
+              "Description": "Avinesh NARAYAN"
+            }
+          ],
+          "OfficialType": 2,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Assistant Referee 1"
+            }
+          ]
+        },
+        {
+          "IdCountry": "SOL",
+          "OfficialId": "2psfe5cau4kaptkz98jltm7l5",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "J. Solodia"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-gb",
+              "Description": "Jeffrey Solodia"
+            }
+          ],
+          "OfficialType": 3,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Assistant Referee 2"
+            }
+          ]
+        },
+        {
+          "IdCountry": "FIJ",
+          "OfficialId": "f5i67mdq4dvy6wg2f67bodc2y",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "K. Behari"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-gb",
+              "Description": "Kavitesh Behari"
+            }
+          ],
+          "OfficialType": 4,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Fourth official"
+            }
+          ]
+        }
+      ],
+      "MatchStatus": 0,
+      "ResultType": 1,
+      "MatchNumber": null,
+      "TimeDefined": true,
+      "OfficialityStatus": 2,
+      "MatchLegInfo": null,
+      "Properties": {
+        "IdIFES": "144135",
+        "StatsPerformIfesId": "144135",
+        "IdStatsPerform": "bxqqttionek950yz9s4vvihw4",
+        "PostMatchDataIsLoadedFromFdhIfes": "true"
+      },
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "520",
+      "IdSeason": "288319",
+      "IdStage": "288327",
+      "IdGroup": null,
+      "Weather": null,
+      "Attendance": "1948",
+      "IdMatch": "400019141",
+      "MatchDay": null,
+      "StageName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Third Round - Semi-final"
+        }
+      ],
+      "GroupName": [],
+      "CompetitionName": [
+        {
+          "Locale": "en-GB",
+          "Description": "FIFA World Cup™ Qualifiers"
+        }
+      ],
+      "SeasonName": [
+        {
+          "Locale": "en-GB",
+          "Description": "FIFA World Cup 2026™ OFC Qualifiers"
+        }
+      ],
+      "SeasonShortName": [],
+      "Date": "2025-03-21T02:10:00Z",
+      "LocalDate": "2025-03-21T15:10:00Z",
+      "Home": {
+        "Score": 3,
+        "Side": null,
+        "IdTeam": "20010",
+        "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/NCL",
+        "IdCountry": "NCL",
+        "Tactics": "4-3-3",
+        "TeamType": 1,
+        "AgeType": 7,
+        "TeamName": [
+          {
+            "Locale": "en-GB",
+            "Description": "New Caledonia"
+          }
+        ],
+        "Abbreviation": "NCL",
+        "ShortClubName": "New Caledonia",
+        "FootballType": 0,
+        "Gender": 1,
+        "IdAssociation": "NCL"
+      },
+      "Away": {
+        "Score": 0,
+        "Side": null,
+        "IdTeam": "43981",
+        "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/TAH",
+        "IdCountry": "TAH",
+        "Tactics": "4-4-2",
+        "TeamType": 1,
+        "AgeType": 7,
+        "TeamName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Tahiti"
+          }
+        ],
+        "Abbreviation": "TAH",
+        "ShortClubName": "Tahiti",
+        "FootballType": 0,
+        "Gender": 1,
+        "IdAssociation": "TAH"
+      },
+      "HomeTeamScore": 3,
+      "AwayTeamScore": 0,
+      "AggregateHomeTeamScore": null,
+      "AggregateAwayTeamScore": null,
+      "HomeTeamPenaltyScore": null,
+      "AwayTeamPenaltyScore": null,
+      "LastPeriodUpdate": null,
+      "Leg": null,
+      "IsHomeMatch": null,
+      "Stadium": {
+        "IdStadium": "400245642",
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Wellington Regional Stadium"
+          }
+        ],
+        "Capacity": null,
+        "WebAddress": null,
+        "Built": null,
+        "Roof": false,
+        "Turf": null,
+        "IdCity": "400245643",
+        "CityName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Wellington"
+          }
+        ],
+        "IdCountry": "NZL",
+        "PostalCode": null,
+        "Street": null,
+        "Email": null,
+        "Fax": null,
+        "Phone": null,
+        "AffiliationCountry": null,
+        "AffiliationRegion": null,
+        "Latitude": null,
+        "Longitude": null,
+        "Length": null,
+        "Width": null,
+        "Properties": {
+          "IdIFES": "5004993"
+        },
+        "IsUpdateable": null
+      },
+      "IsTicketSalesAllowed": null,
+      "MatchTime": "0'",
+      "SecondHalfTime": null,
+      "FirstHalfTime": null,
+      "FirstHalfExtraTime": 2,
+      "SecondHalfExtraTime": 6,
+      "Winner": "20010",
+      "MatchReportUrl": null,
+      "PlaceHolderA": "1A",
+      "PlaceHolderB": "2B",
+      "BallPossession": null,
+      "Officials": [
+        {
+          "IdCountry": "NZL",
+          "OfficialId": "408438",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "C. Kawana-Waugh"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-GB",
+              "Description": "Campbell-Kirk Waugh"
+            }
+          ],
+          "OfficialType": 1,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Referee"
+            }
+          ]
+        },
+        {
+          "IdCountry": "NZL",
+          "OfficialId": "400287",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "I. Trevis"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-GB",
+              "Description": "Isaac Trevis"
+            }
+          ],
+          "OfficialType": 2,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Assistant Referee 1"
+            }
+          ]
+        },
+        {
+          "IdCountry": "NZL",
+          "OfficialId": "9u5z9esrzatmq2qov3sowc1gq",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "E. Cook"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-gb",
+              "Description": "Edward Cook"
+            }
+          ],
+          "OfficialType": 3,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Assistant Referee 2"
+            }
+          ]
+        },
+        {
+          "IdCountry": "FIJ",
+          "OfficialId": "416484",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "V. Singh"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-gb",
+              "Description": "Veer Singh"
+            }
+          ],
+          "OfficialType": 4,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Fourth official"
+            }
+          ]
+        }
+      ],
+      "MatchStatus": 0,
+      "ResultType": 1,
+      "MatchNumber": null,
+      "TimeDefined": true,
+      "OfficialityStatus": 2,
+      "MatchLegInfo": null,
+      "Properties": {
+        "IdIFES": "145578",
+        "StatsPerformIfesId": "145578",
+        "IdStatsPerform": "8aglplqvk2rk7n9535sotwj6c",
+        "PostMatchDataIsLoadedFromFdhIfes": "true"
+      },
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "520",
+      "IdSeason": "288319",
+      "IdStage": "288327",
+      "IdGroup": null,
+      "Weather": null,
+      "Attendance": "20947",
+      "IdMatch": "400019142",
+      "MatchDay": null,
+      "StageName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Third Round - Semi-final"
+        }
+      ],
+      "GroupName": [],
+      "CompetitionName": [
+        {
+          "Locale": "en-GB",
+          "Description": "FIFA World Cup™ Qualifiers"
+        }
+      ],
+      "SeasonName": [
+        {
+          "Locale": "en-GB",
+          "Description": "FIFA World Cup 2026™ OFC Qualifiers"
+        }
+      ],
+      "SeasonShortName": [],
+      "Date": "2025-03-21T06:10:00Z",
+      "LocalDate": "2025-03-21T19:10:00Z",
+      "Home": {
+        "Score": 7,
+        "Side": null,
+        "IdTeam": "43978",
+        "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/NZL",
+        "IdCountry": "NZL",
+        "Tactics": "4-2-3-1",
+        "TeamType": 1,
+        "AgeType": 7,
+        "TeamName": [
+          {
+            "Locale": "en-GB",
+            "Description": "New Zealand"
+          }
+        ],
+        "Abbreviation": "NZL",
+        "ShortClubName": "New Zealand",
+        "FootballType": 0,
+        "Gender": 1,
+        "IdAssociation": "NZL"
+      },
+      "Away": {
+        "Score": 0,
+        "Side": null,
+        "IdTeam": "43977",
+        "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/FIJ",
+        "IdCountry": "FIJ",
+        "Tactics": "4-4-2",
+        "TeamType": 1,
+        "AgeType": 7,
+        "TeamName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Fiji"
+          }
+        ],
+        "Abbreviation": "FIJ",
+        "ShortClubName": "Fiji",
+        "FootballType": 0,
+        "Gender": 1,
+        "IdAssociation": "FIJ"
+      },
+      "HomeTeamScore": 7,
+      "AwayTeamScore": 0,
+      "AggregateHomeTeamScore": null,
+      "AggregateAwayTeamScore": null,
+      "HomeTeamPenaltyScore": null,
+      "AwayTeamPenaltyScore": null,
+      "LastPeriodUpdate": null,
+      "Leg": null,
+      "IsHomeMatch": null,
+      "Stadium": {
+        "IdStadium": "400245642",
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Wellington Regional Stadium"
+          }
+        ],
+        "Capacity": null,
+        "WebAddress": null,
+        "Built": null,
+        "Roof": false,
+        "Turf": null,
+        "IdCity": "400245643",
+        "CityName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Wellington"
+          }
+        ],
+        "IdCountry": "NZL",
+        "PostalCode": null,
+        "Street": null,
+        "Email": null,
+        "Fax": null,
+        "Phone": null,
+        "AffiliationCountry": null,
+        "AffiliationRegion": null,
+        "Latitude": null,
+        "Longitude": null,
+        "Length": null,
+        "Width": null,
+        "Properties": {
+          "IdIFES": "5004993"
+        },
+        "IsUpdateable": null
+      },
+      "IsTicketSalesAllowed": null,
+      "MatchTime": "0'",
+      "SecondHalfTime": null,
+      "FirstHalfTime": null,
+      "FirstHalfExtraTime": 4,
+      "SecondHalfExtraTime": 5,
+      "Winner": "43978",
+      "MatchReportUrl": null,
+      "PlaceHolderA": "1B",
+      "PlaceHolderB": "2A",
+      "BallPossession": null,
+      "Officials": [
+        {
+          "IdCountry": "TAH",
+          "OfficialId": "280935",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "N. Hauata"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-GB",
+              "Description": "Norbert HAUATA"
+            }
+          ],
+          "OfficialType": 1,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Referee"
+            }
+          ]
+        },
+        {
+          "IdCountry": "NCL",
+          "OfficialId": "373289",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "B. Brial"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-GB",
+              "Description": "Bertrand BRIAL"
+            }
+          ],
+          "OfficialType": 2,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Assistant Referee 1"
+            }
+          ]
+        },
+        {
+          "IdCountry": "SOL",
+          "OfficialId": "2psfe5cau4kaptkz98jltm7l5",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "J. Solodia"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-gb",
+              "Description": "Jeffrey Solodia"
+            }
+          ],
+          "OfficialType": 3,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Assistant Referee 2"
+            }
+          ]
+        },
+        {
+          "IdCountry": "PNG",
+          "OfficialId": "362551",
+          "NameShort": [
+            {
+              "Locale": "en-GB",
+              "Description": "David YAREBOINEN"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-GB",
+              "Description": "David YAREBOINEN"
+            }
+          ],
+          "OfficialType": 4,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Fourth official"
+            }
+          ]
+        }
+      ],
+      "MatchStatus": 0,
+      "ResultType": 1,
+      "MatchNumber": null,
+      "TimeDefined": true,
+      "OfficialityStatus": 2,
+      "MatchLegInfo": null,
+      "Properties": {
+        "IdIFES": "145579",
+        "StatsPerformIfesId": "145579",
+        "IdStatsPerform": "8b9jiexqrmohjslnl52l1395g",
+        "PostMatchDataIsLoadedFromFdhIfes": "true"
+      },
+      "IsUpdateable": null
+    },
+    {
+      "IdCompetition": "520",
+      "IdSeason": "288319",
+      "IdStage": "288326",
+      "IdGroup": null,
+      "Weather": null,
+      "Attendance": "25132",
+      "IdMatch": "400019140",
+      "MatchDay": null,
+      "StageName": [
+        {
+          "Locale": "en-GB",
+          "Description": "Third Round - Final"
+        }
+      ],
+      "GroupName": [],
+      "CompetitionName": [
+        {
+          "Locale": "en-GB",
+          "Description": "FIFA World Cup™ Qualifiers"
+        }
+      ],
+      "SeasonName": [
+        {
+          "Locale": "en-GB",
+          "Description": "FIFA World Cup 2026™ OFC Qualifiers"
+        }
+      ],
+      "SeasonShortName": [],
+      "Date": "2025-03-24T06:10:00Z",
+      "LocalDate": "2025-03-24T19:10:00Z",
+      "Home": {
+        "Score": 0,
+        "Side": null,
+        "IdTeam": "20010",
+        "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/NCL",
+        "IdCountry": "NCL",
+        "Tactics": "4-1-3-2",
+        "TeamType": 1,
+        "AgeType": 7,
+        "TeamName": [
+          {
+            "Locale": "en-GB",
+            "Description": "New Caledonia"
+          }
+        ],
+        "Abbreviation": "NCL",
+        "ShortClubName": "New Caledonia",
+        "FootballType": 0,
+        "Gender": 1,
+        "IdAssociation": "NCL"
+      },
+      "Away": {
+        "Score": 3,
+        "Side": null,
+        "IdTeam": "43978",
+        "PictureUrl": "https://api.fifa.com/api/v3/picture/flags-{format}-{size}/NZL",
+        "IdCountry": "NZL",
+        "Tactics": "4-3-3",
+        "TeamType": 1,
+        "AgeType": 7,
+        "TeamName": [
+          {
+            "Locale": "en-GB",
+            "Description": "New Zealand"
+          }
+        ],
+        "Abbreviation": "NZL",
+        "ShortClubName": "New Zealand",
+        "FootballType": 0,
+        "Gender": 1,
+        "IdAssociation": "NZL"
+      },
+      "HomeTeamScore": 0,
+      "AwayTeamScore": 3,
+      "AggregateHomeTeamScore": null,
+      "AggregateAwayTeamScore": null,
+      "HomeTeamPenaltyScore": null,
+      "AwayTeamPenaltyScore": null,
+      "LastPeriodUpdate": null,
+      "Leg": null,
+      "IsHomeMatch": null,
+      "Stadium": {
+        "IdStadium": "400248252",
+        "Name": [
+          {
+            "Locale": "en-GB",
+            "Description": "Eden Park"
+          }
+        ],
+        "Capacity": null,
+        "WebAddress": null,
+        "Built": null,
+        "Roof": false,
+        "Turf": null,
+        "IdCity": "400248891",
+        "CityName": [
+          {
+            "Locale": "en-GB",
+            "Description": "Auckland"
+          }
+        ],
+        "IdCountry": "NZL",
+        "PostalCode": null,
+        "Street": null,
+        "Email": null,
+        "Fax": null,
+        "Phone": null,
+        "AffiliationCountry": null,
+        "AffiliationRegion": null,
+        "Latitude": null,
+        "Longitude": null,
+        "Length": null,
+        "Width": null,
+        "Properties": {
+          "IdIFES": "5002267"
+        },
+        "IsUpdateable": null
+      },
+      "IsTicketSalesAllowed": null,
+      "MatchTime": "0'",
+      "SecondHalfTime": null,
+      "FirstHalfTime": null,
+      "FirstHalfExtraTime": 3,
+      "SecondHalfExtraTime": 8,
+      "Winner": "43978",
+      "MatchReportUrl": null,
+      "PlaceHolderA": "WS1",
+      "PlaceHolderB": "WS2",
+      "BallPossession": null,
+      "Officials": [
+        {
+          "IdCountry": "SOL",
+          "OfficialId": "435143",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "B. Aukwai"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-gb",
+              "Description": "Ben Aukwai"
+            }
+          ],
+          "OfficialType": 1,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Referee"
+            }
+          ]
+        },
+        {
+          "IdCountry": "TGA",
+          "OfficialId": "302229",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "F. Moeaki"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-GB",
+              "Description": "Folio MOEAKI"
+            }
+          ],
+          "OfficialType": 2,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Assistant Referee 1"
+            }
+          ]
+        },
+        {
+          "IdCountry": "SAM",
+          "OfficialId": "3wy4ifx07gmrlqkfv3yt2jmy1",
+          "NameShort": [
+            {
+              "Locale": "en-gb",
+              "Description": "M. Salanoa"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-gb",
+              "Description": "Maleatala Salanoa"
+            }
+          ],
+          "OfficialType": 3,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Assistant Referee 2"
+            }
+          ]
+        },
+        {
+          "IdCountry": "PNG",
+          "OfficialId": "362551",
+          "NameShort": [
+            {
+              "Locale": "en-GB",
+              "Description": "David YAREBOINEN"
+            }
+          ],
+          "Name": [
+            {
+              "Locale": "en-GB",
+              "Description": "David YAREBOINEN"
+            }
+          ],
+          "OfficialType": 4,
+          "TypeLocalized": [
+            {
+              "Locale": "en-GB",
+              "Description": "Fourth official"
+            }
+          ]
+        }
+      ],
+      "MatchStatus": 0,
+      "ResultType": 1,
+      "MatchNumber": null,
+      "TimeDefined": true,
+      "OfficialityStatus": 2,
+      "MatchLegInfo": null,
+      "Properties": {
+        "IdIFES": "145580",
+        "StatsPerformIfesId": "145580",
+        "IdStatsPerform": "aqqbzpdrwms3k0a0wl9i9cbh0",
+        "PostMatchDataIsLoadedFromFdhIfes": "true"
+      },
+      "IsUpdateable": null
+    }
+  ]
+}
