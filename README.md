@@ -2,7 +2,8 @@
 
 Predict expected fantasy points per player under the official game rules and
 optimize squad, transfers and boosters. Full plan: `FANTASY_ML_PROPOSAL.md`;
-scoring/rules reference: `rules.md`.
+scoring/rules reference: `rules.md`; in-tournament procedures (post-matchday
+checklist, phase gates, booster rules, decision log): `PLAYBOOK.md`.
 
 ## Layout
 
