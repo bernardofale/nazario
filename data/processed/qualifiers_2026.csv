@@ -1,0 +1,893 @@
+source,competition,confederation,season,match_id,date,stage,group,matchday,home_team,away_team,home_code,away_code,home_score,away_score,ht_home_score,ht_away_score,extra_time,penalty_shootout,home_penalty_score,away_penalty_score,venue
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400017275,2023-09-07,Round One,,1,Paraguay,Peru,PAR,PER,0,0,,,False,False,,,Estadio Antonio Aranda
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400017276,2023-09-07,Round One,,1,Colombia,Venezuela,COL,VEN,1,0,,,False,False,,,Metropolitano Roberto Melendez
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400017277,2023-09-08,Round One,,1,Argentina,Ecuador,ARG,ECU,1,0,,,False,False,,,El Monumental - Estadio Monumental Antonio Vespucio Liberti
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400017278,2023-09-08,Round One,,1,Uruguay,Chile,URU,CHI,3,1,,,False,False,,,Estadio Centenario
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400017279,2023-09-09,Round One,,1,Brazil,Bolivia,BRA,BOL,5,1,,,False,False,,,Mangueirão - Estádio Estadual Jornalista Edgar Proença
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400017280,2023-09-12,Round One,,2,Bolivia,Argentina,BOL,ARG,0,3,,,False,False,,,Estadio Hernando Siles
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400017281,2023-09-12,Round One,,2,Ecuador,Uruguay,ECU,URU,2,1,,,False,False,,,Estadio Rodrigo Paz Delgado
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400017284,2023-09-12,Round One,,2,Venezuela,Paraguay,VEN,PAR,1,0,,,False,False,,,Estadio Monumental de Maturin
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400017282,2023-09-13,Round One,,2,Chile,Colombia,CHI,COL,0,0,,,False,False,,,Estadio Monumental David Arellano
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400017283,2023-09-13,Round One,,2,Peru,Brazil,PER,BRA,0,1,,,False,False,,,Estadio Nacional
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017152,2023-10-12,Round One,,,Myanmar,Macau,MYA,MAC,5,1,,,False,False,,,Thuwunna YTC Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017148,2023-10-12,Round One,,,Chinese Taipei,Timor-Leste,TPE,TLS,4,0,,,False,False,,,National Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017151,2023-10-12,Round One,,,Maldives,Bangladesh,MDV,BAN,1,1,,,False,False,,,Rasmee Dhandu (Galolhu) National Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017154,2023-10-12,Round One,,,Singapore,Guam,SGP,GUM,2,1,,,False,False,,,National Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017153,2023-10-12,Round One,,,Nepal,Laos,NEP,LAO,1,1,,,False,False,,,Dasharath Rangasala Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017149,2023-10-12,Round One,,,Hong Kong,Bhutan,HKG,BHU,4,0,,,False,False,,,Hong Kong Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017150,2023-10-12,Round One,,,Indonesia,Brunei,IDN,BRU,6,0,,,False,False,,,Gelora Bung Karno Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017156,2023-10-12,Round One,,,Cambodia,Pakistan,CAM,PAK,0,0,,,False,False,,,National Sports Complex (Olympic Stadium)
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017147,2023-10-12,Round One,,,Afghanistan,Mongolia,AFG,MNG,1,0,,,False,False,,,Central Republican Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017155,2023-10-12,Round One,,,Yemen,Sri Lanka,YEM,SRI,3,0,,,False,False,,,Damac Club Stadium
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400017342,2023-10-12,Round One,,3,Colombia,Uruguay,COL,URU,2,2,,,False,False,,,Metropolitano Roberto Melendez
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400017345,2023-10-12,Round One,,3,Bolivia,Ecuador,BOL,ECU,1,2,,,False,False,,,Estadio Hernando Siles
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400017343,2023-10-12,Round One,,3,Argentina,Paraguay,ARG,PAR,1,0,,,False,False,,,El Monumental - Estadio Monumental Antonio Vespucio Liberti
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400017347,2023-10-13,Round One,,3,Chile,Peru,CHI,PER,2,0,,,False,False,,,Estadio Monumental David Arellano
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400017350,2023-10-13,Round One,,3,Brazil,Venezuela,BRA,VEN,1,1,,,False,False,,,Arena Pantanal
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017158,2023-10-17,Round One,,,Guam,Singapore,GUM,SGP,0,1,,,False,False,,,Guam FA Field
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017159,2023-10-17,Round One,,,Mongolia,Afghanistan,MNG,AFG,0,1,,,False,False,,,MFF Football Centre
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017164,2023-10-17,Round One,,,Pakistan,Cambodia,PAK,CAM,1,0,,,False,False,,,Jinnah Sports Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017165,2023-10-17,Round One,,,Sri Lanka,Yemen,SRI,YEM,1,1,,,False,False,,,Racecourse Sports Complex
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017166,2023-10-17,Round One,,,Timor-Leste,Chinese Taipei,TLS,TPE,0,3,,,False,False,,,National Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017163,2023-10-17,Round One,,,Macau,Myanmar,MAC,MYA,0,0,,,False,False,,,Macau Olympic Complex
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017160,2023-10-17,Round One,,,Bangladesh,Maldives,BAN,MDV,2,1,,,False,False,,,Bashundhara Kings Arena
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017157,2023-10-17,Round One,,,Bhutan,Hong Kong,BHU,HKG,2,0,,,False,False,,,Changlimithang Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017162,2023-10-17,Round One,,,Laos,Nepal,LAO,NEP,0,1,,,False,False,,,New Laos National Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017161,2023-10-17,Round One,,,Brunei,Indonesia,BRU,IDN,0,6,,,False,False,,,Hassanal Bolkiah National Stadium
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400017349,2023-10-17,Round One,,4,Venezuela,Chile,VEN,CHI,3,0,,,False,False,,,Estadio Monumental de Maturin
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400017341,2023-10-17,Round One,,4,Paraguay,Bolivia,PAR,BOL,1,0,,,False,False,,,Estadio Defensores del Chaco
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400017346,2023-10-17,Round One,,4,Ecuador,Colombia,ECU,COL,0,0,,,False,False,,,Estadio Rodrigo Paz Delgado
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400017344,2023-10-18,Round One,,4,Uruguay,Brazil,URU,BRA,2,0,,,False,False,,,Estadio Centenario
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400017348,2023-10-18,Round One,,4,Peru,Argentina,PER,ARG,0,2,,,False,False,,,Estadio Nacional
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400017591,2023-11-15,Round One,C,1,Rwanda,Zimbabwe,RWA,ZIM,0,0,,,False,False,,,Stade Huye
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400017584,2023-11-15,Round One,B,1,Congo DR,Mauritania,COD,MTN,2,0,,,False,False,,,Stade de Martyrs
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400017580,2023-11-15,Round One,A,1,Ethiopia,Sierra Leone,ETH,SLE,0,0,,,False,False,,,Stade El Abdi
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017269,2023-11-16,Round Two,I,1,Australia,Bangladesh,AUS,BAN,7,0,,,False,False,,,Melbourne Rectangular Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017254,2023-11-16,Round Two,B,1,Japan,Myanmar,JPN,MYA,5,0,,,False,False,,,Suita City Football Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017211,2023-11-16,Round Two,F,1,Philippines,Vietnam,PHI,VIE,0,2,,,False,False,,,Rizal Memorial Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017245,2023-11-16,Round Two,C,1,Korea Republic,Singapore,KOR,SGP,5,0,,,False,False,,,Seoul World Cup Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017249,2023-11-16,Round Two,C,1,Thailand,China PR,THA,CHN,1,2,,,False,False,,,Rajamangala National Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017232,2023-11-16,Round Two,D,1,Malaysia,Kyrgyz Republic,MAS,KGZ,4,3,,,False,False,,,Bukit Jalil National Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017201,2023-11-16,Round Two,G,1,Tajikistan,Jordan,TJK,JOR,1,1,,,False,False,,,Central Republican Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017223,2023-11-16,Round Two,E,1,Turkmenistan,Uzbekistan,TKM,UZB,1,3,,,False,False,,,Ashgabat Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017268,2023-11-16,Round Two,I,1,Lebanon,Palestine,LBN,PLE,0,0,,,False,False,,,Khalid Bin Mohammed Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017218,2023-11-16,Round Two,E,1,IR Iran,Hong Kong,IRN,HKG,4,0,,,False,False,,,Azadi Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017206,2023-11-16,Round Two,F,1,Iraq,Indonesia,IRQ,IDN,5,1,,,False,False,,,Basra International Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017233,2023-11-16,Round Two,D,1,Oman,Chinese Taipei,OMA,TPE,3,0,,,False,False,,,Boshar - Sultan Qaboos Sports Complex
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017188,2023-11-16,Round Two,H,1,United Arab Emirates,Nepal,UAE,NEP,4,0,,,False,False,,,Al Maktoum Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017176,2023-11-16,Round Two,A,1,Qatar,Afghanistan,QAT,AFG,8,1,,,False,False,,,Khalifa International Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017197,2023-11-16,Round Two,G,1,Saudi Arabia,Pakistan,KSA,PAK,4,0,,,False,False,,,Al-Fateh Club Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017174,2023-11-16,Round Two,A,1,Kuwait,India,KUW,IND,0,1,,,False,False,,,Jaber Al-Ahmad International Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017259,2023-11-16,Round Two,B,1,Syria,Korea DPR,SYR,PRK,1,0,,,False,False,,,Prince Abdullah Al-Faisal Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017181,2023-11-16,Round Two,H,1,Yemen,Bahrain,YEM,BHR,0,2,,,False,False,,,Prince Sultan bin Abdulaziz Sports City Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400017610,2023-11-16,Round One,F,1,Burundi,The Gambia,BDI,GAM,3,2,,,False,False,,,Benjamin Mkapa (National Stadium)
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400017616,2023-11-16,Round One,G,1,Botswana,Mozambique,BOT,MOZ,2,3,,,False,False,,,Obed Itani Chilume Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400017583,2023-11-16,Round One,B,1,Sudan,Togo,SDN,TOG,1,1,,,False,False,,,Benina Martyrs Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400017577,2023-11-16,Round One,A,1,Egypt,Djibouti,EGY,DJI,6,0,,,False,False,,,Cairo International Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400017607,2023-11-16,Round One,F,1,Gabon,Kenya,GAB,KEN,2,1,,,False,False,,,Stade de Franceville
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400017614,2023-11-16,Round One,G,1,Algeria,Somalia,ALG,SOM,3,1,,,False,False,,,Stade Nelson Mandela
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400017589,2023-11-16,Round One,C,1,Nigeria,Lesotho,NGA,LES,1,1,,,False,False,,,Godswill Akpabio International Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400017594,2023-11-16,Round One,D,1,Cabo Verde,Angola,CPV,ANG,0,0,,,False,False,,,Estádio Nacional de Cabo Verde
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400017641,2023-11-16,Round One,,5,Bolivia,Peru,BOL,PER,2,0,,,False,False,,,Estadio Hernando Siles
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400017645,2023-11-16,Round One,,5,Venezuela,Ecuador,VEN,ECU,0,0,,,False,False,,,Estadio Monumental de Maturin
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400017597,2023-11-17,Round One,D,1,Eswatini,Libya,SWZ,LBY,0,1,,,False,False,,,Mbombela Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400017627,2023-11-17,Round One,I,1,Comoros,Central African Republic,COM,CTA,4,2,,,False,False,,,Stade de Moroni
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400017612,2023-11-17,Round One,G,1,Guinea,Uganda,GUI,UGA,2,1,,,False,False,,,Stade Municipal de Berkane
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400017622,2023-11-17,Round One,H,1,Liberia,Malawi,LBR,MWI,0,1,,,False,False,,,Samuel Kanyon Doe Sports Complex
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400017602,2023-11-17,Round One,E,1,Zambia,Congo,ZAM,CGO,4,2,,,False,False,,,Levy Mwanawasa Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400017624,2023-11-17,Round One,I,1,Ghana,Madagascar,GHA,MAD,1,0,,,False,False,,,Baba Yara Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400017595,2023-11-17,Round One,D,1,Cameroon,Mauritius,CMR,MRI,3,0,,,False,False,,,Japoma Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400017620,2023-11-17,Round One,H,1,Tunisia,São Tomé and Príncipe,TUN,STP,4,0,,,False,False,,,Stade Hammadi Agrebi
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400017576,2023-11-17,Round One,A,1,Burkina Faso,Guinea-Bissau,BFA,GNB,1,1,,,False,False,,,Marrakech Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400017625,2023-11-17,Round One,I,1,Mali,Chad,MLI,CHA,3,1,,,False,False,,,Stade du 26 mars (National Stadium)
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400017608,2023-11-17,Round One,F,1,Côte d'Ivoire,Seychelles,CIV,SEY,9,0,,,False,False,,,Stade Olympique d'Ebimpé
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400017647,2023-11-17,Round One,,5,Argentina,Uruguay,ARG,URU,0,2,,,False,False,,,La Bombonera - Estadio Alberto J. Armando
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400017639,2023-11-17,Round One,,5,Colombia,Brazil,COL,BRA,2,1,,,False,False,,,Metropolitano Roberto Melendez
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400017643,2023-11-17,Round One,,5,Chile,Paraguay,CHI,PAR,0,0,,,False,False,,,Estadio Monumental David Arellano
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400017588,2023-11-18,Round One,C,1,South Africa,Benin,RSA,BEN,2,1,,,False,False,,,Moses Mabhida Stadium 
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400017600,2023-11-18,Round One,E,1,Niger,Tanzania,NIG,TAN,0,1,,,False,False,,,Marrakech Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400017585,2023-11-18,Round One,B,1,Senegal,South Sudan,SEN,SSD,4,0,,,False,False,,,Stade Me Abdoulaye Wade
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400017592,2023-11-19,Round One,C,2,Zimbabwe,Nigeria,ZIM,NGA,1,1,,,False,False,,,Stade Huye
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400017609,2023-11-19,Round One,F,2,Burundi,Gabon,BDI,GAB,1,2,,,False,False,,,Benjamin Mkapa (National Stadium)
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400017617,2023-11-19,Round One,G,2,Mozambique,Algeria,MOZ,ALG,0,2,,,False,False,,,Estadio do Zimpeto
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400017581,2023-11-19,Round One,A,2,Sierra Leone,Egypt,SLE,EGY,0,2,,,False,False,,,Samuel Kanyon Doe Sports Complex
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400017582,2023-11-19,Round One,B,2,Sudan,Congo DR,SDN,COD,1,0,,,False,False,,,Benina Martyrs Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400017578,2023-11-20,Round One,A,2,Djibouti,Guinea-Bissau,DJI,GNB,0,1,,,False,False,,,Cairo International Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400017606,2023-11-20,Round One,F,2,The Gambia,Côte d'Ivoire,GAM,CIV,0,2,,,False,False,,,Benjamin Mkapa (National Stadium)
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400017611,2023-11-20,Round One,F,2,Seychelles,Kenya,SEY,KEN,0,5,,,False,False,,,Stade Felix Houphouet-Boigny
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400017629,2023-11-20,Round One,I,2,Chad,Madagascar,CHA,MAD,0,3,,,False,False,,,Stade Municipal
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400017626,2023-11-20,Round One,I,2,Mali,Central African Republic,MLI,CTA,1,1,,,False,False,,,Stade du 26 mars (National Stadium)
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017193,2023-11-21,Round Two,G,2,Pakistan,Tajikistan,PAK,TJK,1,6,,,False,False,,,Jinnah Sports Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017252,2023-11-21,Round Two,B,2,Myanmar,Korea DPR,MYA,PRK,1,6,,,False,False,,,Thuwunna YTC Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017227,2023-11-21,Round Two,D,2,Chinese Taipei,Malaysia,TPE,MAS,0,1,,,False,False,,,Municipal Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017204,2023-11-21,Round Two,F,2,Philippines,Indonesia,PHI,IDN,1,1,,,False,False,,,Rizal Memorial Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017263,2023-11-21,Round Two,I,2,Bangladesh,Lebanon,BAN,LBN,1,1,,,False,False,,,Bashundhara Kings Arena
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017241,2023-11-21,Round Two,C,2,Singapore,Thailand,SGP,THA,1,3,,,False,False,,,National Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017216,2023-11-21,Round Two,E,2,Hong Kong,Turkmenistan,HKG,TKM,2,2,,,False,False,,,Hong Kong Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017243,2023-11-21,Round Two,C,2,China PR,Korea Republic,CHN,KOR,0,3,,,False,False,,,Shenzhen Universiade Sports Centre
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017213,2023-11-21,Round Two,F,2,Vietnam,Iraq,VIE,IRQ,0,1,,,False,False,,,My Dinh National Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017225,2023-11-21,Round Two,E,2,Uzbekistan,IR Iran,UZB,IRN,2,2,,,False,False,,,Milliy Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017179,2023-11-21,Round Two,H,2,Nepal,Yemen,NEP,YEM,0,2,,,False,False,,,Dasharath Rangasala Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017172,2023-11-21,Round Two,A,2,India,Qatar,IND,QAT,0,3,,,False,False,,,Kalinga Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017238,2023-11-21,Round Two,D,2,Kyrgyz Republic,Oman,KGZ,OMA,1,0,,,False,False,,,Dolen Omurzakov Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017274,2023-11-21,Round Two,I,2,Palestine,Australia,PLE,AUS,0,1,,,False,False,,,Jaber Al-Ahmad International Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017261,2023-11-21,Round Two,B,2,Syria,Japan,SYR,JPN,0,5,,,False,False,,,Prince Abdullah Al-Faisal Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017187,2023-11-21,Round Two,H,2,Bahrain,United Arab Emirates,BHR,UAE,0,2,,,False,False,,,Bahrain National Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017195,2023-11-21,Round Two,G,2,Jordan,Saudi Arabia,JOR,KSA,0,2,,,False,False,,,Amman International Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017168,2023-11-21,Round Two,A,2,Afghanistan,Kuwait,AFG,KUW,0,4,,,False,False,,,Prince Mohammed Bin Fahad Bin Abdul Aziz
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400017590,2023-11-21,Round One,C,2,Rwanda,South Africa,RWA,RSA,2,0,,,False,False,,,Stade Huye
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400017579,2023-11-21,Round One,A,2,Ethiopia,Burkina Faso,ETH,BFA,0,3,,,False,False,,,Stade El Abdi
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400017593,2023-11-21,Round One,C,2,Lesotho,Benin,LES,BEN,0,0,,,False,False,,,Moses Mabhida Stadium 
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400017623,2023-11-21,Round One,H,2,Malawi,Tunisia,MWI,TUN,0,1,,,False,False,,,Bingu National Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400017615,2023-11-21,Round One,G,2,Botswana,Guinea,BOT,GUI,1,0,,,False,False,,,Obed Itani Chilume Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400017613,2023-11-21,Round One,G,2,Somalia,Uganda,SOM,UGA,0,1,,,False,False,,,Stade Municipal de Berkane
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400017596,2023-11-21,Round One,D,2,Eswatini,Cabo Verde,SWZ,CPV,0,2,,,False,False,,,Mbombela Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400017586,2023-11-21,Round One,B,2,South Sudan,Mauritania,SSD,MTN,0,0,,,False,False,,,Stade Me Abdoulaye Wade
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400017587,2023-11-21,Round One,B,2,Togo,Senegal,TOG,SEN,0,0,,,False,False,,,Stade de Kégué
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400017598,2023-11-21,Round One,D,2,Mauritius,Angola,MRI,ANG,0,0,,,False,False,,,Côte d'Or National Sports Complex
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400017618,2023-11-21,Round One,H,2,São Tomé and Príncipe,Namibia,STP,NAM,0,2,,,False,False,,,Agadir Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400017628,2023-11-21,Round One,I,2,Comoros,Ghana,COM,GHA,1,0,,,False,False,,,Stade de Moroni
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400017599,2023-11-21,Round One,D,2,Libya,Cameroon,LBY,CMR,1,1,,,False,False,,,Benina Martyrs Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400017605,2023-11-21,Round One,E,2,Tanzania,Morocco,TAN,MAR,0,2,,,False,False,,,Benjamin Mkapa (National Stadium)
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400017601,2023-11-21,Round One,E,2,Niger,Zambia,NIG,ZAM,2,1,,,False,False,,,Marrakech Stadium
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400017646,2023-11-21,Round One,,6,Paraguay,Colombia,PAR,COL,0,1,,,False,False,,,Estadio Defensores del Chaco
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400017640,2023-11-21,Round One,,6,Uruguay,Bolivia,URU,BOL,3,0,,,False,False,,,Estadio Centenario
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400017642,2023-11-21,Round One,,6,Ecuador,Chile,ECU,CHI,1,0,,,False,False,,,Estadio Rodrigo Paz Delgado
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400017648,2023-11-22,Round One,,6,Brazil,Argentina,BRA,ARG,0,1,,,False,False,,,Maracanã - Estádio Jornalista Mário Filho
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400017644,2023-11-22,Round One,,6,Peru,Venezuela,PER,VEN,1,1,,,False,False,,,Estadio Nacional
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017229,2024-03-21,Round Two,D,3,Chinese Taipei,Kyrgyz Republic,TPE,KGZ,0,2,,,False,False,,,Nanzih Football Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017191,2024-03-21,Round Two,G,3,Pakistan,Jordan,PAK,JOR,0,3,,,False,False,,,Jinnah Sports Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017270,2024-03-21,Round Two,I,3,Australia,Lebanon,AUS,LBN,2,0,,,False,False,,,Western Sydney Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017255,2024-03-21,Round Two,B,3,Japan,Korea DPR,JPN,PRK,1,0,,,False,False,,,Olympic Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017247,2024-03-21,Round Two,C,3,Korea Republic,Thailand,KOR,THA,1,1,,,False,False,,,Seoul World Cup Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017253,2024-03-21,Round Two,B,3,Myanmar,Syria,MYA,SYR,1,1,,,False,False,,,Thuwunna YTC Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017217,2024-03-21,Round Two,E,3,Hong Kong,Uzbekistan,HKG,UZB,0,2,,,False,False,,,Mongkok Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017239,2024-03-21,Round Two,C,3,Singapore,China PR,SGP,CHN,2,2,,,False,False,,,National Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017205,2024-03-21,Round Two,F,3,Indonesia,Vietnam,IDN,VIE,1,0,,,False,False,,,Gelora Bung Karno Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017219,2024-03-21,Round Two,E,3,IR Iran,Turkmenistan,IRN,TKM,5,0,,,False,False,,,Azadi Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017234,2024-03-21,Round Two,D,3,Oman,Malaysia,OMA,MAS,2,0,,,False,False,,,Boshar - Sultan Qaboos Sports Complex
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017189,2024-03-21,Round Two,H,3,United Arab Emirates,Yemen,UAE,YEM,2,1,,,False,False,,,Al Nahyan Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017272,2024-03-21,Round Two,I,3,Palestine,Bangladesh,PLE,BAN,5,0,,,False,False,,,Jaber Al-Ahmad International Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017178,2024-03-21,Round Two,A,3,Qatar,Kuwait,QAT,KUW,3,0,,,False,False,,,Jassim Bin Hamad Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017207,2024-03-21,Round Two,F,3,Iraq,Philippines,IRQ,PHI,1,0,,,False,False,,,Basra International Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017182,2024-03-21,Round Two,H,3,Nepal,Bahrain,NEP,BHR,0,5,,,False,False,,,Bahrain National Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017199,2024-03-21,Round Two,G,3,Saudi Arabia,Tajikistan,KSA,TJK,1,0,,,False,False,,,King Saud University Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017167,2024-03-21,Round Two,A,3,Afghanistan,India,AFG,IND,0,0,,,False,False,,,Damac Club Stadium
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017785,2024-03-22,First Round,,,Anguilla,Turks and Caicos Islands,AIA,TCA,0,0,,,False,False,,,Raymond E. Guishard Stadium
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017784,2024-03-22,First Round,,,US Virgin Islands,British Virgin Islands,VIR,VGB,1,1,,,False,False,,,Bethlehem Soccer Complex
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017267,2024-03-26,Round Two,I,4,Lebanon,Australia,LBN,AUS,0,5,,,False,False,,,Canberra Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017265,2024-03-26,Round Two,I,4,Bangladesh,Palestine,BAN,PLE,0,1,,,False,False,,,Bashundhara Kings Arena
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017210,2024-03-26,Round Two,F,4,Philippines,Iraq,PHI,IRQ,0,5,,,False,False,,,Rizal Memorial Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017212,2024-03-26,Round Two,F,4,Vietnam,Indonesia,VIE,IDN,0,3,,,False,False,,,My Dinh National Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017242,2024-03-26,Round Two,C,4,China PR,Singapore,CHN,SGP,4,1,,,False,False,,,Tianjin Olympic Sports Center Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017250,2024-03-26,Round Two,C,4,Thailand,Korea Republic,THA,KOR,0,3,,,False,False,,,Rajamangala National Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017170,2024-03-26,Round Two,A,4,India,Afghanistan,IND,AFG,1,2,,,False,False,,,Indira Gandhi Athletic Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017236,2024-03-26,Round Two,D,4,Kyrgyz Republic,Chinese Taipei,KGZ,TPE,5,1,,,False,False,,,Dolen Omurzakov Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017231,2024-03-26,Round Two,D,4,Malaysia,Oman,MAS,OMA,0,2,,,False,False,,,Bukit Jalil National Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017224,2024-03-26,Round Two,E,4,Uzbekistan,Hong Kong,UZB,HKG,3,0,,,False,False,,,Milliy Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017202,2024-03-26,Round Two,G,4,Tajikistan,Saudi Arabia,TJK,KSA,1,1,,,False,False,,,Central Republican Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017222,2024-03-26,Round Two,E,4,Turkmenistan,IR Iran,TKM,IRN,0,1,,,False,False,,,Ashgabat Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017185,2024-03-26,Round Two,H,4,Bahrain,Nepal,BHR,NEP,3,0,,,False,False,,,Bahrain National Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017183,2024-03-26,Round Two,H,4,Yemen,United Arab Emirates,YEM,UAE,0,3,,,False,False,,,Prince Saud Bin Jalawi Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017260,2024-03-26,Round Two,B,4,Syria,Myanmar,SYR,MYA,7,0,,,False,False,,,Prince Mohammed Bin Fahad Bin Abdul Aziz
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017194,2024-03-26,Round Two,G,4,Jordan,Pakistan,JOR,PAK,7,0,,,False,False,,,Amman International Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017175,2024-03-26,Round Two,A,4,Kuwait,Qatar,KUW,QAT,1,2,,,False,False,,,Ali Al-Salem Al-Sabah Stadium
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017783,2024-03-26,First Round,,,British Virgin Islands,US Virgin Islands,VGB,VIR,0,0,,,True,True,4,2,A. O. Shirley Recreation Ground
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017782,2024-03-26,First Round,,,Turks and Caicos Islands,Anguilla,TCA,AIA,1,1,,,True,True,3,4,TCIFA National Academy
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400018170,2024-06-05,Round One,B,3,Togo,South Sudan,TOG,SSD,1,1,,,False,False,,,Stade de Kégué
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400018163,2024-06-05,Round One,A,3,Sierra Leone,Djibouti,SLE,DJI,2,1,,,False,False,,,Stade El Abdi
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400018212,2024-06-05,Round One,I,3,Central African Republic,Chad,CTA,CHA,1,0,,,False,False,,,Stade Municipal
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400018204,2024-06-05,Round One,H,3,Namibia,Liberia,NAM,LBR,1,1,,,False,False,,,Orlando Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400018203,2024-06-05,Round One,H,3,Tunisia,Equatorial Guinea,TUN,EQG,1,0,,,False,False,,,Stade Hammadi Agrebi
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017740,2024-06-05,Second Round,A,1,Antigua and Barbuda,Bermuda,ATG,BER,1,1,,,False,False,,,ABFA Technical Centre
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017781,2024-06-05,Second Round,F,1,Suriname,St. Vincent / Grenadines,SUR,VIN,4,1,,,False,False,,,Franklin Essed Stadium
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017750,2024-06-05,Second Round,C,1,Curaçao,Barbados,CUW,BRB,4,1,,,False,False,,,Ergilio Hato Stadium
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017730,2024-06-05,Second Round,B,1,Trinidad and Tobago,Grenada,TRI,GRN,2,2,,,False,False,,,Hasely Crawford Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017203,2024-06-06,Round Two,F,5,Indonesia,Iraq,IDN,IRQ,0,2,,,False,False,,,Gelora Bung Karno Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017264,2024-06-06,Round Two,I,5,Bangladesh,Australia,BAN,AUS,0,2,,,False,False,,,Bashundhara Kings Arena
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017228,2024-06-06,Round Two,D,5,Chinese Taipei,Oman,TPE,OMA,0,3,,,False,False,,,Municipal Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017240,2024-06-06,Round Two,C,5,Singapore,Korea Republic,SGP,KOR,0,7,,,False,False,,,National Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017215,2024-06-06,Round Two,E,5,Hong Kong,IR Iran,HKG,IRN,2,4,,,False,False,,,Hong Kong Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017244,2024-06-06,Round Two,C,5,China PR,Thailand,CHN,THA,1,1,,,False,False,,,Shenyang Olympic Sports Center Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017214,2024-06-06,Round Two,F,5,Vietnam,Philippines,VIE,PHI,3,2,,,False,False,,,My Dinh National Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017251,2024-06-06,Round Two,B,5,Myanmar,Japan,MYA,JPN,0,5,,,False,False,,,Thuwunna YTC Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017262,2024-06-06,Round Two,B,5,Korea DPR,Syria,PRK,SYR,1,0,,,False,False,,,New Laos National Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017171,2024-06-06,Round Two,A,5,India,Kuwait,IND,KUW,0,0,,,False,False,,,Vivekananda Yuba Bharati Krirangan
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017226,2024-06-06,Round Two,E,5,Uzbekistan,Turkmenistan,UZB,TKM,3,1,,,False,False,,,Milliy Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017237,2024-06-06,Round Two,D,5,Kyrgyz Republic,Malaysia,KGZ,MAS,1,1,,,False,False,,,Dolen Omurzakov Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017192,2024-06-06,Round Two,G,5,Pakistan,Saudi Arabia,PAK,KSA,0,3,,,False,False,,,Jinnah Sports Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017169,2024-06-06,Round Two,A,5,Afghanistan,Qatar,AFG,QAT,0,0,,,False,False,,,Prince Abdullah bin Jalawi Sport City Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017273,2024-06-06,Round Two,I,5,Palestine,Lebanon,PLE,LBN,0,0,,,False,False,,,Jassim Bin Hamad Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017184,2024-06-06,Round Two,H,5,Nepal,United Arab Emirates,NEP,UAE,0,4,,,False,False,,,Prince Mohammed Bin Fahad Bin Abdul Aziz
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017196,2024-06-06,Round Two,G,5,Jordan,Tajikistan,JOR,TJK,3,0,,,False,False,,,Amman International Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017186,2024-06-06,Round Two,H,5,Bahrain,Yemen,BHR,YEM,0,0,,,False,False,,,Bahrain National Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400018206,2024-06-06,Round One,H,3,Malawi,São Tomé and Príncipe,MWI,STP,3,1,,,False,False,,,Bingu National Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400018167,2024-06-06,Round One,A,3,Guinea-Bissau,Ethiopia,GNB,ETH,0,0,,,False,False,,,Estádio 24 de Setembro
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400018172,2024-06-06,Round One,B,3,Mauritania,Sudan,MTN,SDN,0,2,,,False,False,,,Stade Cheikha Ould Boïdiya
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400018182,2024-06-06,Round One,D,3,Libya,Mauritius,LBY,MRI,2,1,,,False,False,,,Benina Martyrs Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400018162,2024-06-06,Round One,A,3,Egypt,Burkina Faso,EGY,BFA,2,1,,,False,False,,,Cairo International Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400018169,2024-06-06,Round One,B,3,Senegal,Congo DR,SEN,COD,1,1,,,False,False,,,Stade Me Abdoulaye Wade
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400018178,2024-06-06,Round One,C,3,Benin,Rwanda,BEN,RWA,1,0,,,False,False,,,Stade Felix Houphouet-Boigny
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400018199,2024-06-06,Round One,G,3,Algeria,Guinea,ALG,GUI,1,2,,,False,False,,,Stade Nelson Mandela
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400018211,2024-06-06,Round One,I,3,Mali,Ghana,MLI,GHA,1,2,,,False,False,,,Stade du 26 mars (National Stadium)
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017767,2024-06-06,Second Round,E,1,Guatemala,Dominica,GUA,DMA,6,0,,,False,False,,,Estadio Doroteo Guamuch Flores
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017756,2024-06-06,Second Round,D,1,Nicaragua,Montserrat,NCA,MSR,4,1,,,False,False,,,Estadio Nacional
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017768,2024-06-06,Second Round,E,1,Jamaica,Dominican Republic,JAM,DOM,1,0,,,False,False,,,Independence Park (National Stadium)
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017746,2024-06-06,Second Round,C,1,Haiti,St. Lucia,HAI,LCA,2,1,,,False,False,,,BFA Turf
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400018176,2024-06-07,Round One,C,3,Zimbabwe,Lesotho,ZIM,LES,0,2,,,False,False,,,Orlando Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400018193,2024-06-07,Round One,F,3,Kenya,Burundi,KEN,BDI,1,1,,,False,False,,,Bingu National Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400018200,2024-06-07,Round One,G,3,Mozambique,Somalia,MOZ,SOM,2,1,,,False,False,,,Estadio do Zimpeto
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400018197,2024-06-07,Round One,G,3,Uganda,Botswana,UGA,BOT,1,0,,,False,False,,,Mandela National Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400018209,2024-06-07,Round One,I,3,Madagascar,Comoros,MAD,COM,2,1,,,False,False,,,Soccer City Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400018184,2024-06-07,Round One,D,3,Angola,Eswatini,ANG,SWZ,1,0,,,False,False,,,Estádio 11 de Novembro
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400018175,2024-06-07,Round One,C,3,Nigeria,South Africa,NGA,RSA,1,1,,,False,False,,,Godswill Akpabio International Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400018189,2024-06-07,Round One,E,3,Morocco,Zambia,MAR,ZAM,2,1,,,False,False,,,Agadir Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400018195,2024-06-07,Round One,F,3,Côte d'Ivoire,Gabon,CIV,GAB,1,0,,,False,False,,,Stade Amadou Gon Coulibaly
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017758,2024-06-07,Second Round,D,1,Panama,Guyana,PAN,GUY,2,0,,,False,False,,,Estadio Rommel Fernandez
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017738,2024-06-07,Second Round,A,1,Honduras,Cuba,HON,CUB,3,1,,,False,False,,,Estadio Nacional José de la Paz Herrera (Chelato Uclés)
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017774,2024-06-07,Second Round,F,1,El Salvador,Puerto Rico,SLV,PUR,0,0,,,False,False,,,Estadio Cuscatlan
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017724,2024-06-07,Second Round,B,1,Costa Rica,St. Kitts and Nevis,CRC,SKN,4,0,,,False,False,,,Estadio Nacional de Costa Rica
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400018185,2024-06-08,Round One,D,3,Cameroon,Cabo Verde,CMR,CPV,4,1,,,False,False,,,Stade Omnisports Ahmadou-Ahidjo
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400018191,2024-06-08,Round One,F,3,The Gambia,Seychelles,GAM,SEY,5,1,,,False,False,,,Stade Municipal de Berkane
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017762,2024-06-08,Second Round,E,2,British Virgin Islands,Guatemala,VGB,GUA,0,3,,,False,False,,,A. O. Shirley Recreation Ground
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017773,2024-06-08,Second Round,F,2,Anguilla,Suriname,AIA,SUR,0,4,,,False,False,,,Raymond E. Guishard Stadium
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017723,2024-06-08,Second Round,B,2,Bahamas,Trinidad and Tobago,BAH,TRI,1,7,,,False,False,,,SKNFA Technical Center
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400018207,2024-06-09,Round One,H,4,São Tomé and Príncipe,Liberia,STP,LBR,0,1,,,False,False,,,Stade Municipal
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400018168,2024-06-09,Round One,B,4,Congo DR,Togo,COD,TOG,1,0,,,False,False,,,Stade de Martyrs
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400018164,2024-06-09,Round One,A,4,Djibouti,Ethiopia,DJI,ETH,1,1,,,False,False,,,Stade El Abdi
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400018171,2024-06-09,Round One,B,4,Mauritania,Senegal,MTN,SEN,0,1,,,False,False,,,Stade Cheikha Ould Boïdiya
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400018205,2024-06-09,Round One,H,4,Namibia,Tunisia,NAM,TUN,0,0,,,False,False,,,Orlando Stadium
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017760,2024-06-09,Second Round,D,2,Belize,Nicaragua,BLZ,NCA,0,4,,,False,False,,,FFB Field
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017743,2024-06-09,Second Round,C,2,Aruba,Curaçao,ARU,CUW,0,2,,,False,False,,,Complejo Deportivo Guillermo Prospero Trinidad
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017735,2024-06-09,Second Round,A,2,Cayman Islands,Antigua and Barbuda,CAY,ATG,1,0,,,False,False,,,Truman Bodden Stadium
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017771,2024-06-09,Second Round,E,2,Dominica,Jamaica,DMA,JAM,2,3,,,False,False,,,Windsor Park
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017779,2024-06-09,Second Round,F,2,St. Vincent / Grenadines,El Salvador,VIN,SLV,1,3,,,False,False,,,Franklin Essed Stadium
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017745,2024-06-09,Second Round,C,2,Barbados,Haiti,BRB,HAI,1,3,,,False,False,,,BFA Turf
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017727,2024-06-09,Second Round,B,2,Grenada,Costa Rica,GRN,CRC,0,3,,,False,False,,,Kirani James Athletics Stadium
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017733,2024-06-09,Second Round,A,2,Bermuda,Honduras,BER,HON,1,6,,,False,False,,,National Sports Centre (National Stadium)
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400018201,2024-06-10,Round One,G,4,Somalia,Botswana,SOM,BOT,1,3,,,False,False,,,Estadio do Zimpeto
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400018202,2024-06-10,Round One,H,4,Equatorial Guinea,Malawi,EQG,MWI,1,0,,,False,False,,,Nuevo Estadio de Malabo
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400018177,2024-06-10,Round One,C,4,Benin,Nigeria,BEN,NGA,2,1,,,False,False,,,Stade Felix Houphouet-Boigny
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400018166,2024-06-10,Round One,A,4,Guinea-Bissau,Egypt,GNB,EGY,1,1,,,False,False,,,Estádio 24 de Setembro
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400018196,2024-06-10,Round One,G,4,Uganda,Algeria,UGA,ALG,1,2,,,False,False,,,Mandela National Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400018165,2024-06-10,Round One,A,4,Burkina Faso,Sierra Leone,BFA,SLE,2,2,,,False,False,,,Stade du 26 mars (National Stadium)
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400018210,2024-06-10,Round One,I,4,Ghana,Central African Republic,GHA,CTA,4,3,,,False,False,,,Baba Yara Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400018198,2024-06-10,Round One,G,4,Guinea,Mozambique,GUI,MOZ,0,1,,,False,False,,,Stade El Abdi
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017752,2024-06-10,Second Round,D,2,Montserrat,Panama,MSR,PAN,1,3,,,False,False,,,Estadio Nacional
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017256,2024-06-11,Round Two,B,6,Japan,Syria,JPN,SYR,5,0,,,False,False,,,Edion Peace Wing Hiroshima
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017246,2024-06-11,Round Two,C,6,Korea Republic,China PR,KOR,CHN,1,0,,,False,False,,,Seoul World Cup Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017271,2024-06-11,Round Two,I,6,Australia,Palestine,AUS,PLE,5,0,,,False,False,,,Perth Rectangular Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017248,2024-06-11,Round Two,C,6,Thailand,Singapore,THA,SGP,3,1,,,False,False,,,Rajamangala National Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017209,2024-06-11,Round Two,F,6,Indonesia,Philippines,IDN,PHI,2,0,,,False,False,,,Gelora Bung Karno Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017257,2024-06-11,Round Two,B,6,Korea DPR,Myanmar,PRK,MYA,4,1,,,False,False,,,New Laos National Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017230,2024-06-11,Round Two,D,6,Malaysia,Chinese Taipei,MAS,TPE,3,1,,,False,False,,,Bukit Jalil National Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017200,2024-06-11,Round Two,G,6,Tajikistan,Pakistan,TJK,PAK,3,0,,,False,False,,,Central Republican Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017221,2024-06-11,Round Two,E,6,Turkmenistan,Hong Kong,TKM,HKG,0,0,,,False,False,,,Ashgabat Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017177,2024-06-11,Round Two,A,6,Qatar,India,QAT,IND,2,1,,,False,False,,,Jassim Bin Hamad Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017173,2024-06-11,Round Two,A,6,Kuwait,Afghanistan,KUW,AFG,1,0,,,False,False,,,Ali Al-Salem Al-Sabah Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017266,2024-06-11,Round Two,I,6,Lebanon,Bangladesh,LBN,BAN,4,0,,,False,False,,,Khalifa International Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017235,2024-06-11,Round Two,D,6,Oman,Kyrgyz Republic,OMA,KGZ,1,1,,,False,False,,,Boshar - Sultan Qaboos Sports Complex
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017220,2024-06-11,Round Two,E,6,IR Iran,Uzbekistan,IRN,UZB,0,0,,,False,False,,,Azadi Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017190,2024-06-11,Round Two,H,6,United Arab Emirates,Bahrain,UAE,BHR,1,1,,,False,False,,,Zabeel Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017198,2024-06-11,Round Two,G,6,Saudi Arabia,Jordan,KSA,JOR,1,2,,,False,False,,,King Saud University Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017180,2024-06-11,Round Two,H,6,Yemen,Nepal,YEM,NEP,2,2,,,False,False,,,Prince Mohammed Bin Fahad Bin Abdul Aziz
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400017208,2024-06-11,Round Two,F,6,Iraq,Vietnam,IRQ,VIE,3,1,,,False,False,,,Basra International Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400018173,2024-06-11,Round One,B,4,South Sudan,Sudan,SSD,SDN,0,3,,,False,False,,,Juba Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400018194,2024-06-11,Round One,F,4,Kenya,Côte d'Ivoire,KEN,CIV,0,0,,,False,False,,,Bingu National Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400018181,2024-06-11,Round One,D,4,Mauritius,Eswatini,MRI,SWZ,2,1,,,False,False,,,Côte d'Or National Sports Complex
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400018208,2024-06-11,Round One,I,4,Madagascar,Mali,MAD,MLI,0,0,,,False,False,,,Soccer City Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400018179,2024-06-11,Round One,C,4,South Africa,Zimbabwe,RSA,ZIM,3,1,,,False,False,,,Free State Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400018188,2024-06-11,Round One,E,4,Zambia,Tanzania,ZAM,TAN,0,1,,,False,False,,,Levy Mwanawasa Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400018174,2024-06-11,Round One,C,4,Lesotho,Rwanda,LES,RWA,0,1,,,False,False,,,Moses Mabhida Stadium 
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400018180,2024-06-11,Round One,D,4,Cabo Verde,Libya,CPV,LBY,1,0,,,False,False,,,Estádio Nacional de Cabo Verde
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400018213,2024-06-11,Round One,I,4,Chad,Comoros,CHA,COM,0,2,,,False,False,,,Stade Municipal
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400018186,2024-06-11,Round One,E,4,Congo,Morocco,CGO,MAR,0,6,,,False,False,,,Agadir Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400018190,2024-06-11,Round One,F,4,Gabon,The Gambia,GAB,GAM,3,2,,,False,False,,,Stade de Franceville
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400018183,2024-06-11,Round One,D,4,Angola,Cameroon,ANG,CMR,1,1,,,False,False,,,Estádio 11 de Novembro
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400018192,2024-06-11,Round One,F,4,Seychelles,Burundi,SEY,BDI,1,3,,,False,False,,,Stade Municipal de Berkane
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017748,2024-06-11,Second Round,C,3,St. Lucia,Aruba,LCA,ARU,2,2,,,False,False,,,BFA Turf
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017728,2024-06-11,Second Round,B,3,St. Kitts and Nevis,Bahamas,SKN,BAH,1,0,,,False,False,,,Warner Park
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017755,2024-06-11,Second Round,D,3,Guyana,Belize,GUY,BLZ,3,1,,,False,False,,,BFA Turf
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017776,2024-06-12,Second Round,F,3,Puerto Rico,Anguilla,PUR,AIA,8,0,,,False,False,,,Juan Ramon Loubriel Stadium
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017764,2024-06-12,Second Round,E,3,Dominican Republic,British Virgin Islands,DOM,VGB,4,0,,,False,False,,,Estadio Panamericano
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018516,2024-09-05,Round Three,C,1,Australia,Bahrain,AUS,BHR,0,1,,,False,False,,,Cbus Super Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018509,2024-09-05,Round Three,C,1,Japan,China PR,JPN,CHN,7,0,,,False,False,,,Saitama Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018479,2024-09-05,Round Three,B,1,Korea Republic,Palestine,KOR,PLE,0,0,,,False,False,,,Seoul World Cup Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018461,2024-09-05,Round Three,A,1,Uzbekistan,Korea DPR,UZB,PRK,1,0,,,False,False,,,Milliy Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018438,2024-09-05,Round Three,A,1,IR Iran,Kyrgyz Republic,IRN,KGZ,1,0,,,False,False,,,Foolad Shahr Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018468,2024-09-05,Round Three,B,1,Iraq,Oman,IRQ,OMA,1,0,,,False,False,,,Basra International Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018447,2024-09-05,Round Three,A,1,Qatar,United Arab Emirates,QAT,UAE,1,3,,,False,False,,,Ahmad Bin Ali Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018472,2024-09-05,Round Three,B,1,Jordan,Kuwait,JOR,KUW,1,1,,,False,False,,,Amman International Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018514,2024-09-05,Round Three,C,1,Saudi Arabia,Indonesia,KSA,IDN,1,1,,,False,False,,,King Abdullah Sports City Stadium
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400018618,2024-09-05,Round One,,7,Bolivia,Venezuela,BOL,VEN,4,0,,,False,False,,,Estadio Municipal de El Alto
+ofc_qualifiers,WC2026 Qualifiers,OFC,FIFA World Cup 2026™ OFC Qualifiers,Q26-OFC-400018587,2024-09-05,First Round,Matches,,Cook Islands,Tonga,COK,TGA,1,3,,,False,False,,,FFS Football Stadium Field 1
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400018611,2024-09-06,Round One,,7,Argentina,Chile,ARG,CHI,3,0,,,False,False,,,El Monumental - Estadio Monumental Antonio Vespucio Liberti
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400018612,2024-09-06,Round One,,7,Uruguay,Paraguay,URU,PAR,0,0,,,False,False,,,Estadio Centenario
+ofc_qualifiers,WC2026 Qualifiers,OFC,FIFA World Cup 2026™ OFC Qualifiers,Q26-OFC-400018586,2024-09-06,First Round,Matches,,American Samoa,Samoa,ASA,SAM,0,2,,,False,False,,,FFS Football Stadium Field 1
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400018617,2024-09-07,Round One,,7,Brazil,Ecuador,BRA,ECU,1,0,,,False,False,,,Estádio Major Antônio Couto Pereira
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400018616,2024-09-07,Round One,,7,Peru,Colombia,PER,COL,1,1,,,False,False,,,Estadio Nacional
+ofc_qualifiers,WC2026 Qualifiers,OFC,FIFA World Cup 2026™ OFC Qualifiers,Q26-OFC-400018585,2024-09-09,First Round,Matches,,Tonga,Samoa,TGA,SAM,1,2,,,False,False,,,FFS Football Stadium Field 1
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018441,2024-09-10,Round Three,A,2,Korea DPR,Qatar,PRK,QAT,2,2,,,False,False,,,New Laos National Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018507,2024-09-10,Round Three,C,2,Indonesia,Australia,IDN,AUS,0,0,,,False,False,,,Gelora Bung Karno Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018501,2024-09-10,Round Three,C,2,China PR,Saudi Arabia,CHN,KSA,1,2,,,False,False,,,Suoyuwan Football Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018487,2024-09-10,Round Three,B,2,Oman,Korea Republic,OMA,KOR,1,3,,,False,False,,,Boshar - Sultan Qaboos Sports Complex
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018459,2024-09-10,Round Three,A,2,Kyrgyz Republic,Uzbekistan,KGZ,UZB,2,3,,,False,False,,,Dolen Omurzakov Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018491,2024-09-10,Round Three,B,2,Palestine,Jordan,PLE,JOR,1,3,,,False,False,,,KLFA Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018450,2024-09-10,Round Three,A,2,United Arab Emirates,IR Iran,UAE,IRN,0,1,,,False,False,,,Hazza Bin Zayed Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018497,2024-09-10,Round Three,C,2,Bahrain,Japan,BHR,JPN,0,5,,,False,False,,,Bahrain National Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018480,2024-09-10,Round Three,B,2,Kuwait,Iraq,KUW,IRQ,0,0,,,False,False,,,Jaber Al-Ahmad International Stadium
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400018610,2024-09-10,Round One,,8,Colombia,Argentina,COL,ARG,2,1,,,False,False,,,Metropolitano Roberto Melendez
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400018613,2024-09-10,Round One,,8,Ecuador,Peru,ECU,PER,1,0,,,False,False,,,Estadio Rodrigo Paz Delgado
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400018619,2024-09-10,Round One,,8,Chile,Bolivia,CHI,BOL,1,2,,,False,False,,,Estadio Nacional Julio Martínez Prádanos
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400018614,2024-09-10,Round One,,8,Venezuela,Uruguay,VEN,URU,0,0,,,False,False,,,Estadio Monumental de Maturin
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400018615,2024-09-11,Round One,,8,Paraguay,Brazil,PAR,BRA,1,0,,,False,False,,,Estadio Defensores del Chaco
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018517,2024-10-10,Round Three,C,3,Australia,China PR,AUS,CHN,3,1,,,False,False,,,Adelaide Oval
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018460,2024-10-10,Round Three,A,3,Uzbekistan,IR Iran,UZB,IRN,0,0,,,False,False,,,Milliy Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018471,2024-10-10,Round Three,B,3,Jordan,Korea Republic,JOR,KOR,0,2,,,False,False,,,Amman International Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018488,2024-10-10,Round Three,B,3,Oman,Kuwait,OMA,KUW,4,0,,,False,False,,,Boshar - Sultan Qaboos Sports Complex
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018448,2024-10-10,Round Three,A,3,Qatar,Kyrgyz Republic,QAT,KGZ,3,1,,,False,False,,,Al Thumama Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018451,2024-10-10,Round Three,A,3,United Arab Emirates,Korea DPR,UAE,PRK,1,1,,,False,False,,,Hazza Bin Zayed Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018496,2024-10-10,Round Three,C,3,Bahrain,Indonesia,BHR,IDN,2,2,,,False,False,,,Bahrain National Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018515,2024-10-10,Round Three,C,3,Saudi Arabia,Japan,KSA,JPN,0,2,,,False,False,,,King Abdullah Sports City Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018469,2024-10-10,Round Three,B,3,Iraq,Palestine,IRQ,PLE,1,0,,,False,False,,,Basra International Stadium
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400018921,2024-10-10,Round One,,9,Bolivia,Colombia,BOL,COL,1,0,,,False,False,,,Estadio Municipal de El Alto
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400018917,2024-10-10,Round One,,9,Ecuador,Paraguay,ECU,PAR,0,0,,,False,False,,,Estadio Rodrigo Paz Delgado
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400018919,2024-10-10,Round One,,9,Venezuela,Argentina,VEN,ARG,1,1,,,False,False,,,Estadio Monumental de Maturin
+ofc_qualifiers,WC2026 Qualifiers,OFC,FIFA World Cup 2026™ OFC Qualifiers,Q26-OFC-400018596,2024-10-10,Second Round,A,1,New Caledonia,Papua New Guinea,NCL,PNG,3,1,,,False,False,,,ANZ National Stadium
+ofc_qualifiers,WC2026 Qualifiers,OFC,FIFA World Cup 2026™ OFC Qualifiers,Q26-OFC-400018597,2024-10-10,Second Round,A,1,Solomon Islands,Fiji,SOL,FIJ,0,1,,,False,False,,,ANZ National Stadium
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400018922,2024-10-11,Round One,,9,Chile,Brazil,CHI,BRA,1,2,,,False,False,,,Estadio Nacional Julio Martínez Prádanos
+ofc_qualifiers,WC2026 Qualifiers,OFC,FIFA World Cup 2026™ OFC Qualifiers,Q26-OFC-400018602,2024-10-11,Second Round,B,1,New Zealand,Tahiti,NZL,TAH,3,0,,,False,False,,,Freshwater Stadium
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400018918,2024-10-12,Round One,,9,Peru,Uruguay,PER,URU,1,0,,,False,False,,,Estadio Nacional
+ofc_qualifiers,WC2026 Qualifiers,OFC,FIFA World Cup 2026™ OFC Qualifiers,Q26-OFC-400018603,2024-10-12,Second Round,B,1,Vanuatu,Samoa,VAN,SAM,4,1,,,False,False,,,Freshwater Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018511,2024-10-15,Round Three,C,4,Japan,Australia,JPN,AUS,1,1,,,False,False,,,Saitama Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018475,2024-10-15,Round Three,B,4,Korea Republic,Iraq,KOR,IRQ,3,2,,,False,False,,,Yongin Mireu Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018499,2024-10-15,Round Three,C,4,China PR,Indonesia,CHN,IDN,2,1,,,False,False,,,Qingdao Youth Football Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018456,2024-10-15,Round Three,A,4,Kyrgyz Republic,Korea DPR,KGZ,PRK,1,0,,,False,False,,,Dolen Omurzakov Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018463,2024-10-15,Round Three,A,4,Uzbekistan,United Arab Emirates,UZB,UAE,1,0,,,False,False,,,Milliy Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018436,2024-10-15,Round Three,A,4,IR Iran,Qatar,IRN,QAT,4,1,,,False,False,,,Rashid Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018473,2024-10-15,Round Three,B,4,Jordan,Oman,JOR,OMA,4,0,,,False,False,,,Amman International Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018493,2024-10-15,Round Three,B,4,Palestine,Kuwait,PLE,KUW,2,2,,,False,False,,,Jassim Bin Hamad Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018512,2024-10-15,Round Three,C,4,Saudi Arabia,Bahrain,KSA,BHR,0,0,,,False,False,,,King Abdullah Sports City Stadium
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400018914,2024-10-15,Round One,,10,Colombia,Chile,COL,CHI,4,0,,,False,False,,,Metropolitano Roberto Melendez
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400018920,2024-10-15,Round One,,10,Paraguay,Venezuela,PAR,VEN,2,1,,,False,False,,,Estadio Defensores del Chaco
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400018916,2024-10-15,Round One,,10,Uruguay,Ecuador,URU,ECU,0,0,,,False,False,,,Estadio Centenario
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400018915,2024-10-16,Round One,,10,Argentina,Bolivia,ARG,BOL,6,0,,,False,False,,,El Monumental - Estadio Monumental Antonio Vespucio Liberti
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400018923,2024-10-16,Round One,,10,Brazil,Peru,BRA,PER,4,0,,,False,False,,,Estádio Nacional Mané Garrincha
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018519,2024-11-14,Round Three,C,5,Australia,Saudi Arabia,AUS,KSA,0,0,,,False,False,,,Melbourne Rectangular Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018440,2024-11-14,Round Three,A,5,Korea DPR,IR Iran,PRK,IRN,2,3,,,False,False,,,New Laos National Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018495,2024-11-14,Round Three,C,5,Bahrain,China PR,BHR,CHN,0,1,,,False,False,,,Bahrain National Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018482,2024-11-14,Round Three,B,5,Kuwait,Korea Republic,KUW,KOR,1,3,,,False,False,,,Jaber Al-Ahmad International Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018489,2024-11-14,Round Three,B,5,Oman,Palestine,OMA,PLE,1,0,,,False,False,,,Boshar - Sultan Qaboos Sports Complex
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018465,2024-11-14,Round Three,B,5,Iraq,Jordan,IRQ,JOR,0,0,,,False,False,,,Basra International Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018449,2024-11-14,Round Three,A,5,Qatar,Uzbekistan,QAT,UZB,3,2,,,False,False,,,Jassim Bin Hamad Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018453,2024-11-14,Round Three,A,5,United Arab Emirates,Kyrgyz Republic,UAE,KGZ,3,0,,,False,False,,,Mohammed Bin Zayed Stadium
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400019108,2024-11-14,Round One,,11,Venezuela,Brazil,VEN,BRA,1,1,,,False,False,,,Estadio Monumental de Maturin
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400019113,2024-11-14,Round One,,11,Paraguay,Argentina,PAR,ARG,2,1,,,False,False,,,Estadio Defensores del Chaco
+ofc_qualifiers,WC2026 Qualifiers,OFC,FIFA World Cup 2026™ OFC Qualifiers,Q26-OFC-400018601,2024-11-14,Second Round,A,2,Solomon Islands,New Caledonia,SOL,NCL,2,3,,,False,False,,,PNG Football Stadium
+ofc_qualifiers,WC2026 Qualifiers,OFC,FIFA World Cup 2026™ OFC Qualifiers,Q26-OFC-400018599,2024-11-14,Second Round,A,2,Papua New Guinea,Fiji,PNG,FIJ,3,3,,,False,False,,,PNG Football Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018505,2024-11-15,Round Three,C,5,Indonesia,Japan,IDN,JPN,0,4,,,False,False,,,Gelora Bung Karno Stadium
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400019116,2024-11-15,Round One,,11,Ecuador,Bolivia,ECU,BOL,4,0,,,False,False,,,Isidro Romero - Monumental
+ofc_qualifiers,WC2026 Qualifiers,OFC,FIFA World Cup 2026™ OFC Qualifiers,Q26-OFC-400018604,2024-11-15,Second Round,B,2,Samoa,Tahiti,SAM,TAH,0,3,,,False,False,,,Waikato Stadium
+ofc_qualifiers,WC2026 Qualifiers,OFC,FIFA World Cup 2026™ OFC Qualifiers,Q26-OFC-400018605,2024-11-15,Second Round,B,2,New Zealand,Vanuatu,NZL,VAN,8,1,,,False,False,,,Waikato Stadium
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400019111,2024-11-16,Round One,,11,Uruguay,Colombia,URU,COL,3,2,,,False,False,,,Estadio Centenario
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400019112,2024-11-16,Round One,,11,Peru,Chile,PER,CHI,0,0,,,False,False,,,Monumental de Ate 'U'
+ofc_qualifiers,WC2026 Qualifiers,OFC,FIFA World Cup 2026™ OFC Qualifiers,Q26-OFC-400018598,2024-11-17,Second Round,A,3,Fiji,New Caledonia,FIJ,NCL,1,1,,,False,False,,,PNG Football Stadium
+ofc_qualifiers,WC2026 Qualifiers,OFC,FIFA World Cup 2026™ OFC Qualifiers,Q26-OFC-400018600,2024-11-17,Second Round,A,3,Papua New Guinea,Solomon Islands,PNG,SOL,1,2,,,False,False,,,PNG Football Stadium
+ofc_qualifiers,WC2026 Qualifiers,OFC,FIFA World Cup 2026™ OFC Qualifiers,Q26-OFC-400018607,2024-11-18,Second Round,B,3,Tahiti,Vanuatu,TAH,VAN,2,0,,,False,False,,,Go Media Stadium
+ofc_qualifiers,WC2026 Qualifiers,OFC,FIFA World Cup 2026™ OFC Qualifiers,Q26-OFC-400018606,2024-11-18,Second Round,B,3,Samoa,New Zealand,SAM,NZL,0,8,,,False,False,,,Go Media Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018444,2024-11-19,Round Three,A,6,Korea DPR,Uzbekistan,PRK,UZB,0,1,,,False,False,,,New Laos National Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018506,2024-11-19,Round Three,C,6,Indonesia,Saudi Arabia,IDN,KSA,2,0,,,False,False,,,Gelora Bung Karno Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018500,2024-11-19,Round Three,C,6,China PR,Japan,CHN,JPN,1,3,,,False,False,,,Xiamen Egret Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018455,2024-11-19,Round Three,A,6,Kyrgyz Republic,IR Iran,KGZ,IRN,2,3,,,False,False,,,Dolen Omurzakov Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018492,2024-11-19,Round Three,B,6,Palestine,Korea Republic,PLE,KOR,1,1,,,False,False,,,Amman International Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018452,2024-11-19,Round Three,A,6,United Arab Emirates,Qatar,UAE,QAT,5,0,,,False,False,,,Al Nahyan Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018485,2024-11-19,Round Three,B,6,Oman,Iraq,OMA,IRQ,0,1,,,False,False,,,Boshar - Sultan Qaboos Sports Complex
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018481,2024-11-19,Round Three,B,6,Kuwait,Jordan,KUW,JOR,1,1,,,False,False,,,Jaber Al-Ahmad International Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018498,2024-11-19,Round Three,C,6,Bahrain,Australia,BHR,AUS,2,2,,,False,False,,,Bahrain National Stadium
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400019114,2024-11-19,Round One,,12,Bolivia,Paraguay,BOL,PAR,2,2,,,False,False,,,Estadio Municipal de El Alto
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400019109,2024-11-19,Round One,,12,Colombia,Ecuador,COL,ECU,0,1,,,False,False,,,Metropolitano Roberto Melendez
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400019110,2024-11-20,Round One,,12,Argentina,Peru,ARG,PER,1,0,,,False,False,,,La Bombonera - Estadio Alberto J. Armando
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400019115,2024-11-20,Round One,,12,Chile,Venezuela,CHI,VEN,4,2,,,False,False,,,Estadio Nacional Julio Martínez Prádanos
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400019117,2024-11-20,Round One,,12,Brazil,Uruguay,BRA,URU,1,1,,,False,False,,,Fonte Nova Arena
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400019686,2025-03-19,Round One,D,5,Eswatini,Cameroon,SWZ,CMR,0,0,,,False,False,,,Mbombela Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400019708,2025-03-19,Round One,H,5,Liberia,Tunisia,LBR,TUN,0,1,,,False,False,,,Samuel Kanyon Doe Sports Complex
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400019713,2025-03-19,Round One,I,5,Central African Republic,Madagascar,CTA,MAD,1,4,,,False,False,,,Stade Larbi Zaouli
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018518,2025-03-20,Round Three,C,7,Australia,Indonesia,AUS,IDN,5,1,,,False,False,,,Sydney Football Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018508,2025-03-20,Round Three,C,7,Japan,Bahrain,JPN,BHR,2,0,,,False,False,,,Saitama Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018478,2025-03-20,Round Three,B,7,Korea Republic,Oman,KOR,OMA,1,1,,,False,False,,,Goyang Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018464,2025-03-20,Round Three,A,7,Uzbekistan,Kyrgyz Republic,UZB,KGZ,1,0,,,False,False,,,Milliy Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018437,2025-03-20,Round Three,A,7,IR Iran,United Arab Emirates,IRN,UAE,2,0,,,False,False,,,Azadi Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018446,2025-03-20,Round Three,A,7,Qatar,Korea DPR,QAT,PRK,5,1,,,False,False,,,Jassim Bin Hamad Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018474,2025-03-20,Round Three,B,7,Jordan,Palestine,JOR,PLE,3,1,,,False,False,,,Amman International Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018467,2025-03-20,Round Three,B,7,Iraq,Kuwait,IRQ,KUW,2,2,,,False,False,,,Basra International Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018513,2025-03-20,Round Three,C,7,Saudi Arabia,China PR,KSA,CHN,1,0,,,False,False,,,King Saud University Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400019699,2025-03-20,Round One,G,5,Mozambique,Uganda,MOZ,UGA,3,1,,,False,False,,,Cairo International Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400019679,2025-03-20,Round One,C,5,Zimbabwe,Benin,ZIM,BEN,2,2,,,False,False,,,Moses Mabhida Stadium 
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400019670,2025-03-20,Round One,A,5,Sierra Leone,Guinea-Bissau,SLE,GNB,3,1,,,False,False,,,Samuel Kanyon Doe Sports Complex
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400019685,2025-03-20,Round One,D,5,Cabo Verde,Mauritius,CPV,MRI,1,0,,,False,False,,,Estádio Nacional de Cabo Verde
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400019710,2025-03-20,Round One,H,5,Malawi,Namibia,MWI,NAM,0,1,,,False,False,,,Bingu National Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400019694,2025-03-20,Round One,F,5,The Gambia,Kenya,GAM,KEN,3,3,,,False,False,,,Stade Olympique d'Ebimpé
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400019688,2025-03-20,Round One,D,5,Libya,Angola,LBY,ANG,1,1,,,False,False,,,Benina Martyrs Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400019693,2025-03-20,Round One,F,5,Gabon,Seychelles,GAB,SEY,3,0,,,False,False,,,Stade de Franceville
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400019712,2025-03-20,Round One,I,5,Comoros,Mali,COM,MLI,0,3,,,False,False,,,Stade Municipal de Berkane
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400019531,2025-03-20,Round One,,13,Paraguay,Chile,PAR,CHI,1,0,,,False,False,,,Estadio Defensores del Chaco
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019331,2025-03-21,Round One,H,1,Cyprus,San Marino,CYP,SMR,2,0,,,False,False,,,AEK Arena - Georgios Karapatakis
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019336,2025-03-21,Round One,H,1,Romania,Bosnia and Herzegovina,ROU,BIH,0,1,,,False,False,,,National Arena
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019323,2025-03-21,Round One,G,1,Poland,Lithuania,POL,LTU,1,0,,,False,False,,,PGE Narodowy (National Stadium)
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019318,2025-03-21,Round One,G,1,Malta,Finland,MLT,FIN,0,1,,,False,False,,,Ta'Qali National Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019367,2025-03-21,Round One,K,1,Andorra,Latvia,AND,LVA,0,1,,,False,False,,,Estadi Nacional
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019374,2025-03-21,Round One,K,1,England,Albania,ENG,ALB,2,0,,,False,False,,,Wembley Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400019701,2025-03-21,Round One,G,5,Botswana,Algeria,BOT,ALG,1,3,,,False,False,,,Obed Itani Chilume Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400019705,2025-03-21,Round One,H,5,Equatorial Guinea,São Tomé and Príncipe,EQG,STP,2,0,,,False,False,,,Nuevo Estadio de Malabo
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400019668,2025-03-21,Round One,A,5,Burkina Faso,Djibouti,BFA,DJI,4,1,,,False,False,,,Stade El Abdi
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400019673,2025-03-21,Round One,B,5,Congo DR,South Sudan,COD,SSD,1,0,,,False,False,,,Stade de Martyrs
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400019684,2025-03-21,Round One,C,5,Rwanda,Nigeria,RWA,NGA,0,2,,,False,False,,,Stade Amahoro (National Stadium)
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400019715,2025-03-21,Round One,I,5,Ghana,Chad,GHA,CHA,5,0,,,False,False,,,Accra Sports Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400019697,2025-03-21,Round One,F,5,Burundi,Côte d'Ivoire,BDI,CIV,0,1,,,False,False,,,Stade d’Honneur
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400019672,2025-03-21,Round One,A,5,Ethiopia,Egypt,ETH,EGY,0,2,,,False,False,,,Stade Larbi Zaouli
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400019700,2025-03-21,Round One,G,5,Guinea,Somalia,GUI,SOM,0,0,,,False,False,,,Stade Olympique d'Ebimpé
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400019692,2025-03-21,Round One,E,5,Niger,Morocco,NIG,MAR,1,2,,,False,False,,,Stade municipal d'Oujda
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400019527,2025-03-21,Round One,,13,Brazil,Colombia,BRA,COL,2,1,,,False,False,,,Estádio Nacional Mané Garrincha
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400019532,2025-03-21,Round One,,13,Peru,Bolivia,PER,BOL,3,1,,,False,False,,,Estadio Nacional
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400019530,2025-03-21,Round One,,13,Ecuador,Venezuela,ECU,VEN,2,1,,,False,False,,,Estadio Rodrigo Paz Delgado
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400019533,2025-03-21,Round One,,13,Uruguay,Argentina,URU,ARG,0,1,,,False,False,,,Estadio Centenario
+ofc_qualifiers,WC2026 Qualifiers,OFC,FIFA World Cup 2026™ OFC Qualifiers,Q26-OFC-400019141,2025-03-21,Third Round - Semi-final,,,New Caledonia,Tahiti,NCL,TAH,3,0,,,False,False,,,Wellington Regional Stadium
+ofc_qualifiers,WC2026 Qualifiers,OFC,FIFA World Cup 2026™ OFC Qualifiers,Q26-OFC-400019142,2025-03-21,Third Round - Semi-final,,,New Zealand,Fiji,NZL,FIJ,7,0,,,False,False,,,Wellington Regional Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019351,2025-03-22,Round One,J,1,Liechtenstein,North Macedonia,LIE,MKD,0,3,,,False,False,,,Rheinpark Stadion
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019400,2025-03-22,Round One,L,1,Montenegro,Gibraltar,MNE,GIB,3,1,,,False,False,,,Gradski Stadion
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019231,2025-03-22,Round One,I,1,Moldova,Norway,MDA,NOR,0,5,,,False,False,,,Zimbru Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019226,2025-03-22,Round One,I,1,Israel,Estonia,ISR,EST,2,1,,,False,False,,,Nagyerdei Stadion
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019394,2025-03-22,Round One,L,1,Czechia,Faroe Islands,CZE,FRO,2,1,,,False,False,,,Malšovická aréna
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019356,2025-03-22,Round One,J,1,Wales,Kazakhstan,WAL,KAZ,3,1,,,False,False,,,Cardiff City Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400019675,2025-03-22,Round One,B,5,Togo,Mauritania,TOG,MTN,2,2,,,False,False,,,Stade de Kégué
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400019676,2025-03-22,Round One,B,5,Sudan,Senegal,SDN,SEN,0,0,,,False,False,,,Benina Martyrs Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400019696,2025-03-23,Round One,F,6,Kenya,Gabon,KEN,GAB,1,2,,,False,False,,,Nyayo National Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400019687,2025-03-23,Round One,D,6,Eswatini,Mauritius,SWZ,MRI,3,3,,,False,False,,,Mbombela Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019314,2025-03-24,Round One,G,2,Lithuania,Finland,LTU,FIN,2,2,,,False,False,,,S. Darius & S. Girenas Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019339,2025-03-24,Round One,H,2,San Marino,Romania,SMR,ROU,1,5,,,False,False,,,San Marino Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019369,2025-03-24,Round One,K,2,Albania,Andorra,ALB,AND,3,0,,,False,False,,,Air Albania Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019324,2025-03-24,Round One,G,2,Poland,Malta,POL,MLT,2,0,,,False,False,,,PGE Narodowy (National Stadium)
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019342,2025-03-24,Round One,H,2,Bosnia and Herzegovina,Cyprus,BIH,CYP,2,1,,,False,False,,,Bilino Polje Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019375,2025-03-24,Round One,K,2,England,Latvia,ENG,LVA,3,0,,,False,False,,,Wembley Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400019709,2025-03-24,Round One,H,6,Namibia,Equatorial Guinea,NAM,EQG,1,1,,,False,False,,,Peter Mokaba Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400019671,2025-03-24,Round One,A,6,Guinea-Bissau,Burkina Faso,GNB,BFA,1,2,,,False,False,,,Estádio 24 de Setembro
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400019714,2025-03-24,Round One,I,6,Central African Republic,Mali,CTA,MLI,0,0,,,False,False,,,Stade Larbi Zaouli
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400019707,2025-03-24,Round One,H,6,Liberia,São Tomé and Príncipe,LBR,STP,2,1,,,False,False,,,Samuel Kanyon Doe Sports Complex
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400019695,2025-03-24,Round One,F,6,Côte d'Ivoire,The Gambia,CIV,GAM,1,0,,,False,False,,,Stade Felix Houphouet-Boigny
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400019716,2025-03-24,Round One,I,6,Madagascar,Ghana,MAD,GHA,0,3,,,False,False,,,Grand Stade Al Hoceima
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400019669,2025-03-24,Round One,A,6,Ethiopia,Djibouti,ETH,DJI,6,1,,,False,False,,,Stade El Abdi
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400019706,2025-03-24,Round One,H,6,Tunisia,Malawi,TUN,MWI,2,0,,,False,False,,,Stade Hammadi Agrebi
+ofc_qualifiers,WC2026 Qualifiers,OFC,FIFA World Cup 2026™ OFC Qualifiers,Q26-OFC-400019140,2025-03-24,Third Round - Final,,,New Caledonia,New Zealand,NCL,NZL,0,3,,,False,False,,,Eden Park
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019230,2025-03-25,Round One,I,2,Moldova,Estonia,MDA,EST,2,3,,,False,False,,,Zimbru Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019352,2025-03-25,Round One,J,2,Liechtenstein,Kazakhstan,LIE,KAZ,0,2,,,False,False,,,Rheinpark Stadion
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019359,2025-03-25,Round One,J,2,North Macedonia,Wales,MKD,WAL,1,1,,,False,False,,,Toše Proeski National Arena
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019398,2025-03-25,Round One,L,2,Montenegro,Faroe Islands,MNE,FRO,1,0,,,False,False,,,Gradski Stadion
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019403,2025-03-25,Round One,L,2,Gibraltar,Czechia,GIB,CZE,0,4,,,False,False,,,Estadio Algarve
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019227,2025-03-25,Round One,I,2,Israel,Norway,ISR,NOR,2,4,,,False,False,,,Nagyerdei Stadion
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018510,2025-03-25,Round Three,C,8,Japan,Saudi Arabia,JPN,KSA,0,0,,,False,False,,,Saitama Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018476,2025-03-25,Round Three,B,8,Korea Republic,Jordan,KOR,JOR,1,1,,,False,False,,,Suwon World Cup Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018502,2025-03-25,Round Three,C,8,China PR,Australia,CHN,AUS,0,2,,,False,False,,,Hangzhou Olympic Sports Center Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018457,2025-03-25,Round Three,A,8,Kyrgyz Republic,Qatar,KGZ,QAT,3,1,,,False,False,,,Dolen Omurzakov Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018503,2025-03-25,Round Three,C,8,Indonesia,Bahrain,IDN,BHR,1,0,,,False,False,,,Gelora Bung Karno Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018439,2025-03-25,Round Three,A,8,IR Iran,Uzbekistan,IRN,UZB,2,2,,,False,False,,,Azadi Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018442,2025-03-25,Round Three,A,8,Korea DPR,United Arab Emirates,PRK,UAE,1,2,,,False,False,,,Prince Faisal Bin Fahd Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018483,2025-03-25,Round Three,B,8,Kuwait,Oman,KUW,OMA,0,1,,,False,False,,,Jaber Al-Ahmad International Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018490,2025-03-25,Round Three,B,8,Palestine,Iraq,PLE,IRQ,2,1,,,False,False,,,Amman International Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400019680,2025-03-25,Round One,C,6,Nigeria,Zimbabwe,NGA,ZIM,1,1,,,False,False,,,Godswill Akpabio International Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400019681,2025-03-25,Round One,C,6,Benin,South Africa,BEN,RSA,0,2,,,False,False,,,Stade Felix Houphouet-Boigny
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400019683,2025-03-25,Round One,C,6,Rwanda,Lesotho,RWA,LES,1,1,,,False,False,,,Stade Amahoro (National Stadium)
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400019689,2025-03-25,Round One,D,6,Angola,Cabo Verde,ANG,CPV,1,2,,,False,False,,,Estádio 11 de Novembro
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400019703,2025-03-25,Round One,G,6,Uganda,Guinea,UGA,GUI,1,0,,,False,False,,,Mandela National Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400019667,2025-03-25,Round One,A,6,Egypt,Sierra Leone,EGY,SLE,1,0,,,False,False,,,Cairo International Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400019677,2025-03-25,Round One,B,6,Sudan,South Sudan,SDN,SSD,1,1,,,False,False,,,Benina Martyrs Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400019690,2025-03-25,Round One,D,6,Cameroon,Libya,CMR,LBY,3,1,,,False,False,,,Stade Omnisports Ahmadou-Ahidjo
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400019702,2025-03-25,Round One,G,6,Botswana,Somalia,BOT,SOM,2,0,,,False,False,,,Obed Itani Chilume Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400019698,2025-03-25,Round One,F,6,Burundi,Seychelles,BDI,SEY,5,0,,,False,False,,,Stade d’Honneur
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400019674,2025-03-25,Round One,B,6,Senegal,Togo,SEN,TOG,2,0,,,False,False,,,Stade Me Abdoulaye Wade
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400019678,2025-03-25,Round One,B,6,Mauritania,Congo DR,MTN,COD,0,2,,,False,False,,,Stade Municipal de Nouadhibou
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400019711,2025-03-25,Round One,I,6,Comoros,Chad,COM,CHA,1,0,,,False,False,,,Stade Municipal de Berkane
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400019704,2025-03-25,Round One,G,6,Algeria,Mozambique,ALG,MOZ,5,1,,,False,False,,,Stade Hocine-Aït-Ahmed
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400019691,2025-03-25,Round One,E,6,Morocco,Tanzania,MAR,TAN,2,0,,,False,False,,,Stade municipal d'Oujda
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400019526,2025-03-25,Round One,,14,Bolivia,Uruguay,BOL,URU,0,0,,,False,False,,,Estadio Municipal de El Alto
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400019534,2025-03-26,Round One,,14,Venezuela,Peru,VEN,PER,1,0,,,False,False,,,Estadio Monumental de Maturin
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400019529,2025-03-26,Round One,,14,Colombia,Paraguay,COL,PAR,2,2,,,False,False,,,Metropolitano Roberto Melendez
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400019525,2025-03-26,Round One,,14,Argentina,Brazil,ARG,BRA,4,1,,,False,False,,,El Monumental - Estadio Monumental Antonio Vespucio Liberti
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400019528,2025-03-26,Round One,,14,Chile,Ecuador,CHI,ECU,0,0,,,False,False,,,Estadio Nacional Julio Martínez Prádanos
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017770,2025-06-04,Second Round,E,3,Dominica,British Virgin Islands,DMA,VGB,3,0,,,False,False,,,Windsor Park
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017753,2025-06-04,Second Round,D,3,Montserrat,Belize,MSR,BLZ,1,0,,,False,False,,,Ato Boldon Stadium
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017744,2025-06-04,Second Round,C,3,Barbados,Aruba,BRB,ARU,1,1,,,False,False,,,BFA Turf
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017778,2025-06-04,Second Round,F,3,St. Vincent / Grenadines,Anguilla,VIN,AIA,6,0,,,False,False,,,Arnos Vale Sporting Complex
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017732,2025-06-04,Second Round,A,3,Bermuda,Cayman Islands,BER,CAY,5,0,,,False,False,,,National Sports Centre (National Stadium)
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017726,2025-06-04,Second Round,B,3,Grenada,Bahamas,GRN,BAH,6,0,,,False,False,,,Kirani James Athletics Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018524,2025-06-05,Round Three,C,9,Australia,Japan,AUS,JPN,1,0,,,False,False,,,Optus Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018504,2025-06-05,Round Three,C,9,Indonesia,China PR,IDN,CHN,1,0,,,False,False,,,Gelora Bung Karno Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018454,2025-06-05,Round Three,A,9,United Arab Emirates,Uzbekistan,UAE,UZB,0,0,,,False,False,,,Al Nahyan Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018486,2025-06-05,Round Three,B,9,Oman,Jordan,OMA,JOR,0,3,,,False,False,,,Boshar - Sultan Qaboos Sports Complex
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018520,2025-06-05,Round Three,C,9,Bahrain,Saudi Arabia,BHR,KSA,0,2,,,False,False,,,Bahrain National Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018443,2025-06-05,Round Three,A,9,Korea DPR,Kyrgyz Republic,PRK,KGZ,2,2,,,False,False,,,Prince Faisal Bin Fahd Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018466,2025-06-05,Round Three,B,9,Iraq,Korea Republic,IRQ,KOR,0,2,,,False,False,,,Basra International Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018484,2025-06-05,Round Three,B,9,Kuwait,Palestine,KUW,PLE,0,2,,,False,False,,,Jaber Al-Ahmad International Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018445,2025-06-05,Round Three,A,9,Qatar,IR Iran,QAT,IRN,1,0,,,False,False,,,Jassim Bin Hamad Stadium
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400020082,2025-06-05,Round One,,15,Paraguay,Uruguay,PAR,URU,2,0,,,False,False,,,Estadio Defensores del Chaco
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400020085,2025-06-05,Round One,,15,Ecuador,Brazil,ECU,BRA,0,0,,,False,False,,,Isidro Romero - Monumental
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019357,2025-06-06,Round One,J,3,North Macedonia,Belgium,MKD,BEL,1,1,,,False,False,,,Toše Proeski National Arena
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019221,2025-06-06,Round One,I,3,Norway,Italy,NOR,ITA,3,0,,,False,False,,,Ullevaal Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019354,2025-06-06,Round One,J,3,Wales,Liechtenstein,WAL,LIE,3,0,,,False,False,,,Cardiff City Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019395,2025-06-06,Round One,L,3,Czechia,Montenegro,CZE,MNE,2,0,,,False,False,,,Doosan Arena
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019219,2025-06-06,Round One,I,3,Estonia,Israel,EST,ISR,1,3,,,False,False,,,A. Le Coq Arena
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019401,2025-06-06,Round One,L,3,Gibraltar,Croatia,GIB,CRO,0,7,,,False,False,,,Estadio Algarve
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017741,2025-06-06,Second Round,A,4,Antigua and Barbuda,Cuba,ATG,CUB,0,1,,,False,False,,,ABFA Technical Centre
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017780,2025-06-06,Second Round,F,4,Suriname,Puerto Rico,SUR,PUR,1,0,,,False,False,,,Franklin Essed Stadium
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017731,2025-06-06,Second Round,B,4,Trinidad and Tobago,St. Kitts and Nevis,TRI,SKN,6,2,,,False,False,,,Hasely Crawford Stadium
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017751,2025-06-06,Second Round,C,4,Curaçao,St. Lucia,CUW,LCA,4,0,,,False,False,,,Ergilio Hato Stadium
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400020084,2025-06-06,Round One,,15,Chile,Argentina,CHI,ARG,0,1,,,False,False,,,Estadio Nacional Julio Martínez Prádanos
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400020077,2025-06-06,Round One,,15,Colombia,Peru,COL,PER,0,0,,,False,False,,,Metropolitano Roberto Melendez
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400020081,2025-06-06,Round One,,15,Venezuela,Bolivia,VEN,BOL,2,0,,,False,False,,,Estadio Monumental de Maturin
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019344,2025-06-07,Round One,H,3,Bosnia and Herzegovina,San Marino,BIH,SMR,1,0,,,False,False,,,Bilino Polje Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019366,2025-06-07,Round One,K,3,Andorra,England,AND,ENG,0,1,,,False,False,,,RCDE Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019319,2025-06-07,Round One,G,3,Malta,Lithuania,MLT,LTU,0,0,,,False,False,,,Ta'Qali National Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019326,2025-06-07,Round One,H,3,Austria,Romania,AUT,ROU,2,1,,,False,False,,,Ernst Happel Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019372,2025-06-07,Round One,K,3,Albania,Serbia,ALB,SRB,0,0,,,False,False,,,Air Albania Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019309,2025-06-07,Round One,G,3,Finland,Netherlands,FIN,NED,0,2,,,False,False,,,Olympic Stadium
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017766,2025-06-07,Second Round,E,4,Guatemala,Dominican Republic,GUA,DOM,4,2,,,False,False,,,Estadio Cementos Progreso
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017757,2025-06-07,Second Round,D,4,Nicaragua,Guyana,NCA,GUY,1,0,,,False,False,,,Estadio Nacional
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017763,2025-06-07,Second Round,E,4,British Virgin Islands,Jamaica,VGB,JAM,0,1,,,False,False,,,A. O. Shirley Recreation Ground
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017772,2025-06-07,Second Round,F,4,Anguilla,El Salvador,AIA,SLV,0,3,,,False,False,,,Raymond E. Guishard Stadium
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017734,2025-06-07,Second Round,A,4,Cayman Islands,Honduras,CAY,HON,0,1,,,False,False,,,Truman Bodden Stadium
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017742,2025-06-07,Second Round,C,4,Aruba,Haiti,ARU,HAI,0,5,,,False,False,,,Complejo Deportivo Guillermo Prospero Trinidad
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017722,2025-06-07,Second Round,B,4,Bahamas,Costa Rica,BAH,CRC,0,8,,,False,False,,,BFA Turf
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017761,2025-06-08,Second Round,D,4,Belize,Panama,BLZ,PAN,0,2,,,False,False,,,FFB Field
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019364,2025-06-09,Round One,J,4,Kazakhstan,North Macedonia,KAZ,MKD,0,1,,,False,False,,,Astana Arena
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019386,2025-06-09,Round One,L,4,Croatia,Czechia,CRO,CZE,5,1,,,False,False,,,Opus Arena
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019346,2025-06-09,Round One,J,4,Belgium,Wales,BEL,WAL,4,3,,,False,False,,,Stade Roi Baudouin
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019218,2025-06-09,Round One,I,4,Estonia,Norway,EST,NOR,0,1,,,False,False,,,A. Le Coq Arena
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019216,2025-06-09,Round One,I,4,Italy,Moldova,ITA,MDA,2,0,,,False,False,,,Mapei Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019392,2025-06-09,Round One,L,4,Faroe Islands,Gibraltar,FRO,GIB,2,1,,,False,False,,,Torsvollur
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019334,2025-06-10,Round One,H,4,Romania,Cyprus,ROU,CYP,2,0,,,False,False,,,National Arena
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019381,2025-06-10,Round One,K,4,Serbia,Andorra,SRB,AND,3,0,,,False,False,,,Dubočica Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019378,2025-06-10,Round One,K,4,Latvia,Albania,LVA,ALB,1,1,,,False,False,,,Skonto Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019307,2025-06-10,Round One,G,4,Netherlands,Malta,NED,MLT,8,0,,,False,False,,,Euroborg
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019312,2025-06-10,Round One,G,4,Finland,Poland,FIN,POL,2,1,,,False,False,,,Olympic Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019337,2025-06-10,Round One,H,4,San Marino,Austria,SMR,AUT,0,4,,,False,False,,,San Marino Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018522,2025-06-10,Round Three,C,10,Japan,Indonesia,JPN,IDN,6,0,,,False,False,,,Suita City Football Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018477,2025-06-10,Round Three,B,10,Korea Republic,Kuwait,KOR,KUW,4,0,,,False,False,,,Seoul World Cup Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018521,2025-06-10,Round Three,C,10,China PR,Bahrain,CHN,BHR,1,0,,,False,False,,,Chongqing Longxing Football Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018462,2025-06-10,Round Three,A,10,Uzbekistan,Qatar,UZB,QAT,3,0,,,False,False,,,Milliy Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018458,2025-06-10,Round Three,A,10,Kyrgyz Republic,United Arab Emirates,KGZ,UAE,1,1,,,False,False,,,Dolen Omurzakov Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018435,2025-06-10,Round Three,A,10,IR Iran,Korea DPR,IRN,PRK,3,0,,,False,False,,,Azadi Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018494,2025-06-10,Round Three,B,10,Palestine,Oman,PLE,OMA,1,1,,,False,False,,,King Abdullah II International Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018470,2025-06-10,Round Three,B,10,Jordan,Iraq,JOR,IRQ,0,1,,,False,False,,,Amman International Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400018523,2025-06-10,Round Three,C,10,Saudi Arabia,Australia,KSA,AUS,1,2,,,False,False,,,King Abdullah Sports City Stadium
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017729,2025-06-10,Second Round,B,5,St. Kitts and Nevis,Grenada,SKN,GRN,2,3,,,False,False,,,Warner Park
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017736,2025-06-10,Second Round,A,5,Cuba,Bermuda,CUB,BER,1,2,,,False,False,,,Estadio Antonio Maceo
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017747,2025-06-10,Second Round,C,5,Haiti,Curaçao,HAI,CUW,1,5,,,False,False,,,Complejo Deportivo Guillermo Prospero Trinidad
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017749,2025-06-10,Second Round,C,5,St. Lucia,Barbados,LCA,BRB,2,1,,,False,False,,,FFK Stadium
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017765,2025-06-10,Second Round,E,5,Dominican Republic,Dominica,DOM,DMA,5,0,,,False,False,,,Estadio Olímpico Félix Sánchez
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017769,2025-06-10,Second Round,E,5,Jamaica,Guatemala,JAM,GUA,3,0,,,False,False,,,Independence Park (National Stadium)
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400020083,2025-06-10,Round One,,16,Bolivia,Chile,BOL,CHI,2,0,,,False,False,,,Estadio Municipal de El Alto
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400020079,2025-06-10,Round One,,16,Uruguay,Venezuela,URU,VEN,2,0,,,False,False,,,Estadio Centenario
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017759,2025-06-11,Second Round,D,5,Panama,Nicaragua,PAN,NCA,3,0,,,False,False,,,Estadio Rommel Fernandez
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017754,2025-06-11,Second Round,D,5,Guyana,Montserrat,GUY,MSR,3,0,,,False,False,,,Synthetic Track and Field Facility
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017775,2025-06-11,Second Round,F,5,El Salvador,Suriname,SLV,SUR,1,1,,,False,False,,,Estadio Cuscatlan
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017725,2025-06-11,Second Round,B,5,Costa Rica,Trinidad and Tobago,CRC,TRI,2,1,,,False,False,,,Estadio Nacional de Costa Rica
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017777,2025-06-11,Second Round,F,5,Puerto Rico,St. Vincent / Grenadines,PUR,VIN,2,1,,,False,False,,,Mayagüez Athletics Stadium
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400017739,2025-06-11,Second Round,A,5,Honduras,Antigua and Barbuda,HON,ATG,2,0,,,False,False,,,Estadio Nacional José de la Paz Herrera (Chelato Uclés)
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400020078,2025-06-11,Round One,,16,Argentina,Colombia,ARG,COL,1,1,,,False,False,,,El Monumental - Estadio Monumental Antonio Vespucio Liberti
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400020086,2025-06-11,Round One,,16,Brazil,Paraguay,BRA,PAR,1,0,,,False,False,,,Neo Química Arena
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400020080,2025-06-11,Round One,,16,Peru,Ecuador,PER,ECU,0,0,,,False,False,,,Estadio Nacional
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400020795,2025-09-03,Round One,F,7,Seychelles,Gabon,SEY,GAB,0,4,,,False,False,,,Côte d'Or National Sports Complex
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019363,2025-09-04,Round One,J,5,Kazakhstan,Wales,KAZ,WAL,0,1,,,False,False,,,Astana Arena
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019289,2025-09-04,Round One,E,5,Georgia,Türkiye,GEO,TUR,2,3,,,False,False,,,National Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019315,2025-09-04,Round One,G,5,Lithuania,Malta,LTU,MLT,1,1,,,False,False,,,S. Darius & S. Girenas Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019349,2025-09-04,Round One,J,5,Liechtenstein,Belgium,LIE,BEL,0,6,,,False,False,,,Rheinpark Stadion
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019284,2025-09-04,Round One,E,5,Bulgaria,Spain,BUL,ESP,0,3,,,False,False,,,Vasil Levski National Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019242,2025-09-04,Round One,A,5,Slovakia,Germany,SVK,GER,2,0,,,False,False,,,Národný futbalový štadión
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019240,2025-09-04,Round One,A,5,Luxembourg,Northern Ireland,LUX,NIR,1,3,,,False,False,,,Stade de Luxembourg
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019308,2025-09-04,Round One,G,5,Netherlands,Poland,NED,POL,1,1,,,False,False,,,De Kuip
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400020817,2025-09-04,Round One,I,7,Chad,Ghana,CHA,GHA,1,1,,,False,False,,,Stade Olympique Maréchal Idriss Déby Itno
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400020768,2025-09-04,Round One,A,7,Guinea-Bissau,Sierra Leone,GNB,SLE,1,1,,,False,False,,,Estádio 24 de Setembro
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400020785,2025-09-04,Round One,D,7,Mauritius,Cabo Verde,MRI,CPV,0,2,,,False,False,,,Côte d'Or National Sports Complex
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400020786,2025-09-04,Round One,D,7,Angola,Libya,ANG,LBY,0,1,,,False,False,,,Estádio 11 de Novembro
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400020813,2025-09-04,Round One,I,7,Madagascar,Central African Republic,MAD,CTA,2,0,,,False,False,,,Stade Larbi Zaouli
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400020811,2025-09-04,Round One,H,7,São Tomé and Príncipe,Equatorial Guinea,STP,EQG,2,3,,,False,False,,,Stade municipal d'Oujda
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400020788,2025-09-04,Round One,D,7,Cameroon,Eswatini,CMR,SWZ,3,0,,,False,False,,,Stade Omnisports Ahmadou-Ahidjo
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400020809,2025-09-04,Round One,H,7,Tunisia,Liberia,TUN,LBR,3,0,,,False,False,,,Stade Hammadi Agrebi
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400020804,2025-09-04,Round One,G,7,Algeria,Botswana,ALG,BOT,3,1,,,False,False,,,Stade Hocine-Aït-Ahmed
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400020812,2025-09-04,Round One,I,7,Mali,Comoros,MLI,COM,3,0,,,False,False,,,Stade Municipal de Berkane
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400020588,2025-09-04,Final Round,A,1,Suriname,Panama,SUR,PAN,0,0,,,False,False,,,Franklin Essed Stadium
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400020565,2025-09-04,Round One,,17,Colombia,Bolivia,COL,BOL,3,0,,,False,False,,,Metropolitano Roberto Melendez
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400020567,2025-09-04,Round One,,17,Uruguay,Peru,URU,PER,3,0,,,False,False,,,Estadio Centenario
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400020566,2025-09-04,Round One,,17,Argentina,Venezuela,ARG,VEN,3,0,,,False,False,,,El Monumental - Estadio Monumental Antonio Vespucio Liberti
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400020570,2025-09-04,Round One,,17,Paraguay,Ecuador,PAR,ECU,0,0,,,False,False,,,Estadio Defensores del Chaco
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019274,2025-09-05,Round One,D,5,Iceland,Azerbaijan,ISL,AZE,5,0,,,False,False,,,Laugardalsvollur
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019232,2025-09-05,Round One,I,5,Moldova,Israel,MDA,ISR,0,4,,,False,False,,,Zimbru Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019213,2025-09-05,Round One,I,5,Italy,Estonia,ITA,EST,5,0,,,False,False,,,New Balance Arena
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019264,2025-09-05,Round One,C,5,Greece,Belarus,GRE,BLR,5,1,,,False,False,,,Karaiskaki Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019399,2025-09-05,Round One,L,5,Montenegro,Czechia,MNE,CZE,0,2,,,False,False,,,Podgorica City Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019245,2025-09-05,Round One,B,5,Slovenia,Sweden,SVN,SWE,2,2,,,False,False,,,Stožice Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019389,2025-09-05,Round One,L,5,Faroe Islands,Croatia,FRO,CRO,0,1,,,False,False,,,Torsvollur
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019275,2025-09-05,Round One,D,5,Ukraine,France,UKR,FRA,0,2,,,False,False,,,Municipal Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019253,2025-09-05,Round One,B,5,Switzerland,Kosovo,SUI,KOS,4,0,,,False,False,,,St. Jakob-Park
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019259,2025-09-05,Round One,C,5,Denmark,Scotland,DEN,SCO,0,0,,,False,False,,,Parken Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400020801,2025-09-05,Round One,G,7,Somalia,Guinea,SOM,GUI,0,3,,,False,False,,,Mandela National Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400020775,2025-09-05,Round One,B,7,South Sudan,Congo DR,SSD,COD,1,4,,,False,False,,,Juba Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400020798,2025-09-05,Round One,F,7,Kenya,The Gambia,KEN,GAM,1,3,,,False,False,,,Moi International Sports Centre
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400020806,2025-09-05,Round One,H,7,Namibia,Malawi,NAM,MWI,1,2,,,False,False,,,Obed Itani Chilume Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400020770,2025-09-05,Round One,A,7,Djibouti,Burkina Faso,DJI,BFA,0,6,,,False,False,,,Estádio 24 de Setembro
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400020782,2025-09-05,Round One,C,7,Lesotho,South Africa,LES,RSA,0,3,,,False,False,,,Free State Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400020792,2025-09-05,Round One,E,7,Congo,Tanzania,CGO,TAN,1,1,,,False,False,,,Stade Alphonse Massemba-Debat
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400020779,2025-09-05,Round One,C,7,Benin,Zimbabwe,BEN,ZIM,1,0,,,False,False,,,Stade Olympique d'Ebimpé
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400020802,2025-09-05,Round One,G,7,Uganda,Mozambique,UGA,MOZ,4,0,,,False,False,,,Mandela National Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400020773,2025-09-05,Round One,B,7,Senegal,Sudan,SEN,SDN,2,0,,,False,False,,,Stade Me Abdoulaye Wade
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400020776,2025-09-05,Round One,B,7,Mauritania,Togo,MTN,TOG,2,0,,,False,False,,,Stade Municipal de Nouadhibou
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400020766,2025-09-05,Round One,A,7,Egypt,Ethiopia,EGY,ETH,2,0,,,False,False,,,Cairo International Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400020796,2025-09-05,Round One,F,7,Côte d'Ivoire,Burundi,CIV,BDI,1,0,,,False,False,,,Stade Felix Houphouet-Boigny
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400020793,2025-09-05,Round One,E,7,Morocco,Niger,MAR,NIG,5,0,,,False,False,,,Prince Moulay Abdellah Stadium
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400020580,2025-09-05,Final Round,A,1,Guatemala,El Salvador,GUA,SLV,0,1,,,False,False,,,Estadio Cementos Progreso
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400020589,2025-09-05,Final Round,B,1,Bermuda,Jamaica,BER,JAM,0,4,,,False,False,,,National Sports Centre (National Stadium)
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400020571,2025-09-05,Round One,,17,Brazil,Chile,BRA,CHI,3,0,,,False,False,,,Maracanã - Estádio Jornalista Mário Filho
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019380,2025-09-06,Round One,K,5,Latvia,Serbia,LVA,SRB,0,1,,,False,False,,,Daugava Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019296,2025-09-06,Round One,F,5,Armenia,Portugal,ARM,POR,0,5,,,False,False,,,Vazgen Sargsyan Republican Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019373,2025-09-06,Round One,K,5,England,Andorra,ENG,AND,2,0,,,False,False,,,Villa Park
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019340,2025-09-06,Round One,H,5,San Marino,Bosnia and Herzegovina,SMR,BIH,0,6,,,False,False,,,San Marino Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019325,2025-09-06,Round One,H,5,Austria,Cyprus,AUT,CYP,1,0,,,False,False,,,Raiffeisen Arena
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019304,2025-09-06,Round One,F,5,Republic of Ireland,Hungary,IRL,HUN,2,2,,,False,False,,,Aviva Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400020778,2025-09-06,Round One,C,7,Nigeria,Rwanda,NGA,RWA,1,0,,,False,False,,,Godswill Akpabio International Stadium
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400020597,2025-09-06,Final Round,B,1,Trinidad and Tobago,Curaçao,TRI,CUW,0,0,,,False,False,,,Hasely Crawford Stadium
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400020605,2025-09-06,Final Round,C,1,Haiti,Honduras,HAI,HON,0,0,,,False,False,,,Ergilio Hato Stadium
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400020610,2025-09-06,Final Round,C,1,Nicaragua,Costa Rica,NCA,CRC,1,1,,,False,False,,,Estadio Nacional
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019288,2025-09-07,Round One,E,6,Georgia,Bulgaria,GEO,BUL,3,0,,,False,False,,,National Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019358,2025-09-07,Round One,J,6,North Macedonia,Liechtenstein,MKD,LIE,5,0,,,False,False,,,Toše Proeski National Arena
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019313,2025-09-07,Round One,G,6,Lithuania,Netherlands,LTU,NED,2,3,,,False,False,,,S. Darius & S. Girenas Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019290,2025-09-07,Round One,E,6,Türkiye,Spain,TUR,ESP,0,6,,,False,False,,,Konya Büyükşehir Belediye Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019348,2025-09-07,Round One,J,6,Belgium,Kazakhstan,BEL,KAZ,6,0,,,False,False,,,Lotto Park
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019233,2025-09-07,Round One,A,6,Germany,Northern Ireland,GER,NIR,3,1,,,False,False,,,Rhein Energie Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019322,2025-09-07,Round One,G,6,Poland,Finland,POL,FIN,3,1,,,False,False,,,Stadion Śląski
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019241,2025-09-07,Round One,A,6,Luxembourg,Slovakia,LUX,SVK,0,1,,,False,False,,,Stade de Luxembourg
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400020816,2025-09-07,Round One,I,8,Central African Republic,Comoros,CTA,COM,0,2,,,False,False,,,Stade d’Honneur
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019225,2025-09-08,Round One,I,6,Israel,Italy,ISR,ITA,4,5,,,False,False,,,Nagyerdei Stadion
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019402,2025-09-08,Round One,L,6,Gibraltar,Faroe Islands,GIB,FRO,0,1,,,False,False,,,Europa Point Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019251,2025-09-08,Round One,B,6,Switzerland,Slovenia,SUI,SVN,3,0,,,False,False,,,St. Jakob-Park
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019263,2025-09-08,Round One,C,6,Greece,Denmark,GRE,DEN,0,3,,,False,False,,,Karaiskaki Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019387,2025-09-08,Round One,L,6,Croatia,Montenegro,CRO,MNE,4,0,,,False,False,,,Stadion Maksimir
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019262,2025-09-08,Round One,C,6,Belarus,Scotland,BLR,SCO,0,2,,,False,False,,,ZTE Arena
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019255,2025-09-08,Round One,B,6,Kosovo,Sweden,KOS,SWE,2,0,,,False,False,,,Fadil Vokrri Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400020790,2025-09-08,Round One,E,8,Zambia,Morocco,ZAM,MAR,0,2,,,False,False,,,Levy Mwanawasa Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400020800,2025-09-08,Round One,G,8,Mozambique,Botswana,MOZ,BOT,2,0,,,False,False,,,Estadio do Zimpeto
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400020808,2025-09-08,Round One,H,8,Equatorial Guinea,Tunisia,EQG,TUN,0,1,,,False,False,,,Nuevo Estadio de Malabo
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400020769,2025-09-08,Round One,A,8,Guinea-Bissau,Djibouti,GNB,DJI,2,0,,,False,False,,,Estádio 24 de Setembro
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400020803,2025-09-08,Round One,G,8,Uganda,Somalia,UGA,SOM,2,0,,,False,False,,,Mandela National Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400020805,2025-09-08,Round One,G,8,Guinea,Algeria,GUI,ALG,0,0,,,False,False,,,Stade Mohamed V
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400020810,2025-09-08,Round One,H,8,Malawi,Liberia,MWI,LBR,2,2,,,False,False,,,Bingu National Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400020814,2025-09-08,Round One,I,8,Madagascar,Chad,MAD,CHA,3,1,,,False,False,,,Stade Larbi Zaouli
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400020789,2025-09-08,Round One,D,8,Libya,Eswatini,LBY,SWZ,2,0,,,False,False,,,March 28 Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400020815,2025-09-08,Round One,I,8,Ghana,Mali,GHA,MLI,1,0,,,False,False,,,Accra Sports Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019298,2025-09-09,Round One,F,6,Armenia,Republic of Ireland,ARM,IRL,2,1,,,False,False,,,Vazgen Sargsyan Republican Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019280,2025-09-09,Round One,D,6,Azerbaijan,Ukraine,AZE,UKR,1,1,,,False,False,,,Tofiq Bahramov Republican Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019330,2025-09-09,Round One,H,6,Cyprus,Romania,CYP,ROU,2,2,,,False,False,,,GSP Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019341,2025-09-09,Round One,H,6,Bosnia and Herzegovina,Austria,BIH,AUT,1,2,,,False,False,,,Bilino Polje Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019269,2025-09-09,Round One,D,6,France,Iceland,FRA,ISL,2,1,,,False,False,,,Parc des Princes
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019224,2025-09-09,Round One,I,6,Norway,Moldova,NOR,MDA,11,1,,,False,False,,,Ullevaal Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019383,2025-09-09,Round One,K,6,Serbia,England,SRB,ENG,0,5,,,False,False,,,Rajko Mitić Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019371,2025-09-09,Round One,K,6,Albania,Latvia,ALB,LVA,1,0,,,False,False,,,Air Albania Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019299,2025-09-09,Round One,F,6,Hungary,Portugal,HUN,POR,2,3,,,False,False,,,Puskás Aréna
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400020767,2025-09-09,Round One,A,8,Sierra Leone,Ethiopia,SLE,ETH,2,0,,,False,False,,,Samuel Kanyon Doe Sports Complex
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400020780,2025-09-09,Round One,C,8,Zimbabwe,Rwanda,ZIM,RWA,0,1,,,False,False,,,Orlando Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400020791,2025-09-09,Round One,E,8,Tanzania,Niger,TAN,NIG,0,1,,,False,False,,,Amaan Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400020807,2025-09-09,Round One,H,8,Namibia,São Tomé and Príncipe,NAM,STP,3,0,,,False,False,,,Obed Itani Chilume Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400020799,2025-09-09,Round One,F,8,Kenya,Seychelles,KEN,SEY,5,0,,,False,False,,,Moi International Sports Centre
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400020771,2025-09-09,Round One,A,8,Burkina Faso,Egypt,BFA,EGY,0,0,,,False,False,,,Stade du 4 aout
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400020772,2025-09-09,Round One,B,8,Congo DR,Senegal,COD,SEN,2,3,,,False,False,,,Stade de Martyrs
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400020774,2025-09-09,Round One,B,8,Togo,Sudan,TOG,SDN,1,0,,,False,False,,,Stade de Kégué
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400020783,2025-09-09,Round One,C,8,South Africa,Nigeria,RSA,NGA,1,1,,,False,False,,,Free State Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400020784,2025-09-09,Round One,D,8,Cabo Verde,Cameroon,CPV,CMR,1,0,,,False,False,,,Estádio Nacional de Cabo Verde
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400020777,2025-09-09,Round One,B,8,Mauritania,South Sudan,MTN,SSD,0,0,,,False,False,,,Stade Municipal de Nouadhibou
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400020794,2025-09-09,Round One,F,8,Gabon,Côte d'Ivoire,GAB,CIV,0,0,,,False,False,,,Stade de Franceville
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400020797,2025-09-09,Round One,F,8,The Gambia,Burundi,GAM,BDI,2,0,,,False,False,,,Nyayo National Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400020787,2025-09-09,Round One,D,8,Angola,Mauritius,ANG,MRI,3,1,,,False,False,,,Estádio 11 de Novembro
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400020781,2025-09-09,Round One,C,8,Benin,Lesotho,BEN,LES,4,0,,,False,False,,,Stade Felix Houphouet-Boigny
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400020579,2025-09-09,Final Round,A,2,El Salvador,Suriname,SLV,SUR,1,2,,,False,False,,,Estadio Cuscatlan
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400020584,2025-09-09,Final Round,A,2,Panama,Guatemala,PAN,GUA,1,1,,,False,False,,,Estadio Rommel Fernandez
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400020574,2025-09-09,Round One,,18,Ecuador,Argentina,ECU,ARG,1,0,,,False,False,,,Isidro Romero - Monumental
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400020568,2025-09-09,Round One,,18,Peru,Paraguay,PER,PAR,0,1,,,False,False,,,Estadio Nacional
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400020569,2025-09-09,Round One,,18,Venezuela,Colombia,VEN,COL,3,6,,,False,False,,,Estadio Monumental de Maturin
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400020572,2025-09-09,Round One,,18,Bolivia,Brazil,BOL,BRA,1,0,,,False,False,,,Estadio Municipal de El Alto
+conmebol_qualifiers,WC2026 Qualifiers,CONMEBOL,FIFA World Cup 2026™ CONMEBOL Qualifiers,Q26-CONMEBOL-400020573,2025-09-09,Round One,,18,Chile,Uruguay,CHI,URU,0,0,,,False,False,,,Estadio Nacional Julio Martínez Prádanos
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400020593,2025-09-10,Final Round,B,2,Jamaica,Trinidad and Tobago,JAM,TRI,2,0,,,False,False,,,Independence Park (National Stadium)
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400020598,2025-09-10,Final Round,B,2,Curaçao,Bermuda,CUW,BER,3,2,,,False,False,,,Ergilio Hato Stadium
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400020601,2025-09-10,Final Round,C,2,Costa Rica,Haiti,CRC,HAI,3,3,,,False,False,,,Estadio Nacional de Costa Rica
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400020609,2025-09-10,Final Round,C,2,Honduras,Nicaragua,HON,NCA,2,0,,,False,False,,,Estadio Nacional José de la Paz Herrera (Chelato Uclés)
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400020389,2025-10-08,Round Four,A,1,Oman,Qatar,OMA,QAT,0,0,,,False,False,,,Jassim Bin Hamad Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400020392,2025-10-08,Round Four,B,1,Indonesia,Saudi Arabia,IDN,KSA,2,3,,,False,False,,,King Abdullah Sports City Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400021034,2025-10-08,Round One,A,9,Ethiopia,Guinea-Bissau,ETH,GNB,1,0,,,False,False,,,Stade Amahoro (National Stadium)
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400021049,2025-10-08,Round One,D,9,Mauritius,Cameroon,MRI,CMR,0,2,,,False,False,,,Côte d'Or National Sports Complex
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400021053,2025-10-08,Round One,D,9,Eswatini,Angola,SWZ,ANG,2,2,,,False,False,,,Somhlolo National Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400021052,2025-10-08,Round One,D,9,Libya,Cabo Verde,LBY,CPV,3,3,,,False,False,,,Tripoli Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400021031,2025-10-08,Round One,A,9,Sierra Leone,Burkina Faso,SLE,BFA,0,1,,,False,False,,,Samuel Kanyon Doe Sports Complex
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400021032,2025-10-08,Round One,A,9,Djibouti,Egypt,DJI,EGY,0,3,,,False,False,,,Stade Larbi Zaouli
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400021076,2025-10-08,Round One,I,9,Central African Republic,Ghana,CTA,GHA,0,5,,,False,False,,,Stade d’Honneur
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400021078,2025-10-08,Round One,I,9,Comoros,Madagascar,COM,MAD,1,2,,,False,False,,,Stade Felix Houphouet-Boigny
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400021081,2025-10-08,Round One,I,9,Chad,Mali,CHA,MLI,0,2,,,False,False,,,Stade Olympique Maréchal Idriss Déby Itno
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400021056,2025-10-08,Round One,E,9,Tanzania,Zambia,TAN,ZAM,0,1,,,False,False,,,Amaan Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400021055,2025-10-08,Round One,E,9,Niger,Congo,NIG,CGO,3,1,,,False,False,,,Stade du 4 aout
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019310,2025-10-09,Round One,G,7,Finland,Lithuania,FIN,LTU,2,1,,,False,False,,,Olympic Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019327,2025-10-09,Round One,H,7,Austria,San Marino,AUT,SMR,10,0,,,False,False,,,Ernst Happel Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019393,2025-10-09,Round One,L,7,Czechia,Croatia,CZE,CRO,0,0,,,False,False,,,Sinobo Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019332,2025-10-09,Round One,H,7,Cyprus,Bosnia and Herzegovina,CYP,BIH,2,2,,,False,False,,,AEK Arena - Georgios Karapatakis
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019317,2025-10-09,Round One,G,7,Malta,Netherlands,MLT,NED,0,4,,,False,False,,,Ta'Qali National Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019268,2025-10-09,Round One,C,7,Scotland,Greece,SCO,GRE,3,1,,,False,False,,,Hampden Park
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019391,2025-10-09,Round One,L,7,Faroe Islands,Montenegro,FRO,MNE,4,0,,,False,False,,,Torsvollur
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019260,2025-10-09,Round One,C,7,Belarus,Denmark,BLR,DEN,0,6,,,False,False,,,ZTE Arena
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400021063,2025-10-09,Round One,F,9,Burundi,Kenya,BDI,KEN,0,1,,,False,False,,,Stade Prince Louis Rwagasore
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400021065,2025-10-09,Round One,G,9,Mozambique,Guinea,MOZ,GUI,1,2,,,False,False,,,Estadio do Zimpeto
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400021068,2025-10-09,Round One,G,9,Somalia,Algeria,SOM,ALG,0,3,,,False,False,,,Complexe Olympique Miloud Hadefi d’Oran
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400021073,2025-10-09,Round One,H,9,Liberia,Namibia,LBR,NAM,3,1,,,False,False,,,Samuel Kanyon Doe Sports Complex
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400021064,2025-10-09,Round One,G,9,Botswana,Uganda,BOT,UGA,0,1,,,False,False,,,Obed Itani Chilume Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019362,2025-10-10,Round One,J,7,Kazakhstan,Liechtenstein,KAZ,LIE,4,0,,,False,False,,,Astana Arena
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019271,2025-10-10,Round One,D,7,France,Azerbaijan,FRA,AZE,3,0,,,False,False,,,Parc des Princes
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019234,2025-10-10,Round One,A,7,Germany,Luxembourg,GER,LUX,4,0,,,False,False,,,PreZero Arena
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019238,2025-10-10,Round One,A,7,Northern Ireland,Slovakia,NIR,SVK,2,0,,,False,False,,,Windsor Park
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019347,2025-10-10,Round One,J,7,Belgium,North Macedonia,BEL,MKD,0,0,,,False,False,,,Planet Group Arena
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019273,2025-10-10,Round One,D,7,Iceland,Ukraine,ISL,UKR,3,5,,,False,False,,,Laugardalsvollur
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019254,2025-10-10,Round One,B,7,Kosovo,Slovenia,KOS,SVN,0,0,,,False,False,,,Fadil Vokrri Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019249,2025-10-10,Round One,B,7,Sweden,Switzerland,SWE,SUI,0,2,,,False,False,,,Friends Arena
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400021039,2025-10-10,Round One,B,9,Togo,Congo DR,TOG,COD,0,1,,,False,False,,,Stade de Kégué
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400021036,2025-10-10,Round One,B,9,Sudan,Mauritania,SDN,MTN,0,0,,,False,False,,,Benjamin Mkapa (National Stadium)
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400021040,2025-10-10,Round One,B,9,South Sudan,Senegal,SSD,SEN,0,5,,,False,False,,,Juba Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400021060,2025-10-10,Round One,F,9,Seychelles,Côte d'Ivoire,SEY,CIV,0,7,,,False,False,,,Côte d'Or National Sports Complex
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400021062,2025-10-10,Round One,F,9,The Gambia,Gabon,GAM,GAB,3,4,,,False,False,,,Moi International Sports Centre
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400021042,2025-10-10,Round One,C,9,Lesotho,Nigeria,LES,NGA,1,2,,,False,False,,,Peter Mokaba Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400021044,2025-10-10,Round One,C,9,Zimbabwe,South Africa,ZIM,RSA,0,0,,,False,False,,,Moses Mabhida Stadium 
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400021047,2025-10-10,Round One,C,9,Rwanda,Benin,RWA,BEN,0,1,,,False,False,,,Stade Amahoro (National Stadium)
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400021071,2025-10-10,Round One,H,9,São Tomé and Príncipe,Tunisia,STP,TUN,0,6,,,False,False,,,Stade Hammadi Agrebi
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400020611,2025-10-10,Final Round,C,3,Nicaragua,Haiti,NCA,HAI,0,3,,,False,False,,,Estadio Nacional
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400020607,2025-10-10,Final Round,C,3,Honduras,Costa Rica,HON,CRC,0,0,,,False,False,,,Estadio General Francisco Morazán
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400020587,2025-10-10,Final Round,A,3,Suriname,Guatemala,SUR,GUA,1,1,,,False,False,,,Franklin Essed Stadium
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400020590,2025-10-10,Final Round,B,3,Bermuda,Trinidad and Tobago,BER,TRI,0,3,,,False,False,,,National Sports Centre (National Stadium)
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400020599,2025-10-10,Final Round,B,3,Curaçao,Jamaica,CUW,JAM,2,0,,,False,False,,,Ergilio Hato Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019377,2025-10-11,Round One,K,7,Latvia,Andorra,LVA,AND,2,2,,,False,False,,,Daugava Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019300,2025-10-11,Round One,F,7,Hungary,Armenia,HUN,ARM,2,0,,,False,False,,,Puskás Aréna
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019223,2025-10-11,Round One,I,7,Norway,Israel,NOR,ISR,5,0,,,False,False,,,Ullevaal Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019217,2025-10-11,Round One,I,7,Estonia,Italy,EST,ITA,1,3,,,False,False,,,A. Le Coq Arena
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019295,2025-10-11,Round One,F,7,Portugal,Republic of Ireland,POR,IRL,1,0,,,False,False,,,Estádio José Alvalade
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019382,2025-10-11,Round One,K,7,Serbia,Albania,SRB,ALB,0,1,,,False,False,,,Dubočica Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019286,2025-10-11,Round One,E,7,Bulgaria,Türkiye,BUL,TUR,1,6,,,False,False,,,Vasil Levski National Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019282,2025-10-11,Round One,E,7,Spain,Georgia,ESP,GEO,2,0,,,False,False,,,Estadio Manuel Martínez Valero
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400020390,2025-10-11,Round Four,A,2,United Arab Emirates,Oman,UAE,OMA,2,1,,,False,False,,,Jassim Bin Hamad Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400020393,2025-10-11,Round Four,B,2,Iraq,Indonesia,IRQ,IDN,1,0,,,False,False,,,King Abdullah Sports City Stadium
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400020578,2025-10-11,Final Round,A,3,El Salvador,Panama,SLV,PAN,0,1,,,False,False,,,Estadio Cuscatlan
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019338,2025-10-12,Round One,H,8,San Marino,Cyprus,SMR,CYP,0,4,,,False,False,,,San Marino Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019390,2025-10-12,Round One,L,8,Faroe Islands,Czechia,FRO,CZE,2,1,,,False,False,,,Torsvollur
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019305,2025-10-12,Round One,G,8,Netherlands,Finland,NED,FIN,4,0,,,False,False,,,Johan Cruyff Arena
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019267,2025-10-12,Round One,C,8,Scotland,Belarus,SCO,BLR,2,1,,,False,False,,,Hampden Park
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019316,2025-10-12,Round One,G,8,Lithuania,Poland,LTU,POL,0,2,,,False,False,,,S. Darius & S. Girenas Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019333,2025-10-12,Round One,H,8,Romania,Austria,ROU,AUT,1,0,,,False,False,,,National Arena
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019258,2025-10-12,Round One,C,8,Denmark,Greece,DEN,GRE,3,1,,,False,False,,,Parken Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019388,2025-10-12,Round One,L,8,Croatia,Gibraltar,CRO,GIB,3,0,,,False,False,,,Anđelko Herjavec Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400021054,2025-10-12,Round One,E,10,Zambia,Niger,ZAM,NIG,0,1,,,False,False,,,Levy Mwanawasa Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400021080,2025-10-12,Round One,I,10,Chad,Central African Republic,CHA,CTA,2,3,,,False,False,,,Stade Olympique Maréchal Idriss Déby Itno
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400021030,2025-10-12,Round One,A,10,Egypt,Guinea-Bissau,EGY,GNB,1,0,,,False,False,,,Cairo International Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400021033,2025-10-12,Round One,A,10,Djibouti,Sierra Leone,DJI,SLE,1,2,,,False,False,,,Stade Larbi Zaouli
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400021035,2025-10-12,Round One,A,10,Burkina Faso,Ethiopia,BFA,ETH,3,1,,,False,False,,,Stade du 4 aout
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400021077,2025-10-12,Round One,I,10,Mali,Madagascar,MLI,MAD,4,1,,,False,False,,,Stade du 26 mars (National Stadium)
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400021079,2025-10-12,Round One,I,10,Ghana,Comoros,GHA,COM,1,0,,,False,False,,,Accra Sports Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019272,2025-10-13,Round One,D,8,Iceland,France,ISL,FRA,2,2,,,False,False,,,Laugardalsvollur
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019250,2025-10-13,Round One,B,8,Sweden,Kosovo,SWE,KOS,0,1,,,False,False,,,Nya Ullevi
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019236,2025-10-13,Round One,A,8,Northern Ireland,Germany,NIR,GER,0,1,,,False,False,,,Windsor Park
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019277,2025-10-13,Round One,D,8,Ukraine,Azerbaijan,UKR,AZE,2,1,,,False,False,,,Marshal Józef Piłsudski Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019244,2025-10-13,Round One,A,8,Slovakia,Luxembourg,SVK,LUX,2,0,,,False,False,,,Anton Malatinský Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019360,2025-10-13,Round One,J,8,North Macedonia,Kazakhstan,MKD,KAZ,1,1,,,False,False,,,Toše Proeski National Arena
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019246,2025-10-13,Round One,B,8,Slovenia,Switzerland,SVN,SUI,0,0,,,False,False,,,Stožice Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019353,2025-10-13,Round One,J,8,Wales,Belgium,WAL,BEL,2,4,,,False,False,,,Cardiff City Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400021041,2025-10-13,Round One,B,10,South Sudan,Togo,SSD,TOG,0,0,,,False,False,,,Juba Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400021072,2025-10-13,Round One,H,10,Tunisia,Namibia,TUN,NAM,3,0,,,False,False,,,Stade Hammadi Agrebi
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400021075,2025-10-13,Round One,H,10,São Tomé and Príncipe,Malawi,STP,MWI,1,0,,,False,False,,,Stade Olympique
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400021070,2025-10-13,Round One,H,10,Equatorial Guinea,Liberia,EQG,LBR,1,1,,,False,False,,,Nuevo Estadio de Malabo
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400021043,2025-10-13,Round One,C,10,Lesotho,Zimbabwe,LES,ZIM,1,0,,,False,False,,,Peter Mokaba Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400021048,2025-10-13,Round One,D,10,Cabo Verde,Eswatini,CPV,SWZ,3,0,,,False,False,,,Estádio Nacional de Cabo Verde
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400021051,2025-10-13,Round One,D,10,Cameroon,Angola,CMR,ANG,0,0,,,False,False,,,Stade Omnisports Ahmadou-Ahidjo
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400021050,2025-10-13,Round One,D,10,Mauritius,Libya,MRI,LBY,0,0,,,False,False,,,Côte d'Or National Sports Complex
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019220,2025-10-14,Round One,I,8,Estonia,Moldova,EST,MDA,1,1,,,False,False,,,A. Le Coq Arena
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019292,2025-10-14,Round One,E,8,Türkiye,Georgia,TUR,GEO,4,1,,,False,False,,,Kocaeli Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019294,2025-10-14,Round One,F,8,Portugal,Hungary,POR,HUN,2,2,,,False,False,,,Estádio José Alvalade
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019215,2025-10-14,Round One,I,8,Italy,Israel,ITA,ISR,3,0,,,False,False,,,Stadio Friuli
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019303,2025-10-14,Round One,F,8,Republic of Ireland,Armenia,IRL,ARM,1,0,,,False,False,,,Aviva Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019368,2025-10-14,Round One,K,8,Andorra,Serbia,AND,SRB,1,3,,,False,False,,,Nou Estadi a Encamp
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019379,2025-10-14,Round One,K,8,Latvia,England,LVA,ENG,0,5,,,False,False,,,Daugava Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019281,2025-10-14,Round One,E,8,Spain,Bulgaria,ESP,BUL,4,0,,,False,False,,,Jose Zorrilla
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400020391,2025-10-14,Round Four,A,3,Qatar,United Arab Emirates,QAT,UAE,2,1,,,False,False,,,Jassim Bin Hamad Stadium
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400020394,2025-10-14,Round Four,B,3,Saudi Arabia,Iraq,KSA,IRQ,0,0,,,False,False,,,King Abdullah Sports City Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400021061,2025-10-14,Round One,F,10,Seychelles,The Gambia,SEY,GAM,0,7,,,False,False,,,Côte d'Or National Sports Complex
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400021046,2025-10-14,Round One,C,10,South Africa,Rwanda,RSA,RWA,3,0,,,False,False,,,Mbombela Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400021045,2025-10-14,Round One,C,10,Nigeria,Benin,NGA,BEN,4,0,,,False,False,,,Godswill Akpabio International Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400021066,2025-10-14,Round One,G,10,Algeria,Uganda,ALG,UGA,2,1,,,False,False,,,Stade Hocine-Aït-Ahmed
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400021067,2025-10-14,Round One,G,10,Guinea,Botswana,GUI,BOT,2,2,,,False,False,,,Stade Mohamed V
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400021069,2025-10-14,Round One,G,10,Somalia,Mozambique,SOM,MOZ,0,1,,,False,False,,,Complexe Olympique Miloud Hadefi d’Oran
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400021038,2025-10-14,Round One,B,10,Senegal,Mauritania,SEN,MTN,4,0,,,False,False,,,Stade Me Abdoulaye Wade
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400021037,2025-10-14,Round One,B,10,Congo DR,Sudan,COD,SDN,1,0,,,False,False,,,Stade de Martyrs
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400021057,2025-10-14,Round One,E,10,Morocco,Congo,MAR,CGO,1,0,,,False,False,,,Prince Moulay Abdellah Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400021059,2025-10-14,Round One,F,10,Côte d'Ivoire,Kenya,CIV,KEN,3,0,,,False,False,,,Stade Olympique d'Ebimpé
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400021058,2025-10-14,Round One,F,10,Gabon,Burundi,GAB,BDI,2,0,,,False,False,,,Stade de Franceville
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400020608,2025-10-14,Final Round,C,4,Honduras,Haiti,HON,HAI,3,0,,,False,False,,,Estadio Nacional José de la Paz Herrera (Chelato Uclés)
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400020603,2025-10-14,Final Round,C,4,Costa Rica,Nicaragua,CRC,NCA,4,1,,,False,False,,,Estadio Nacional de Costa Rica
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400020600,2025-10-14,Final Round,B,4,Curaçao,Trinidad and Tobago,CUW,TRI,1,1,,,False,False,,,Ergilio Hato Stadium
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400020592,2025-10-15,Final Round,B,4,Jamaica,Bermuda,JAM,BER,4,0,,,False,False,,,Independence Park (National Stadium)
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400020585,2025-10-15,Final Round,A,4,Panama,Suriname,PAN,SUR,1,1,,,False,False,,,Estadio Rommel Fernandez
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400020577,2025-10-15,Final Round,A,4,El Salvador,Guatemala,SLV,GUA,0,1,,,False,False,,,Estadio Cuscatlan
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019279,2025-11-13,Round One,D,9,Azerbaijan,Iceland,AZE,ISL,0,2,,,False,False,,,Bakcell Arena
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019222,2025-11-13,Round One,I,9,Norway,Estonia,NOR,EST,4,1,,,False,False,,,Ullevaal Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019297,2025-11-13,Round One,F,9,Armenia,Hungary,ARM,HUN,0,1,,,False,False,,,Vazgen Sargsyan Republican Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019229,2025-11-13,Round One,I,9,Moldova,Italy,MDA,ITA,0,2,,,False,False,,,Zimbru Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019376,2025-11-13,Round One,K,9,England,Serbia,ENG,SRB,2,0,,,False,False,,,Wembley Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019302,2025-11-13,Round One,F,9,Republic of Ireland,Portugal,IRL,POR,2,0,,,False,False,,,Aviva Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019270,2025-11-13,Round One,D,9,France,Ukraine,FRA,UKR,4,0,,,False,False,,,Parc des Princes
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019365,2025-11-13,Round One,K,9,Andorra,Albania,AND,ALB,0,1,,,False,False,,,Nou Estadi a Encamp
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400020395,2025-11-13,Round Five,,,United Arab Emirates,Iraq,UAE,IRQ,1,1,,,False,False,,,Mohammed Bin Zayed Stadium
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400021228,2025-11-13,Round Two - Semi-final,,,Nigeria,Gabon,NGA,GAB,4,1,,,False,False,,,Stade Prince Héritier Moulay Hassan
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400021229,2025-11-13,Round Two - Semi-final,,,Cameroon,Congo DR,CMR,COD,0,1,,,False,False,,,Stade Al Medina
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400020586,2025-11-13,Final Round,A,5,Suriname,El Salvador,SUR,SLV,4,0,,,False,False,,,Franklin Essed Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019311,2025-11-14,Round One,G,9,Finland,Malta,FIN,MLT,0,1,,,False,False,,,Olympic Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019239,2025-11-14,Round One,A,9,Luxembourg,Germany,LUX,GER,0,2,,,False,False,,,Stade de Luxembourg
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019404,2025-11-14,Round One,L,9,Gibraltar,Montenegro,GIB,MNE,1,2,,,False,False,,,Europa Point Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019385,2025-11-14,Round One,L,9,Croatia,Faroe Islands,CRO,FRO,3,1,,,False,False,,,Stadion HNK Rijeka
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019321,2025-11-14,Round One,G,9,Poland,Netherlands,POL,NED,1,1,,,False,False,,,PGE Narodowy (National Stadium)
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019243,2025-11-14,Round One,A,9,Slovakia,Northern Ireland,SVK,NIR,1,0,,,False,False,,,Košická futbalová Aréna
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400020596,2025-11-14,Final Round,B,5,Trinidad and Tobago,Jamaica,TRI,JAM,1,1,,,False,False,,,Hasely Crawford Stadium
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400020591,2025-11-14,Final Round,B,5,Bermuda,Curaçao,BER,CUW,0,7,,,False,False,,,National Sports Centre (National Stadium)
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400020581,2025-11-14,Final Round,A,5,Guatemala,Panama,GUA,PAN,2,3,,,False,False,,,Estadio Manuel Felipe Carrera
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400020612,2025-11-14,Final Round,C,5,Nicaragua,Honduras,NCA,HON,2,0,,,False,False,,,Estadio Nacional
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400020604,2025-11-14,Final Round,C,5,Haiti,Costa Rica,HAI,CRC,1,0,,,False,False,,,Ergilio Hato Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019329,2025-11-15,Round One,H,9,Cyprus,Austria,CYP,AUT,0,2,,,False,False,,,Alphamega Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019361,2025-11-15,Round One,J,9,Kazakhstan,Belgium,KAZ,BEL,1,1,,,False,False,,,Astana Arena
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019287,2025-11-15,Round One,E,9,Georgia,Spain,GEO,ESP,0,4,,,False,False,,,National Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019291,2025-11-15,Round One,E,9,Türkiye,Bulgaria,TUR,BUL,2,0,,,False,False,,,Atatürk Spor Kompleksi Matlı Stadyumu
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019350,2025-11-15,Round One,J,9,Liechtenstein,Wales,LIE,WAL,0,1,,,False,False,,,Rheinpark Stadion
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019252,2025-11-15,Round One,B,9,Switzerland,Sweden,SUI,SWE,4,1,,,False,False,,,Stade de Genève
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019257,2025-11-15,Round One,C,9,Denmark,Belarus,DEN,BLR,2,2,,,False,False,,,Parken Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019343,2025-11-15,Round One,H,9,Bosnia and Herzegovina,Romania,BIH,ROU,3,1,,,False,False,,,Bilino Polje Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019247,2025-11-15,Round One,B,9,Slovenia,Kosovo,SVN,KOS,0,2,,,False,False,,,Stožice Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019265,2025-11-15,Round One,C,9,Greece,Scotland,GRE,SCO,3,2,,,False,False,,,Karaiskaki Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019301,2025-11-16,Round One,F,10,Hungary,Republic of Ireland,HUN,IRL,2,3,,,False,False,,,Puskás Aréna
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019293,2025-11-16,Round One,F,10,Portugal,Armenia,POR,ARM,9,1,,,False,False,,,Estádio do Dragão
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019276,2025-11-16,Round One,D,10,Ukraine,Iceland,UKR,ISL,2,0,,,False,False,,,Wojska Polskiego
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019384,2025-11-16,Round One,K,10,Serbia,Latvia,SRB,LVA,2,1,,,False,False,,,Dubočica Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019370,2025-11-16,Round One,K,10,Albania,England,ALB,ENG,0,2,,,False,False,,,Air Albania Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019278,2025-11-16,Round One,D,10,Azerbaijan,France,AZE,FRA,1,3,,,False,False,,,Tofiq Bahramov Republican Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019228,2025-11-16,Round One,I,10,Israel,Moldova,ISR,MDA,4,1,,,False,False,,,Zimbru Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019214,2025-11-16,Round One,I,10,Italy,Norway,ITA,NOR,1,4,,,False,False,,,Stadio Giuseppe Meazza
+caf_qualifiers,WC2026 Qualifiers,CAF,FIFA World Cup 2026™ CAF Qualifiers,Q26-CAF-400021230,2025-11-16,Round Two - Final,,,Nigeria,Congo DR,NGA,COD,1,1,,,True,True,3,4,Stade Prince Héritier Moulay Hassan
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019235,2025-11-17,Round One,A,10,Germany,Slovakia,GER,SVK,6,0,,,False,False,,,Zentralstadion
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019306,2025-11-17,Round One,G,10,Netherlands,Lithuania,NED,LTU,4,0,,,False,False,,,Johan Cruyff Arena
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019237,2025-11-17,Round One,A,10,Northern Ireland,Luxembourg,NIR,LUX,1,0,,,False,False,,,Windsor Park
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019397,2025-11-17,Round One,L,10,Montenegro,Croatia,MNE,CRO,2,3,,,False,False,,,Podgorica City Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019396,2025-11-17,Round One,L,10,Czechia,Gibraltar,CZE,GIB,6,0,,,False,False,,,Andruv Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019320,2025-11-17,Round One,G,10,Malta,Poland,MLT,POL,2,3,,,False,False,,,Ta'Qali National Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019328,2025-11-18,Round One,H,10,Austria,Bosnia and Herzegovina,AUT,BIH,1,1,,,False,False,,,Ernst Happel Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019335,2025-11-18,Round One,H,10,Romania,San Marino,ROU,SMR,7,1,,,False,False,,,National Arena
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019355,2025-11-18,Round One,J,10,Wales,North Macedonia,WAL,MKD,7,1,,,False,False,,,Cardiff City Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019285,2025-11-18,Round One,E,10,Bulgaria,Georgia,BUL,GEO,2,1,,,False,False,,,Vasil Levski National Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019248,2025-11-18,Round One,B,10,Sweden,Slovenia,SWE,SVN,1,1,,,False,False,,,Friends Arena
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019345,2025-11-18,Round One,J,10,Belgium,Liechtenstein,BEL,LIE,7,0,,,False,False,,,Sclessin - Stade Maurice Dufrasne
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019283,2025-11-18,Round One,E,10,Spain,Türkiye,ESP,TUR,2,2,,,False,False,,,Estadio La Cartuja de Sevilla
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019261,2025-11-18,Round One,C,10,Belarus,Greece,BLR,GRE,0,0,,,False,False,,,ZTE Arena
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019256,2025-11-18,Round One,B,10,Kosovo,Switzerland,KOS,SUI,1,1,,,False,False,,,Fadil Vokrri Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400019266,2025-11-18,Round One,C,10,Scotland,Denmark,SCO,DEN,4,2,,,False,False,,,Hampden Park
+afc_qualifiers,WC2026 Qualifiers,AFC,FIFA World Cup 2026™ AFC Qualifiers,Q26-AFC-400020396,2025-11-18,Round Five,,,Iraq,United Arab Emirates,IRQ,UAE,2,1,,,False,False,,,Basra International Stadium
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400020602,2025-11-19,Final Round,C,6,Costa Rica,Honduras,CRC,HON,0,0,,,False,False,,,Estadio Nacional de Costa Rica
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400020606,2025-11-19,Final Round,C,6,Haiti,Nicaragua,HAI,NCA,2,0,,,False,False,,,Ergilio Hato Stadium
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400020583,2025-11-19,Final Round,A,6,Panama,El Salvador,PAN,SLV,3,0,,,False,False,,,Estadio Rommel Fernandez
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400020582,2025-11-19,Final Round,A,6,Guatemala,Suriname,GUA,SUR,3,1,,,False,False,,,Estadio Manuel Felipe Carrera
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400020595,2025-11-19,Final Round,B,6,Trinidad and Tobago,Bermuda,TRI,BER,2,2,,,False,False,,,Hasely Crawford Stadium
+concacaf_qualifiers,WC2026 Qualifiers,CONCACAF,FIFA World Cup 2026™ Concacaf Qualifiers,Q26-CONCACAF-400020594,2025-11-19,Final Round,B,6,Jamaica,Curaçao,JAM,CUW,0,0,,,False,False,,,Independence Park (National Stadium)
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400021425,2026-03-26,Round Two,Path C – Semi-final,,Türkiye,Romania,TUR,ROU,1,0,,,False,False,,,Vodafone Park
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400021422,2026-03-26,Round Two,Path A – Semi-final,,Wales,Bosnia and Herzegovina,WAL,BIH,1,1,,,True,True,2,4,Cardiff City Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400021431,2026-03-26,Round Two,Path D – Semi-final,,Czechia,Republic of Ireland,CZE,IRL,2,2,,,True,True,4,3,Sinobo Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400021421,2026-03-26,Round Two,Path A – Semi-final,,Italy,Northern Ireland,ITA,NIR,2,0,,,False,False,,,New Balance Arena
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400021424,2026-03-26,Round Two,Path B – Semi-final,,Poland,Albania,POL,ALB,2,1,,,False,False,,,PGE Narodowy (National Stadium)
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400021423,2026-03-26,Round Two,Path B – Semi-final,,Ukraine,Sweden,UKR,SWE,1,3,,,False,False,,,Estadi Ciutat de València
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400021426,2026-03-26,Round Two,Path C – Semi-final,,Slovakia,Kosovo,SVK,KOS,3,4,,,False,False,,,Národný futbalový štadión
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400021430,2026-03-26,Round Two,Path D – Semi-final,,Denmark,North Macedonia,DEN,MKD,4,0,,,False,False,,,Parken Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400021428,2026-03-31,Round Two,Path B – Final,,Sweden,Poland,SWE,POL,3,2,,,False,False,,,Friends Arena
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400021429,2026-03-31,Round Two,Path C – Final,,Kosovo,Türkiye,KOS,TUR,0,1,,,False,False,,,Fadil Vokrri Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400021427,2026-03-31,Round Two,Path A – Final,,Bosnia and Herzegovina,Italy,BIH,ITA,1,1,,,True,True,4,1,Bilino Polje Stadium
+uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400021432,2026-03-31,Round Two,Path D – Final,,Czechia,Denmark,CZE,DEN,2,2,,,True,True,3,1,Generali Arena

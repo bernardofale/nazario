@@ -1,0 +1,49 @@
+squad_id,name,abbr,group,fifa_code,curated_code,euro2024_name
+1,Algeria,ALG,J,ALG,DZA,
+2,Argentina,ARG,J,ARG,ARG,
+3,Australia,AUS,D,AUS,AUS,
+4,Austria,AUT,J,AUT,AUT,Austria
+5,Belgium,BEL,G,BEL,BEL,Belgium
+6,Bosnia and Herzegovina,BIH,B,BIH,BIH,
+7,Brazil,BRA,C,BRA,BRA,
+8,Cabo Verde,CPV,H,CPV,,
+9,Canada,CAN,B,CAN,CAN,
+10,Colombia,COL,K,COL,COL,
+11,Congo DR,COD,K,COD,,
+12,Côte d'Ivoire,CIV,E,CIV,CIV,
+13,Croatia,CRO,L,CRO,HRV,Croatia
+14,Curaçao,CUW,E,CUW,,
+15,Czechia,CZE,A,CZE,,
+16,Ecuador,ECU,E,ECU,ECU,
+17,Egypt,EGY,G,EGY,EGY,
+18,England,ENG,L,ENG,ENG,England
+19,France,FRA,I,FRA,FRA,France
+20,Germany,GER,E,GER,DEU,Germany
+21,Ghana,GHA,L,GHA,GHA,
+22,Haiti,HAI,C,HAI,HTI,
+23,IR Iran,IRN,G,IRN,IRN,
+24,Iraq,IRQ,I,IRQ,IRQ,
+25,Japan,JPN,F,JPN,JPN,
+26,Jordan,JOR,J,JOR,,
+27,Korea Republic,KOR,A,KOR,KOR,
+28,Mexico,MEX,A,MEX,MEX,
+29,Morocco,MAR,C,MAR,MAR,
+30,Netherlands,NED,F,NED,NLD,Netherlands
+31,New Zealand,NZL,G,NZL,NZL,
+32,Norway,NOR,I,NOR,NOR,
+33,Panama,PAN,L,PAN,PAN,
+34,Paraguay,PAR,D,PAR,PRY,
+35,Portugal,POR,K,POR,PRT,Portugal
+36,Qatar,QAT,B,QAT,QAT,
+37,Saudi Arabia,KSA,H,KSA,SAU,
+38,Scotland,SCO,C,SCO,SCO,Scotland
+39,Senegal,SEN,I,SEN,SEN,
+40,South Africa,RSA,A,RSA,ZAF,
+41,Spain,ESP,H,ESP,ESP,Spain
+42,Sweden,SWE,F,SWE,SWE,
+43,Switzerland,SUI,B,SUI,CHE,Switzerland
+44,Tunisia,TUN,F,TUN,TUN,
+45,Türkiye,TUR,D,TUR,TUR,Turkey
+46,Uruguay,URU,H,URU,URY,
+47,USA,USA,D,USA,USA,
+48,Uzbekistan,UZB,K,UZB,,

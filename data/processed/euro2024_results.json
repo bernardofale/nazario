@@ -1,0 +1,1903 @@
+{
+ "competition": "UEFA Euro 2024",
+ "season": "2024",
+ "source": "euro_results_and_scorers.txt",
+ "matches": [
+  {
+   "match_id": "EURO2024-01",
+   "date": "2024-06-14",
+   "kickoff_local": "21:00",
+   "stage": "group",
+   "group": "A",
+   "home_team": "Germany",
+   "away_team": "Scotland",
+   "home_score": 5,
+   "away_score": 1,
+   "ht_home_score": 3,
+   "ht_away_score": 0,
+   "extra_time": false,
+   "penalty_shootout": false,
+   "home_penalty_score": null,
+   "away_penalty_score": null,
+   "venue": "München",
+   "goals": [
+    {
+     "team": "Germany",
+     "player": "Wirtz",
+     "minute": "10",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "Germany",
+     "player": "Musiala",
+     "minute": "19",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "Germany",
+     "player": "Havertz",
+     "minute": "45+1",
+     "penalty": true,
+     "own_goal": false
+    },
+    {
+     "team": "Germany",
+     "player": "Füllkrug",
+     "minute": "68",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "Germany",
+     "player": "Can",
+     "minute": "90+3",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "Scotland",
+     "player": "Rüdiger",
+     "minute": "87",
+     "penalty": false,
+     "own_goal": true
+    }
+   ],
+   "lineups_raw": {
+    "Germany": "Neuer - Kimmich, Rüdiger, Tah [Y], Mittelstädt - Andrich [Y] (Groß 46'), Kroos (Can 80') - Musiala (Müller 74'), Gündogan, Wirtz (Sane 63') - Havertz (Füllkrug 63')",
+    "Scotland": "Gunn - Porteous [R 44'], Hendry, Tierney (McKenna 78') - Ralston [Y], McTominay, McGregor (Gilmour 67'), Robertson - Christie (Shankland 82'), Adams (Hanley 46'), McGinn (McLean 67')"
+   }
+  },
+  {
+   "match_id": "EURO2024-02",
+   "date": "2024-06-15",
+   "kickoff_local": "15:00",
+   "stage": "group",
+   "group": "A",
+   "home_team": "Hungary",
+   "away_team": "Switzerland",
+   "home_score": 1,
+   "away_score": 3,
+   "ht_home_score": 0,
+   "ht_away_score": 2,
+   "extra_time": false,
+   "penalty_shootout": false,
+   "home_penalty_score": null,
+   "away_penalty_score": null,
+   "venue": "Köln",
+   "goals": [
+    {
+     "team": "Hungary",
+     "player": "Varga",
+     "minute": "66",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "Switzerland",
+     "player": "Duah",
+     "minute": "12",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "Switzerland",
+     "player": "Aebischer",
+     "minute": "45",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "Switzerland",
+     "player": "Embolo",
+     "minute": "90+3",
+     "penalty": false,
+     "own_goal": false
+    }
+   ],
+   "lineups_raw": {
+    "Hungary": "Gulacsi - Lang (Bolla [Y] 46'), Orban, Szalai [Y] (Dardai 79') - Fiola, Nagy (Kleinheisler 67'), Schäfer, Kerkez (Adam 79') - Sallai, Varga, Szoboszlai",
+    "Switzerland": "Sommer - Schär, Akanji, Rodriguez - Widmer [Y] (Stergiou 68'), Xhaka, Freuler [Y] (Sierro 86'), Aebischer - Ndoye (Rieder 86'), Duah (Amdouni 68'), Vargas (Embolo 73')"
+   }
+  },
+  {
+   "match_id": "EURO2024-03",
+   "date": "2024-06-19",
+   "kickoff_local": "18:00",
+   "stage": "group",
+   "group": "A",
+   "home_team": "Germany",
+   "away_team": "Hungary",
+   "home_score": 2,
+   "away_score": 0,
+   "ht_home_score": 1,
+   "ht_away_score": 0,
+   "extra_time": false,
+   "penalty_shootout": false,
+   "home_penalty_score": null,
+   "away_penalty_score": null,
+   "venue": "Stuttgart",
+   "goals": [
+    {
+     "team": "Germany",
+     "player": "Musiala",
+     "minute": "22",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "Germany",
+     "player": "Gündoğan",
+     "minute": "67",
+     "penalty": false,
+     "own_goal": false
+    }
+   ],
+   "lineups_raw": {
+    "Germany": "Neuer - Kimmich, Rüdiger [Y], Tah, Mittelstädt [Y] - Andrich (Can 72'), Kroos - Musiala (Führich 72'), Gündogan (Undav 84'), Wirtz (Sane 58') - Havertz (Füllkrug 58')",
+    "Hungary": "Gulacsi - Fiola, Orban, Dardai - Bolla (Adam 75'), A. Nagy (Kleinheisler 64'), Schäfer, Kerkez (Zs. Nagy 75') - Szoboszlai, Sallai (Csoboth [Y] 87') - B. Varga [Y] (Gazdag 87')"
+   }
+  },
+  {
+   "match_id": "EURO2024-04",
+   "date": "2024-06-19",
+   "kickoff_local": "21:00",
+   "stage": "group",
+   "group": "A",
+   "home_team": "Scotland",
+   "away_team": "Switzerland",
+   "home_score": 1,
+   "away_score": 1,
+   "ht_home_score": 1,
+   "ht_away_score": 1,
+   "extra_time": false,
+   "penalty_shootout": false,
+   "home_penalty_score": null,
+   "away_penalty_score": null,
+   "venue": "Köln",
+   "goals": [
+    {
+     "team": "Scotland",
+     "player": "McTominay",
+     "minute": "13",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "Switzerland",
+     "player": "Shaqiri",
+     "minute": "26",
+     "penalty": false,
+     "own_goal": false
+    }
+   ],
+   "lineups_raw": {}
+  },
+  {
+   "match_id": "EURO2024-05",
+   "date": "2024-06-23",
+   "kickoff_local": "21:00",
+   "stage": "group",
+   "group": "A",
+   "home_team": "Switzerland",
+   "away_team": "Germany",
+   "home_score": 1,
+   "away_score": 1,
+   "ht_home_score": 1,
+   "ht_away_score": 0,
+   "extra_time": false,
+   "penalty_shootout": false,
+   "home_penalty_score": null,
+   "away_penalty_score": null,
+   "venue": "Frankfurt",
+   "goals": [
+    {
+     "team": "Switzerland",
+     "player": "Ndoye",
+     "minute": "29",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "Germany",
+     "player": "Füllkrug",
+     "minute": "90+2",
+     "penalty": false,
+     "own_goal": false
+    }
+   ],
+   "lineups_raw": {}
+  },
+  {
+   "match_id": "EURO2024-06",
+   "date": "2024-06-23",
+   "kickoff_local": "21:00",
+   "stage": "group",
+   "group": "A",
+   "home_team": "Scotland",
+   "away_team": "Hungary",
+   "home_score": 0,
+   "away_score": 1,
+   "ht_home_score": 0,
+   "ht_away_score": 0,
+   "extra_time": false,
+   "penalty_shootout": false,
+   "home_penalty_score": null,
+   "away_penalty_score": null,
+   "venue": "Stuttgart",
+   "goals": [
+    {
+     "team": "Hungary",
+     "player": "Csoboth",
+     "minute": "90+10",
+     "penalty": false,
+     "own_goal": false
+    }
+   ],
+   "lineups_raw": {}
+  },
+  {
+   "match_id": "EURO2024-07",
+   "date": "2024-06-15",
+   "kickoff_local": "18:00",
+   "stage": "group",
+   "group": "B",
+   "home_team": "Spain",
+   "away_team": "Croatia",
+   "home_score": 3,
+   "away_score": 0,
+   "ht_home_score": 3,
+   "ht_away_score": 0,
+   "extra_time": false,
+   "penalty_shootout": false,
+   "home_penalty_score": null,
+   "away_penalty_score": null,
+   "venue": "Berlin",
+   "goals": [
+    {
+     "team": "Spain",
+     "player": "Morata",
+     "minute": "29",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "Spain",
+     "player": "Fabián",
+     "minute": "32",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "Spain",
+     "player": "Carvajal",
+     "minute": "45+2",
+     "penalty": false,
+     "own_goal": false
+    }
+   ],
+   "lineups_raw": {}
+  },
+  {
+   "match_id": "EURO2024-08",
+   "date": "2024-06-15",
+   "kickoff_local": "21:00",
+   "stage": "group",
+   "group": "B",
+   "home_team": "Italy",
+   "away_team": "Albania",
+   "home_score": 2,
+   "away_score": 1,
+   "ht_home_score": 2,
+   "ht_away_score": 1,
+   "extra_time": false,
+   "penalty_shootout": false,
+   "home_penalty_score": null,
+   "away_penalty_score": null,
+   "venue": "Dortmund",
+   "goals": [
+    {
+     "team": "Italy",
+     "player": "Bastoni",
+     "minute": "11",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "Italy",
+     "player": "Barella",
+     "minute": "16",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "Albania",
+     "player": "Bajrami",
+     "minute": "1",
+     "penalty": false,
+     "own_goal": false
+    }
+   ],
+   "lineups_raw": {}
+  },
+  {
+   "match_id": "EURO2024-09",
+   "date": "2024-06-19",
+   "kickoff_local": "15:00",
+   "stage": "group",
+   "group": "B",
+   "home_team": "Croatia",
+   "away_team": "Albania",
+   "home_score": 2,
+   "away_score": 2,
+   "ht_home_score": 0,
+   "ht_away_score": 1,
+   "extra_time": false,
+   "penalty_shootout": false,
+   "home_penalty_score": null,
+   "away_penalty_score": null,
+   "venue": "Hamburg",
+   "goals": [
+    {
+     "team": "Croatia",
+     "player": "Kramarić",
+     "minute": "74",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "Croatia",
+     "player": "Gjasula",
+     "minute": "76",
+     "penalty": false,
+     "own_goal": true
+    },
+    {
+     "team": "Albania",
+     "player": "Laçi",
+     "minute": "11",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "Albania",
+     "player": "Gjasula",
+     "minute": "90+5",
+     "penalty": false,
+     "own_goal": false
+    }
+   ],
+   "lineups_raw": {}
+  },
+  {
+   "match_id": "EURO2024-10",
+   "date": "2024-06-20",
+   "kickoff_local": "21:00",
+   "stage": "group",
+   "group": "B",
+   "home_team": "Spain",
+   "away_team": "Italy",
+   "home_score": 1,
+   "away_score": 0,
+   "ht_home_score": 0,
+   "ht_away_score": 0,
+   "extra_time": false,
+   "penalty_shootout": false,
+   "home_penalty_score": null,
+   "away_penalty_score": null,
+   "venue": "Gelsenkirchen",
+   "goals": [
+    {
+     "team": "Spain",
+     "player": "Calafiori",
+     "minute": "55",
+     "penalty": false,
+     "own_goal": true
+    }
+   ],
+   "lineups_raw": {}
+  },
+  {
+   "match_id": "EURO2024-11",
+   "date": "2024-06-24",
+   "kickoff_local": "21:00",
+   "stage": "group",
+   "group": "B",
+   "home_team": "Albania",
+   "away_team": "Spain",
+   "home_score": 0,
+   "away_score": 1,
+   "ht_home_score": 0,
+   "ht_away_score": 1,
+   "extra_time": false,
+   "penalty_shootout": false,
+   "home_penalty_score": null,
+   "away_penalty_score": null,
+   "venue": "Düsseldorf",
+   "goals": [
+    {
+     "team": "Spain",
+     "player": "Torres",
+     "minute": "13",
+     "penalty": false,
+     "own_goal": false
+    }
+   ],
+   "lineups_raw": {}
+  },
+  {
+   "match_id": "EURO2024-12",
+   "date": "2024-06-24",
+   "kickoff_local": "21:00",
+   "stage": "group",
+   "group": "B",
+   "home_team": "Croatia",
+   "away_team": "Italy",
+   "home_score": 1,
+   "away_score": 1,
+   "ht_home_score": 0,
+   "ht_away_score": 0,
+   "extra_time": false,
+   "penalty_shootout": false,
+   "home_penalty_score": null,
+   "away_penalty_score": null,
+   "venue": "Leipzig",
+   "goals": [
+    {
+     "team": "Croatia",
+     "player": "Modrić",
+     "minute": "55",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "Italy",
+     "player": "Zaccagni",
+     "minute": "90+8",
+     "penalty": false,
+     "own_goal": false
+    }
+   ],
+   "lineups_raw": {}
+  },
+  {
+   "match_id": "EURO2024-13",
+   "date": "2024-06-16",
+   "kickoff_local": "18:00",
+   "stage": "group",
+   "group": "C",
+   "home_team": "Slovenia",
+   "away_team": "Denmark",
+   "home_score": 1,
+   "away_score": 1,
+   "ht_home_score": 0,
+   "ht_away_score": 1,
+   "extra_time": false,
+   "penalty_shootout": false,
+   "home_penalty_score": null,
+   "away_penalty_score": null,
+   "venue": "Stuttgart",
+   "goals": [
+    {
+     "team": "Slovenia",
+     "player": "Janža",
+     "minute": "77",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "Denmark",
+     "player": "Eriksen",
+     "minute": "17",
+     "penalty": false,
+     "own_goal": false
+    }
+   ],
+   "lineups_raw": {}
+  },
+  {
+   "match_id": "EURO2024-14",
+   "date": "2024-06-16",
+   "kickoff_local": "21:00",
+   "stage": "group",
+   "group": "C",
+   "home_team": "Serbia",
+   "away_team": "England",
+   "home_score": 0,
+   "away_score": 1,
+   "ht_home_score": 0,
+   "ht_away_score": 1,
+   "extra_time": false,
+   "penalty_shootout": false,
+   "home_penalty_score": null,
+   "away_penalty_score": null,
+   "venue": "Gelsenkirchen",
+   "goals": [
+    {
+     "team": "England",
+     "player": "Bellingham",
+     "minute": "13",
+     "penalty": false,
+     "own_goal": false
+    }
+   ],
+   "lineups_raw": {}
+  },
+  {
+   "match_id": "EURO2024-15",
+   "date": "2024-06-20",
+   "kickoff_local": "15:00",
+   "stage": "group",
+   "group": "C",
+   "home_team": "Slovenia",
+   "away_team": "Serbia",
+   "home_score": 1,
+   "away_score": 1,
+   "ht_home_score": 0,
+   "ht_away_score": 0,
+   "extra_time": false,
+   "penalty_shootout": false,
+   "home_penalty_score": null,
+   "away_penalty_score": null,
+   "venue": "München",
+   "goals": [
+    {
+     "team": "Slovenia",
+     "player": "Karničnik",
+     "minute": "69",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "Serbia",
+     "player": "Jović",
+     "minute": "90+5",
+     "penalty": false,
+     "own_goal": false
+    }
+   ],
+   "lineups_raw": {}
+  },
+  {
+   "match_id": "EURO2024-16",
+   "date": "2024-06-20",
+   "kickoff_local": "18:00",
+   "stage": "group",
+   "group": "C",
+   "home_team": "Denmark",
+   "away_team": "England",
+   "home_score": 1,
+   "away_score": 1,
+   "ht_home_score": 1,
+   "ht_away_score": 1,
+   "extra_time": false,
+   "penalty_shootout": false,
+   "home_penalty_score": null,
+   "away_penalty_score": null,
+   "venue": "Frankfurt",
+   "goals": [
+    {
+     "team": "Denmark",
+     "player": "Hjulmand",
+     "minute": "34",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "England",
+     "player": "Kane",
+     "minute": "18",
+     "penalty": false,
+     "own_goal": false
+    }
+   ],
+   "lineups_raw": {}
+  },
+  {
+   "match_id": "EURO2024-17",
+   "date": "2024-06-25",
+   "kickoff_local": "21:00",
+   "stage": "group",
+   "group": "C",
+   "home_team": "England",
+   "away_team": "Slovenia",
+   "home_score": 0,
+   "away_score": 0,
+   "ht_home_score": null,
+   "ht_away_score": null,
+   "extra_time": false,
+   "penalty_shootout": false,
+   "home_penalty_score": null,
+   "away_penalty_score": null,
+   "venue": "Köln",
+   "goals": [],
+   "lineups_raw": {}
+  },
+  {
+   "match_id": "EURO2024-18",
+   "date": "2024-06-25",
+   "kickoff_local": "21:00",
+   "stage": "group",
+   "group": "C",
+   "home_team": "Denmark",
+   "away_team": "Serbia",
+   "home_score": 0,
+   "away_score": 0,
+   "ht_home_score": null,
+   "ht_away_score": null,
+   "extra_time": false,
+   "penalty_shootout": false,
+   "home_penalty_score": null,
+   "away_penalty_score": null,
+   "venue": "München",
+   "goals": [],
+   "lineups_raw": {}
+  },
+  {
+   "match_id": "EURO2024-19",
+   "date": "2024-06-16",
+   "kickoff_local": "15:00",
+   "stage": "group",
+   "group": "D",
+   "home_team": "Poland",
+   "away_team": "Netherlands",
+   "home_score": 1,
+   "away_score": 2,
+   "ht_home_score": 1,
+   "ht_away_score": 1,
+   "extra_time": false,
+   "penalty_shootout": false,
+   "home_penalty_score": null,
+   "away_penalty_score": null,
+   "venue": "Hamburg",
+   "goals": [
+    {
+     "team": "Poland",
+     "player": "Buksa",
+     "minute": "16",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "Netherlands",
+     "player": "Gakpo",
+     "minute": "29",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "Netherlands",
+     "player": "Weghorst",
+     "minute": "83",
+     "penalty": false,
+     "own_goal": false
+    }
+   ],
+   "lineups_raw": {}
+  },
+  {
+   "match_id": "EURO2024-20",
+   "date": "2024-06-17",
+   "kickoff_local": "21:00",
+   "stage": "group",
+   "group": "D",
+   "home_team": "Austria",
+   "away_team": "France",
+   "home_score": 0,
+   "away_score": 1,
+   "ht_home_score": 0,
+   "ht_away_score": 1,
+   "extra_time": false,
+   "penalty_shootout": false,
+   "home_penalty_score": null,
+   "away_penalty_score": null,
+   "venue": "Düsseldorf",
+   "goals": [
+    {
+     "team": "France",
+     "player": "Wöber",
+     "minute": "38",
+     "penalty": false,
+     "own_goal": true
+    }
+   ],
+   "lineups_raw": {
+    "Austria": "Pentz - Posch, Danso [Y], Wöber [Y] (Trauner 59'), Mwene [Y] (Prass 88') - Seiwald, Grillitsch (Wimmer 60') - Laimer [Y] (Schmid 91'), Baumgartner [Y], Sabitzer - Gregoritsch (Arnautovic 59')",
+    "France": "Maignan - Kounde, Upamecano, Saliba, T. Hernandez - Griezmann (Fofana 90'), Kante, Rabiot (Camavinga 71') - Dembele [Y] (Kolo Muani 71'), Mbappe [Y] (Giroud 90'), Thuram"
+   }
+  },
+  {
+   "match_id": "EURO2024-21",
+   "date": "2024-06-21",
+   "kickoff_local": "18:00",
+   "stage": "group",
+   "group": "D",
+   "home_team": "Poland",
+   "away_team": "Austria",
+   "home_score": 1,
+   "away_score": 3,
+   "ht_home_score": 1,
+   "ht_away_score": 1,
+   "extra_time": false,
+   "penalty_shootout": false,
+   "home_penalty_score": null,
+   "away_penalty_score": null,
+   "venue": "Berlin",
+   "goals": [
+    {
+     "team": "Poland",
+     "player": "Piątek",
+     "minute": "30",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "Austria",
+     "player": "Trauner",
+     "minute": "9",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "Austria",
+     "player": "Baumgartner",
+     "minute": "66",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "Austria",
+     "player": "Arnautović",
+     "minute": "78",
+     "penalty": true,
+     "own_goal": false
+    }
+   ],
+   "lineups_raw": {}
+  },
+  {
+   "match_id": "EURO2024-22",
+   "date": "2024-06-21",
+   "kickoff_local": "21:00",
+   "stage": "group",
+   "group": "D",
+   "home_team": "Netherlands",
+   "away_team": "France",
+   "home_score": 0,
+   "away_score": 0,
+   "ht_home_score": null,
+   "ht_away_score": null,
+   "extra_time": false,
+   "penalty_shootout": false,
+   "home_penalty_score": null,
+   "away_penalty_score": null,
+   "venue": "Leipzig",
+   "goals": [],
+   "lineups_raw": {}
+  },
+  {
+   "match_id": "EURO2024-23",
+   "date": "2024-06-25",
+   "kickoff_local": "18:00",
+   "stage": "group",
+   "group": "D",
+   "home_team": "Netherlands",
+   "away_team": "Austria",
+   "home_score": 2,
+   "away_score": 3,
+   "ht_home_score": 0,
+   "ht_away_score": 1,
+   "extra_time": false,
+   "penalty_shootout": false,
+   "home_penalty_score": null,
+   "away_penalty_score": null,
+   "venue": "Berlin",
+   "goals": [
+    {
+     "team": "Netherlands",
+     "player": "Gakpo",
+     "minute": "47",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "Netherlands",
+     "player": "Depay",
+     "minute": "75",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "Austria",
+     "player": "Malen",
+     "minute": "6",
+     "penalty": false,
+     "own_goal": true
+    },
+    {
+     "team": "Austria",
+     "player": "Schmid",
+     "minute": "59",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "Austria",
+     "player": "Sabitzer",
+     "minute": "80",
+     "penalty": false,
+     "own_goal": false
+    }
+   ],
+   "lineups_raw": {}
+  },
+  {
+   "match_id": "EURO2024-24",
+   "date": "2024-06-25",
+   "kickoff_local": "18:00",
+   "stage": "group",
+   "group": "D",
+   "home_team": "France",
+   "away_team": "Poland",
+   "home_score": 1,
+   "away_score": 1,
+   "ht_home_score": 0,
+   "ht_away_score": 0,
+   "extra_time": false,
+   "penalty_shootout": false,
+   "home_penalty_score": null,
+   "away_penalty_score": null,
+   "venue": "Dortmund",
+   "goals": [
+    {
+     "team": "France",
+     "player": "Mbappé",
+     "minute": "56",
+     "penalty": true,
+     "own_goal": false
+    },
+    {
+     "team": "Poland",
+     "player": "Lewandowski",
+     "minute": "79",
+     "penalty": true,
+     "own_goal": false
+    }
+   ],
+   "lineups_raw": {}
+  },
+  {
+   "match_id": "EURO2024-25",
+   "date": "2024-06-17",
+   "kickoff_local": "15:00",
+   "stage": "group",
+   "group": "E",
+   "home_team": "Romania",
+   "away_team": "Ukraine",
+   "home_score": 3,
+   "away_score": 0,
+   "ht_home_score": 1,
+   "ht_away_score": 0,
+   "extra_time": false,
+   "penalty_shootout": false,
+   "home_penalty_score": null,
+   "away_penalty_score": null,
+   "venue": "München",
+   "goals": [
+    {
+     "team": "Romania",
+     "player": "Stanciu",
+     "minute": "29",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "Romania",
+     "player": "R. Marin",
+     "minute": "53",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "Romania",
+     "player": "Drăguș",
+     "minute": "57",
+     "penalty": false,
+     "own_goal": false
+    }
+   ],
+   "lineups_raw": {}
+  },
+  {
+   "match_id": "EURO2024-26",
+   "date": "2024-06-17",
+   "kickoff_local": "18:00",
+   "stage": "group",
+   "group": "E",
+   "home_team": "Belgium",
+   "away_team": "Slovakia",
+   "home_score": 0,
+   "away_score": 1,
+   "ht_home_score": 0,
+   "ht_away_score": 1,
+   "extra_time": false,
+   "penalty_shootout": false,
+   "home_penalty_score": null,
+   "away_penalty_score": null,
+   "venue": "Frankfurt",
+   "goals": [
+    {
+     "team": "Slovakia",
+     "player": "Schranz",
+     "minute": "7",
+     "penalty": false,
+     "own_goal": false
+    }
+   ],
+   "lineups_raw": {}
+  },
+  {
+   "match_id": "EURO2024-27",
+   "date": "2024-06-21",
+   "kickoff_local": "15:00",
+   "stage": "group",
+   "group": "E",
+   "home_team": "Slovakia",
+   "away_team": "Ukraine",
+   "home_score": 1,
+   "away_score": 2,
+   "ht_home_score": 1,
+   "ht_away_score": 0,
+   "extra_time": false,
+   "penalty_shootout": false,
+   "home_penalty_score": null,
+   "away_penalty_score": null,
+   "venue": "Düsseldorf",
+   "goals": [
+    {
+     "team": "Slovakia",
+     "player": "Schranz",
+     "minute": "17",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "Ukraine",
+     "player": "Shaparenko",
+     "minute": "54",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "Ukraine",
+     "player": "Yaremchuk",
+     "minute": "80",
+     "penalty": false,
+     "own_goal": false
+    }
+   ],
+   "lineups_raw": {}
+  },
+  {
+   "match_id": "EURO2024-28",
+   "date": "2024-06-22",
+   "kickoff_local": "21:00",
+   "stage": "group",
+   "group": "E",
+   "home_team": "Belgium",
+   "away_team": "Romania",
+   "home_score": 2,
+   "away_score": 0,
+   "ht_home_score": 1,
+   "ht_away_score": 0,
+   "extra_time": false,
+   "penalty_shootout": false,
+   "home_penalty_score": null,
+   "away_penalty_score": null,
+   "venue": "Köln",
+   "goals": [
+    {
+     "team": "Belgium",
+     "player": "Tielemans",
+     "minute": "2",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "Belgium",
+     "player": "De Bruyne",
+     "minute": "80",
+     "penalty": false,
+     "own_goal": false
+    }
+   ],
+   "lineups_raw": {}
+  },
+  {
+   "match_id": "EURO2024-29",
+   "date": "2024-06-26",
+   "kickoff_local": "18:00",
+   "stage": "group",
+   "group": "E",
+   "home_team": "Slovakia",
+   "away_team": "Romania",
+   "home_score": 1,
+   "away_score": 1,
+   "ht_home_score": 1,
+   "ht_away_score": 1,
+   "extra_time": false,
+   "penalty_shootout": false,
+   "home_penalty_score": null,
+   "away_penalty_score": null,
+   "venue": "Frankfurt",
+   "goals": [
+    {
+     "team": "Slovakia",
+     "player": "Duda",
+     "minute": "24",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "Romania",
+     "player": "R. Marin",
+     "minute": "37",
+     "penalty": true,
+     "own_goal": false
+    }
+   ],
+   "lineups_raw": {}
+  },
+  {
+   "match_id": "EURO2024-30",
+   "date": "2024-06-26",
+   "kickoff_local": "18:00",
+   "stage": "group",
+   "group": "E",
+   "home_team": "Ukraine",
+   "away_team": "Belgium",
+   "home_score": 0,
+   "away_score": 0,
+   "ht_home_score": null,
+   "ht_away_score": null,
+   "extra_time": false,
+   "penalty_shootout": false,
+   "home_penalty_score": null,
+   "away_penalty_score": null,
+   "venue": "Stuttgart",
+   "goals": [],
+   "lineups_raw": {}
+  },
+  {
+   "match_id": "EURO2024-31",
+   "date": "2024-06-18",
+   "kickoff_local": "18:00",
+   "stage": "group",
+   "group": "F",
+   "home_team": "Turkey",
+   "away_team": "Georgia",
+   "home_score": 3,
+   "away_score": 1,
+   "ht_home_score": 1,
+   "ht_away_score": 1,
+   "extra_time": false,
+   "penalty_shootout": false,
+   "home_penalty_score": null,
+   "away_penalty_score": null,
+   "venue": "Dortmund",
+   "goals": [
+    {
+     "team": "Turkey",
+     "player": "Müldür",
+     "minute": "25",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "Turkey",
+     "player": "Güler",
+     "minute": "65",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "Turkey",
+     "player": "Aktürkoğlu",
+     "minute": "90+7",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "Georgia",
+     "player": "Mikautadze",
+     "minute": "32",
+     "penalty": false,
+     "own_goal": false
+    }
+   ],
+   "lineups_raw": {}
+  },
+  {
+   "match_id": "EURO2024-32",
+   "date": "2024-06-18",
+   "kickoff_local": "21:00",
+   "stage": "group",
+   "group": "F",
+   "home_team": "Portugal",
+   "away_team": "Czech Republic",
+   "home_score": 2,
+   "away_score": 1,
+   "ht_home_score": 0,
+   "ht_away_score": 0,
+   "extra_time": false,
+   "penalty_shootout": false,
+   "home_penalty_score": null,
+   "away_penalty_score": null,
+   "venue": "Leipzig",
+   "goals": [
+    {
+     "team": "Portugal",
+     "player": "Hranáč",
+     "minute": "69",
+     "penalty": false,
+     "own_goal": true
+    },
+    {
+     "team": "Portugal",
+     "player": "Conceição",
+     "minute": "90+2",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "Czech Republic",
+     "player": "Provod",
+     "minute": "62",
+     "penalty": false,
+     "own_goal": false
+    }
+   ],
+   "lineups_raw": {}
+  },
+  {
+   "match_id": "EURO2024-33",
+   "date": "2024-06-22",
+   "kickoff_local": "15:00",
+   "stage": "group",
+   "group": "F",
+   "home_team": "Georgia",
+   "away_team": "Czech Republic",
+   "home_score": 1,
+   "away_score": 1,
+   "ht_home_score": 1,
+   "ht_away_score": 0,
+   "extra_time": false,
+   "penalty_shootout": false,
+   "home_penalty_score": null,
+   "away_penalty_score": null,
+   "venue": "Hamburg",
+   "goals": [
+    {
+     "team": "Georgia",
+     "player": "Mikautadze",
+     "minute": "45+4",
+     "penalty": true,
+     "own_goal": false
+    },
+    {
+     "team": "Czech Republic",
+     "player": "Schick",
+     "minute": "59",
+     "penalty": false,
+     "own_goal": false
+    }
+   ],
+   "lineups_raw": {}
+  },
+  {
+   "match_id": "EURO2024-34",
+   "date": "2024-06-22",
+   "kickoff_local": "18:00",
+   "stage": "group",
+   "group": "F",
+   "home_team": "Turkey",
+   "away_team": "Portugal",
+   "home_score": 0,
+   "away_score": 3,
+   "ht_home_score": 0,
+   "ht_away_score": 2,
+   "extra_time": false,
+   "penalty_shootout": false,
+   "home_penalty_score": null,
+   "away_penalty_score": null,
+   "venue": "Dortmund",
+   "goals": [
+    {
+     "team": "Portugal",
+     "player": "Silva",
+     "minute": "21",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "Portugal",
+     "player": "Akaydian",
+     "minute": "28",
+     "penalty": false,
+     "own_goal": true
+    },
+    {
+     "team": "Portugal",
+     "player": "Fernandes",
+     "minute": "55",
+     "penalty": false,
+     "own_goal": false
+    }
+   ],
+   "lineups_raw": {}
+  },
+  {
+   "match_id": "EURO2024-35",
+   "date": "2024-06-26",
+   "kickoff_local": "21:00",
+   "stage": "group",
+   "group": "F",
+   "home_team": "Georgia",
+   "away_team": "Portugal",
+   "home_score": 2,
+   "away_score": 0,
+   "ht_home_score": 1,
+   "ht_away_score": 0,
+   "extra_time": false,
+   "penalty_shootout": false,
+   "home_penalty_score": null,
+   "away_penalty_score": null,
+   "venue": "Gelsenkirchen",
+   "goals": [
+    {
+     "team": "Georgia",
+     "player": "Kvaratskhelia",
+     "minute": "2",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "Georgia",
+     "player": "Mikautadze",
+     "minute": "57",
+     "penalty": true,
+     "own_goal": false
+    }
+   ],
+   "lineups_raw": {}
+  },
+  {
+   "match_id": "EURO2024-36",
+   "date": "2024-06-26",
+   "kickoff_local": "21:00",
+   "stage": "group",
+   "group": "F",
+   "home_team": "Czech Republic",
+   "away_team": "Turkey",
+   "home_score": 1,
+   "away_score": 2,
+   "ht_home_score": 0,
+   "ht_away_score": 0,
+   "extra_time": false,
+   "penalty_shootout": false,
+   "home_penalty_score": null,
+   "away_penalty_score": null,
+   "venue": "Hamburg",
+   "goals": [
+    {
+     "team": "Czech Republic",
+     "player": "Souček",
+     "minute": "66",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "Turkey",
+     "player": "Çalhanoğlu",
+     "minute": "51",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "Turkey",
+     "player": "Tosun",
+     "minute": "90+4",
+     "penalty": false,
+     "own_goal": false
+    }
+   ],
+   "lineups_raw": {}
+  },
+  {
+   "match_id": "EURO2024-37",
+   "date": "2024-06-29",
+   "kickoff_local": "18:00",
+   "stage": "round_of_16",
+   "group": null,
+   "home_team": "Switzerland",
+   "away_team": "Italy",
+   "home_score": 2,
+   "away_score": 0,
+   "ht_home_score": 1,
+   "ht_away_score": 0,
+   "extra_time": false,
+   "penalty_shootout": false,
+   "home_penalty_score": null,
+   "away_penalty_score": null,
+   "venue": "Berlin",
+   "goals": [
+    {
+     "team": "Switzerland",
+     "player": "Freuler",
+     "minute": "37",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "Switzerland",
+     "player": "Vargas",
+     "minute": "46",
+     "penalty": false,
+     "own_goal": false
+    }
+   ],
+   "lineups_raw": {}
+  },
+  {
+   "match_id": "EURO2024-38",
+   "date": "2024-06-29",
+   "kickoff_local": "21:00",
+   "stage": "round_of_16",
+   "group": null,
+   "home_team": "Germany",
+   "away_team": "Denmark",
+   "home_score": 2,
+   "away_score": 0,
+   "ht_home_score": 0,
+   "ht_away_score": 0,
+   "extra_time": false,
+   "penalty_shootout": false,
+   "home_penalty_score": null,
+   "away_penalty_score": null,
+   "venue": "Dortmund",
+   "goals": [
+    {
+     "team": "Germany",
+     "player": "Havertz",
+     "minute": "53",
+     "penalty": true,
+     "own_goal": false
+    },
+    {
+     "team": "Germany",
+     "player": "Musiala",
+     "minute": "68",
+     "penalty": false,
+     "own_goal": false
+    }
+   ],
+   "lineups_raw": {}
+  },
+  {
+   "match_id": "EURO2024-39",
+   "date": "2024-06-30",
+   "kickoff_local": "18:00",
+   "stage": "round_of_16",
+   "group": null,
+   "home_team": "England",
+   "away_team": "Slovakia",
+   "home_score": 2,
+   "away_score": 1,
+   "ht_home_score": 0,
+   "ht_away_score": 1,
+   "extra_time": true,
+   "penalty_shootout": false,
+   "home_penalty_score": null,
+   "away_penalty_score": null,
+   "venue": "Gelsenkirchen",
+   "goals": [
+    {
+     "team": "England",
+     "player": "Bellingham",
+     "minute": "90+5",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "England",
+     "player": "Kane",
+     "minute": "91",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "Slovakia",
+     "player": "Schranz",
+     "minute": "25",
+     "penalty": false,
+     "own_goal": false
+    }
+   ],
+   "lineups_raw": {}
+  },
+  {
+   "match_id": "EURO2024-40",
+   "date": "2024-06-30",
+   "kickoff_local": "21:00",
+   "stage": "round_of_16",
+   "group": null,
+   "home_team": "Spain",
+   "away_team": "Georgia",
+   "home_score": 4,
+   "away_score": 1,
+   "ht_home_score": 1,
+   "ht_away_score": 1,
+   "extra_time": false,
+   "penalty_shootout": false,
+   "home_penalty_score": null,
+   "away_penalty_score": null,
+   "venue": "Köln",
+   "goals": [
+    {
+     "team": "Spain",
+     "player": "Rodri",
+     "minute": "39",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "Spain",
+     "player": "Ruiz",
+     "minute": "51",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "Spain",
+     "player": "Williams",
+     "minute": "75",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "Spain",
+     "player": "Olmo",
+     "minute": "83",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "Georgia",
+     "player": "Le Normand",
+     "minute": "18",
+     "penalty": false,
+     "own_goal": true
+    }
+   ],
+   "lineups_raw": {}
+  },
+  {
+   "match_id": "EURO2024-41",
+   "date": "2024-07-01",
+   "kickoff_local": "18:00",
+   "stage": "round_of_16",
+   "group": null,
+   "home_team": "France",
+   "away_team": "Belgium",
+   "home_score": 1,
+   "away_score": 0,
+   "ht_home_score": 0,
+   "ht_away_score": 0,
+   "extra_time": false,
+   "penalty_shootout": false,
+   "home_penalty_score": null,
+   "away_penalty_score": null,
+   "venue": "Düsseldorf",
+   "goals": [
+    {
+     "team": "France",
+     "player": "Vertonghen",
+     "minute": "85",
+     "penalty": false,
+     "own_goal": true
+    }
+   ],
+   "lineups_raw": {}
+  },
+  {
+   "match_id": "EURO2024-42",
+   "date": "2024-07-01",
+   "kickoff_local": "21:00",
+   "stage": "round_of_16",
+   "group": null,
+   "home_team": "Portugal",
+   "away_team": "Slovenia",
+   "home_score": 0,
+   "away_score": 0,
+   "ht_home_score": 0,
+   "ht_away_score": 0,
+   "extra_time": true,
+   "penalty_shootout": true,
+   "home_penalty_score": 3,
+   "away_penalty_score": 0,
+   "venue": "Frankfurt",
+   "goals": [],
+   "lineups_raw": {}
+  },
+  {
+   "match_id": "EURO2024-43",
+   "date": "2024-07-02",
+   "kickoff_local": "18:00",
+   "stage": "round_of_16",
+   "group": null,
+   "home_team": "Romania",
+   "away_team": "Netherlands",
+   "home_score": 0,
+   "away_score": 3,
+   "ht_home_score": 0,
+   "ht_away_score": 1,
+   "extra_time": false,
+   "penalty_shootout": false,
+   "home_penalty_score": null,
+   "away_penalty_score": null,
+   "venue": "München",
+   "goals": [
+    {
+     "team": "Netherlands",
+     "player": "Gakpo",
+     "minute": "20",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "Netherlands",
+     "player": "Malen",
+     "minute": "83",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "Netherlands",
+     "player": "Malen",
+     "minute": "90+3",
+     "penalty": false,
+     "own_goal": false
+    }
+   ],
+   "lineups_raw": {}
+  },
+  {
+   "match_id": "EURO2024-44",
+   "date": "2024-07-02",
+   "kickoff_local": "21:00",
+   "stage": "round_of_16",
+   "group": null,
+   "home_team": "Austria",
+   "away_team": "Turkey",
+   "home_score": 1,
+   "away_score": 2,
+   "ht_home_score": 0,
+   "ht_away_score": 1,
+   "extra_time": false,
+   "penalty_shootout": false,
+   "home_penalty_score": null,
+   "away_penalty_score": null,
+   "venue": "Leipzig",
+   "goals": [
+    {
+     "team": "Austria",
+     "player": "Gregoritsch",
+     "minute": "66",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "Turkey",
+     "player": "Demiral",
+     "minute": "1",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "Turkey",
+     "player": "Demiral",
+     "minute": "59",
+     "penalty": false,
+     "own_goal": false
+    }
+   ],
+   "lineups_raw": {}
+  },
+  {
+   "match_id": "EURO2024-45",
+   "date": "2024-07-05",
+   "kickoff_local": "18:00",
+   "stage": "quarter_final",
+   "group": null,
+   "home_team": "Spain",
+   "away_team": "Germany",
+   "home_score": 2,
+   "away_score": 1,
+   "ht_home_score": 0,
+   "ht_away_score": 0,
+   "extra_time": true,
+   "penalty_shootout": false,
+   "home_penalty_score": null,
+   "away_penalty_score": null,
+   "venue": "Stuttgart",
+   "goals": [
+    {
+     "team": "Spain",
+     "player": "Olmo",
+     "minute": "51",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "Spain",
+     "player": "Merino",
+     "minute": "119",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "Germany",
+     "player": "Wirtz",
+     "minute": "89",
+     "penalty": false,
+     "own_goal": false
+    }
+   ],
+   "lineups_raw": {}
+  },
+  {
+   "match_id": "EURO2024-46",
+   "date": "2024-07-05",
+   "kickoff_local": "21:00",
+   "stage": "quarter_final",
+   "group": null,
+   "home_team": "Portugal",
+   "away_team": "France",
+   "home_score": 0,
+   "away_score": 0,
+   "ht_home_score": 0,
+   "ht_away_score": 0,
+   "extra_time": true,
+   "penalty_shootout": true,
+   "home_penalty_score": 3,
+   "away_penalty_score": 5,
+   "venue": "Hamburg",
+   "goals": [],
+   "lineups_raw": {}
+  },
+  {
+   "match_id": "EURO2024-47",
+   "date": "2024-07-06",
+   "kickoff_local": "18:00",
+   "stage": "quarter_final",
+   "group": null,
+   "home_team": "England",
+   "away_team": "Switzerland",
+   "home_score": 1,
+   "away_score": 1,
+   "ht_home_score": 0,
+   "ht_away_score": 0,
+   "extra_time": true,
+   "penalty_shootout": true,
+   "home_penalty_score": 5,
+   "away_penalty_score": 3,
+   "venue": "Düsseldorf",
+   "goals": [
+    {
+     "team": "England",
+     "player": "Saka",
+     "minute": "80",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "Switzerland",
+     "player": "Embolo",
+     "minute": "75",
+     "penalty": false,
+     "own_goal": false
+    }
+   ],
+   "lineups_raw": {}
+  },
+  {
+   "match_id": "EURO2024-48",
+   "date": "2024-07-06",
+   "kickoff_local": "21:00",
+   "stage": "quarter_final",
+   "group": null,
+   "home_team": "Netherlands",
+   "away_team": "Turkey",
+   "home_score": 2,
+   "away_score": 1,
+   "ht_home_score": 0,
+   "ht_away_score": 1,
+   "extra_time": false,
+   "penalty_shootout": false,
+   "home_penalty_score": null,
+   "away_penalty_score": null,
+   "venue": "Berlin",
+   "goals": [
+    {
+     "team": "Netherlands",
+     "player": "Vrij",
+     "minute": "70",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "Netherlands",
+     "player": "Müldür",
+     "minute": "76",
+     "penalty": false,
+     "own_goal": true
+    },
+    {
+     "team": "Turkey",
+     "player": "Akaydin",
+     "minute": "35",
+     "penalty": false,
+     "own_goal": false
+    }
+   ],
+   "lineups_raw": {}
+  },
+  {
+   "match_id": "EURO2024-49",
+   "date": "2024-07-09",
+   "kickoff_local": "21:00",
+   "stage": "semi_final",
+   "group": null,
+   "home_team": "Spain",
+   "away_team": "France",
+   "home_score": 2,
+   "away_score": 1,
+   "ht_home_score": 2,
+   "ht_away_score": 1,
+   "extra_time": false,
+   "penalty_shootout": false,
+   "home_penalty_score": null,
+   "away_penalty_score": null,
+   "venue": "München",
+   "goals": [
+    {
+     "team": "Spain",
+     "player": "Yamal",
+     "minute": "21",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "Spain",
+     "player": "Olmo",
+     "minute": "25",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "France",
+     "player": "Kolo Muani",
+     "minute": "8",
+     "penalty": false,
+     "own_goal": false
+    }
+   ],
+   "lineups_raw": {}
+  },
+  {
+   "match_id": "EURO2024-50",
+   "date": "2024-07-10",
+   "kickoff_local": "21:00",
+   "stage": "semi_final",
+   "group": null,
+   "home_team": "Netherlands",
+   "away_team": "England",
+   "home_score": 1,
+   "away_score": 2,
+   "ht_home_score": 1,
+   "ht_away_score": 1,
+   "extra_time": false,
+   "penalty_shootout": false,
+   "home_penalty_score": null,
+   "away_penalty_score": null,
+   "venue": "Dortmund",
+   "goals": [
+    {
+     "team": "Netherlands",
+     "player": "Simons",
+     "minute": "7",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "England",
+     "player": "Kane",
+     "minute": "18",
+     "penalty": true,
+     "own_goal": false
+    },
+    {
+     "team": "England",
+     "player": "Watkins",
+     "minute": "90+1",
+     "penalty": false,
+     "own_goal": false
+    }
+   ],
+   "lineups_raw": {}
+  },
+  {
+   "match_id": "EURO2024-51",
+   "date": "2024-07-14",
+   "kickoff_local": "21:00",
+   "stage": "final",
+   "group": null,
+   "home_team": "Spain",
+   "away_team": "England",
+   "home_score": 2,
+   "away_score": 1,
+   "ht_home_score": 0,
+   "ht_away_score": 0,
+   "extra_time": false,
+   "penalty_shootout": false,
+   "home_penalty_score": null,
+   "away_penalty_score": null,
+   "venue": "Berlin",
+   "goals": [
+    {
+     "team": "Spain",
+     "player": "Williams",
+     "minute": "47",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "Spain",
+     "player": "Oyarzabal",
+     "minute": "86",
+     "penalty": false,
+     "own_goal": false
+    },
+    {
+     "team": "England",
+     "player": "Palmer",
+     "minute": "73",
+     "penalty": false,
+     "own_goal": false
+    }
+   ],
+   "lineups_raw": {}
+  }
+ ]
+}
