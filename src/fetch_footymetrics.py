@@ -33,6 +33,7 @@ LEAGUES = {  # league -> (lg, sid)
     "mls":            (779, 90992),
     "championship":   (9, 1066),
     "eredivise":      (72, 995),
+    "worldcup": (732, 225336)
 }
 VIEWS = [  # (tab, stat, sort) — stat must match the sort key's base,
     # e.g. defensive 400s with stat=tackles but works with stat=tacklesAvg

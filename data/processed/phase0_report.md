@@ -11,8 +11,9 @@
 | euro2024 | 51 |
 | ofc_qualifiers | 18 |
 | uefa_qualifiers | 204 |
+| wc2026 | 48 |
 | wc_history | 964 |
-| **total** | **1907** |
+| **total** | **1955** |
 
 Goals with scorer attribution (`goals_international.csv`): 2837 (117 from Euro 2024).
 
@@ -24,10 +25,10 @@ Goals with scorer attribution (`goals_international.csv`): 2837 (117 from Euro 2
 
 ## Player crosswalk (fantasy pool)
 
-- players in pool: 1484
-- club stats (PL/Ligue 1): 623 (42%)
-- WC-history player id (2018/2022 squads): 354 (24%)
+- players in pool: 1488
+- club stats (PL/Ligue 1): 625 (42%)
+- WC-history player id (2018/2022 squads): 355 (24%)
 - Euro 2024 goals attributed: 45
-- at least one external link: 754 (51%)
+- at least one external link: 756 (51%)
 
 Matching is conservative: ambiguous names are left unlinked rather than guessed.

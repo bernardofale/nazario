@@ -1,0 +1,554 @@
+fifa_code,name,name_norm,club,mins,appearances,started,goals,assists,rating,goals_p90,assists_p90,sot_avg,keyp_avg
+ARG,L. Messi,l. messi,Inter Miami,170,2,2,5,0,9.61,2.647,0.0,4.0,2.0
+FRA,K. Mbappé,k. mbappe,Real Madrid,180,2,2,4,0,8.27,2.0,0.0,3.5,1.0
+ENG,E. Haaland,e. haaland,Manchester City,180,2,2,4,0,8.37,2.0,0.0,3.5,1.5
+CAN,J. David,j. david,Juventus,151,2,2,3,0,7.93,1.788,0.0,3.0,0.0
+NED,B. Brobbey,b. brobbey,Sunderland,77,2,1,2,0,7.5,2.338,0.0,1.0,1.0
+BRA,M. Cunha,m. cunha,Manchester United,93,2,1,2,0,7.58,1.935,0.0,1.0,0.0
+CAN,C. Larin,c. larin,Southampton,104,2,1,2,0,7.24,1.731,0.0,1.5,1.0
+NED,C. Summerville,c. summerville,West Ham United,114,2,1,2,1,7.64,1.579,0.789,1.0,0.5
+ESP,M. Oyarzabal,m. oyarzabal,Real Sociedad,136,2,2,2,1,8.24,1.324,0.662,2.0,1.0
+ENG,F. Balogun,f. balogun,Monaco,162,2,2,2,0,7.28,1.111,0.0,1.5,0.0
+URU,M. Araújo,m. araujo,Sporting CP,162,2,2,2,1,8.04,1.111,0.556,1.5,4.0
+JPN,D. Kamada,d. kamada,Crystal Palace,163,2,2,2,0,7.4,1.104,0.0,1.0,1.0
+SEN,I. Sarr,i. sarr,Crystal Palace,165,2,2,2,0,7.11,1.091,0.0,1.5,0.5
+JPN,A. Ueda,a. ueda,Feyenoord,168,2,2,2,1,8.0,1.071,0.536,1.5,1.5
+SWE,Y. Ayari,y. ayari,Brighton & Hove Albion,169,2,2,2,0,7.46,1.065,0.0,1.5,1.0
+BRA,V. Junior,v. junior,Real Madrid,171,2,2,2,1,7.46,1.053,0.526,1.5,1.5
+ESP,I. Saibari,i. saibari,PSV,173,2,2,2,0,7.42,1.04,0.0,1.0,0.5
+NED,C. Gakpo,c. gakpo,Liverpool,175,2,2,2,1,8.11,1.029,0.514,2.5,1.0
+GER,K. Havertz,k. havertz,Arsenal,175,2,2,2,0,7.15,1.029,0.0,1.5,0.5
+NZL,E. Just,e. just,Motherwell,175,2,2,2,0,7.4,1.029,0.0,1.5,0.5
+POR,C. Ronaldo,c. ronaldo,Al Nassr,180,2,2,2,0,7.93,1.0,0.0,2.5,0.0
+ENG,H. Kane,h. kane,FC Bayern München,180,2,2,2,0,7.71,1.0,0.0,2.0,1.0
+COL,D. Muñoz,d. munoz,Crystal Palace,180,2,2,2,0,7.51,1.0,0.0,1.0,0.0
+FRA,I. Mbaye,i. mbaye,Paris Saint Germain,60,2,0,1,0,7.07,1.5,0.0,0.5,1.0
+ESP,L. Yamal,l. yamal,FC Barcelona,65,2,1,1,0,7.52,1.385,0.0,1.0,1.0
+AUT,M. Arnautovic,m. arnautovic,Crvena Zvezda,66,2,0,1,0,6.75,1.364,0.0,1.0,0.5
+BIH,J. Lukic,j. lukic,Universitatea Cluj,66,2,1,1,0,3.71,1.364,0.0,1.0,0.0
+MEX,L. Romo,l. romo,Guadalajara,71,1,1,1,0,7.58,1.268,0.0,1.0,1.0
+NOR,M. Pedersen,m. pedersen,Torino,77,1,0,1,0,7.01,1.169,0.0,1.0,1.0
+PAR,M. Galarza Fonda,m. galarza fonda,Atlanta United,90,1,1,1,0,6.98,1.0,0.0,1.0,0.0
+CZE,M. Sadílek,m. sadilek,Slavia Praha,93,2,1,1,0,7.04,0.968,0.0,1.5,1.0
+FRA,B. Barcola,b. barcola,Paris Saint Germain,93,2,1,1,0,7.18,0.968,0.0,0.5,0.0
+,N. Irankunda,n. irankunda,Watford,105,2,1,1,0,6.92,0.857,0.0,1.0,0.5
+SUI,R. Vargas,r. vargas,Sevilla,109,2,1,1,1,7.88,0.826,0.826,1.5,3.0
+CIV,A. Diallo,a. diallo,Manchester United,109,2,1,1,0,7.13,0.826,0.0,1.0,1.5
+CRO,P. Musa,p. musa,Dallas,112,2,2,1,0,6.86,0.804,0.0,0.5,0.0
+JPN,J. Ito,j. ito,Genk,114,2,1,1,0,6.96,0.789,0.0,0.5,2.0
+GER,J. Musiala,j. musiala,FC Bayern München,124,2,2,1,0,7.25,0.726,0.0,0.5,1.5
+,A. Canobbio,a. canobbio,Fluminense,134,2,1,1,0,7.06,0.672,0.0,0.5,1.0
+AUS,C. Metcalfe,c. metcalfe,St. Pauli,134,2,1,1,0,7.16,0.672,0.0,1.0,0.5
+GER,N. Schlotterbeck,n. schlotterbeck,Borussia Dortmund,136,2,2,1,0,7.39,0.662,0.0,1.0,0.5
+FRA,O. Dembélé,o. dembele,Paris Saint Germain,148,2,2,1,1,7.68,0.608,0.608,1.0,1.5
+FRA,A. Gouiri,a. gouiri,Olympique Marseille,150,2,2,1,0,6.92,0.6,0.0,1.0,0.5
+KSA,A. Al-Amri,a. al amri,Al Nassr,150,2,2,1,0,6.74,0.6,0.0,1.0,0.0
+UZB,A. Fayzullaev,a. fayzullaev,İstanbul Başakşehir,150,2,2,1,0,6.96,0.6,0.0,1.0,0.5
+ENG,J. Bellingham,j. bellingham,Real Madrid,152,2,2,1,0,6.98,0.592,0.0,1.0,1.0
+EGY,M. Mohamed Zaki Abdelraouf,m. mohamed zaki abdelraouf,Pyramids FC,152,2,2,1,1,7.38,0.592,0.592,1.0,1.5
+MEX,R. Jiménez,r. jimenez,Fulham,156,2,2,1,0,6.99,0.577,0.0,1.5,1.0
+EGY,E. Ashour,e. ashour,Al Ahly,156,2,2,1,0,7.22,0.577,0.0,0.5,1.5
+IRN,M. Mohebi,m. mohebi,Rostov,156,2,2,1,0,6.87,0.577,0.0,0.5,0.5
+EGY,M. Salah,m. salah,Liverpool,161,2,2,1,2,7.66,0.559,1.118,1.5,4.0
+AUT,R. Schmid,r. schmid,Werder Bremen,161,2,2,1,0,7.12,0.559,0.0,0.5,0.5
+CPV,K. Lenini,k. lenini,Krasnodar,161,2,2,1,0,6.81,0.559,0.0,0.5,1.0
+POR,N. Mendes,n. mendes,Paris Saint Germain,162,2,2,1,0,7.79,0.556,0.0,0.5,1.5
+COL,J. Quiñones,j. quinones,Al-Qadsiah,163,2,2,1,0,7.72,0.552,0.0,1.5,2.0
+GER,F. Nmecha,f. nmecha,Borussia Dortmund,163,2,2,1,1,7.94,0.552,0.552,1.5,1.0
+GER,N. Brown,n. brown,Eintracht Frankfurt,163,2,2,1,1,7.42,0.552,0.552,1.0,1.5
+POR,J. Neves,j. neves,Paris Saint Germain,166,2,2,1,0,7.67,0.542,0.0,0.5,0.5
+CRO,M. Baturina,m. baturina,Como,168,2,2,1,0,7.53,0.536,0.0,1.0,0.5
+JPN,K. Nakamura,k. nakamura,Reims,169,2,2,1,1,7.6,0.533,0.533,0.5,1.0
+SCO,J. McGinn,j. mcginn,Aston Villa,172,2,2,1,0,6.85,0.523,0.0,0.5,1.0
+KOR,I. Hwang,i. hwang,Feyenoord,174,2,2,1,1,7.56,0.517,0.517,1.0,0.5
+NED,L. Comenencia,l. comenencia,Zürich,174,2,2,1,0,6.86,0.517,0.0,1.0,1.0
+,B. Embolo,b. embolo,Rennes,179,2,2,1,1,7.44,0.503,0.503,0.5,3.5
+NED,V. van Dijk,v. van dijk,Liverpool,180,2,2,1,0,7.14,0.5,0.0,0.5,0.0
+SUI,G. Xhaka,g. xhaka,Sunderland,180,2,2,1,0,7.72,0.5,0.0,0.5,2.0
+SWE,A. Isak,a. isak,Liverpool,180,2,2,1,3,8.04,0.5,1.5,1.5,3.0
+CZE,L. Krejci,l. krejci,Wolverhampton Wanderers,180,2,2,1,0,7.37,0.5,0.0,0.5,1.0
+FRA,Y. Wissa,y. wissa,Newcastle United,180,2,2,1,0,6.94,0.5,0.0,0.5,0.5
+CIV,F. Kessié,f. kessie,Al Ahli,180,2,2,1,0,6.97,0.5,0.0,0.5,0.5
+SWE,V. Gyökeres,v. gyokeres,Arsenal,180,2,2,1,1,7.92,0.5,0.5,2.5,3.5
+COL,L. Díaz,l. diaz,FC Bayern München,180,2,2,1,1,7.62,0.5,0.5,1.5,2.0
+RSA,T. Mokoena,t. mokoena,Mamelodi Sundowns,180,2,2,1,0,7.55,0.5,0.0,0.5,3.0
+IRN,R. Rezaeian,r. rezaeian,Foolad,180,2,2,1,1,7.55,0.5,0.5,0.5,2.5
+ALG,B. Khoukhi,b. khoukhi,Al Sadd,180,2,2,1,0,6.98,0.5,0.0,0.5,0.0
+NED,O. Rekik,o. rekik,Maribor,180,2,2,1,0,6.5,0.5,0.0,0.5,0.5
+JOR,N. Al-Rashdan,n. al rashdan,Qatar SC,180,2,2,1,0,6.96,0.5,0.0,0.5,0.5
+JOR,A. Olwan,a. olwan,Al Sailiya,180,2,2,1,0,6.98,0.5,0.0,1.5,1.0
+NZL,F. Surman,f. surman,Portland Timbers,180,2,2,1,0,7.44,0.5,0.0,0.5,0.5
+USA,A. Freeman,a. freeman,Villarreal,180,2,2,1,1,7.47,0.5,0.5,0.5,1.0
+GHA,C. Yirenkyi,c. yirenkyi,Nordsjælland,180,2,2,1,0,7.01,0.5,0.0,0.5,0.0
+EGY,M. Lasheen,m. lasheen,Pyramids FC,180,2,2,0,0,7.21,0.0,0.0,0.0,0.5
+FRA,M. Senaya,m. senaya,Auxerre,177,2,2,0,0,7.13,0.0,0.0,0.0,0.0
+NED,J. Brenet,j. brenet,Kayserispor,90,1,1,0,0,7.09,0.0,0.0,0.0,1.0
+FRA,R. Aït-Nouri,r. ait nouri,Manchester City,175,2,2,0,0,6.83,0.0,0.0,0.0,0.0
+FRA,N. El Aynaoui,n. el aynaoui,Roma,180,2,2,0,0,7.36,0.0,0.0,0.0,1.0
+IRQ,M. Doski,m. doski,Viktoria Plzeň,180,2,2,0,0,6.71,0.0,0.0,0.0,1.0
+RSA,A. Modiba,a. modiba,Mamelodi Sundowns,167,2,2,0,0,6.9,0.0,0.0,0.0,1.0
+BRA,D. Santos,d. santos,Zenit,180,2,2,0,0,6.95,0.0,0.0,0.0,0.5
+SWE,G. Lagerbielke,g. lagerbielke,Sporting Braga,180,2,2,0,0,6.5,0.0,0.0,0.0,0.5
+SCO,L. Shankland,l. shankland,Hearts,83,1,1,0,0,6.73,0.0,0.0,0.0,0.0
+CIV,I. Sangaré,i. sangare,Nottingham Forest,88,2,1,0,0,7.02,0.0,0.0,0.0,0.0
+GHA,T. Partey,t. partey,Villarreal,90,1,1,0,0,7.11,0.0,0.0,0.0,0.0
+JPN,A. Tanaka,a. tanaka,Leeds United,90,1,1,0,0,7.37,0.0,0.0,0.0,0.0
+TUN,M. Amine Ben Hamida,m. amine ben hamida,ES Tunis,134,2,1,0,0,6.54,0.0,0.0,0.0,0.0
+CIV,Y. Diomande,y. diomande,RB Leipzig,175,2,2,0,0,7.66,0.0,0.0,0.0,3.5
+ALG,R. Bensebaini,r. bensebaini,Borussia Dortmund,180,2,2,0,0,7.1,0.0,0.0,0.0,0.0
+BIH,N. Katic,n. katic,Schalke 04,180,2,2,0,0,7.1,0.0,0.0,0.0,0.0
+SCO,L. Ferguson,l. ferguson,Bologna,180,2,2,0,0,7.18,0.0,0.0,0.0,0.0
+FRA,M. Expérience,m. experience,Nancy,180,2,2,0,0,6.83,0.0,0.0,0.0,1.0
+ECU,P. Hincapié,p. hincapie,Arsenal,180,2,2,0,0,7.2,0.0,0.0,0.0,1.0
+BRA,Casimiro,casimiro,Manchester United,136,2,2,0,0,6.72,0.0,0.0,0.0,0.5
+TUR,İ. Yüksek,i. yuksek,Fenerbahçe,141,2,2,0,0,7.18,0.0,0.0,0.0,0.0
+BRA,B. Guimarães,b. guimaraes,Newcastle United,161,2,2,0,0,6.91,0.0,0.0,0.0,1.0
+PAN,J. Ramos,j. ramos,Academia Puerto Cabello,167,2,2,0,0,6.86,0.0,0.0,0.0,0.0
+ENG,A. Wan-Bissaka,a. wan bissaka,West Ham United,175,2,2,0,0,6.67,0.0,0.0,0.0,0.0
+FRA,D. Upamecano,d. upamecano,FC Bayern München,180,2,2,0,0,7.55,0.0,0.0,0.0,1.0
+ARG,A. Cubas,a. cubas,Vancouver Whitecaps,180,2,2,0,0,6.7,0.0,0.0,0.0,0.0
+CPV,D. Borges,d. borges,Al Bataeh,180,2,2,0,0,7.27,0.0,0.0,0.0,0.0
+EGY,M. Hany,m. hany,Al Ahly,180,2,2,0,0,6.87,0.0,0.0,0.0,1.0
+PAN,A. Murillo,a. murillo,Beşiktaş,180,2,2,0,0,7.02,0.0,0.0,0.0,2.0
+RSA,K. Mudau,k. mudau,Mamelodi Sundowns,180,2,2,0,0,6.83,0.0,0.0,0.0,0.5
+JOR,N. Al-Rawabdeh,n. al rawabdeh,Selangor,180,2,2,0,0,6.99,0.0,0.0,0.0,1.0
+KSA,S. Abdulhamid,s. abdulhamid,Lens,180,2,2,0,0,6.48,0.0,0.0,0.0,0.0
+SCO,K. Tierney,k. tierney,Celtic,60,1,1,0,0,6.73,0.0,0.0,0.0,0.0
+ECU,P. Estupiñán,p. estupinan,AC Milan,70,1,1,0,0,6.67,0.0,0.0,0.0,1.0
+ESP,Gavi,gavi,FC Barcelona,71,1,1,0,0,6.95,0.0,0.0,0.0,0.0
+FRA,E. Owusu,e. owusu,Auxerre,78,1,1,0,0,6.62,0.0,0.0,0.0,0.0
+NED,J. Gaari,j. gaari,Abha,90,1,1,0,0,6.89,0.0,0.0,0.0,1.0
+SUI,D. Zakaria,d. zakaria,Monaco,90,1,1,0,0,7.09,0.0,0.0,0.0,0.0
+UZB,A. Ganiev,a. ganiev,Al Bataeh,90,1,1,0,0,6.84,0.0,0.0,0.0,0.0
+FRA,A. Tchouaméni,a. tchouameni,Real Madrid,90,1,1,0,0,7.07,0.0,0.0,0.0,0.0
+ESP,P. Porro,p. porro,Tottenham Hotspur,90,1,1,0,0,8.18,0.0,0.0,0.0,3.0
+FRA,M. Koné,m. kone,Roma,90,1,1,0,0,7.12,0.0,0.0,0.0,0.0
+EGY,H. Fathy,h. fathy,Al Wakrah,129,2,2,0,0,6.87,0.0,0.0,0.0,1.0
+SWE,S. Ghoddos,s. ghoddos,Kalba,144,2,2,0,0,6.88,0.0,0.0,0.0,0.5
+NED,F. de Jong,f. de jong,FC Barcelona,149,2,2,0,0,7.13,0.0,0.0,0.0,0.5
+AUT,X. Schlager,x. schlager,RB Leipzig,149,2,2,0,0,6.74,0.0,0.0,0.0,0.5
+MEX,R. Alvarado,r. alvarado,Guadalajara,170,2,2,0,0,7.34,0.0,0.0,0.0,1.5
+EGY,A. Fatouh,a. fatouh,Zamalek,178,2,2,0,0,7.02,0.0,0.0,0.0,1.0
+NED,S. Floranus,s. floranus,PEC Zwolle,180,2,2,0,0,6.47,0.0,0.0,0.0,0.0
+MAR,A. Hakimi,a. hakimi,Paris Saint Germain,180,2,2,0,0,7.48,0.0,0.0,0.0,2.0
+USA,T. Adams,t. adams,AFC Bournemouth,180,2,2,0,0,6.99,0.0,0.0,0.0,1.0
+TUN,A. Abdi,a. abdi,Nice,180,2,2,0,0,6.12,0.0,0.0,0.0,0.0
+SEN,K. Diatta,k. diatta,Monaco,180,2,2,0,0,6.96,0.0,0.0,0.0,1.0
+HAI,D. Jean Jacques,d. jean jacques,Philadelphia Union,180,2,2,0,0,6.75,0.0,0.0,0.0,0.5
+ARG,E. Fernández,e. fernandez,Chelsea,180,2,2,0,0,7.02,0.0,0.0,0.0,1.0
+AUT,N. Seiwald,n. seiwald,RB Leipzig,180,2,2,0,0,7.26,0.0,0.0,0.0,0.5
+FRA,Hannibal,hannibal,Burnley,180,2,2,0,0,6.97,0.0,0.0,0.0,1.5
+NOR,J. Ryerson,j. ryerson,Borussia Dortmund,103,2,2,0,0,6.77,0.0,0.0,0.0,2.0
+ARG,T. Almada,t. almada,Atlético de Madrid,119,2,2,0,0,6.88,0.0,0.0,0.0,0.5
+RSA,T. Mbatha,t. mbatha,Orlando Pirates,124,2,1,0,0,6.52,0.0,0.0,0.0,0.0
+BRA,L. Paquetá,l. paqueta,Flamengo,125,2,2,0,0,7.27,0.0,0.0,0.0,1.5
+PAN,C. Martínez,c. martinez,Ironi Kiryat Shmona,153,2,2,0,0,6.63,0.0,0.0,0.0,0.0
+SEN,K. Koulibaly,k. koulibaly,Al Hilal,162,2,2,0,0,5.64,0.0,0.0,0.0,0.0
+AUS,P. Okon-Engstler,p. okon engstler,Sydney,162,2,2,0,0,7.25,0.0,0.0,0.0,1.0
+ENG,E. Anderson,e. anderson,Nottingham Forest,164,2,2,0,0,7.33,0.0,0.0,0.0,0.5
+BEL,B. El Khannouss,b. el khannouss,VfB Stuttgart,164,2,2,0,0,7.0,0.0,0.0,0.0,1.5
+MAR,N. Mazraoui,n. mazraoui,Manchester United,170,2,2,0,0,6.86,0.0,0.0,0.0,0.0
+ARG,F. Medina,f. medina,Olympique Marseille,172,2,2,0,0,7.06,0.0,0.0,0.0,0.5
+FRA,J. Koundé,j. kounde,FC Barcelona,173,2,2,0,0,7.04,0.0,0.0,0.0,1.0
+GER,S. Kolasinac,s. kolasinac,Atalanta,174,2,2,0,0,6.79,0.0,0.0,0.0,0.5
+GHA,G. Mensah,g. mensah,Auxerre,180,2,2,0,0,7.06,0.0,0.0,0.0,0.0
+POR,B. Fernandes,b. fernandes,Manchester United,180,2,2,0,0,7.87,0.0,0.0,0.0,1.5
+ARG,A. Mac Allister,a. mac allister,Liverpool,180,2,2,0,0,7.11,0.0,0.0,0.0,0.5
+CAN,R. Laryea,r. laryea,Toronto,180,2,2,0,0,7.33,0.0,0.0,0.0,2.5
+IRN,S. Khalilzadeh,s. khalilzadeh,Tractor Sazi,180,2,2,0,0,7.03,0.0,0.0,0.0,0.0
+ENG,J. Bell,j. bell,Viking,180,2,2,0,0,6.78,0.0,0.0,0.0,0.5
+PAN,A. Andrade,a. andrade,LASK Linz,180,2,2,0,0,7.27,0.0,0.0,0.0,0.0
+ECU,G. Plata,g. plata,Flamengo,180,2,2,0,0,7.53,0.0,0.0,0.0,3.0
+CIV,E. Agbadou,e. agbadou,Beşiktaş,180,2,2,0,0,6.86,0.0,0.0,0.0,0.0
+ECU,P. Vite,p. vite,Pumas UNAM,180,2,2,0,0,7.69,0.0,0.0,0.0,3.5
+,A. Circati,a. circati,Parma,180,2,2,0,0,7.33,0.0,0.0,0.0,0.0
+FRA,A. Bouaddi,a. bouaddi,LOSC Lille,180,2,2,0,0,6.81,0.0,0.0,0.0,0.0
+CPV,J. Cabral,j. cabral,Estrela Amadora,61,1,1,0,0,6.89,0.0,0.0,0.0,0.0
+CAN,L. Millar,l. millar,Hull City,61,1,1,0,0,6.66,0.0,0.0,0.0,1.0
+BRA,I. Thiago,i. thiago,Brentford,62,1,1,0,0,6.4,0.0,0.0,0.0,0.0
+POR,J. Félix,j. felix,Al Nassr,63,1,1,0,0,7.3,0.0,0.0,0.0,0.0
+BEL,C. De Ketelaere,c. de ketelaere,Atalanta,66,1,1,0,0,7.04,0.0,0.0,0.0,1.0
+JPN,T. Watanabe,t. watanabe,Feyenoord,75,1,1,0,0,6.65,0.0,0.0,0.0,1.0
+BEL,N. Sadiki,n. sadiki,Sunderland,77,2,0,0,0,6.54,0.0,0.0,0.0,0.5
+SCO,R. Christie,r. christie,AFC Bournemouth,86,2,1,0,0,6.58,0.0,0.0,0.0,0.0
+BEL,T. Castagne,t. castagne,Fulham,88,2,1,0,0,7.1,0.0,0.0,0.0,2.0
+FRA,J. Duverne,j. duverne,Gent,90,1,1,0,0,6.13,0.0,0.0,0.0,0.0
+POR,R. Dias,r. dias,Manchester City,90,1,1,0,0,7.81,0.0,0.0,0.0,0.0
+ESP,M. Llorente,m. llorente,Atlético de Madrid,90,1,1,0,0,7.49,0.0,0.0,0.0,3.0
+FRA,T. Hernández,t. hernandez,Al Hilal,90,1,1,0,0,6.38,0.0,0.0,0.0,0.0
+ECU,J. Ordóñez,j. ordonez,Club Brugge,90,1,1,0,0,6.85,0.0,0.0,0.0,0.0
+QAT,Y. Abdurisag,y. abdurisag,Al Wakrah,100,2,2,0,0,6.62,0.0,0.0,0.0,0.5
+CIV,C. Inao Oulaï,c. inao oulai,Trabzonspor,103,2,1,0,0,7.15,0.0,0.0,0.0,0.5
+KOR,J. Lee,j. lee,FSV Mainz 05,119,2,2,0,0,6.91,0.0,0.0,0.0,1.5
+PAR,M. Almirón,m. almiron,Atlanta United,124,2,2,0,0,6.19,0.0,0.0,0.0,1.0
+SUI,M. Aebischer,m. aebischer,Pisa,136,2,2,0,0,7.09,0.0,0.0,0.0,2.0
+CAN,D. Cornelius,d. cornelius,Olympique Marseille,136,2,2,0,0,6.62,0.0,0.0,0.0,0.0
+ECU,A. Franco,a. franco,Atlético Mineiro,145,2,2,0,0,7.13,0.0,0.0,0.0,0.5
+SWE,A. Bernhardsson,a. bernhardsson,Holstein Kiel,145,2,2,0,0,6.31,0.0,0.0,0.0,0.5
+PAR,D. Gómez,d. gomez,Brighton & Hove Albion,147,2,2,0,0,6.45,0.0,0.0,0.0,0.0
+BEL,N. Ngoy,n. ngoy,LOSC Lille,156,2,2,0,0,6.69,0.0,0.0,0.0,0.0
+AUS,J. Italiano,j. italiano,Grazer AK,164,2,2,0,0,6.61,0.0,0.0,0.0,0.5
+NED,J. Bacuna,j. bacuna,FC Volendam,165,2,2,0,0,6.8,0.0,0.0,0.0,1.5
+MEX,É. Lira,e. lira,Cruz Azul,166,2,2,0,0,7.0,0.0,0.0,0.0,0.5
+NED,S. Lopes Cabral,s. lopes cabral,Benfica,166,2,2,0,0,6.82,0.0,0.0,0.0,0.5
+COL,J. Arias,j. arias,Palmeiras,167,2,2,0,0,7.29,0.0,0.0,0.0,1.5
+ENG,A. Robinson,a. robinson,Fulham,170,2,2,0,0,7.15,0.0,0.0,0.0,1.0
+ARG,R. De Paul,r. de paul,Inter Miami,172,2,2,0,0,7.05,0.0,0.0,0.0,0.5
+FRA,S. Moutoussamy,s. moutoussamy,Atromitos,172,2,2,0,0,6.52,0.0,0.0,0.0,0.0
+IRN,S. Ezatolahi,s. ezatolahi,Shabab Al Ahli Dubai,175,2,2,0,0,6.93,0.0,0.0,0.0,0.0
+GER,E. Demirovic,e. demirovic,VfB Stuttgart,176,2,2,0,0,6.41,0.0,0.0,0.0,0.0
+TUR,A. Bardakcı,a. bardakc,Galatasaray,176,2,2,0,0,7.38,0.0,0.0,0.0,1.0
+NED,L. Bacuna,l. bacuna,Iğdır FK,180,2,2,0,0,6.39,0.0,0.0,0.0,1.0
+NED,D. Dumfries,d. dumfries,Inter,180,2,2,0,0,7.38,0.0,0.0,0.0,2.0
+CRO,I. Perišić,i. perisic,PSV,180,2,2,0,0,7.1,0.0,0.0,0.0,2.5
+GER,H. Çalhanoğlu,h. calhanoglu,Inter,180,2,2,0,0,7.68,0.0,0.0,0.0,3.5
+BEL,L. Trossard,l. trossard,Arsenal,180,2,2,0,0,7.28,0.0,0.0,0.0,4.5
+BEL,H. Delcroix,h. delcroix,Lugano,180,2,2,0,0,6.51,0.0,0.0,0.0,0.0
+PAR,J. Alonso,j. alonso,Atlético Mineiro,180,2,2,0,0,6.41,0.0,0.0,0.0,0.5
+SUI,M. Akanji,m. akanji,Inter,180,2,2,0,0,7.26,0.0,0.0,0.0,1.5
+CAN,S. Eustaquio,s. eustaquio,Los Angeles FC,180,2,2,0,0,7.56,0.0,0.0,0.0,2.0
+JOR,Y. Al-Arab,y. al arab,Seoul,180,2,2,0,0,6.42,0.0,0.0,0.0,0.0
+USA,C. Richards,c. richards,Crystal Palace,180,2,2,0,0,7.13,0.0,0.0,0.0,0.0
+AUT,A. Dedić,a. dedic,Benfica,180,2,2,0,0,6.26,0.0,0.0,0.0,0.0
+PAN,C. Harvey,c. harvey,Minnesota United,180,2,2,0,0,6.65,0.0,0.0,0.0,1.0
+ECU,M. Caicedo,m. caicedo,Chelsea,180,2,2,0,0,7.89,0.0,0.0,0.0,3.5
+GER,F. Wirtz,f. wirtz,Liverpool,180,2,2,0,0,7.21,0.0,0.0,0.0,3.0
+FRA,F. Chaïbi,f. chaibi,Eintracht Frankfurt,180,2,2,0,0,7.12,0.0,0.0,0.0,1.0
+GHA,J. Adjetey,j. adjetey,VfL Wolfsburg,180,2,2,0,0,7.19,0.0,0.0,0.0,0.0
+,A. Abdullaev,a. abdullaev,Dibba Al Fujairah,180,2,2,0,0,5.43,0.0,0.0,0.0,0.0
+IRN,S. Moghanlou,s. moghanlou,Kalba,64,2,1,0,0,6.69,0.0,0.0,0.0,0.0
+CZE,L. Provod,l. provod,Slavia Praha,87,2,1,0,0,6.77,0.0,0.0,0.0,0.5
+POR,F. Conceição,f. conceicao,Juventus,88,2,0,0,0,7.03,0.0,0.0,0.0,1.5
+BEL,N. Raskin,n. raskin,Rangers,92,2,1,0,0,6.83,0.0,0.0,0.0,0.5
+CRO,M. Pašalić,m. pasalic,Orlando City,96,2,1,0,0,6.75,0.0,0.0,0.0,0.5
+SUI,F. Rieder,f. rieder,FC Augsburg,96,2,1,0,0,6.87,0.0,0.0,0.0,1.0
+AUT,M. Müldür,m. muldur,Fenerbahçe,99,2,1,0,0,7.05,0.0,0.0,0.0,1.5
+CAN,A. Ahmed,a. ahmed,Norwich City,100,2,1,0,0,6.75,0.0,0.0,0.0,1.0
+RSA,O. Appollis,o. appollis,Orlando Pirates,103,2,1,0,0,6.82,0.0,0.0,0.0,0.0
+AUT,M. Kovacic,m. kovacic,Manchester City,104,2,1,0,0,6.75,0.0,0.0,0.0,0.0
+MEX,E. Álvarez,e. alvarez,Fenerbahçe,104,2,1,0,0,6.9,0.0,0.0,0.0,0.0
+QAT,J. Gaber,j. gaber,Al Rayyan,106,2,2,0,0,6.39,0.0,0.0,0.0,0.0
+KSA,M. Al-Juwayr,m. al juwayr,Al-Qadsiah,109,2,2,0,0,6.59,0.0,0.0,0.0,1.0
+ALG,H. Boudaoui,h. boudaoui,Nice,110,2,2,0,0,6.94,0.0,0.0,0.0,1.0
+KSA,M. Abu Al-Shamat,m. abu al shamat,Al-Qadsiah,111,2,1,0,0,6.58,0.0,0.0,0.0,0.0
+IRN,M. Mohammadi,m. mohammadi,Persepolis,114,2,1,0,0,6.4,0.0,0.0,0.0,0.5
+KSA,N. Al-Dawsari,n. al dawsari,Al Hilal,117,2,1,0,0,6.63,0.0,0.0,0.0,0.0
+NOR,F. Aursnes,f. aursnes,Benfica,119,2,2,0,0,6.53,0.0,0.0,0.0,0.5
+ARG,L. Martínez,l. martinez,Inter,120,2,2,0,0,6.67,0.0,0.0,0.0,0.0
+ENG,Z. Iqbal,z. iqbal,Jong FC Utrecht,121,2,1,0,0,6.71,0.0,0.0,0.0,0.5
+ARG,N. Molina,n. molina,Atlético de Madrid,134,2,1,0,0,6.87,0.0,0.0,0.0,0.5
+ARG,C. Romero,c. romero,Tottenham Hotspur,137,2,2,0,0,6.87,0.0,0.0,0.0,0.0
+SWE,J. Karlström,j. karlstrom,Udinese,140,2,2,0,0,6.49,0.0,0.0,0.0,1.0
+NZL,L. Cacace,l. cacace,Wrexham,144,2,2,0,0,6.58,0.0,0.0,0.0,1.0
+CAN,T. Buchanan,t. buchanan,Villarreal,144,2,2,0,0,6.8,0.0,0.0,0.0,1.0
+SEN,E. Hadji Malick Diouf,e. hadji malick diouf,West Ham United,144,2,2,0,0,6.44,0.0,0.0,0.0,0.5
+BEL,T. Meunier,t. meunier,LOSC Lille,148,2,2,0,0,6.69,0.0,0.0,0.0,0.5
+GER,L. Sané,l. sane,Galatasaray,150,2,2,0,0,6.61,0.0,0.0,0.0,1.0
+GER,A. Pavlovic,a. pavlovic,FC Bayern München,150,2,2,0,0,7.12,0.0,0.0,0.0,1.0
+SWE,B. Tahirović,b. tahirovic,Brøndby IF,153,2,2,0,0,6.43,0.0,0.0,0.0,0.0
+SWE,G. Gudmundsson,g. gudmundsson,Leeds United,155,2,2,0,0,6.38,0.0,0.0,0.0,0.5
+ENG,M. Olise,m. olise,FC Bayern München,158,2,2,0,0,8.64,0.0,0.0,0.0,3.5
+NED,J. Monteiro,j. monteiro,PEC Zwolle,159,2,2,0,0,6.75,0.0,0.0,0.0,0.5
+ENG,L. De Fougerolles,l. de fougerolles,Dender,161,2,2,0,0,6.83,0.0,0.0,0.0,1.0
+FRA,E. Skhiri,e. skhiri,Eintracht Frankfurt,162,2,2,0,0,5.83,0.0,0.0,0.0,0.0
+NZL,T. Payne,t. payne,Wellington Phoenix,163,2,2,0,0,6.58,0.0,0.0,0.0,0.5
+NED,D. Fonville,d. fonville,NEC Nijmegen,166,2,2,0,0,6.02,0.0,0.0,0.0,0.5
+NOR,M. Ødegaard,m. degaard,Arsenal,171,2,2,0,0,7.18,0.0,0.0,0.0,1.0
+JOR,E. Haddad,e. haddad,Al Hussein,171,2,2,0,0,6.46,0.0,0.0,0.0,1.0
+NED,R. Gravenberch,r. gravenberch,Liverpool,171,2,2,0,0,7.16,0.0,0.0,0.0,1.0
+JOR,A. Nasib,a. nasib,Al Zawra'a,171,2,2,0,0,6.73,0.0,0.0,0.0,0.0
+GER,M. Tillman,m. tillman,Bayer 04 Leverkusen,172,2,2,0,0,7.21,0.0,0.0,0.0,2.5
+GER,J. Kimmich,j. kimmich,FC Bayern München,173,2,2,0,0,7.91,0.0,0.0,0.0,4.0
+NOR,T. Heggem,t. heggem,Bologna,174,2,2,0,0,6.85,0.0,0.0,0.0,0.0
+ESP,Rodri,rodri,Manchester City,177,2,2,0,0,7.91,0.0,0.0,0.0,2.0
+SEN,I. Gueye,i. gueye,Everton,178,2,2,0,0,7.0,0.0,0.0,0.0,0.5
+SUI,R. Rodríguez,r. rodriguez,Real Betis,179,2,2,0,0,7.17,0.0,0.0,0.0,1.0
+SUI,R. Freuler,r. freuler,Bologna,179,2,2,0,0,7.18,0.0,0.0,0.0,1.0
+SEN,S. Mané,s. mane,Al Nassr,180,2,2,0,0,7.18,0.0,0.0,0.0,2.5
+COL,D. Sánchez,d. sanchez,Galatasaray,180,2,2,0,0,7.3,0.0,0.0,0.0,1.5
+NED,A. Obispo,a. obispo,PSV,180,2,2,0,0,6.56,0.0,0.0,0.0,0.0
+AUT,K. Laimer,k. laimer,FC Bayern München,180,2,2,0,0,6.47,0.0,0.0,0.0,0.0
+BEL,Y. Tielemans,y. tielemans,Aston Villa,180,2,2,0,0,7.67,0.0,0.0,0.0,3.0
+ALG,A. Mandi,a. mandi,LOSC Lille,180,2,2,0,0,6.9,0.0,0.0,0.0,1.0
+FRA,S. Moreira,s. moreira,Columbus Crew,180,2,2,0,0,6.69,0.0,0.0,0.0,0.0
+,R. Lopes,r. lopes,Shamrock Rovers,180,2,2,0,0,7.27,0.0,0.0,0.0,0.0
+NOR,K. Ajer,k. ajer,Brentford,180,2,2,0,0,6.91,0.0,0.0,0.0,0.0
+KSA,S. Al-Dawsari,s. al dawsari,Al Hilal,180,2,2,0,0,6.42,0.0,0.0,0.0,0.0
+KOR,M. Kim,m. kim,FC Bayern München,180,2,2,0,0,6.83,0.0,0.0,0.0,1.0
+UZB,O. Shukurov,o. shukurov,Bani Yas,180,2,2,0,0,6.64,0.0,0.0,0.0,0.5
+URU,R. Bentancur,r. bentancur,Tottenham Hotspur,180,2,2,0,0,7.32,0.0,0.0,0.0,1.0
+JPN,H. Ito,h. ito,FC Bayern München,180,2,2,0,0,6.8,0.0,0.0,0.0,0.5
+PAN,C. Blackman,c. blackman,Slovan Bratislava,180,2,2,0,0,6.5,0.0,0.0,0.0,0.0
+USA,W. McKennie,w. mckennie,Juventus,180,2,2,0,0,7.13,0.0,0.0,0.0,3.0
+SWE,I. Hien,i. hien,Atalanta,180,2,2,0,0,6.44,0.0,0.0,0.0,0.5
+ARG,L. Martínez,l. martinez,Manchester United,180,2,2,0,0,7.21,0.0,0.0,0.0,0.5
+GER,J. Stanisic,j. stanisic,FC Bayern München,180,2,2,0,0,7.17,0.0,0.0,0.0,1.0
+ECU,W. Pacho,w. pacho,Paris Saint Germain,180,2,2,0,0,6.92,0.0,0.0,0.0,0.0
+NED,J. Paul van Hecke,j. paul van hecke,Brighton & Hove Albion,180,2,2,0,0,6.95,0.0,0.0,0.0,0.0
+PAR,J. Enciso,j. enciso,Strasbourg,180,2,2,0,0,7.55,0.0,0.0,0.0,2.5
+JPN,K. Sano,k. sano,FSV Mainz 05,180,2,2,0,0,6.8,0.0,0.0,0.0,0.5
+NED,M. van de Ven,m. van de ven,Tottenham Hotspur,180,2,2,0,0,6.67,0.0,0.0,0.0,0.5
+KOR,H. Lee,h. lee,FC Midtjylland,180,2,2,0,0,6.87,0.0,0.0,0.0,0.0
+EGY,M. Ateya,m. ateya,Al Ahly,180,2,2,0,0,6.89,0.0,0.0,0.0,1.5
+BEL,R. Belghali,r. belghali,Hellas Verona,180,2,2,0,0,6.53,0.0,0.0,0.0,1.0
+QAT,I. Laye,i. laye,Al-Arabi SC,180,2,2,0,0,6.56,0.0,0.0,0.0,0.0
+RSA,I. Okon,i. okon,Hannover 96,180,2,2,0,0,6.75,0.0,0.0,0.0,0.5
+RSA,M. Mbokazi,m. mbokazi,Chicago Fire,180,2,2,0,0,6.68,0.0,0.0,0.0,0.5
+URU,D. Núñez,d. nunez,Al Hilal,66,2,1,0,0,6.7,0.0,0.0,0.0,0.5
+EGY,R. Rabia,r. rabia,Al Ain,68,2,0,0,0,6.67,0.0,0.0,0.0,0.0
+KOR,T. Lee,t. lee,Austria Wien,69,1,1,0,0,6.96,0.0,0.0,0.0,2.0
+QAT,A. Fathi,a. fathi,Al-Arabi SC,71,2,0,0,0,6.63,0.0,0.0,0.0,0.5
+NED,D. Duarte,d. duarte,Ludogorets,73,2,0,0,0,6.76,0.0,0.0,0.0,0.5
+IRQ,A. Jasim,a. jasim,Al Najma,73,1,1,0,0,6.76,0.0,0.0,0.0,2.0
+AUS,N. Velupillay,n. velupillay,Melbourne Victory,75,2,1,0,0,6.3,0.0,0.0,0.0,0.5
+ENG,D. Spence,d. spence,Tottenham Hotspur,77,2,1,0,0,6.83,0.0,0.0,0.0,0.0
+CZE,L. Cerv,l. cerv,Viktoria Plzeň,78,1,1,0,0,6.92,0.0,0.0,0.0,0.0
+TUR,Z. Çelik,z. celik,Roma,81,1,1,0,0,6.34,0.0,0.0,0.0,0.0
+GER,R. Khedira,r. khedira,FC Union Berlin,84,2,1,0,0,2.98,0.0,0.0,0.0,0.0
+ENG,J. Stones,j. stones,Manchester City,87,1,1,0,0,6.28,0.0,0.0,0.0,0.0
+NED,R. Bazoer,r. bazoer,Konyaspor,90,1,1,0,0,5.32,0.0,0.0,0.0,0.0
+GER,M. Pongracic,m. pongracic,Fiorentina,90,1,1,0,0,6.7,0.0,0.0,0.0,0.0
+AUT,P. Lienhart,p. lienhart,SC Freiburg,90,1,1,0,0,7.11,0.0,0.0,0.0,0.0
+IRN,H. Kanaani,h. kanaani,Persepolis,90,1,1,0,0,7.65,0.0,0.0,0.0,1.0
+JPN,K. Itakura,k. itakura,Ajax,90,1,1,0,0,7.9,0.0,0.0,0.0,2.0
+KOR,M. Kim,m. kim,Daejeon Citizen,90,1,1,0,0,6.49,0.0,0.0,0.0,0.0
+PAR,D. Bobadilla,d. bobadilla,São Paulo,90,2,1,0,0,6.29,0.0,0.0,0.0,0.0
+CZE,S. Chaloupek,s. chaloupek,Slavia Praha,90,1,1,0,0,6.06,0.0,0.0,0.0,0.0
+ESP,F. Ruiz,f. ruiz,Paris Saint Germain,91,2,1,0,0,7.16,0.0,0.0,0.0,0.5
+JPN,T. Tomiyasu,t. tomiyasu,Ajax,94,2,1,0,0,6.87,0.0,0.0,0.0,0.0
+CZE,P. Sulc,p. sulc,Olympique Lyonnais,99,2,1,0,0,6.55,0.0,0.0,0.0,0.5
+FRA,R. Mahrez,r. mahrez,Al Ahli,102,2,1,0,0,6.79,0.0,0.0,0.0,1.5
+BIH,I. Sunjic,i. sunjic,Pafos FC,102,2,1,0,0,6.36,0.0,0.0,0.0,0.0
+PAN,J. Fajardo,j. fajardo,Universidad Católica,110,2,1,0,0,6.49,0.0,0.0,0.0,0.0
+IRQ,A. Al-Hamadi,a. al hamadi,Luton Town,123,2,1,0,0,6.64,0.0,0.0,0.0,0.5
+FRA,N. Bentaleb,n. bentaleb,LOSC Lille,125,2,1,0,0,6.72,0.0,0.0,0.0,1.0
+GER,K. Yıldız,k. yldz,Juventus,134,2,1,0,0,7.42,0.0,0.0,0.0,2.5
+SCO,C. Burgess,c. burgess,Swansea City,136,2,2,0,0,6.42,0.0,0.0,0.0,0.0
+HAI,C. Arcus,c. arcus,Angers SCO,136,2,2,0,0,6.31,0.0,0.0,0.0,0.5
+POR,J. Cancelo,j. cancelo,FC Barcelona,136,2,2,0,0,7.34,0.0,0.0,0.0,1.0
+KSA,A. Al-Khaibari,a. al khaibari,Al Nassr,136,2,2,0,0,6.5,0.0,0.0,0.0,0.0
+CRO,J. Gvardiol,j. gvardiol,Manchester City,136,2,2,0,0,6.21,0.0,0.0,0.0,0.0
+FRA,P. Gueye,p. gueye,Villarreal,137,2,2,0,0,6.4,0.0,0.0,0.0,0.0
+CRO,L. Modrić,l. modric,AC Milan,139,2,2,0,0,6.85,0.0,0.0,0.0,0.5
+FRA,A. Masuaku,a. masuaku,Lens,146,2,2,0,0,6.92,0.0,0.0,0.0,1.5
+,E. Kayembe,e. kayembe,Watford,146,2,2,0,0,6.63,0.0,0.0,0.0,0.5
+IRQ,I. Bayesh,i. bayesh,Al Dhafra,147,2,2,0,0,6.15,0.0,0.0,0.0,0.5
+CIV,I. Koné,i. kone,Sassuolo,147,2,2,0,0,6.74,0.0,0.0,0.0,0.5
+JPN,R. Doan,r. doan,Eintracht Frankfurt,149,2,2,0,0,6.46,0.0,0.0,0.0,0.0
+GER,J. Yeboah,j. yeboah,Venezia,151,2,2,0,0,7.46,0.0,0.0,0.0,2.0
+FRA,J. Ayew,j. ayew,Leicester City,154,2,2,0,0,6.7,0.0,0.0,0.0,0.5
+AUT,S. Posch,s. posch,FSV Mainz 05,158,2,2,0,0,6.26,0.0,0.0,0.0,0.5
+NED,F. Kadıoğlu,f. kadoglu,Brighton & Hove Albion,160,2,2,0,0,7.33,0.0,0.0,0.0,4.5
+ESP,Pedri,pedri,FC Barcelona,160,2,2,0,0,7.93,0.0,0.0,0.0,2.5
+ENG,D. Rice,d. rice,Arsenal,162,2,2,0,0,7.63,0.0,0.0,0.0,5.0
+FRA,Y. Valery,y. valery,Young Boys,162,2,2,0,0,6.17,0.0,0.0,0.0,0.0
+SWE,H. Ali,h. ali,Pogoń Szczecin,163,2,2,0,0,6.04,0.0,0.0,0.0,0.0
+NOR,D. Møller Wolfe,d. mller wolfe,Wolverhampton Wanderers,163,2,2,0,0,6.74,0.0,0.0,0.0,0.5
+PAN,J. Luis Rodríguez,j. luis rodriguez,Juárez,164,2,2,0,0,6.29,0.0,0.0,0.0,0.5
+BIH,A. Memic,a. memic,Viktoria Plzeň,164,2,2,0,0,6.2,0.0,0.0,0.0,0.0
+UZB,R. Ashurmatov,r. ashurmatov,Esteghlal,167,2,2,0,0,5.73,0.0,0.0,0.0,0.0
+JOR,M. Tamari,m. tamari,Rennes,172,2,2,0,0,6.75,0.0,0.0,0.0,1.0
+GER,I. Maza,i. maza,Bayer 04 Leverkusen,172,2,2,0,0,6.55,0.0,0.0,0.0,1.0
+,A. Slimane,a. slimane,Norwich City,174,2,2,0,0,6.54,0.0,0.0,0.0,0.5
+,C. Mbemba,c. mbemba,LOSC Lille,180,2,2,0,0,6.73,0.0,0.0,0.0,0.5
+,A. Tuanzebe,a. tuanzebe,Burnley,180,2,2,0,0,6.54,0.0,0.0,0.0,0.0
+URU,G. Varela,g. varela,Flamengo,180,2,2,0,0,6.87,0.0,0.0,0.0,1.0
+CPV,R. Mendes,r. mendes,Iğdır FK,180,2,2,0,0,6.74,0.0,0.0,0.0,0.5
+SCO,J. Hendry,j. hendry,Al Ettifaq,180,2,2,0,0,6.9,0.0,0.0,0.0,0.0
+AUT,M. Sabitzer,m. sabitzer,Borussia Dortmund,180,2,2,0,0,6.88,0.0,0.0,0.0,1.0
+BEL,B. Mechele,b. mechele,Club Brugge,180,2,2,0,0,7.25,0.0,0.0,0.0,0.0
+NOR,S. Berge,s. berge,Fulham,180,2,2,0,0,6.85,0.0,0.0,0.0,0.0
+BRA,Marquinhos,marquinhos,Paris Saint Germain,180,2,2,0,0,7.2,0.0,0.0,0.0,0.0
+BRA,Gabriel,gabriel,Arsenal,180,2,2,0,0,6.95,0.0,0.0,0.0,0.0
+FRA,M. Niakhaté,m. niakhate,Olympique Lyonnais,180,2,2,0,0,6.98,0.0,0.0,0.0,0.0
+SCO,H. Souttar,h. souttar,Leicester City,180,2,2,0,0,7.0,0.0,0.0,0.0,0.5
+COL,J. Mojica,j. mojica,Mallorca,180,2,2,0,0,6.99,0.0,0.0,0.0,0.5
+MEX,J. Gallardo,j. gallardo,Toluca,180,2,2,0,0,6.96,0.0,0.0,0.0,0.0
+URU,M. Olivera,m. olivera,Napoli,180,2,2,0,0,7.13,0.0,0.0,0.0,2.5
+EGY,Y. Ibrahim,y. ibrahim,Al Ahly,180,2,2,0,0,6.51,0.0,0.0,0.0,0.0
+POR,P. Miguel,p. miguel,Al Sadd,180,2,2,0,0,6.63,0.0,0.0,0.0,0.0
+UZB,E. Shomurodov,e. shomurodov,İstanbul Başakşehir,180,2,2,0,0,6.73,0.0,0.0,0.0,2.0
+FRA,M. Talbi,m. talbi,Lorient,180,2,2,0,0,6.62,0.0,0.0,0.0,0.0
+HAI,R. Adé,r. ade,LDU Quito,180,2,2,0,0,6.87,0.0,0.0,0.0,0.0
+ENG,R. James,r. james,Chelsea,180,2,2,0,0,6.87,0.0,0.0,0.0,1.0
+ENG,J. Opoku,j. opoku,İstanbul Başakşehir,180,2,2,0,0,7.2,0.0,0.0,0.0,1.0
+KSA,H. Tambakti,h. tambakti,Al Hilal,180,2,2,0,0,6.14,0.0,0.0,0.0,0.0
+KOR,K. Lee,k. lee,Paris Saint Germain,180,2,2,0,0,7.8,0.0,0.0,0.0,3.0
+PAN,J. Córdoba,j. cordoba,Norwich City,180,2,2,0,0,6.49,0.0,0.0,0.0,0.0
+NZL,M. Stamenić,m. stamenic,Swansea City,180,2,2,0,0,6.88,0.0,0.0,0.0,1.5
+TUR,A. Güler,a. guler,Real Madrid,180,2,2,0,0,7.67,0.0,0.0,0.0,2.5
+KOR,G. Lee,g. lee,Gangwon,180,2,2,0,0,6.66,0.0,0.0,0.0,0.0
+POR,R. Veiga,r. veiga,Villarreal,180,2,2,0,0,7.14,0.0,0.0,0.0,0.0
+UZB,A. Khusanov,a. khusanov,Manchester City,180,2,2,0,0,5.83,0.0,0.0,0.0,0.0
+POR,B. Silva,b. silva,Manchester City,60,2,1,0,0,6.38,0.0,0.0,0.0,0.0
+AUS,J. Geria,j. geria,Albirex Niigata,60,2,0,0,0,6.46,0.0,0.0,0.0,0.0
+GER,A. Rüdiger,a. rudiger,Real Madrid,61,2,0,0,0,6.67,0.0,0.0,0.0,0.0
+CPV,N. Da Costa,n. da costa,İstanbul Başakşehir,61,2,0,0,0,6.56,0.0,0.0,0.0,0.0
+ARG,J. Álvarez,j. alvarez,Atlético de Madrid,61,2,0,0,0,6.41,0.0,0.0,0.0,0.0
+NOR,P. Berg,p. berg,Bodø / Glimt,63,2,0,0,0,6.79,0.0,0.0,0.0,0.5
+NED,O. Kökçü,o. kokcu,Beşiktaş,66,2,1,0,0,3.55,0.0,0.0,0.0,1.5
+ESP,D. Olmo,d. olmo,FC Barcelona,70,2,1,0,0,6.97,0.0,0.0,0.0,1.0
+FRA,A. Hadj Moussa,a. hadj moussa,Feyenoord,78,2,1,0,0,6.5,0.0,0.0,0.0,1.5
+JOR,M. Al-Mardi,m. al mardi,Al Hussein,85,2,1,0,0,6.79,0.0,0.0,0.0,0.5
+GER,M. Pašalić,m. pasalic,Atalanta,87,2,1,0,0,6.64,0.0,0.0,0.0,0.5
+TUR,B. Alper Yılmaz,b. alper ylmaz,Galatasaray,90,2,1,0,0,6.55,0.0,0.0,0.0,0.5
+IRN,E. Hajsafi,e. hajsafi,Sepahan,91,2,1,0,0,6.46,0.0,0.0,0.0,0.0
+KSA,A. bin Mohammed bin Ali Lajami,a. bin mohammed bin ali lajami,Al Hilal,91,2,1,0,0,3.25,0.0,0.0,0.0,0.0
+MEX,R. Pepi,r. pepi,PSV,92,2,1,0,0,6.63,0.0,0.0,0.0,0.5
+CZE,A. Hlozek,a. hlozek,TSG Hoffenheim,93,2,1,0,0,6.54,0.0,0.0,0.0,0.0
+FRA,G. Doué,g. doue,Strasbourg,97,2,1,0,0,6.62,0.0,0.0,0.0,1.0
+GER,P. Wanner,p. wanner,PSV,99,2,1,0,0,6.3,0.0,0.0,0.0,0.5
+MEX,I. Reyes,i. reyes,América,100,2,1,0,0,6.9,0.0,0.0,0.0,1.0
+GHA,K. Sibo,k. sibo,Real Oviedo,102,2,1,0,0,6.63,0.0,0.0,0.0,0.0
+BEL,N. Mukau,n. mukau,LOSC Lille,103,2,2,0,0,6.55,0.0,0.0,0.0,0.5
+JOR,O. Fakhoury,o. fakhoury,Pyramids FC,103,2,1,0,0,6.66,0.0,0.0,0.0,1.0
+SCO,N. Patterson,n. patterson,Everton,104,2,1,0,0,6.47,0.0,0.0,0.0,0.0
+SCO,B. Gannon-Doak,b. gannon doak,AFC Bournemouth,105,2,1,0,0,6.65,0.0,0.0,0.0,1.0
+SWE,A. Qasem,a. qasem,Nashville SC,107,2,1,0,0,6.31,0.0,0.0,0.0,0.5
+CRO,P. Sučić,p. sucic,Inter,108,2,1,0,0,6.55,0.0,0.0,0.0,0.5
+FRA,A. Bonny,a. bonny,Inter,109,2,1,0,0,6.63,0.0,0.0,0.0,0.0
+FRA,D. Doué,d. doue,Paris Saint Germain,109,2,1,0,0,6.66,0.0,0.0,0.0,0.5
+CZE,T. Souček,t. soucek,West Ham United,113,2,1,0,0,6.56,0.0,0.0,0.0,0.0
+ENG,N. O'Reilly,n. oreilly,Manchester City,114,2,1,0,0,6.6,0.0,0.0,0.0,1.0
+POR,P. Neto,p. neto,Chelsea,117,2,2,0,0,6.87,0.0,0.0,0.0,0.5
+GER,E. Saad,e. saad,Hannover 96,118,2,2,0,0,6.36,0.0,0.0,0.0,0.0
+,M. Touré,m. toure,Norwich City,120,2,2,0,0,6.61,0.0,0.0,0.0,0.5
+AUT,K. Danso,k. danso,Tottenham Hotspur,121,2,1,0,0,6.84,0.0,0.0,0.0,0.5
+QAT,H. Al-Amin,h. al amin,Cultural Leonesa,123,2,2,0,0,6.32,0.0,0.0,0.0,1.0
+BEL,M. De Cuyper,m. de cuyper,Brighton & Hove Albion,124,2,1,0,0,7.17,0.0,0.0,0.0,0.0
+KOR,H. Son,h. son,Los Angeles FC,126,2,2,0,0,6.88,0.0,0.0,0.0,1.0
+AUT,D. Alaba,d. alaba,Real Madrid,126,2,2,0,0,7.04,0.0,0.0,0.0,0.0
+TUR,K. Aktürkoğlu,k. akturkoglu,Fenerbahçe,131,2,2,0,0,6.54,0.0,0.0,0.0,1.5
+BRA,E. Junior,e. junior,Al Duhail,134,2,2,0,0,6.45,0.0,0.0,0.0,0.0
+BRA,Danilo,danilo,Flamengo,134,2,1,0,0,6.66,0.0,0.0,0.0,0.0
+KSA,M. Kanno,m. kanno,Al Hilal,134,2,1,0,0,6.81,0.0,0.0,0.0,0.0
+NZL,C. McCowatt,c. mccowatt,Silkeborg IF,134,2,2,0,0,6.71,0.0,0.0,0.0,0.0
+SUI,D. Ndoye,d. ndoye,Nottingham Forest,136,2,2,0,0,7.13,0.0,0.0,0.0,0.5
+ENG,A. Gordon,a. gordon,Newcastle United,137,2,2,0,0,6.49,0.0,0.0,0.0,1.0
+USA,B. Gutiérrez,b. gutierrez,Guadalajara,137,2,2,0,0,6.88,0.0,0.0,0.0,2.0
+COL,L. Suárez,l. suarez,Sporting CP,138,2,2,0,0,6.6,0.0,0.0,0.0,0.5
+SEN,L. Camara,l. camara,Monaco,139,2,2,0,0,6.58,0.0,0.0,0.0,0.5
+CZE,A. Sojka,a. sojka,Viktoria Plzeň,139,2,2,0,0,6.94,0.0,0.0,0.0,1.0
+QAT,A. Madibo,a. madibo,Al Wakrah,143,2,2,0,0,6.01,0.0,0.0,0.0,0.0
+NOR,A. Nusa,a. nusa,RB Leipzig,144,2,2,0,0,6.53,0.0,0.0,0.0,0.5
+ENG,C. Adams,c. adams,Torino,146,2,2,0,0,6.59,0.0,0.0,0.0,0.5
+QAT,A. Afif,a. afif,Al Sadd,149,2,2,0,0,6.77,0.0,0.0,0.0,1.0
+QAT,A. Al-Oui,a. al oui,Al Gharafa,150,2,2,0,0,5.94,0.0,0.0,0.0,0.0
+MAR,A. Ounahi,a. ounahi,Girona,155,2,2,0,0,6.92,0.0,0.0,0.0,2.0
+ENG,N. Madueke,n. madueke,Arsenal,155,2,2,0,0,7.04,0.0,0.0,0.0,2.0
+FRA,R. Providence,r. providence,Almere City,156,2,2,0,0,6.55,0.0,0.0,0.0,1.0
+NOR,A. Sørloth,a. srloth,Atlético de Madrid,157,2,2,0,0,6.33,0.0,0.0,0.0,0.5
+SWE,A. Al-Ammari,a. al ammari,Cracovia Kraków,158,2,2,0,0,6.64,0.0,0.0,0.0,1.5
+KOR,S. Paik,s. paik,Birmingham City,161,2,2,0,0,6.52,0.0,0.0,0.0,0.5
+KOR,Y. Seol,y. seol,Crvena Zvezda,161,2,2,0,0,6.62,0.0,0.0,0.0,0.5
+GER,J. Tah,j. tah,FC Bayern München,163,2,2,0,0,7.01,0.0,0.0,0.0,1.0
+EGY,O. Marmoush,o. marmoush,Manchester City,166,2,2,0,0,7.15,0.0,0.0,0.0,1.0
+NZL,S. Singh,s. singh,Wellington Phoenix,166,2,2,0,0,6.47,0.0,0.0,0.0,1.0
+ECU,E. Valencia,e. valencia,Pachuca,167,2,2,0,0,6.42,0.0,0.0,0.0,0.0
+IRN,M. Taremi,m. taremi,Olympiacos F.C.,170,2,2,0,0,6.75,0.0,0.0,0.0,1.5
+,T. Muharemović,t. muharemovic,Sassuolo,170,2,2,0,0,6.89,0.0,0.0,0.0,0.0
+COL,G. Puerta,g. puerta,Racing Santander,170,2,2,0,0,7.27,0.0,0.0,0.0,1.0
+FRA,J. Bellegarde,j. bellegarde,Wolverhampton Wanderers,171,2,2,0,0,6.92,0.0,0.0,0.0,1.5
+CIV,W. Singo,w. singo,Galatasaray,172,2,2,0,0,7.32,0.0,0.0,0.0,0.5
+BEL,K. De Bruyne,k. de bruyne,Napoli,173,2,2,0,0,7.35,0.0,0.0,0.0,2.5
+,N. Jackson,n. jackson,FC Bayern München,173,2,2,0,0,6.73,0.0,0.0,0.0,1.5
+AUS,J. Bos,j. bos,Feyenoord,174,2,2,0,0,6.61,0.0,0.0,0.0,0.5
+SCO,G. Hanley,g. hanley,Hibernian,180,2,2,0,0,7.08,0.0,0.0,0.0,0.0
+SCO,A. Robertson,a. robertson,Liverpool,180,2,2,0,0,6.76,0.0,0.0,0.0,1.5
+USA,T. Ream,t. ream,Charlotte,180,2,2,0,0,7.11,0.0,0.0,0.0,0.0
+AUS,A. O'Neill,a. oneill,New York City,180,2,2,0,0,6.83,0.0,0.0,0.0,0.5
+ENG,E. Konsa,e. konsa,Aston Villa,180,2,2,0,0,6.83,0.0,0.0,0.0,0.0
+PAN,Y. Bárcenas,y. barcenas,Mazatlán,180,2,2,0,0,7.01,0.0,0.0,0.0,1.5
+CZE,V. Coufal,v. coufal,TSG Hoffenheim,180,2,2,0,0,7.08,0.0,0.0,0.0,3.0
+FRA,A. Rabiot,a. rabiot,AC Milan,180,2,2,0,0,7.19,0.0,0.0,0.0,1.0
+PAR,G. Gómez,g. gomez,Palmeiras,180,2,2,0,0,6.64,0.0,0.0,0.0,0.0
+SWE,V. Lindelöf,v. lindelof,Aston Villa,180,2,2,0,0,6.28,0.0,0.0,0.0,0.0
+CIV,G. Konan,g. konan,Gil Vicente,180,2,2,0,0,6.85,0.0,0.0,0.0,0.5
+TUR,M. Demiral,m. demiral,Al Ahli,180,2,2,0,0,7.0,0.0,0.0,0.0,0.5
+FRA,A. Laporte,a. laporte,Athletic Club,180,2,2,0,0,7.41,0.0,0.0,0.0,1.0
+URU,F. Valverde,f. valverde,Real Madrid,180,2,2,0,0,7.18,0.0,0.0,0.0,0.0
+NZL,M. Boxall,m. boxall,Minnesota United,180,2,2,0,0,6.38,0.0,0.0,0.0,0.0
+ESP,M. Cucurella,m. cucurella,Chelsea,180,2,2,0,0,7.36,0.0,0.0,0.0,1.5
+ENG,S. McTominay,s. mctominay,Napoli,180,2,2,0,0,6.67,0.0,0.0,0.0,0.5
+CRO,J. Sutalo,j. sutalo,Ajax,180,2,2,0,0,6.69,0.0,0.0,0.0,0.0
+MEX,J. Vásquez,j. vasquez,Genoa,180,2,2,0,0,6.9,0.0,0.0,0.0,0.0
+ENG,A. Semenyo,a. semenyo,Manchester City,180,2,2,0,0,6.36,0.0,0.0,0.0,0.0
+URU,S. Cáceres,s. caceres,América,180,2,2,0,0,6.67,0.0,0.0,0.0,0.0
+FRA,W. Saliba,w. saliba,Arsenal,180,2,2,0,0,6.91,0.0,0.0,0.0,0.0
+CZE,R. Hranac,r. hranac,TSG Hoffenheim,180,2,2,0,0,6.39,0.0,0.0,0.0,0.0
+CAN,A. Johnston,a. johnston,Celtic,180,2,2,0,0,7.41,0.0,0.0,0.0,3.5
+FRA,S. Kapuadi,s. kapuadi,Widzew Lodz,180,2,2,0,0,6.6,0.0,0.0,0.0,1.0
+KSA,M. Al-Harbi,m. al harbi,Al Hilal,180,2,2,0,0,6.35,0.0,0.0,0.0,0.0
+ESP,P. Cubarsí,p. cubarsi,FC Barcelona,180,2,2,0,0,7.5,0.0,0.0,0.0,1.5
+IRQ,A. Hashem,a. hashem,Al Zawra'a,180,2,2,0,0,6.46,0.0,0.0,0.0,0.0
+POR,Vitinha,vitinha,Paris Saint Germain,166,2,2,0,0,7.35,0.0,0.0,0.0,0.5
+POR,T. Araújo,t. araujo,Benfica,90,1,1,0,0,6.93,0.0,0.0,0.0,1.0
+SUI,N. Elvedi,n. elvedi,Borussia Mönchengladbach,180,2,2,0,0,7.07,0.0,0.0,0.0,1.0
+FRA,I. Diop,i. diop,Fulham,180,2,2,0,0,6.54,0.0,0.0,0.0,0.0
+ENG,M. Guéhi,m. guehi,Manchester City,93,2,1,0,0,3.94,0.0,0.0,0.0,0.0
+MEX,C. Montes,c. montes,Lokomotiv Moskva,90,1,1,0,0,6.69,0.0,0.0,0.0,0.0
+COL,J. Lucumí,j. lucumi,Bologna,180,2,2,0,0,6.83,0.0,0.0,0.0,0.0
+URU,M. Ugarte,m. ugarte,Manchester United,142,2,2,0,0,6.73,0.0,0.0,0.0,1.0
+FRA,L. Digne,l. digne,Aston Villa,90,1,1,0,0,6.93,0.0,0.0,0.0,1.0
+COL,J. Lerma,j. lerma,Crystal Palace,180,2,2,0,0,7.0,0.0,0.0,0.0,1.0
+ESP,C. Riad,c. riad,Crystal Palace,180,2,2,0,0,6.81,0.0,0.0,0.0,0.0
+RSA,N. Sibisi,n. sibisi,Orlando Pirates,90,1,1,0,0,6.09,0.0,0.0,0.0,0.0
+JPN,S. Taniguchi,s. taniguchi,Sint-Truiden,90,1,1,0,0,6.61,0.0,0.0,0.0,0.0
+COL,J. Rodríguez,j. rodriguez,Minnesota United,130,2,2,0,0,7.22,0.0,0.0,0.0,2.5
+CRO,L. Vuskovic,l. vuskovic,Hamburger SV,66,1,1,0,0,6.24,0.0,0.0,0.0,0.0
+IRN,A. Nemati,a. nemati,Foolad,180,2,2,0,0,6.51,0.0,0.0,0.0,1.0
+ESP,Á. Baena,a. baena,Atlético de Madrid,61,1,1,0,0,6.95,0.0,0.0,0.0,2.0
+SCO,A. Hickey,a. hickey,Brentford,90,1,1,0,0,7.28,0.0,0.0,0.0,2.0
+ESP,Á. Fidalgo,a. fidalgo,Real Betis,66,1,1,0,0,6.89,0.0,0.0,0.0,1.0
+CZE,T. Holes,t. holes,Slavia Praha,90,1,1,0,0,6.5,0.0,0.0,0.0,0.0
+URU,J. Manuel Sanabria,j. manuel sanabria,Real Salt Lake,134,2,1,0,0,6.64,0.0,0.0,0.0,1.5
+ESP,B. Díaz,b. diaz,Real Madrid,149,2,2,0,0,7.42,0.0,0.0,0.0,2.5
+NED,S. Dest,s. dest,PSV,152,2,2,0,0,6.77,0.0,0.0,0.0,0.5
+POR,N. Semedo,n. semedo,Fenerbahçe,62,2,0,0,0,6.54,0.0,0.0,0.0,0.0
+USA,M. Abualnadi,m. abualnadi,Selangor,72,1,1,0,0,6.41,0.0,0.0,0.0,0.0
+MEX,J. Sánchez,j. sanchez,PAOK,90,1,1,0,0,6.51,0.0,0.0,0.0,0.0
+CIV,O. Kossounou,o. kossounou,Atalanta,91,2,1,0,0,3.4,0.0,0.0,0.0,0.0
+SUI,S. Widmer,s. widmer,FSV Mainz 05,86,1,1,0,0,6.53,0.0,0.0,0.0,0.0
+BEL,J. Doku,j. doku,Manchester City,86,1,1,0,0,6.33,0.0,0.0,0.0,1.0
+TUR,Y. Akgün,y. akgun,Galatasaray,88,2,1,0,0,6.47,0.0,0.0,0.0,1.0
+FRA,S. Fofana,s. fofana,Porto,92,2,1,0,0,6.61,0.0,0.0,0.0,0.5
+BRA,Raphinha,raphinha,FC Barcelona,130,2,2,0,0,6.46,0.0,0.0,0.0,1.5
+NZL,C. Wood,c. wood,Nottingham Forest,180,2,2,0,0,7.2,0.0,0.0,0.0,2.5
+BIH,E. Džeko,e. dzeko,Schalke 04,64,1,1,0,0,6.72,0.0,0.0,0.0,0.0
+RSA,J. Adams,j. adams,Mamelodi Sundowns,107,2,2,0,0,6.63,0.0,0.0,0.0,0.5
+CZE,J. Zelený,j. zeleny,Sparta Praha,125,2,1,0,0,6.51,0.0,0.0,0.0,0.0
+KSA,F. Al-Buraikan,f. al buraikan,Al Ahli,150,2,2,0,0,6.55,0.0,0.0,0.0,0.0
+NED,T. Chong,t. chong,Sheffield United,159,2,2,0,0,6.83,0.0,0.0,0.0,1.0
+PAR,O. Alderete,o. alderete,Sunderland,180,2,2,0,0,6.68,0.0,0.0,0.0,0.5
+ENG,S. Berhalter,s. berhalter,Vancouver Whitecaps,60,2,0,0,0,6.66,0.0,0.0,0.0,0.0
+ESP,F. Torres,f. torres,FC Barcelona,125,2,1,0,0,6.48,0.0,0.0,0.0,0.5
+FRA,N. Pépé,n. pepe,Villarreal,82,2,1,0,0,6.59,0.0,0.0,0.0,0.0
+,J. Casimir,j. casimir,Auxerre,91,2,1,0,0,6.2,0.0,0.0,0.0,0.5
+AUT,M. Gregoritsch,m. gregoritsch,FC Augsburg,85,1,1,0,0,6.67,0.0,0.0,0.0,0.0
+CRO,I. Basic,i. basic,Astana,89,2,1,0,0,6.87,0.0,0.0,0.0,3.0
+NED,T. Reijnders,t. reijnders,Manchester City,129,2,2,0,0,6.6,0.0,0.0,0.0,1.0
+SWE,B. Nygren,b. nygren,Celtic,121,2,2,0,0,6.3,0.0,0.0,0.0,0.5
+JPN,T. Kubo,t. kubo,Real Sociedad,75,1,1,0,0,6.89,0.0,0.0,0.0,1.0
+NED,J. Locadia,j. locadia,Intercity,148,2,2,0,0,6.45,0.0,0.0,0.0,0.0
+KOR,H. Hwang,h. hwang,Wolverhampton Wanderers,61,2,0,0,0,6.66,0.0,0.0,0.0,0.5
+GER,K. Alajbegovic,k. alajbegovic,Salzburg,106,2,1,0,0,6.37,0.0,0.0,0.0,1.0
+CZE,P. Schick,p. schick,Bayer 04 Leverkusen,154,2,2,0,0,6.34,0.0,0.0,0.0,0.0
+AUS,M. Leckie,m. leckie,Melbourne City,61,1,1,0,0,6.37,0.0,0.0,0.0,0.0
+URU,F. Viñas,f. vinas,Real Oviedo,160,2,2,0,0,6.69,0.0,0.0,0.0,0.0
+ESP,I. Williams,i. williams,Athletic Club,66,1,1,0,0,6.15,0.0,0.0,0.0,0.0
+USA,E. Bajraktarevic,e. bajraktarevic,PSV,100,2,1,0,0,6.17,0.0,0.0,0.0,0.0
+,T. Oluwaseyi,t. oluwaseyi,Villarreal,95,2,1,0,0,6.65,0.0,0.0,0.0,1.0
+,C. Bakambu,c. bakambu,Real Betis,142,2,2,0,0,6.76,0.0,0.0,0.0,0.5
+ARG,N. González,n. gonzalez,Atlético de Madrid,60,2,0,0,0,6.7,0.0,0.0,0.0,0.5
+BEL,R. Lukaku,r. lukaku,Napoli,97,2,1,0,0,6.22,0.0,0.0,0.0,0.0
+FRA,W. Isidor,w. isidor,Sunderland,134,2,1,0,0,6.54,0.0,0.0,0.0,1.0
+RSA,I. Rayners,i. rayners,Mamelodi Sundowns,142,2,2,0,0,6.32,0.0,0.0,0.0,0.0
+PAR,A. Sanabria,a. sanabria,Cremonese,62,1,1,0,0,6.34,0.0,0.0,0.0,1.0
+NED,L. Duarte,l. duarte,Puskás,80,2,1,0,0,6.81,0.0,0.0,0.0,1.0
+NED,D. Malen,d. malen,Roma,116,2,2,0,0,6.67,0.0,0.0,0.0,0.5
+HAI,F. Pierrot,f. pierrot,Rizespor,136,2,2,0,0,6.48,0.0,0.0,0.0,0.5
+HAI,L. Deedson,l. deedson,Dallas,89,2,1,0,0,6.44,0.0,0.0,0.0,0.5
+NOR,S. Tounekti,s. tounekti,Celtic,82,2,1,0,0,6.22,0.0,0.0,0.0,0.0
+JPN,D. Maeda,d. maeda,Celtic,66,1,1,0,0,6.21,0.0,0.0,0.0,0.0
+NED,D. Livramento,d. livramento,Casa Pia,61,1,1,0,0,6.63,0.0,0.0,0.0,0.0
+GHA,P. Adu,p. adu,Viktoria Plzeň,93,2,0,0,0,3.13,0.0,0.0,0.0,0.0

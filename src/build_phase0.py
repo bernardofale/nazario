@@ -60,6 +60,11 @@ def main():
     teams, players = build_crosswalks.build()
     print("[6/6] 2026 played matches (game-file refresh)")
     wc26_rows = ingest_results.curate()
+    try:
+        import curate_wc_form
+        curate_wc_form.curate()
+    except Exception as e:  # optional: only after the footymetrics WC fetch
+        print(f"  (skipped WC player form: {e})")
 
     euro_matches, euro_goals = euro_to_common(teams)
     all_matches = [dict(r, **{"extra_time": str(r["extra_time"]).upper() == "TRUE" or r["extra_time"] is True,

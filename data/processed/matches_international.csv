@@ -1906,3 +1906,51 @@ uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q2
 uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400021429,2026-03-31,Round Two,Path C – Final,,Kosovo,Türkiye,KOS,TUR,0,1,,,False,False,,,Fadil Vokrri Stadium
 uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400021427,2026-03-31,Round Two,Path A – Final,,Bosnia and Herzegovina,Italy,BIH,ITA,1,1,,,True,True,4,1,Bilino Polje Stadium
 uefa_qualifiers,WC2026 Qualifiers,UEFA,FIFA World Cup 2026™ UEFA Qualifiers,Q26-UEFA-400021432,2026-03-31,Round Two,Path D – Final,,Czechia,Denmark,CZE,DEN,2,2,,,True,True,3,1,Generali Arena
+wc2026,World Cup 2026,,2026,WC26-2,2026-06-11,group,A,1,South Korea,Czech Republic,KOR,CZE,2,1,,,False,False,,,2
+wc2026,World Cup 2026,,2026,WC26-1,2026-06-11,group,A,1,Mexico,South Africa,MEX,RSA,2,0,,,False,False,,,1
+wc2026,World Cup 2026,,2026,WC26-4,2026-06-12,group,D,1,United States,Paraguay,USA,PAR,4,1,,,False,False,,,16
+wc2026,World Cup 2026,,2026,WC26-3,2026-06-12,group,B,1,Canada,Bosnia and Herzegovina,CAN,BIH,1,1,,,False,False,,,12
+wc2026,World Cup 2026,,2026,WC26-6,2026-06-13,group,D,1,Australia,Turkey,AUS,TUR,2,0,,,False,False,,,13
+wc2026,World Cup 2026,,2026,WC26-8,2026-06-13,group,B,1,Qatar,Switzerland,QAT,SUI,1,1,,,False,False,,,15
+wc2026,World Cup 2026,,2026,WC26-5,2026-06-13,group,C,1,Haiti,Scotland,HAI,SCO,0,1,,,False,False,,,9
+wc2026,World Cup 2026,,2026,WC26-7,2026-06-13,group,C,1,Brazil,Morocco,BRA,MAR,1,1,,,False,False,,,11
+wc2026,World Cup 2026,,2026,WC26-9,2026-06-14,group,E,1,Ivory Coast,Ecuador,CIV,ECU,1,0,,,False,False,,,10
+wc2026,World Cup 2026,,2026,WC26-10,2026-06-14,group,E,1,Germany,Curaçao,GER,CUW,7,1,,,False,False,,,5
+wc2026,World Cup 2026,,2026,WC26-12,2026-06-14,group,F,1,Sweden,Tunisia,SWE,TUN,5,1,,,False,False,,,3
+wc2026,World Cup 2026,,2026,WC26-11,2026-06-14,group,F,1,Netherlands,Japan,NED,JPN,2,2,,,False,False,,,4
+wc2026,World Cup 2026,,2026,WC26-14,2026-06-15,group,H,1,Spain,Cape Verde,ESP,CPV,0,0,,,False,False,,,7
+wc2026,World Cup 2026,,2026,WC26-16,2026-06-15,group,H,1,Saudi Arabia,Uruguay,KSA,URU,1,1,,,False,False,,,8
+wc2026,World Cup 2026,,2026,WC26-13,2026-06-15,group,G,1,Iran,New Zealand,IRN,NZL,2,2,,,False,False,,,16
+wc2026,World Cup 2026,,2026,WC26-15,2026-06-15,group,G,1,Belgium,Egypt,BEL,EGY,1,1,,,False,False,,,14
+wc2026,World Cup 2026,,2026,WC26-17,2026-06-16,group,I,1,France,Senegal,FRA,SEN,3,1,,,False,False,,,11
+wc2026,World Cup 2026,,2026,WC26-18,2026-06-16,group,I,1,Iraq,Norway,IRQ,NOR,1,4,,,False,False,,,9
+wc2026,World Cup 2026,,2026,WC26-20,2026-06-16,group,J,1,Austria,Jordan,AUT,JOR,3,1,,,False,False,,,15
+wc2026,World Cup 2026,,2026,WC26-19,2026-06-16,group,J,1,Argentina,Algeria,ARG,ALG,3,0,,,False,False,,,6
+wc2026,World Cup 2026,,2026,WC26-22,2026-06-17,group,L,1,England,Croatia,ENG,CRO,4,2,,,False,False,,,4
+wc2026,World Cup 2026,,2026,WC26-21,2026-06-17,group,K,1,Portugal,Democratic Republic of the Congo,POR,COD,1,1,,,False,False,,,5
+wc2026,World Cup 2026,,2026,WC26-23,2026-06-17,group,K,1,Uzbekistan,Colombia,UZB,COL,1,3,,,False,False,,,1
+wc2026,World Cup 2026,,2026,WC26-24,2026-06-17,group,L,1,Ghana,Panama,GHA,PAN,1,0,,,False,False,,,12
+wc2026,World Cup 2026,,2026,WC26-25,2026-06-18,group,A,2,Mexico,South Korea,MEX,KOR,1,0,,,False,False,,,2
+wc2026,World Cup 2026,,2026,WC26-27,2026-06-18,group,B,2,Canada,Qatar,CAN,QAT,6,0,,,False,False,,,13
+wc2026,World Cup 2026,,2026,WC26-26,2026-06-18,group,B,2,Switzerland,Bosnia and Herzegovina,SUI,BIH,4,1,,,False,False,,,16
+wc2026,World Cup 2026,,2026,WC26-28,2026-06-18,group,A,2,Czech Republic,South Africa,CZE,RSA,1,1,,,False,False,,,7
+wc2026,World Cup 2026,,2026,WC26-31,2026-06-19,group,D,2,United States,Australia,USA,AUS,2,0,,,False,False,,,14
+wc2026,World Cup 2026,,2026,WC26-30,2026-06-19,group,C,2,Scotland,Morocco,SCO,MAR,0,1,,,False,False,,,9
+wc2026,World Cup 2026,,2026,WC26-32,2026-06-19,group,D,2,Turkey,Paraguay,TUR,PAR,0,1,,,False,False,,,15
+wc2026,World Cup 2026,,2026,WC26-29,2026-06-19,group,C,2,Brazil,Haiti,BRA,HAI,3,0,,,False,False,,,10
+wc2026,World Cup 2026,,2026,WC26-33,2026-06-20,group,E,2,Germany,Ivory Coast,GER,CIV,2,1,,,False,False,,,12
+wc2026,World Cup 2026,,2026,WC26-35,2026-06-20,group,F,2,Netherlands,Sweden,NED,SWE,5,1,,,False,False,,,5
+wc2026,World Cup 2026,,2026,WC26-36,2026-06-20,group,F,2,Tunisia,Japan,TUN,JPN,0,4,,,False,False,,,3
+wc2026,World Cup 2026,,2026,WC26-34,2026-06-20,group,E,2,Ecuador,Curaçao,ECU,CUW,0,0,,,False,False,,,6
+wc2026,World Cup 2026,,2026,WC26-39,2026-06-21,group,H,2,Spain,Saudi Arabia,ESP,KSA,4,0,,,False,False,,,7
+wc2026,World Cup 2026,,2026,WC26-37,2026-06-21,group,G,2,Belgium,Iran,BEL,IRN,0,0,,,False,False,,,16
+wc2026,World Cup 2026,,2026,WC26-38,2026-06-21,group,G,2,New Zealand,Egypt,NZL,EGY,1,3,,,False,False,,,13
+wc2026,World Cup 2026,,2026,WC26-40,2026-06-21,group,H,2,Uruguay,Cape Verde,URU,CPV,2,2,,,False,False,,,8
+wc2026,World Cup 2026,,2026,WC26-41,2026-06-22,group,I,2,France,Iraq,FRA,IRQ,3,0,,,False,False,,,10
+wc2026,World Cup 2026,,2026,WC26-42,2026-06-22,group,I,2,Norway,Senegal,NOR,SEN,3,2,,,False,False,,,11
+wc2026,World Cup 2026,,2026,WC26-44,2026-06-22,group,J,2,Jordan,Algeria,JOR,ALG,1,2,,,False,False,,,15
+wc2026,World Cup 2026,,2026,WC26-43,2026-06-22,group,J,2,Argentina,Austria,ARG,AUT,2,0,,,False,False,,,4
+wc2026,World Cup 2026,,2026,WC26-45,2026-06-23,group,K,2,Portugal,Uzbekistan,POR,UZB,5,0,,,False,False,,,5
+wc2026,World Cup 2026,,2026,WC26-46,2026-06-23,group,L,2,Panama,Croatia,PAN,CRO,0,1,,,False,False,,,12
+wc2026,World Cup 2026,,2026,WC26-47,2026-06-23,group,K,2,Colombia,Democratic Republic of the Congo,COL,COD,1,0,,,False,False,,,2
+wc2026,World Cup 2026,,2026,WC26-48,2026-06-23,group,L,2,England,Ghana,ENG,GHA,0,0,,,False,False,,,9
