@@ -132,13 +132,29 @@ def main():
             # saves matter but a clean sheet on a favourite is worth far more;
             # keep the save term small so it can't rescue a losing-side keeper
             ep += min(opp_xg, 1.4) * 0.3 * p_start
+
+        # Scouting bonus: +2 if the player scores >4 pts AND is <5% owned.
+        # A (booster-protected) clean sheet alone clears 4 for GK/DEF, so cheap
+        # low-owned defenders on favourites stack CS points + this bonus.
+        own = p.get("percentSelected", 0) or 0
+        if own < 5.0:
+            if pos in ("GK", "DEF"):
+                p_over4 = p_cs * p_start
+            elif pos == "MID":
+                p_over4 = min(0.9, 0.4 * p_cs * p_start + e_goals + e_assist)
+            else:  # FWD
+                p_over4 = min(0.9, 1.6 * e_goals + e_assist)
+            ep += 2 * p_over4
+            scout = round(2 * p_over4, 2)
+        else:
+            scout = 0.0
         cands.append({
             "id": p["id"], "name": p.get("knownName") or f"{p.get('firstName','')} {p.get('lastName','')}".strip(),
             "pos": pos, "country": name_of[code], "code": code,
             "price": float(p["price"]), "ep": round(ep, 2),
             "p_start": round(p_start, 2), "mins": mins, "opp": opp,
-            "xgf": round(xgf, 2), "p_cs": round(p_cs, 2),
-            "ft": p["stats"].get("totalPoints", 0),
+            "xgf": round(xgf, 2), "p_cs": round(p_cs, 2), "scout": scout,
+            "own": own, "ft": p["stats"].get("totalPoints", 0),
         })
 
     # --- ILP: pick 15 maximising XI EP (bench weighted lightly) -----------
@@ -175,15 +191,17 @@ def main():
 
     print(f"\nR32 SQUAD  (cost ${cost:.1f}m / ${BUDGET:.0f}m,  "
           f"XI EP {sum(by[i]['ep'] for i in xi):.1f})\n")
-    print(f"{'':2}{'Pos':<4}{'Player':<20}{'Country':<14}{'R32 opp':<14}"
-          f"{'$':>5}{'EP':>6}{'St%':>5}{'CS%':>5}{'Mins':>5}")
+    print(f"{'':2}{'Pos':<4}{'Player':<19}{'Country':<13}{'R32 opp':<13}"
+          f"{'$':>5}{'EP':>6}{'St%':>5}{'CS%':>5}{'Own%':>6}{'Scout':>6}")
     print("-" * 92)
     for c in chosen:
         tag = "C" if c["id"] == cap["id"] else (" " if c["id"] in xi else ".")
-        print(f"{tag:2}{c['pos']:<4}{c['name'][:19]:<20}{c['country'][:13]:<14}"
-              f"{c['opp'][:13]:<14}{c['price']:>5.1f}{c['ep']:>6.1f}"
-              f"{c['p_start']*100:>5.0f}{c['p_cs']*100:>5.0f}{c['mins']:>5}")
-    print("\n  C = captain   (blank) = starting XI   . = bench")
+        print(f"{tag:2}{c['pos']:<4}{c['name'][:18]:<19}{c['country'][:12]:<13}"
+              f"{c['opp'][:12]:<13}{c['price']:>5.1f}{c['ep']:>6.1f}"
+              f"{c['p_start']*100:>5.0f}{c['p_cs']*100:>5.0f}{c['own']:>6}"
+              f"{('+'+format(c['scout'],'.1f')) if c['scout'] else '':>6}")
+    print("\n  C = captain   (blank) = starting XI   . = bench   "
+          "Scout = expected scouting bonus (<5% owned)")
 
 
 if __name__ == "__main__":
