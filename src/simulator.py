@@ -60,6 +60,25 @@ class Simulator:
             self.fixtures.append((h, a, played.get((h, a))))
         self.bracket = load_json(ROOT / "data" / "bracket_2026.json")
 
+        # Resolve literal team names in the bracket (used once the group stage
+        # is over and r32 slots are filled with actual qualifiers, instead of
+        # the W_/R_/T? placeholders the seeding logic expects).
+        from common import norm_name
+        self._name2code = {norm_name(t["name"]): t["fifa_code"]
+                           for t in xwalk.values()}
+        for disp, target in {"bosnia & herzegovina": "bosnia and herzegovina",
+                             "ivory coast": "cote divoire",
+                             "d.r congo": "congo dr",
+                             "cape verde": "cabo verde",
+                             "turkey": "turkiye",
+                             "south korea": "korea republic",
+                             "iran": "ir iran",
+                             "czech republic": "czechia",
+                             "united states": "usa"}.items():
+            if norm_name(target) in self._name2code:
+                self._name2code[disp] = self._name2code[norm_name(target)]
+        self._norm = norm_name
+
     # ---------------------------------------------------------- one sim run
 
     def _match(self, h, a, knockout):
@@ -114,10 +133,15 @@ class Simulator:
             for side in (m["home"], m["away"]):
                 if side == "T?":
                     pair.append(None)
-                else:
+                elif "_" in side and side.split("_")[0] in ("W", "R"):
                     kind, g = side.split("_")
                     pair.append(firsts[g.upper()] if kind == "W"
                                 else seconds[g.upper()])
+                else:  # literal team name (group stage complete)
+                    code = self._name2code.get(self._norm(side))
+                    if code is None:
+                        raise ValueError(f"unresolved bracket team: {side!r}")
+                    pair.append(code)
             slots.append(pair)
         for pair in slots:
             if pair[0] is None or pair[1] is None:
