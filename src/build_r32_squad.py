@@ -34,6 +34,18 @@ GOAL_PTS = {"GK": 10, "DEF": 6, "MID": 5, "FWD": 4}
 ASSIST_PTS = 3
 CS_PTS = {"GK": 5, "DEF": 5, "MID": 1, "FWD": 0}
 
+# Mystery Booster (R32): GK/DEF/MID keep their clean-sheet points until the
+# team concedes a SECOND goal. So clean-sheet probability becomes
+# P(concede <= 1) = e^-lam (1 + lam) instead of e^-lam. Huge for defenders on
+# big favourites. Set False to model an unboosted round.
+MYSTERY_BOOSTER = True
+
+
+def cs_prob(opp_xg):
+    if MYSTERY_BOOSTER:
+        return math.exp(-opp_xg) * (1 + opp_xg)   # P(concede <= 1)
+    return math.exp(-opp_xg)                        # P(concede 0)
+
 
 def _nk(first, last):
     def n(s):
@@ -112,7 +124,7 @@ def main():
         fixmult = xgf / 1.35                      # vs avg knockout attack
         e_goals = g90 * mfrac * fixmult
         e_assist = a90 * mfrac * fixmult
-        p_cs = math.exp(-opp_xg)
+        p_cs = cs_prob(opp_xg)
         ep = 2 * p_start                          # appearance
         ep += GOAL_PTS[pos] * e_goals + ASSIST_PTS * e_assist
         ep += CS_PTS[pos] * p_cs * p_start
