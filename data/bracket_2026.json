@@ -1,35 +1,317 @@
 {
-  "_note": [
-    "APPROXIMATE Round-of-32 bracket for the 48-team/12-group 2026 format.",
-    "The official FIFA bracket (fixed slots per group + the third-place",
-    "allocation table) is not in our data sources - replace this file with",
-    "the official mapping when transcribed; the simulator reads it as data.",
-    "Slot syntax: 'W_A' = winner of group A, 'R_B' = runner-up of group B,",
-    "'T?' = one of the 8 best third-placed teams (the simulator assigns",
-    "thirds to T-slots per simulation, avoiding rematches with the group",
-    "winner they face). r16/qf/sf/final pair the winners of the previous",
-    "round's matches by index (0-based)."
+ "_note": [
+  "APPROXIMATE Round-of-32 bracket for the 48-team/12-group 2026 format.",
+  "The official FIFA bracket (fixed slots per group + the third-place",
+  "allocation table) is not in our data sources - replace this file with",
+  "the official mapping when transcribed; the simulator reads it as data.",
+  "Slot syntax: 'W_A' = winner of group A, 'R_B' = runner-up of group B,",
+  "'T?' = one of the 8 best third-placed teams (the simulator assigns",
+  "thirds to T-slots per simulation, avoiding rematches with the group",
+  "winner they face). r16/qf/sf/final pair the winners of the previous",
+  "round's matches by index (0-based)."
+ ],
+ "r32": [
+  {
+   "id": "R32-01",
+   "home": "Germany",
+   "away": "Paraguay"
+  },
+  {
+   "id": "R32-02",
+   "home": "France",
+   "away": "Sweden"
+  },
+  {
+   "id": "R32-03",
+   "home": "South Africa",
+   "away": "Canada"
+  },
+  {
+   "id": "R32-04",
+   "home": "Netherlands",
+   "away": "Morocco"
+  },
+  {
+   "id": "R32-05",
+   "home": "Portugal",
+   "away": "Croatia"
+  },
+  {
+   "id": "R32-06",
+   "home": "Spain",
+   "away": "Austria"
+  },
+  {
+   "id": "R32-07",
+   "home": "USA",
+   "away": "Bosnia & Herzegovina"
+  },
+  {
+   "id": "R32-08",
+   "home": "Belgium",
+   "away": "Senegal"
+  },
+  {
+   "id": "R32-09",
+   "home": "Brazil",
+   "away": "Japan"
+  },
+  {
+   "id": "R32-10",
+   "home": "Ivory Coast",
+   "away": "Norway"
+  },
+  {
+   "id": "R32-11",
+   "home": "Mexico",
+   "away": "Ecuador"
+  },
+  {
+   "id": "R32-12",
+   "home": "England",
+   "away": "D.R Congo"
+  },
+  {
+   "id": "R32-13",
+   "home": "Argentina",
+   "away": "Cape Verde"
+  },
+  {
+   "id": "R32-14",
+   "home": "Australia",
+   "away": "Egypt"
+  },
+  {
+   "id": "R32-15",
+   "home": "Switzerland",
+   "away": "Algeria"
+  },
+  {
+   "id": "R32-16",
+   "home": "Colombia",
+   "away": "Ghana"
+  }
+ ],
+ "r16": [
+  {
+   "id": "R16-89",
+   "home": "Paraguay",
+   "away": "France"
+  },
+  {
+   "id": "R16-90",
+   "home": "Canada",
+   "away": "Morocco"
+  },
+  {
+   "id": "R16-91",
+   "home": "Brazil",
+   "away": "Norway"
+  },
+  {
+   "id": "R16-92",
+   "home": "Mexico",
+   "away": "England"
+  },
+  {
+   "id": "R16-93",
+   "home": "Portugal",
+   "away": "Spain"
+  },
+  {
+   "id": "R16-94",
+   "home": "United States",
+   "away": "Belgium"
+  },
+  {
+   "id": "R16-95",
+   "home": "Argentina",
+   "away": "Egypt"
+  },
+  {
+   "id": "R16-96",
+   "home": "Switzerland",
+   "away": "Colombia"
+  }
+ ],
+ "qf": [
+  [
+   0,
+   1
   ],
-  "r32": [
-    {"id": "R32-01", "home": "Germany", "away": "Paraguay"},
-    {"id": "R32-02", "home": "France", "away": "Sweden"},
-    {"id": "R32-03", "home": "South Africa", "away": "Canada"},
-    {"id": "R32-04", "home": "Netherlands", "away": "Morocco"},
-    {"id": "R32-05", "home": "Portugal", "away": "Croatia"},
-    {"id": "R32-06", "home": "Spain", "away": "Austria"},
-    {"id": "R32-07", "home": "USA", "away": "Bosnia & Herzegovina"},
-    {"id": "R32-08", "home": "Belgium", "away": "Senegal"},
-    {"id": "R32-09", "home": "Brazil", "away": "Japan"},
-    {"id": "R32-10", "home": "Ivory Coast", "away": "Norway"},
-    {"id": "R32-11", "home": "Mexico", "away": "Ecuador"},
-    {"id": "R32-12", "home": "England", "away": "D.R Congo"},
-    {"id": "R32-13", "home": "Argentina", "away": "Cape Verde"},
-    {"id": "R32-14", "home": "Australia", "away": "Egypt"},
-    {"id": "R32-15", "home": "Switzerland", "away": "Algeria"},
-    {"id": "R32-16", "home": "Colombia", "away": "Ghana"}
+  [
+   2,
+   3
   ],
-  "r16": [[0, 1], [2, 3], [4, 5], [6, 7], [8, 9], [10, 11], [12, 13], [14, 15]],
-  "qf": [[0, 1], [2, 3], [4, 5], [6, 7]],
-  "sf": [[0, 1], [2, 3]],
-  "final": [[0, 1]]
+  [
+   4,
+   5
+  ],
+  [
+   6,
+   7
+  ]
+ ],
+ "sf": [
+  [
+   0,
+   1
+  ],
+  [
+   2,
+   3
+  ]
+ ],
+ "final": [
+  [
+   0,
+   1
+  ]
+ ],
+ "r32_results": [
+  {
+   "id": "R32-73",
+   "home": "South Africa",
+   "away": "Canada",
+   "home_score": 0,
+   "away_score": 1,
+   "pen_home": null,
+   "pen_away": null
+  },
+  {
+   "id": "R32-74",
+   "home": "Germany",
+   "away": "Paraguay",
+   "home_score": 1,
+   "away_score": 1,
+   "pen_home": "3",
+   "pen_away": "4"
+  },
+  {
+   "id": "R32-75",
+   "home": "Netherlands",
+   "away": "Morocco",
+   "home_score": 1,
+   "away_score": 1,
+   "pen_home": "2",
+   "pen_away": "3"
+  },
+  {
+   "id": "R32-76",
+   "home": "Brazil",
+   "away": "Japan",
+   "home_score": 2,
+   "away_score": 1,
+   "pen_home": null,
+   "pen_away": null
+  },
+  {
+   "id": "R32-77",
+   "home": "France",
+   "away": "Sweden",
+   "home_score": 3,
+   "away_score": 0,
+   "pen_home": "null",
+   "pen_away": "null"
+  },
+  {
+   "id": "R32-78",
+   "home": "Ivory Coast",
+   "away": "Norway",
+   "home_score": 1,
+   "away_score": 2,
+   "pen_home": "null",
+   "pen_away": "null"
+  },
+  {
+   "id": "R32-79",
+   "home": "Mexico",
+   "away": "Ecuador",
+   "home_score": 2,
+   "away_score": 0,
+   "pen_home": "null",
+   "pen_away": "null"
+  },
+  {
+   "id": "R32-80",
+   "home": "England",
+   "away": "Democratic Republic of the Congo",
+   "home_score": 2,
+   "away_score": 1,
+   "pen_home": "null",
+   "pen_away": "null"
+  },
+  {
+   "id": "R32-81",
+   "home": "United States",
+   "away": "Bosnia and Herzegovina",
+   "home_score": 2,
+   "away_score": 0,
+   "pen_home": "null",
+   "pen_away": "null"
+  },
+  {
+   "id": "R32-82",
+   "home": "Belgium",
+   "away": "Senegal",
+   "home_score": 3,
+   "away_score": 2,
+   "pen_home": "null",
+   "pen_away": "null"
+  },
+  {
+   "id": "R32-83",
+   "home": "Portugal",
+   "away": "Croatia",
+   "home_score": 2,
+   "away_score": 1,
+   "pen_home": "null",
+   "pen_away": "null"
+  },
+  {
+   "id": "R32-84",
+   "home": "Spain",
+   "away": "Austria",
+   "home_score": 3,
+   "away_score": 0,
+   "pen_home": "null",
+   "pen_away": "null"
+  },
+  {
+   "id": "R32-85",
+   "home": "Switzerland",
+   "away": "Algeria",
+   "home_score": 2,
+   "away_score": 0,
+   "pen_home": "null",
+   "pen_away": "null"
+  },
+  {
+   "id": "R32-86",
+   "home": "Argentina",
+   "away": "Cape Verde",
+   "home_score": 3,
+   "away_score": 2,
+   "pen_home": "null",
+   "pen_away": "null"
+  },
+  {
+   "id": "R32-87",
+   "home": "Colombia",
+   "away": "Ghana",
+   "home_score": 1,
+   "away_score": 0,
+   "pen_home": "null",
+   "pen_away": "null"
+  },
+  {
+   "id": "R32-88",
+   "home": "Australia",
+   "away": "Egypt",
+   "home_score": 1,
+   "away_score": 1,
+   "pen_home": "2",
+   "pen_away": "4"
+  }
+ ]
 }

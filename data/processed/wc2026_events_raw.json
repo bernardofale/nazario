@@ -1,10 +1,52 @@
 [
  {
+  "match_id": "WC26-1",
+  "home_code": "MEX",
+  "away_code": "RSA",
+  "home": "{“J. Quiñones 9'”,”R. Jiménez 67'”}",
+  "away": "null"
+ },
+ {
+  "match_id": "WC26-2",
+  "home_code": "KOR",
+  "away_code": "CZE",
+  "home": "{\"I.B. Hwang 67'\",\"H.G. Oh 80'\"}",
+  "away": "{\"L. Krejčí 59'\"}"
+ },
+ {
+  "match_id": "WC26-3",
+  "home_code": "CAN",
+  "away_code": "BIH",
+  "home": "{\"C. Larin 11'\"}",
+  "away": "{\"Jovo Lukić 21'\"}"
+ },
+ {
+  "match_id": "WC26-4",
+  "home_code": "USA",
+  "away_code": "PAR",
+  "home": "{\"D. Bobadilla 7'(OG)\",\"F. Balogun 31'\",\"F. Balogun 45'+5'\",\"G. Reyna 90'+8'\"}",
+  "away": "{\"Maurício 73'\"}"
+ },
+ {
+  "match_id": "WC26-5",
+  "home_code": "HAI",
+  "away_code": "SCO",
+  "home": "null",
+  "away": "{\"J. McGinn 28'\"}"
+ },
+ {
   "match_id": "WC26-6",
   "home_code": "AUS",
   "away_code": "TUR",
   "home": "{\"Nestory Irankunda 27'\",\"C. Metcalfe 75'\"}",
   "away": "null"
+ },
+ {
+  "match_id": "WC26-7",
+  "home_code": "BRA",
+  "away_code": "MAR",
+  "home": "{\"V. Júnior 32'\"}",
+  "away": "{\"I. Saibari 21'\"}"
  },
  {
   "match_id": "WC26-8",
@@ -14,11 +56,165 @@
   "away": "{\"Breel Embolo 17' (p)\"}"
  },
  {
+  "match_id": "WC26-9",
+  "home_code": "CIV",
+  "away_code": "ECU",
+  "home": "{\"A. Diallo 90'\"}",
+  "away": "null"
+ },
+ {
+  "match_id": "WC26-10",
+  "home_code": "GER",
+  "away_code": "CUW",
+  "home": "{\"Felix Nmecha 7'\",\"N. Schlotterbeck 38'\",\"K. Havertz 45'+5'(p)\",\"J. Musiala 47'\",\"N. Brown 68'\",\"D. Undav 78'\",\"K. Havertz 88'\"}",
+  "away": "{\"L. Comenencia 21'\"}"
+ },
+ {
+  "match_id": "WC26-11",
+  "home_code": "NED",
+  "away_code": "JPN",
+  "home": "{\"Virgil van Dijk 51'\",\"C. Summerville 64'\"}",
+  "away": "{\"K. Nakamura 57'\",\"K. Ogawa 89'\"}"
+ },
+ {
+  "match_id": "WC26-12",
+  "home_code": "SWE",
+  "away_code": "TUN",
+  "home": "{\"Y.Ayari 7'\",\"A. Isak 30'\",\"V. Gyökeres 59'\",\"M. Svanberg 84'\",\"Y.Ayari 90'+6'\"}",
+  "away": "{\"O. Rekik 43'\"}"
+ },
+ {
+  "match_id": "WC26-13",
+  "home_code": "IRN",
+  "away_code": "NZL",
+  "home": "{\"Ramin Rezaiian 32'\",\"Mohammad Mohebi 64'\"}",
+  "away": "{\"Elijah Just 7'\",\"Elijah Just 54'\"}"
+ },
+ {
+  "match_id": "WC26-15",
+  "home_code": "BEL",
+  "away_code": "EGY",
+  "home": "{\"Mohamed Hany 66'\"}",
+  "away": "{\"Emam Ashour 20'\"}"
+ },
+ {
+  "match_id": "WC26-16",
+  "home_code": "KSA",
+  "away_code": "URU",
+  "home": "{\"Abdulelah Al-Amri 41'\"}",
+  "away": "{\"Maximiliano Araújo 80'\"}"
+ },
+ {
+  "match_id": "WC26-17",
+  "home_code": "FRA",
+  "away_code": "SEN",
+  "home": "{\"K. Mbappé 66'\",\"B. Barcola 82'\",\"K. Mbappé 90+6'\"}",
+  "away": "{\"I. Mbaye 90+5'\"}"
+ },
+ {
+  "match_id": "WC26-18",
+  "home_code": "IRQ",
+  "away_code": "NOR",
+  "home": "{\"Aymen Hussein 39'\"}",
+  "away": "{\"Erling Haaland 29'\",\"Erling Haaland 43'\",\"Leo Østigård 76'\",\"Aymen Hussein 90+7'\"}"
+ },
+ {
+  "match_id": "WC26-19",
+  "home_code": "ARG",
+  "away_code": "ALG",
+  "home": "{\"Lionel Messi 17'\",\"Lionel Messi 60'\",\"Lionel Messi 76'\"}",
+  "away": "null"
+ },
+ {
+  "match_id": "WC26-20",
+  "home_code": "AUT",
+  "away_code": "JOR",
+  "home": "{\"Rvmanv Ashmid 21'\",\"Izn Alarb 76'\"}",
+  "away": "{\"Ali Avlvan 50'\"}"
+ },
+ {
+  "match_id": "WC26-21",
+  "home_code": "POR",
+  "away_code": "COD",
+  "home": "{\"J. Neves 6'\"}",
+  "away": "{\"Y. Wissa 45+5'\"}"
+ },
+ {
+  "match_id": "WC26-22",
+  "home_code": "ENG",
+  "away_code": "CRO",
+  "home": "{\"H. Kane 12'(p)\",\"H. Kane 42'\",\"J. Bellingham 47'\",\"M. Rashford 85'\"}",
+  "away": "{\"M. Baturina 36'\",\"P. Musa 45+5'\"}"
+ },
+ {
+  "match_id": "WC26-23",
+  "home_code": "UZB",
+  "away_code": "COL",
+  "home": "{\"Abas Bk Fiz Allh Af 60'\"}",
+  "away": "{\"Dnil Mvnvz 40'\",\"Lviiz Diaz 65'\",\"Khamintvn Kampaz 90+9'\"}"
+ },
+ {
+  "match_id": "WC26-24",
+  "home_code": "GHA",
+  "away_code": "PAN",
+  "home": "{\"Kalb Iirnki 90+5'\"}",
+  "away": "null"
+ },
+ {
+  "match_id": "WC26-25",
+  "home_code": "MEX",
+  "away_code": "KOR",
+  "home": "{\"Luis Romo 50'\"}",
+  "away": "null"
+ },
+ {
+  "match_id": "WC26-26",
+  "home_code": "SUI",
+  "away_code": "BIH",
+  "home": "{\"Jvhan Mnzambi 74'\",\"Rvbn Vargas 84'\",\"Jvhan Mnzambi 90'\"}",
+  "away": "{\"Armin Mhmich 90+3'\"}"
+ },
+ {
+  "match_id": "WC26-27",
+  "home_code": "CAN",
+  "away_code": "QAT",
+  "home": "{\"Kail Larin 16'\",\"Jonathan David 29'\",\"Jonathan David 45+3'\",\"Nathan Saliba 64'\",\"Mohamed Almnai 75'\",\"Jonathan David 90+2'\"}",
+  "away": "null"
+ },
+ {
+  "match_id": "WC26-28",
+  "home_code": "CZE",
+  "away_code": "RSA",
+  "home": "{\"‫mikhal Sadilk 6'\"}",
+  "away": "null"
+ },
+ {
+  "match_id": "WC26-29",
+  "home_code": "BRA",
+  "away_code": "HAI",
+  "home": "{\"Matheus Cunha 23'\",\"Matheus Cunha 36'\",\"Vinícius Júnior 45+3'\"}",
+  "away": "null"
+ },
+ {
+  "match_id": "WC26-30",
+  "home_code": "SCO",
+  "away_code": "MAR",
+  "home": "null",
+  "away": "{\"Asmaail Saibari 2'\"}"
+ },
+ {
   "match_id": "WC26-31",
   "home_code": "USA",
   "away_code": "AUS",
   "home": "{\"Kamrvn Bargs 11'\",\"Alex Freeman 43'\"}",
   "away": "null"
+ },
+ {
+  "match_id": "WC26-32",
+  "home_code": "TUR",
+  "away_code": "PAR",
+  "home": "null",
+  "away": "{\"Matías Galarza 2'\"}"
  },
  {
   "match_id": "WC26-33",
@@ -35,6 +231,34 @@
   "away": "{\"Anthony Elanga 59'\"}"
  },
  {
+  "match_id": "WC26-36",
+  "home_code": "TUN",
+  "away_code": "JPN",
+  "home": "null",
+  "away": "{\"Daichi Kamada 4'\",\"Aiash Ivida 31'\",\"Junya Itō 69'\",\"Aiash Ivida 83'\"}"
+ },
+ {
+  "match_id": "WC26-38",
+  "home_code": "NZL",
+  "away_code": "EGY",
+  "home": "{\"Fin Svrman 15'\"}",
+  "away": "{\"Mostafa Ziko 58'\",\"Mohamed Salah 67'\",\"Mahmoud Hassan Trezeguet 82'\"}"
+ },
+ {
+  "match_id": "WC26-39",
+  "home_code": "ESP",
+  "away_code": "KSA",
+  "home": "{\"Lamine Yamal 10'\",\"Mikel Oyarzabal 21'\",\"Mikel Oyarzabal 24'\",\"Hassan Mohamed Altmbkti 49'\"}",
+  "away": "null"
+ },
+ {
+  "match_id": "WC26-40",
+  "home_code": "URU",
+  "away_code": "CPV",
+  "home": "{\"Maximiliano Araújo 44'\",\"Agustín Canobbio 45+6'\"}",
+  "away": "{\"Kevin Pina 21'\",\"Hliv Varla 61'\"}"
+ },
+ {
   "match_id": "WC26-41",
   "home_code": "FRA",
   "away_code": "IRQ",
@@ -49,31 +273,10 @@
   "away": "{\"Ismaïla Sarr 53'\",\"Ismaïla Sarr 90+3'\"}"
  },
  {
-  "match_id": "WC26-59",
-  "home_code": "JPN",
-  "away_code": "SWE",
-  "home": "{\"Daizen Maeda 56'\"}",
-  "away": "{\"Anthony Elanga 62'\"}"
- },
- {
-  "match_id": "WC26-5",
-  "home_code": "HAI",
-  "away_code": "SCO",
-  "home": "null",
-  "away": "{\"J. McGinn 28'\"}"
- },
- {
-  "match_id": "WC26-22",
-  "home_code": "ENG",
-  "away_code": "CRO",
-  "home": "{\"H. Kane 12'(p)\",\"H. Kane 42'\",\"J. Bellingham 47'\",\"M. Rashford 85'\"}",
-  "away": "{\"M. Baturina 36'\",\"P. Musa 45+5'\"}"
- },
- {
-  "match_id": "WC26-39",
-  "home_code": "ESP",
-  "away_code": "KSA",
-  "home": "{\"Lamine Yamal 10'\",\"Mikel Oyarzabal 21'\",\"Mikel Oyarzabal 24'\",\"Hassan Mohamed Altmbkti 49'\"}",
+  "match_id": "WC26-43",
+  "home_code": "ARG",
+  "away_code": "AUT",
+  "home": "{\"Lionel Messi 38'\",\"Lionel Messi 90+5'\"}",
   "away": "null"
  },
  {
@@ -98,74 +301,18 @@
   "away": "{\"Ante Budimir 54'\"}"
  },
  {
-  "match_id": "WC26-52",
-  "home_code": "CZE",
-  "away_code": "MEX",
-  "home": "null",
-  "away": "{\"Mateo Chávez 55'\",\"Jvlian Kviinvnz 61'\",\"Álvaro Fidalgo 90+4'\"}"
- },
- {
-  "match_id": "WC26-60",
-  "home_code": "TUN",
-  "away_code": "NED",
-  "home": "{\"Hazm Mstvri 54'\"}",
-  "away": "{\"Alis Skhiri 3'\",\"Brian Brobbey 7'\",\"Ian Fn Hkh 62'\"}"
- },
- {
-  "match_id": "WC26-61",
-  "home_code": "SEN",
-  "away_code": "IRQ",
-  "home": "{\"Habib Diarra 4'\",\"Ismaïla Sarr 56'\",\"Paph Gviih 59'\",\"Paph Gviih 71'\",\"Ailman Andiaih 82'\"}",
+  "match_id": "WC26-47",
+  "home_code": "COL",
+  "away_code": "COD",
+  "home": "{\"Dnil Mvnvz 76'\"}",
   "away": "null"
  },
  {
-  "match_id": "WC26-67",
-  "home_code": "PAN",
-  "away_code": "ENG",
+  "match_id": "WC26-49",
+  "home_code": "SCO",
+  "away_code": "BRA",
   "home": "null",
-  "away": "{\"Jvd Blingham 62'\",\"Hri Kin 67'\"}"
- },
- {
-  "match_id": "WC26-72",
-  "home_code": "COD",
-  "away_code": "UZB",
-  "home": "{\"Fistvn Mail 78'\",\"Yoane Wissa 90+1'\"}",
-  "away": "{\"Aldvr Shvmvrvdvf 10'\"}"
- },
- {
-  "match_id": "WC26-2",
-  "home_code": "KOR",
-  "away_code": "CZE",
-  "home": "{\"I.B. Hwang 67'\",\"H.G. Oh 80'\"}",
-  "away": "{\"L. Krejčí 59'\"}"
- },
- {
-  "match_id": "WC26-4",
-  "home_code": "USA",
-  "away_code": "PAR",
-  "home": "{\"D. Bobadilla 7'(OG)\",\"F. Balogun 31'\",\"F. Balogun 45'+5'\",\"G. Reyna 90'+8'\"}",
-  "away": "{\"Maurício 73'\"}"
- },
- {
-  "match_id": "WC26-17",
-  "home_code": "FRA",
-  "away_code": "SEN",
-  "home": "{\"K. Mbappé 66'\",\"B. Barcola 82'\",\"K. Mbappé 90+6'\"}",
-  "away": "{\"I. Mbaye 90+5'\"}"
- },
- {
-  "match_id": "WC26-18",
-  "home_code": "IRQ",
-  "away_code": "NOR",
-  "home": "{\"Aymen Hussein 39'\"}",
-  "away": "{\"Erling Haaland 29'\",\"Erling Haaland 43'\",\"Leo Østigård 76'\",\"Aymen Hussein 90+7'\"}"
- },
- {
-  "match_id": "WC26-21",
-  "home_code": "POR",
-  "away_code": "COD",
-  "home": "{\"J. Neves 6'\"}",
-  "away": "{\"Y. Wissa 45+5'\"}"
+  "away": "{\"Vinícius Júnior 7'\",\"Vinícius Júnior 45+3'\",\"Matheus Cunha 60'\"}"
  },
  {
   "match_id": "WC26-50",
@@ -182,67 +329,11 @@
   "away": "null"
  },
  {
-  "match_id": "WC26-9",
-  "home_code": "CIV",
-  "away_code": "ECU",
-  "home": "{\"A. Diallo 90'\"}",
-  "away": "null"
- },
- {
-  "match_id": "WC26-10",
-  "home_code": "GER",
-  "away_code": "CUW",
-  "home": "{\"Felix Nmecha 7'\",\"N. Schlotterbeck 38'\",\"K. Havertz 45'+5'(p)\",\"J. Musiala 47'\",\"N. Brown 68'\",\"D. Undav 78'\",\"K. Havertz 88'\"}",
-  "away": "{\"L. Comenencia 21'\"}"
- },
- {
-  "match_id": "WC26-12",
-  "home_code": "SWE",
-  "away_code": "TUN",
-  "home": "{\"Y.Ayari 7'\",\"A. Isak 30'\",\"V. Gyökeres 59'\",\"M. Svanberg 84'\",\"Y.Ayari 90'+6'\"}",
-  "away": "{\"O. Rekik 43'\"}"
- },
- {
-  "match_id": "WC26-25",
-  "home_code": "MEX",
-  "away_code": "KOR",
-  "home": "{\"Luis Romo 50'\"}",
-  "away": "null"
- },
- {
-  "match_id": "WC26-27",
-  "home_code": "CAN",
-  "away_code": "QAT",
-  "home": "{\"Kail Larin 16'\",\"Jonathan David 29'\",\"Jonathan David 45+3'\",\"Nathan Saliba 64'\",\"Mohamed Almnai 75'\",\"Jonathan David 90+2'\"}",
-  "away": "null"
- },
- {
-  "match_id": "WC26-30",
-  "home_code": "SCO",
-  "away_code": "MAR",
+  "match_id": "WC26-52",
+  "home_code": "CZE",
+  "away_code": "MEX",
   "home": "null",
-  "away": "{\"Asmaail Saibari 2'\"}"
- },
- {
-  "match_id": "WC26-32",
-  "home_code": "TUR",
-  "away_code": "PAR",
-  "home": "null",
-  "away": "{\"Matías Galarza 2'\"}"
- },
- {
-  "match_id": "WC26-43",
-  "home_code": "ARG",
-  "away_code": "AUT",
-  "home": "{\"Lionel Messi 38'\",\"Lionel Messi 90+5'\"}",
-  "away": "null"
- },
- {
-  "match_id": "WC26-49",
-  "home_code": "SCO",
-  "away_code": "BRA",
-  "home": "null",
-  "away": "{\"Vinícius Júnior 7'\",\"Vinícius Júnior 45+3'\",\"Matheus Cunha 60'\"}"
+  "away": "{\"Mateo Chávez 55'\",\"Jvlian Kviinvnz 61'\",\"Álvaro Fidalgo 90+4'\"}"
  },
  {
   "match_id": "WC26-53",
@@ -252,158 +343,11 @@
   "away": "{\"Hassan Al-Haydos 42'\"}"
  },
  {
-  "match_id": "WC26-58",
-  "home_code": "TUR",
-  "away_code": "USA",
-  "home": "{\"Arda Güler 10'\",\"Baris Alpr Ailmaz 31'\",\"Kan Aihan 90+8'\"}",
-  "away": "{\"Auston Trusty 3'\",\"Sebastian Berhalter 49'\"}"
- },
- {
-  "match_id": "WC26-62",
-  "home_code": "NOR",
-  "away_code": "FRA",
-  "home": "{\"Thelo Aasgaard 21'\"}",
-  "away": "{\"Ousmane Dembélé 7'\",\"Ousmane Dembélé 20'\",\"Ousmane Dembélé 32'\",\"Désiré Doué 90+4'\"}"
- },
- {
-  "match_id": "WC26-63",
-  "home_code": "EGY",
-  "away_code": "IRN",
-  "home": "{\"Mahmoud Saber 5'\"}",
-  "away": "{\"Ramin Rezaeian 14'\"}"
- },
- {
-  "match_id": "WC26-66",
-  "home_code": "URU",
-  "away_code": "ESP",
-  "home": "null",
-  "away": "{\"Álex Baena 42'\"}"
- },
- {
-  "match_id": "WC26-70",
-  "home_code": "JOR",
-  "away_code": "ARG",
-  "home": "{\"Mvsi Altmari 55'\"}",
-  "away": "{\"Jivani Lv Slsv 19'\",\"Lautaro Martínez 31'(P)\",\"Lionel Messi 80'\"}"
- },
- {
-  "match_id": "WC26-1",
-  "home_code": "MEX",
-  "away_code": "RSA",
-  "home": "{“J. Quiñones 9'”,”R. Jiménez 67'”}",
-  "away": "null"
- },
- {
-  "match_id": "WC26-7",
-  "home_code": "BRA",
-  "away_code": "MAR",
-  "home": "{\"V. Júnior 32'\"}",
-  "away": "{\"I. Saibari 21'\"}"
- },
- {
-  "match_id": "WC26-11",
-  "home_code": "NED",
-  "away_code": "JPN",
-  "home": "{\"Virgil van Dijk 51'\",\"C. Summerville 64'\"}",
-  "away": "{\"K. Nakamura 57'\",\"K. Ogawa 89'\"}"
- },
- {
-  "match_id": "WC26-26",
+  "match_id": "WC26-54",
   "home_code": "SUI",
-  "away_code": "BIH",
-  "home": "{\"Jvhan Mnzambi 74'\",\"Rvbn Vargas 84'\",\"Jvhan Mnzambi 90'\"}",
-  "away": "{\"Armin Mhmich 90+3'\"}"
- },
- {
-  "match_id": "WC26-29",
-  "home_code": "BRA",
-  "away_code": "HAI",
-  "home": "{\"Matheus Cunha 23'\",\"Matheus Cunha 36'\",\"Vinícius Júnior 45+3'\"}",
-  "away": "null"
- },
- {
-  "match_id": "WC26-36",
-  "home_code": "TUN",
-  "away_code": "JPN",
-  "home": "null",
-  "away": "{\"Daichi Kamada 4'\",\"Aiash Ivida 31'\",\"Junya Itō 69'\",\"Aiash Ivida 83'\"}"
- },
- {
-  "match_id": "WC26-38",
-  "home_code": "NZL",
-  "away_code": "EGY",
-  "home": "{\"Fin Svrman 15'\"}",
-  "away": "{\"Mostafa Ziko 58'\",\"Mohamed Salah 67'\",\"Mahmoud Hassan Trezeguet 82'\"}"
- },
- {
-  "match_id": "WC26-40",
-  "home_code": "URU",
-  "away_code": "CPV",
-  "home": "{\"Maximiliano Araújo 44'\",\"Agustín Canobbio 45+6'\"}",
-  "away": "{\"Kevin Pina 21'\",\"Hliv Varla 61'\"}"
- },
- {
-  "match_id": "WC26-47",
-  "home_code": "COL",
-  "away_code": "COD",
-  "home": "{\"Dnil Mvnvz 76'\"}",
-  "away": "null"
- },
- {
-  "match_id": "WC26-16",
-  "home_code": "KSA",
-  "away_code": "URU",
-  "home": "{\"Abdulelah Al-Amri 41'\"}",
-  "away": "{\"Maximiliano Araújo 80'\"}"
- },
- {
-  "match_id": "WC26-20",
-  "home_code": "AUT",
-  "away_code": "JOR",
-  "home": "{\"Rvmanv Ashmid 21'\",\"Izn Alarb 76'\"}",
-  "away": "{\"Ali Avlvan 50'\"}"
- },
- {
-  "match_id": "WC26-23",
-  "home_code": "UZB",
-  "away_code": "COL",
-  "home": "{\"Abas Bk Fiz Allh Af 60'\"}",
-  "away": "{\"Dnil Mvnvz 40'\",\"Lviiz Diaz 65'\",\"Khamintvn Kampaz 90+9'\"}"
- },
- {
-  "match_id": "WC26-3",
-  "home_code": "CAN",
-  "away_code": "BIH",
-  "home": "{\"C. Larin 11'\"}",
-  "away": "{\"Jovo Lukić 21'\"}"
- },
- {
-  "match_id": "WC26-13",
-  "home_code": "IRN",
-  "away_code": "NZL",
-  "home": "{\"Ramin Rezaiian 32'\",\"Mohammad Mohebi 64'\"}",
-  "away": "{\"Elijah Just 7'\",\"Elijah Just 54'\"}"
- },
- {
-  "match_id": "WC26-19",
-  "home_code": "ARG",
-  "away_code": "ALG",
-  "home": "{\"Lionel Messi 17'\",\"Lionel Messi 60'\",\"Lionel Messi 76'\"}",
-  "away": "null"
- },
- {
-  "match_id": "WC26-24",
-  "home_code": "GHA",
-  "away_code": "PAN",
-  "home": "{\"Kalb Iirnki 90+5'\"}",
-  "away": "null"
- },
- {
-  "match_id": "WC26-28",
-  "home_code": "CZE",
-  "away_code": "RSA",
-  "home": "{\"‫mikhal Sadilk 6'\"}",
-  "away": "null"
+  "away_code": "CAN",
+  "home": "{\"Rubén Vargas 46'\",\"Jvhan Mnzambi 57'\"}",
+  "away": "{\"Prvmis Divid 76'\"}"
  },
  {
   "match_id": "WC26-55",
@@ -420,6 +364,69 @@
   "away": "{\"Leroy Sané 2'\"}"
  },
  {
+  "match_id": "WC26-58",
+  "home_code": "TUR",
+  "away_code": "USA",
+  "home": "{\"Arda Güler 10'\",\"Baris Alpr Ailmaz 31'\",\"Kan Aihan 90+8'\"}",
+  "away": "{\"Auston Trusty 3'\",\"Sebastian Berhalter 49'\"}"
+ },
+ {
+  "match_id": "WC26-59",
+  "home_code": "JPN",
+  "away_code": "SWE",
+  "home": "{\"Daizen Maeda 56'\"}",
+  "away": "{\"Anthony Elanga 62'\"}"
+ },
+ {
+  "match_id": "WC26-60",
+  "home_code": "TUN",
+  "away_code": "NED",
+  "home": "{\"Hazm Mstvri 54'\"}",
+  "away": "{\"Alis Skhiri 3'\",\"Brian Brobbey 7'\",\"Ian Fn Hkh 62'\"}"
+ },
+ {
+  "match_id": "WC26-61",
+  "home_code": "SEN",
+  "away_code": "IRQ",
+  "home": "{\"Habib Diarra 4'\",\"Ismaïla Sarr 56'\",\"Paph Gviih 59'\",\"Paph Gviih 71'\",\"Ailman Andiaih 82'\"}",
+  "away": "null"
+ },
+ {
+  "match_id": "WC26-62",
+  "home_code": "NOR",
+  "away_code": "FRA",
+  "home": "{\"Thelo Aasgaard 21'\"}",
+  "away": "{\"Ousmane Dembélé 7'\",\"Ousmane Dembélé 20'\",\"Ousmane Dembélé 32'\",\"Désiré Doué 90+4'\"}"
+ },
+ {
+  "match_id": "WC26-63",
+  "home_code": "EGY",
+  "away_code": "IRN",
+  "home": "{\"Mahmoud Saber 5'\"}",
+  "away": "{\"Ramin Rezaeian 14'\"}"
+ },
+ {
+  "match_id": "WC26-64",
+  "home_code": "NZL",
+  "away_code": "BEL",
+  "home": "{\"Ali Jast 84'\"}",
+  "away": "{\"Leandro Trossard 28'\",\"Leandro Trossard 50'\",\"Kevin De Bruyne 66'\",\"Romelu Lukaku 86'\",\"Alexis Saelemaekers 90+4'\"}"
+ },
+ {
+  "match_id": "WC26-66",
+  "home_code": "URU",
+  "away_code": "ESP",
+  "home": "null",
+  "away": "{\"Álex Baena 42'\"}"
+ },
+ {
+  "match_id": "WC26-67",
+  "home_code": "PAN",
+  "away_code": "ENG",
+  "home": "null",
+  "away": "{\"Jvd Blingham 62'\",\"Hri Kin 67'\"}"
+ },
+ {
   "match_id": "WC26-68",
   "home_code": "CRO",
   "away_code": "GHA",
@@ -434,24 +441,129 @@
   "away": "{\"Marko Arnautović 28'\",\"Marcel Sabitzer 55'\",\"Saša Kalajdžić 90+6'\"}"
  },
  {
-  "match_id": "WC26-15",
-  "home_code": "BEL",
-  "away_code": "EGY",
-  "home": "{\"Mohamed Hany 66'\"}",
-  "away": "{\"Emam Ashour 20'\"}"
+  "match_id": "WC26-70",
+  "home_code": "JOR",
+  "away_code": "ARG",
+  "home": "{\"Mvsi Altmari 55'\"}",
+  "away": "{\"Jivani Lv Slsv 19'\",\"Lautaro Martínez 31'(P)\",\"Lionel Messi 80'\"}"
  },
  {
-  "match_id": "WC26-54",
-  "home_code": "SUI",
+  "match_id": "WC26-72",
+  "home_code": "COD",
+  "away_code": "UZB",
+  "home": "{\"Fistvn Mail 78'\",\"Yoane Wissa 90+1'\"}",
+  "away": "{\"Aldvr Shvmvrvdvf 10'\"}"
+ },
+ {
+  "match_id": "WC26-73",
+  "home_code": "RSA",
   "away_code": "CAN",
-  "home": "{\"Rubén Vargas 46'\",\"Jvhan Mnzambi 57'\"}",
-  "away": "{\"Prvmis Divid 76'\"}"
+  "home": "null",
+  "away": "{\"Astfan Avstakviv 90+2'\"}"
  },
  {
-  "match_id": "WC26-64",
-  "home_code": "NZL",
-  "away_code": "BEL",
-  "home": "{\"Ali Jast 84'\"}",
-  "away": "{\"Leandro Trossard 28'\",\"Leandro Trossard 50'\",\"Kevin De Bruyne 66'\",\"Romelu Lukaku 86'\",\"Alexis Saelemaekers 90+4'\"}"
+  "match_id": "WC26-74",
+  "home_code": "GER",
+  "away_code": "PAR",
+  "home": "{\"Kai Havertz 54'\"}",
+  "away": "{\"Khvliv Ansisv 42'\"}"
+ },
+ {
+  "match_id": "WC26-75",
+  "home_code": "NED",
+  "away_code": "MAR",
+  "home": "{\"Kvdi Khakpv 72'\"}",
+  "away": "{\"Issa Diop 90+1'\"}"
+ },
+ {
+  "match_id": "WC26-76",
+  "home_code": "BRA",
+  "away_code": "JPN",
+  "home": "{\"Casemiro 56'\",\"Gabriel Martinelli 90+5'\"}",
+  "away": "{\"Kaishū Sano 29'\"}"
+ },
+ {
+  "match_id": "WC26-77",
+  "home_code": "FRA",
+  "away_code": "SWE",
+  "home": "{\"Kylian Mbappé 45'\",\"Bradley Barcola 53'\",\"Kylian Mbappé 74'\"}",
+  "away": "null"
+ },
+ {
+  "match_id": "WC26-78",
+  "home_code": "CIV",
+  "away_code": "NOR",
+  "home": "{\"Amad Diallo 74'\"}",
+  "away": "{\"Antonio Nusa 39'\",\"Erling Haaland 86'\"}"
+ },
+ {
+  "match_id": "WC26-79",
+  "home_code": "MEX",
+  "away_code": "ECU",
+  "home": "{\"Jvlian Kviinvnz 22'\",\"Raúl Jiménez 31'\"}",
+  "away": "null"
+ },
+ {
+  "match_id": "WC26-80",
+  "home_code": "ENG",
+  "away_code": "COD",
+  "home": "{\"Hri Kin 75'\",\"Hri Kin 86'\"}",
+  "away": "{\"Braian Sipnga 7'\"}"
+ },
+ {
+  "match_id": "WC26-81",
+  "home_code": "USA",
+  "away_code": "BIH",
+  "home": "{\"Flvrin Balvgan 45'\",\"Malik Tillman 82'\"}",
+  "away": "null"
+ },
+ {
+  "match_id": "WC26-82",
+  "home_code": "BEL",
+  "away_code": "SEN",
+  "home": "{\"Romelu Lukaku 86'\",\"Youri Tielemans 89'\",\"Youri Tielemans 125(P)'\"}",
+  "away": "{\"Habib Diarra 25'\",\"Ismaïla Sarr 51'\"}"
+ },
+ {
+  "match_id": "WC26-83",
+  "home_code": "POR",
+  "away_code": "CRO",
+  "home": "{\"Gvnchalv Ramvs 90+4'\"}",
+  "away": "{\"Ivan Perišić 53'\"}"
+ },
+ {
+  "match_id": "WC26-84",
+  "home_code": "ESP",
+  "away_code": "AUT",
+  "home": "{\"Mikel Oyarzabal 36'\",\"Pedro Porro 66'\",\"Mikel Oyarzabal 89'\"}",
+  "away": "null"
+ },
+ {
+  "match_id": "WC26-85",
+  "home_code": "SUI",
+  "away_code": "ALG",
+  "home": "{\"Breel Embolo 10'\",\"Dn Andvi 46'\"}",
+  "away": "null"
+ },
+ {
+  "match_id": "WC26-86",
+  "home_code": "ARG",
+  "away_code": "CPV",
+  "home": "{\"Lionel Messi 29'\",\"Lisandro Martínez 92'\",\"Dini Bvrgs 111'\"}",
+  "away": "{\"Drvi Dviart 59'\",\"Lvpz Kabral 103'\"}"
+ },
+ {
+  "match_id": "WC26-87",
+  "home_code": "COL",
+  "away_code": "GHA",
+  "home": "{\"Jan Arias 14'\"}",
+  "away": "null"
+ },
+ {
+  "match_id": "WC26-88",
+  "home_code": "AUS",
+  "away_code": "EGY",
+  "home": "{\"Mohamed Hany 55'\"}",
+  "away": "{\"Emam Ashour 13'\"}"
  }
 ]

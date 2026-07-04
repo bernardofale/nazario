@@ -27,18 +27,19 @@ import team_model
 from common import ROOT, PROCESSED, GAME, norm_name, load_json
 from loaders import load_team_crosswalk
 
+ROUND = "r16"          # upcoming knockout round to optimise for (feed 'type')
 BUDGET = 105.0
 SQUAD = {"GK": 2, "DEF": 5, "MID": 5, "FWD": 3}
-MAX_PER_COUNTRY = 3
+# country cap by round: group/R32 = 3, R16 = 4, QF = 5, SF = 6, Final = 8
+MAX_PER_COUNTRY = {"r32": 3, "r16": 4, "qf": 5, "sf": 6, "final": 8}.get(ROUND, 3)
 GOAL_PTS = {"GK": 10, "DEF": 6, "MID": 5, "FWD": 4}
 ASSIST_PTS = 3
 CS_PTS = {"GK": 5, "DEF": 5, "MID": 1, "FWD": 0}
 
-# Mystery Booster (R32): GK/DEF/MID keep their clean-sheet points until the
-# team concedes a SECOND goal. So clean-sheet probability becomes
-# P(concede <= 1) = e^-lam (1 + lam) instead of e^-lam. Huge for defenders on
-# big favourites. Set False to model an unboosted round.
-MYSTERY_BOOSTER = True
+# Mystery Booster: GK/DEF/MID keep their clean-sheet points until the team
+# concedes a SECOND goal -> CS prob becomes P(concede <= 1) = e^-lam(1+lam).
+# It was a one-time booster spent at R32, so OFF from R16 onward.
+MYSTERY_BOOSTER = False
 
 
 def cs_prob(opp_xg):
@@ -59,7 +60,7 @@ def main():
     code_of = {int(s): t["fifa_code"] for s, t in tw.items()}
     name_of = {t["fifa_code"]: t["name"] for t in tw.values()}
 
-    # --- R32 fixture metrics per team -------------------------------------
+    # --- fixture metrics per team (upcoming ROUND, read from live feed) ----
     n2c = {norm_name(t["name"]): t["fifa_code"] for t in tw.values()}
     for disp, tgt in {"bosnia & herzegovina": "bosnia and herzegovina",
                       "ivory coast": "cote divoire", "d.r congo": "congo dr",
@@ -68,11 +69,15 @@ def main():
                       "czech republic": "czechia", "united states": "usa"}.items():
         if norm_name(tgt) in n2c:
             n2c[disp] = n2c[norm_name(tgt)]
-    bracket = load_json(ROOT / "data" / "bracket_2026.json")
+    games = load_json(GAME / "wc_games_api.json")["games"]
     team_fix = {}  # code -> (xgf, opp_xg, opp_name)
-    for m in bracket["r32"]:
-        h = n2c[norm_name(m["home"])]
-        a = n2c[norm_name(m["away"])]
+    for g in games:
+        if g.get("type") != ROUND:
+            continue
+        hn, an = g.get("home_team_name_en"), g.get("away_team_name_en")
+        if not hn or not an:
+            continue
+        h, a = n2c[norm_name(hn)], n2c[norm_name(an)]
         lh, la = ratings.lambdas(h, a, home_has_adv=h in team_model.HOSTS,
                                  away_has_adv=a in team_model.HOSTS)
         team_fix[h] = (lh, la, name_of[a])

@@ -55,8 +55,13 @@ def curate_from_api(xwalk):
     code_of = _name_to_code(xwalk)
     group_of = _group_by_code(xwalk)
     rows, events = [], []
+    # matchday offset so knockout rounds keep sorting after the 3 group rounds
+    ko_md = {"r32": 4, "r16": 5, "qf": 6, "sf": 7, "third": 8, "final": 8}
     for g in load_json(API_FILE)["games"]:
-        if g.get("type") != "group" or str(g.get("finished")).upper() != "TRUE":
+        gtype = g.get("type")
+        if str(g.get("finished")).upper() != "TRUE":
+            continue
+        if gtype not in ("group",) and gtype not in ko_md:
             continue
         hn, an = g.get("home_team_name_en"), g.get("away_team_name_en")
         if not hn or not an:
@@ -69,6 +74,8 @@ def curate_from_api(xwalk):
         # local_date like "06/13/2026 21:00" -> ISO 2026-06-13
         mm, dd, yy = g["local_date"].split()[0].split("/")
         iso_date = f"{yy}-{mm}-{dd}"
+        is_ko = gtype in ko_md
+        pen = g.get("home_penalty_score") not in (None, "null", "")
         rows.append({
             "source": "wc2026",
             "competition": "World Cup 2026",
@@ -76,9 +83,9 @@ def curate_from_api(xwalk):
             "season": 2026,
             "match_id": f"WC26-{g['id']}",
             "date": iso_date,
-            "stage": "group",
-            "group": group_of.get(hc, g.get("group")),
-            "matchday": int(g["matchday"]),
+            "stage": gtype if is_ko else "group",
+            "group": None if is_ko else group_of.get(hc, g.get("group")),
+            "matchday": ko_md[gtype] if is_ko else int(g["matchday"]),
             "home_team": hn,
             "away_team": an,
             "home_code": hc,
@@ -86,8 +93,9 @@ def curate_from_api(xwalk):
             "home_score": int(g["home_score"]),
             "away_score": int(g["away_score"]),
             "ht_home_score": None, "ht_away_score": None,
-            "extra_time": False, "penalty_shootout": False,
-            "home_penalty_score": None, "away_penalty_score": None,
+            "extra_time": False, "penalty_shootout": bool(pen),
+            "home_penalty_score": g.get("home_penalty_score") if pen else None,
+            "away_penalty_score": g.get("away_penalty_score") if pen else None,
             "venue": g.get("stadium_id"),
         })
         if g.get("home_scorers") not in (None, "null") or \
