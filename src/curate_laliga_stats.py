@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Parse the La Liga FBref copy-paste dumps into common club-stats rows.
+"""Parse the La Liga public-stats copy-paste dumps into common club-stats rows.
 
 Four tab-separated files in data/raw/ (web copy-paste, so: repeated header
 rows, thousands separators, one row missing its name, one truncated row):
@@ -11,7 +11,7 @@ rows, thousands separators, one row missing its name, one truncated row):
 
 Differences vs the PL/Ligue 1 JSONs, handled here:
   - no xG/xA/key-pass/big-chance/rating columns -> left empty
-  - `tackles` = tackles WON (FBref TklW), not attempted
+  - `tackles` = tackles WON (tackles-won column), not attempted
   - shots_off_target = Sh - SoT (includes blocked)
   - has Nation -> kept, used as a matching guard downstream
   - players who switched clubs mid-season have one row per club -> summed
@@ -40,7 +40,7 @@ FILES = {
                      "pkatt_faced", "pka", "pksv"]),
 }
 POS_MAP = {"GK": "G", "DF": "D", "MF": "M", "FW": "F"}
-NATION_RE = re.compile(r"^[a-z]{2,3} [A-Z]{3}$")  # FBref style: "es ESP"
+NATION_RE = re.compile(r"^[a-z]{2,3} [A-Z]{3}$")  # nation style: "es ESP"
 
 
 def fnum(v):

@@ -2,9 +2,10 @@
 """Convert played 2026 World Cup fixtures into common-schema match rows.
 
 Two sources, in priority order:
-  1. data/raw/game/wc_games_api.json — the live worldcup26.ir feed
-     (`curl https://worldcup26.ir/get/games`). Carries real scores + scorer
-     strings for every finished match, keyed by English team name.
+  1. data/raw/game/wc_games_api.json — a live results feed. Carries real
+     scores + scorer strings for every finished match, keyed by English team
+     name. (Set RESULTS_FEED_URL in local_config.py / the environment and
+     curl it into this file; the URL is not committed to the repo.)
   2. data/raw/game/groupstage.json — the fantasy game export (fallback;
      scores are null until the operator re-exports it).
 
@@ -23,7 +24,7 @@ from loaders import load_team_crosswalk
 
 API_FILE = GAME / "wc_games_api.json"
 
-# worldcup26.ir English names that differ from our squad crosswalk names
+# feed English names that differ from our squad crosswalk names
 NAME_ALIASES = {
     "turkey": "türkiye",
     "united states": "usa",
@@ -51,7 +52,7 @@ def _group_by_code(xwalk):
 
 
 def curate_from_api(xwalk):
-    """Parse the worldcup26.ir feed. Returns (match_rows, event_rows)."""
+    """Parse the results feed. Returns (match_rows, event_rows)."""
     code_of = _name_to_code(xwalk)
     group_of = _group_by_code(xwalk)
     rows, events = [], []
@@ -143,7 +144,7 @@ def curate():
     xwalk = load_team_crosswalk()
     if API_FILE.exists():
         rows, events = curate_from_api(xwalk)
-        src = "worldcup26.ir feed"
+        src = "results feed"
     else:
         rows, events = curate_from_groupstage(xwalk)
         src = "groupstage.json"

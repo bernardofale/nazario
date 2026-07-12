@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
-"""Merge the footymetrics dumps (data/raw/footymetrics/{league}_{tab}.json)
+"""Merge the club-stats provider dumps (data/raw/club_stats/{league}_{tab}.json)
 into common club-stats rows.
 
 Per league there are three tab files (offensive / defensive / passing), each
 paginated and each covering a different subset of players — merged here on
 the Player slug. Leagues already covered by richer sources (Premier League,
-Ligue 1 JSONs with xG; La Liga FBref with penalty detail) are skipped so the
+Ligue 1 JSONs with xG; La Liga tables with penalty detail) are skipped so the
 crosswalk never sees duplicate candidate rows for one player.
 
 Quirks: the API reports per-appearance averages, so totals are reconstructed
@@ -58,7 +58,7 @@ def flag_country(row):
 def merge_league(league):
     players = defaultdict(dict)
     for tab in ("offensive", "defensive", "passing"):
-        path = RAW / "footymetrics" / f"{league}_{tab}.json"
+        path = RAW / "club_stats" / f"{league}_{tab}.json"
         if not path.exists():
             print(f"  ! missing {path.name}")
             continue
@@ -91,7 +91,7 @@ def curate():
             name = slug_to_name(slug)
             row = {
                 "league": pretty,
-                "player_id": "fm:" + slug.split("/")[0],
+                "player_id": "cs:" + slug.split("/")[0],
                 "player_name": name,
                 "player_name_norm": norm_name(name),
                 "club": (r.get("team") or {}).get("name"),

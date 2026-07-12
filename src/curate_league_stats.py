@@ -9,7 +9,7 @@ We keep season totals for the stat families the fantasy scoring needs and
 recompute per-90 rates from totals / minutes (the source P90 columns are
 inconsistent — for some players they just repeat the per-game value).
 """
-import curate_footymetrics
+import curate_club_stats
 import curate_laliga_stats
 from common import RAW, PROCESSED, norm_name, load_json, write_csv
 
@@ -40,7 +40,7 @@ STATS = {
 PER90 = ["goals", "assists", "xg", "npxg", "xa", "shots_on_target",
          "key_passes", "big_chances_created", "tackles", "interceptions",
          "saves"]
-# columns only the La Liga (FBref) source provides — empty for PL/Ligue 1
+# columns only the La Liga source provides — empty for PL/Ligue 1
 EXTRA = ["nation", "pk_goals", "pk_attempts", "pks_won", "pks_conceded",
          "own_goals", "penalty_saves", "clean_sheets"]
 COLUMNS = (["league", "player_id", "player_name", "player_name_norm",
@@ -82,7 +82,7 @@ def curate():
         print(f"  {league}: {len(data)} player-seasons")
 
     rows += curate_laliga_stats.curate()
-    rows += curate_footymetrics.curate()
+    rows += curate_club_stats.curate()
     write_csv(PROCESSED / "club_stats.csv", rows, COLUMNS)
     print(f"  -> club_stats.csv ({len(rows)} rows)")
     return rows

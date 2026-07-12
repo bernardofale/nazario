@@ -63,7 +63,7 @@ def main():
     try:
         import curate_wc_form
         curate_wc_form.curate()
-    except Exception as e:  # optional: only after the footymetrics WC fetch
+    except Exception as e:  # optional: only after the club-stats WC fetch
         print(f"  (skipped WC player form: {e})")
 
     euro_matches, euro_goals = euro_to_common(teams)

@@ -2,5 +2,11 @@
 __pycache__/
 *.pyc
 .claude/
-data/raw/footymetrics_fetch.log
 .DS_Store
+
+# local-only source config (endpoints not committed)
+src/local_config.py
+
+# raw source snapshots are local-only; keep only the placeholder README
+data/raw/*
+!data/raw/README.md

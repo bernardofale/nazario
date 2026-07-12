@@ -1,15 +1,20 @@
 #!/usr/bin/env python3
-"""Fetch player stats from footymetrics for all major WC-feeder leagues.
+"""Fetch player stats from a club-stats provider for all major WC-feeder leagues.
 
 For every league and every (tab, stat, sort) view, walks the paginated
 endpoint until `pagination.pages` is exhausted and saves the combined
-records to data/raw/footymetrics/{league}_{tab}.json (skipped if the file
+records to data/raw/club_stats/{league}_{tab}.json (skipped if the file
 already exists — delete a file to refetch it).
 
-Run:  python3 src/fetch_footymetrics.py            # fetch everything
-      python3 src/fetch_footymetrics.py laliga     # one league only
+The provider endpoint + referer are read from a local (git-ignored)
+`local_config.py`, falling back to the CLUB_STATS_API_BASE / CLUB_STATS_REFERER
+environment variables, so no source URL is committed to the repo.
+
+Run:  python3 src/fetch_club_stats.py            # fetch everything
+      python3 src/fetch_club_stats.py laliga     # one league only
 """
 import json
+import os
 import sys
 import time
 import urllib.error
@@ -17,8 +22,14 @@ import urllib.request
 
 from common import RAW
 
-OUT_DIR = RAW / "footymetrics"
-BASE = ("https://www.footymetrics.com/api/front/leagues/stats/players"
+try:  # endpoints live outside version control
+    from local_config import CLUB_STATS_API_BASE, CLUB_STATS_REFERER
+except ImportError:
+    CLUB_STATS_API_BASE = os.environ.get("CLUB_STATS_API_BASE", "")
+    CLUB_STATS_REFERER = os.environ.get("CLUB_STATS_REFERER", "")
+
+OUT_DIR = RAW / "club_stats"
+BASE = (CLUB_STATS_API_BASE +
         "?lg={lg}&sid={sid}&tab={tab}&stat={stat}&loc=overall&sort={sort}&page={page}")
 
 LEAGUES = {  # league -> (lg, sid)
@@ -47,7 +58,7 @@ HEADERS = {
                    "Chrome/125.0.0.0 Safari/537.36"),
     "Accept": "application/json, text/plain, */*",
     "Accept-Language": "en-GB,en;q=0.9",
-    "Referer": "https://www.footymetrics.com/",
+    "Referer": CLUB_STATS_REFERER,
     "X-Requested-With": "XMLHttpRequest",
 }
 DELAY_S = 0.6
@@ -102,6 +113,10 @@ def fetch_view(league, lg, sid, tab, stat, sort):
 
 
 def main():
+    if not CLUB_STATS_API_BASE:
+        sys.exit("No provider endpoint configured. Set CLUB_STATS_API_BASE "
+                 "(and CLUB_STATS_REFERER) in src/local_config.py or the "
+                 "environment before fetching.")
     only = sys.argv[1] if len(sys.argv) > 1 else None
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     for league, (lg, sid) in LEAGUES.items():

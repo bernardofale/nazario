@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
-"""Curate live World Cup 2026 player form from the footymetrics 'worldcup'
-dumps (offensive / defensive / passing) into a per-player table.
+"""Curate live World Cup 2026 player form from the club-stats provider's
+'worldcup' dumps (offensive / defensive / passing) into a per-player table.
 
 Output: data/processed/wc_player_form.csv keyed by (fifa_code, name_norm),
 with per-90 goals/assists and tournament minutes/rating. Consumed by
 squad_quality.py to blend actual tournament output into the attack index —
 the strongest available signal for who is producing *now*.
 
-The footymetrics 'team' field is the player's CLUB; nationality comes from the
-flag filename (same scheme as curate_footymetrics.py), mapped to a FIFA code
+The provider's 'team' field is the player's CLUB; nationality comes from the
+flag filename (same scheme as curate_club_stats.py), mapped to a FIFA code
 for the 48 qualified squads.
 """
 from collections import defaultdict
@@ -61,7 +61,7 @@ def curate():
     flag_codes = _squad_code_by_flag()
     merged = defaultdict(dict)
     for tab in TABS:
-        path = RAW / "footymetrics" / f"{LEAGUE}_{tab}.json"
+        path = RAW / "club_stats" / f"{LEAGUE}_{tab}.json"
         if not path.exists():
             print(f"  ! missing {path.name}")
             continue
@@ -71,7 +71,7 @@ def curate():
 
     rows = []
     for slug, r in merged.items():
-        # NB: the footymetrics 'flag' is the player's CLUB country and is often
+        # NB: the provider's 'flag' is the player's CLUB country and is often
         # wrong for nationality (e.g. Haaland tagged england_GB). It is kept as
         # a best-effort hint only — squad_quality joins on NAME and takes the
         # real nationality from players.json.

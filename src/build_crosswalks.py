@@ -122,7 +122,7 @@ def build_player_crosswalk(team_rows):
         last = full.split()[-1] if full else ""
 
         # club stats: full name, then known name, then unique-last-name.
-        # Rows that carry a nation (La Liga/FBref) must agree with the
+        # Rows that carry a nation (La Liga) must agree with the
         # player's national team; nation-less rows (PL/L1) pass through.
         def nation_ok(c):
             return not c.get("nation") or c["nation"] == team["fifa_code"]
@@ -147,7 +147,7 @@ def build_player_crosswalk(team_rows):
             if len(hits) == 1:
                 only = hits[0]
                 # position guard where the source has positions; sources
-                # without them (footymetrics) must pass the nation guard
+                # without them (club-stats provider) must pass the nation guard
                 if only["position"]:
                     ok = only["position"][:1] == {"GK": "G", "DEF": "D",
                                                   "MID": "M", "FWD": "F"}[p["position"]]

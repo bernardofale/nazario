@@ -9,12 +9,13 @@ checklist, phase gates, booster rules, decision log): `PLAYBOOK.md`.
 
 ```
 data/
-  raw/                       original inputs, never edited
+  raw/                       original inputs, never edited — LOCAL-ONLY (git-ignored);
+                             regenerate via the fetch scripts (see data/raw/README.md)
     *_qualifier_results.json   FIFA dumps, 2026 qualifiers (6 confederations)
     euro_results_and_scorers.txt
     premierleague_player_stats.json, ligue1_player_stats.json  club season stats
-    laliga_{standard,shooting,misc,goalkeeping}_stats.txt      FBref copy-paste
-    footymetrics/{league}_{tab}.json   6 more leagues via src/fetch_footymetrics.py
+    laliga_{standard,shooting,misc,goalkeeping}_stats.txt      public-stats copy-paste
+    club_stats/{league}_{tab}.json   6 more leagues via src/fetch_club_stats.py
     game/                      fantasy game files: groupstage.json (fixtures),
                                players.json (pool + prices + ownership), squads.json
   curated/                   WC history 1930–2022 (CSV database)
@@ -30,10 +31,12 @@ src/
   curate_euro2024.py         Euro txt -> validated json
   curate_qualifiers.py       FIFA dumps -> common schema
   curate_league_stats.py     league jsons -> tidy csv (calls curate_laliga_stats)
-  curate_laliga_stats.py     FBref txt tables -> common club-stats rows
-  fetch_footymetrics.py      pull league stats from the footymetrics API
-  curate_footymetrics.py     merge its 3 tabs/league -> common club-stats rows
+  curate_laliga_stats.py     La Liga txt tables -> common club-stats rows
+  fetch_club_stats.py        pull league stats from the club-stats provider API
+  curate_club_stats.py       merge its 3 tabs/league -> common club-stats rows
   phase1_squad.py            Phase 1: projections + squad ILP
+  build_r32_squad.py         knockout squad ILP for R32 (unlimited-transfer window)
+  build_sf_squad.py          knockout squad ILP for the semis (booster + transfer economics)
   team_model.py              rating fit (decay, anchoring, tournament factor)
   ingest_results.py          played 2026 fixtures -> common schema (run per MD)
   simulator.py               48-team Monte Carlo (bracket: data/bracket_2026.json)
@@ -63,3 +66,11 @@ Phase 1 outputs (in `data/processed/`): `team_ratings.csv` (confederation-
 anchored attack/defence), `player_projections.csv` (E[points] per matchday),
 `initial_squad.csv` (15 + XI + captain + bench order). Phases 2–5 (simulator,
 player GBMs, transfer/booster optimizer, live loop): `FANTASY_ML_PROPOSAL.md` §5.
+
+## Data & disclaimer
+
+Third-party datasets under `data/` keep their own terms — see `DATA_SOURCES.md`
+for attribution (incl. the CC-BY-4.0 Fjelstul World Cup Database). No license is
+granted on the original code here; all rights reserved. Unofficial project, not
+affiliated with or endorsed by FIFA or the FIFA World Cup Fantasy game; for
+non-commercial, educational use only.
