@@ -565,5 +565,75 @@
   "away_code": "EGY",
   "home": "{\"Mohamed Hany 55'\"}",
   "away": "{\"Emam Ashour 13'\"}"
+ },
+ {
+  "match_id": "WC26-90",
+  "home_code": "CAN",
+  "away_code": "MAR",
+  "home": "null",
+  "away": "{\"Azdin Avnahi 50'\",\"Azdin Avnahi 82'\",\"Svfian Rhimi 90+8'\"}"
+ },
+ {
+  "match_id": "WC26-91",
+  "home_code": "BRA",
+  "away_code": "NOR",
+  "home": "null",
+  "away": "{\"Erling Haaland 79'\",\"Erling Haaland 90'\"}"
+ },
+ {
+  "match_id": "WC26-92",
+  "home_code": "MEX",
+  "away_code": "ENG",
+  "home": "{\"Jvlian Kviinvnz 42'\"}",
+  "away": "{\"Jvd Blingham 36'\",\"Jvd Blingham 38'\"}"
+ },
+ {
+  "match_id": "WC26-93",
+  "home_code": "POR",
+  "away_code": "ESP",
+  "home": "null",
+  "away": "{\"Mikel Merino 90+1'\"}"
+ },
+ {
+  "match_id": "WC26-94",
+  "home_code": "USA",
+  "away_code": "BEL",
+  "home": "{\"Malik Tillman 31'\"}",
+  "away": "{\"Sharl D Ktlar 9'\",\"Sharl D Ktlar 33'\",\"Hans Vanaken 57'\",\"Romelu Lukaku 90+3'\"}"
+ },
+ {
+  "match_id": "WC26-95",
+  "home_code": "ARG",
+  "away_code": "EGY",
+  "home": "{\"Cristian Romero 79'\",\"Lionel Messi 83'\",\"Enzo Fernández 90+2'\"}",
+  "away": "{\"Yasser Ibrahim 15'\",\"Mostafa Ziko 67'\"}"
+ },
+ {
+  "match_id": "WC26-97",
+  "home_code": "FRA",
+  "away_code": "MAR",
+  "home": "{\"Kylian Mbappé 60'\",\"Ousmane Dembélé 66'\"}",
+  "away": "null"
+ },
+ {
+  "match_id": "WC26-98",
+  "home_code": "ESP",
+  "away_code": "BEL",
+  "home": "{\"Fabin Rviz 30'\",\"Mikel Merino 88'\"}",
+  "away": "{\"Sharl D Ktlar 41'\"}"
+ },
+ {
+  "match_id": "WC26-99",
+  "home_code": "NOR",
+  "away_code": "ENG",
+  "home": "{\"Andrias Shldrvp 36'\"}",
+  "away": "{\"Jvd Blingham 45+2'\",\"Jvd Blingham 93'\"}"
+ },
+ {
+  "match_id": "WC26-100",
+  "home_code": "ARG",
+  "away_code": "SUI",
+  "home": "{\"Alexis Mac Allister 10'\",\"Khvlin Alvarz 112'\",\"Lautaro Martínez 120+1'\"}",
+  "away": "{\"Dn Andvi 67'\"}"
  }
 ]

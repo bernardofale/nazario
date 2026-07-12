@@ -313,5 +313,117 @@
    "pen_home": "2",
    "pen_away": "4"
   }
+ ],
+ "r16_results": [
+  {
+   "id": "R16-89",
+   "home": "Paraguay",
+   "away": "France",
+   "home_score": 0,
+   "away_score": 1,
+   "pen_home": null,
+   "pen_away": null
+  },
+  {
+   "id": "R16-90",
+   "home": "Canada",
+   "away": "Morocco",
+   "home_score": 0,
+   "away_score": 3,
+   "pen_home": null,
+   "pen_away": null
+  },
+  {
+   "id": "R16-91",
+   "home": "Brazil",
+   "away": "Norway",
+   "home_score": 1,
+   "away_score": 2,
+   "pen_home": null,
+   "pen_away": null
+  },
+  {
+   "id": "R16-92",
+   "home": "Mexico",
+   "away": "England",
+   "home_score": 2,
+   "away_score": 3,
+   "pen_home": null,
+   "pen_away": null
+  },
+  {
+   "id": "R16-93",
+   "home": "Portugal",
+   "away": "Spain",
+   "home_score": 0,
+   "away_score": 1,
+   "pen_home": null,
+   "pen_away": null
+  },
+  {
+   "id": "R16-94",
+   "home": "United States",
+   "away": "Belgium",
+   "home_score": 1,
+   "away_score": 4,
+   "pen_home": null,
+   "pen_away": null
+  },
+  {
+   "id": "R16-95",
+   "home": "Argentina",
+   "away": "Egypt",
+   "home_score": 3,
+   "away_score": 2,
+   "pen_home": null,
+   "pen_away": null
+  },
+  {
+   "id": "R16-96",
+   "home": "Switzerland",
+   "away": "Colombia",
+   "home_score": 0,
+   "away_score": 0,
+   "pen_home": "4",
+   "pen_away": "3"
+  }
+ ],
+ "qf_results": [
+  {
+   "id": "QF-97",
+   "home": "France",
+   "away": "Morocco",
+   "home_score": 2,
+   "away_score": 0,
+   "pen_home": null,
+   "pen_away": null
+  },
+  {
+   "id": "QF-98",
+   "home": "Spain",
+   "away": "Belgium",
+   "home_score": 2,
+   "away_score": 1,
+   "pen_home": null,
+   "pen_away": null
+  },
+  {
+   "id": "QF-99",
+   "home": "Norway",
+   "away": "England",
+   "home_score": 1,
+   "away_score": 2,
+   "pen_home": null,
+   "pen_away": null
+  },
+  {
+   "id": "QF-100",
+   "home": "Argentina",
+   "away": "Switzerland",
+   "home_score": 3,
+   "away_score": 1,
+   "pen_home": null,
+   "pen_away": null
+  }
  ]
 }

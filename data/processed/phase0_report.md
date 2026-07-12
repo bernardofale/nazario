@@ -11,9 +11,9 @@
 | euro2024 | 51 |
 | ofc_qualifiers | 18 |
 | uefa_qualifiers | 204 |
-| wc2026 | 88 |
+| wc2026 | 100 |
 | wc_history | 964 |
-| **total** | **1995** |
+| **total** | **2007** |
 
 Goals with scorer attribution (`goals_international.csv`): 2837 (117 from Euro 2024).
 
