@@ -7,6 +7,10 @@ tie was decided on penalties — flagged as extra_time + penalty_shootout; the
 team scores FIFA reports for those matches are the post-extra-time scores.
 The dumps contain no scorer information.
 """
+import sys, pathlib
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parents[1]))
+import _bootstrap  # noqa: F401,E402  -- put src/<layer> dirs on sys.path
+
 from common import RAW, PROCESSED, MATCH_COLUMNS, load_json, write_csv
 
 CONFEDERATIONS = ["uefa", "afc", "caf", "concacaf", "conmebol", "ofc"]

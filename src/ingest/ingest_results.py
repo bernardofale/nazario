@@ -19,6 +19,10 @@ Run after each matchday:  curl the feed into wc_games_api.json, then
 """
 import json
 
+import sys, pathlib
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parents[1]))
+import _bootstrap  # noqa: F401,E402  -- put src/<layer> dirs on sys.path
+
 from common import GAME, PROCESSED, MATCH_COLUMNS, norm_name, load_json, write_csv
 from loaders import load_team_crosswalk
 

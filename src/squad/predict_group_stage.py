@@ -15,7 +15,7 @@ joint probability of low-scoring results ({0-0, 1-0, 0-1, 1-1}) which plain
 bivariate Poisson systematically mis-estimates.
 
 Run:
-    .venv/bin/python src/predict_group_stage.py
+    .venv/bin/python src/squad/predict_group_stage.py
 
 Outputs:
     data/processed/group_stage_predictions.csv
@@ -29,8 +29,9 @@ from datetime import date
 from itertools import product
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent.parent
+ROOT = Path(__file__).resolve().parents[2]  # src/squad/... -> repo root
 sys.path.insert(0, str(ROOT / "src"))
+import _bootstrap  # noqa: F401,E402  -- put src/<layer> dirs on sys.path
 
 import team_model
 from loaders import (load_fixtures, load_team_crosswalk,

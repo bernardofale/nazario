@@ -13,6 +13,10 @@ reported rather than guessed.
 """
 from collections import defaultdict
 
+import sys, pathlib
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parents[1]))
+import _bootstrap  # noqa: F401,E402  -- put src/<layer> dirs on sys.path
+
 from common import GAME, CURATED, PROCESSED, norm_name, load_json, read_csv, write_csv
 
 # game squad name -> name used by other sources

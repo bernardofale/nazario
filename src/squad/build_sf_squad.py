@@ -11,7 +11,7 @@ Same EP engine as build_r32_squad.py, adapted for the semis:
     advance from the SF vs one champion from the final, so the booster is worth
     ~2x here — that's why we spend it now.
 
-Run:  python3 src/build_sf_squad.py
+Run:  python3 src/squad/build_sf_squad.py
 """
 import csv
 import json
@@ -20,6 +20,10 @@ import unicodedata
 from datetime import date
 
 import pulp
+
+import sys, pathlib
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parents[1]))
+import _bootstrap  # noqa: F401,E402  -- put src/<layer> dirs on sys.path
 
 import team_model
 from common import PROCESSED, GAME, norm_name, load_json

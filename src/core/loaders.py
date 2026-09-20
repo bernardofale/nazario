@@ -6,6 +6,10 @@ player model, optimizer). All read from data/processed/ + data/raw/game/.
         load_team_crosswalk, load_player_crosswalk, load_fixtures, \\
         load_players, load_rules_constants
 """
+import sys, pathlib
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parents[1]))
+import _bootstrap  # noqa: F401,E402  -- put src/<layer> dirs on sys.path
+
 from common import GAME, PROCESSED, load_json, read_csv
 
 

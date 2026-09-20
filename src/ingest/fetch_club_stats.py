@@ -10,8 +10,8 @@ The provider endpoint + referer are read from a local (git-ignored)
 `local_config.py`, falling back to the CLUB_STATS_API_BASE / CLUB_STATS_REFERER
 environment variables, so no source URL is committed to the repo.
 
-Run:  python3 src/fetch_club_stats.py            # fetch everything
-      python3 src/fetch_club_stats.py laliga     # one league only
+Run:  python3 src/ingest/fetch_club_stats.py            # fetch everything
+      python3 src/ingest/fetch_club_stats.py laliga     # one league only
 """
 import json
 import os
@@ -19,6 +19,10 @@ import sys
 import time
 import urllib.error
 import urllib.request
+
+import sys, pathlib
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parents[1]))
+import _bootstrap  # noqa: F401,E402  -- put src/<layer> dirs on sys.path
 
 from common import RAW
 
@@ -115,7 +119,7 @@ def fetch_view(league, lg, sid, tab, stat, sort):
 def main():
     if not CLUB_STATS_API_BASE:
         sys.exit("No provider endpoint configured. Set CLUB_STATS_API_BASE "
-                 "(and CLUB_STATS_REFERER) in src/local_config.py or the "
+                 "(and CLUB_STATS_REFERER) in src/core/local_config.py or the "
                  "environment before fetching.")
     only = sys.argv[1] if len(sys.argv) > 1 else None
     OUT_DIR.mkdir(parents=True, exist_ok=True)

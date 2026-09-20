@@ -12,11 +12,15 @@ across sources):
   - goal-mean check: average predicted lambda vs goals actually scored
   - clean-sheet check: predicted P(CS) vs realized CS rate
 
-Run:  python3 src/backtest_team_model.py
+Run:  python3 src/model/backtest_team_model.py
 Writes data/processed/backtest_team_model.md
 """
 import math
 from datetime import date
+
+import sys, pathlib
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parents[1]))
+import _bootstrap  # noqa: F401,E402  -- put src/<layer> dirs on sys.path
 
 import team_model
 from common import PROCESSED

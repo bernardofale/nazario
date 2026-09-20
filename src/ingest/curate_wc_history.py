@@ -1,6 +1,10 @@
 #!/usr/bin/env python3
 """Map the men's World Cup history (data/curated/*.csv) into the common
 match + goal schemas: wc_history_matches.csv and wc_history_goals.csv."""
+import sys, pathlib
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parents[1]))
+import _bootstrap  # noqa: F401,E402  -- put src/<layer> dirs on sys.path
+
 from common import CURATED, PROCESSED, MATCH_COLUMNS, GOAL_COLUMNS, read_csv, write_csv
 
 STAGE_MAP = {

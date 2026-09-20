@@ -15,47 +15,57 @@ data/
     euro_results_and_scorers.txt
     premierleague_player_stats.json, ligue1_player_stats.json  club season stats
     laliga_{standard,shooting,misc,goalkeeping}_stats.txt      public-stats copy-paste
-    club_stats/{league}_{tab}.json   6 more leagues via src/fetch_club_stats.py
+    club_stats/{league}_{tab}.json   6 more leagues via src/ingest/fetch_club_stats.py
     game/                      fantasy game files: groupstage.json (fixtures),
                                players.json (pool + prices + ownership), squads.json
   curated/                   WC history 1930–2022 (CSV database)
-  processed/                 pipeline outputs (rebuilt by src/build_phase0.py)
+  processed/                 pipeline outputs (rebuilt by src/ingest/build_phase0.py)
     matches_international.csv  all matches, common schema (WC + qualifiers + Euro)
     goals_international.csv    all attributed goals (WC history + Euro 2024)
     club_stats.csv             tidy PL/Ligue 1 player-season stats
     team_crosswalk.csv         48 squads <-> FIFA/curated codes <-> Euro names
     player_crosswalk.csv       fantasy pool <-> club stats / WC ids / Euro scorers
     phase0_report.md           coverage report
-src/
-  build_phase0.py            Phase 0 entry point — runs everything below
-  curate_euro2024.py         Euro txt -> validated json
-  curate_qualifiers.py       FIFA dumps -> common schema
-  curate_league_stats.py     league jsons -> tidy csv (calls curate_laliga_stats)
-  curate_laliga_stats.py     La Liga txt tables -> common club-stats rows
-  fetch_club_stats.py        pull league stats from the club-stats provider API
-  curate_club_stats.py       merge its 3 tabs/league -> common club-stats rows
-  phase1_squad.py            Phase 1: projections + squad ILP
-  build_r32_squad.py         knockout squad ILP for R32 (unlimited-transfer window)
-  build_sf_squad.py          knockout squad ILP for the semis (booster + transfer economics)
-  team_model.py              rating fit (decay, anchoring, tournament factor)
-  ingest_results.py          played 2026 fixtures -> common schema (run per MD)
-  simulator.py               48-team Monte Carlo (bracket: data/bracket_2026.json)
-  phase2_simulate.py         Phase 2 driver: fit + simulate -> simulation_teams.csv
-  backtest_team_model.py     calibration backtests (2018/2022/Euro 2024)
-  curate_wc_history.py       curated csvs -> common schema (men's only)
-  build_crosswalks.py        team + player ID matching
-  loaders.py                 read API for downstream phases + rules constants
-  common.py                  paths, schema columns, name normalization
+src/                         grouped by pipeline layer; modules import each
+                             other by bare name (_bootstrap.py puts each
+                             layer dir on sys.path for the entry scripts)
+  _bootstrap.py              sys.path setup, imported by every runnable script
+  core/                      shared foundation, imported everywhere
+    common.py                paths, schema columns, name normalization
+    loaders.py               read API for downstream phases + rules constants
+    local_config.py          local-only source endpoints (git-ignored)
+  ingest/                    Phase 0 — raw sources -> data/processed/ common schema
+    build_phase0.py          entry point — runs everything below
+    curate_qualifiers.py     FIFA dumps -> common schema
+    curate_euro2024.py       Euro txt -> validated json
+    curate_wc_history.py     curated csvs -> common schema (men's only)
+    curate_league_stats.py   league jsons -> tidy csv (calls curate_laliga_stats)
+    curate_laliga_stats.py   La Liga txt tables -> common club-stats rows
+    curate_club_stats.py     merge provider's 3 tabs/league -> club-stats rows
+    fetch_club_stats.py      pull league stats from the club-stats provider API
+    ingest_results.py        played 2026 fixtures -> common schema (run per MD)
+    build_crosswalks.py      team + player ID matching
+  model/                     Phase 2 — team strength + tournament simulation
+    team_model.py            rating fit (decay, anchoring, tournament factor)
+    simulator.py             48-team Monte Carlo (bracket: data/bracket_2026.json)
+    phase2_simulate.py       driver: fit + simulate -> simulation_teams.csv
+    backtest_team_model.py   calibration backtests (2018/2022/Euro 2024)
+  squad/                     Phases 1/3 — player projections + squad optimisation
+    phase1_squad.py          Phase 1: projections + squad ILP
+    squad_quality.py         per-player club stats -> team attack/defence indices
+    predict_group_stage.py   group-stage match predictor (Poisson + Dixon-Coles)
+    build_r32_squad.py       knockout squad ILP for R32 (unlimited-transfer window)
+    build_sf_squad.py        knockout squad ILP for the semis
 ```
 
 ## Usage
 
 ```
-python3 src/build_phase0.py            # rebuild data/processed/ from data/raw/
-python3 src/loaders.py                 # smoke-test the load API
-.venv/bin/python src/phase1_squad.py   # Phase 1: ratings -> projections -> squad ILP
-python3 src/phase2_simulate.py         # Phase 2: 10k-run tournament Monte Carlo
-python3 src/backtest_team_model.py     # Phase 2 gate: calibration backtests
+python3 src/ingest/build_phase0.py           # rebuild data/processed/ from data/raw/
+python3 src/core/loaders.py                  # smoke-test the load API
+.venv/bin/python src/squad/phase1_squad.py   # Phase 1: ratings -> projections -> squad ILP
+python3 src/model/phase2_simulate.py         # Phase 2: 10k-run tournament Monte Carlo
+python3 src/model/backtest_team_model.py     # Phase 2 gate: calibration backtests
 ```
 
 Phase 0 is stdlib-only. Phase 1 needs PuLP — one-time setup:

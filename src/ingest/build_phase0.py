@@ -6,6 +6,10 @@ Run:  python3 src/build_phase0.py
 """
 from collections import Counter
 
+import sys, pathlib
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parents[1]))
+import _bootstrap  # noqa: F401,E402  -- put src/<layer> dirs on sys.path
+
 import build_crosswalks
 import curate_euro2024
 import curate_league_stats

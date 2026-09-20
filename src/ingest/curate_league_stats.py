@@ -9,6 +9,10 @@ We keep season totals for the stat families the fantasy scoring needs and
 recompute per-90 rates from totals / minutes (the source P90 columns are
 inconsistent — for some players they just repeat the per-game value).
 """
+import sys, pathlib
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parents[1]))
+import _bootstrap  # noqa: F401,E402  -- put src/<layer> dirs on sys.path
+
 import curate_club_stats
 import curate_laliga_stats
 from common import RAW, PROCESSED, norm_name, load_json, write_csv

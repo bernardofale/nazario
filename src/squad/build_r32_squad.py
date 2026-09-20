@@ -23,6 +23,10 @@ from datetime import date
 
 import pulp
 
+import sys, pathlib
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parents[1]))
+import _bootstrap  # noqa: F401,E402  -- put src/<layer> dirs on sys.path
+
 import team_model
 from common import ROOT, PROCESSED, GAME, norm_name, load_json
 from loaders import load_team_crosswalk

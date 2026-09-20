@@ -13,6 +13,10 @@ for the 48 qualified squads.
 """
 from collections import defaultdict
 
+import sys, pathlib
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parents[1]))
+import _bootstrap  # noqa: F401,E402  -- put src/<layer> dirs on sys.path
+
 from common import RAW, GAME, PROCESSED, norm_name, load_json, write_csv
 
 LEAGUE = "worldcup"

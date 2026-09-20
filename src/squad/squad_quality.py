@@ -22,7 +22,7 @@ Defence composite = tackles_p90 + interceptions_p90   (outfield)
 from collections import defaultdict
 from pathlib import Path
 
-ROOT      = Path(__file__).resolve().parent.parent
+ROOT      = Path(__file__).resolve().parents[2]  # src/squad/... -> repo root
 PROCESSED = ROOT / "data" / "processed"
 
 # ------------------------------------------------------------------ weights --

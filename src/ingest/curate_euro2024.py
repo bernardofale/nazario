@@ -16,6 +16,10 @@ import json
 import re
 import sys
 
+import sys, pathlib
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parents[1]))
+import _bootstrap  # noqa: F401,E402  -- put src/<layer> dirs on sys.path
+
 from common import RAW, PROCESSED
 
 SRC = RAW / "euro_results_and_scorers.txt"
